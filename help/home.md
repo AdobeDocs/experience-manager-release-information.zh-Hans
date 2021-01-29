@@ -1,34 +1,34 @@
 ---
-title: '[!DNL Adobe Experience Manager] 发布更新和路线图'
-description: '[!DNL Adobe Experience Manager] 发布更新和路线图'
-translation-type: tm+mt
+title: '[!DNL Adobe Experience Manager] 版本更新和路线图'
+description: '[!DNL Adobe Experience Manager] 版本更新和路线图'
+translation-type: ht
 source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Experience Manager 版本更新和路线图
 
-本指南涵盖有关[!DNL Adobe Experience Manager]版本路线图、先前版本更新和文档更新的信息。
+本指南包含有关 [!DNL Adobe Experience Manager] 版本发行路线图、以前的版本更新和文档更新的信息。
 
-* [[!DNL Experience Manager] 发布更新](aem-releases-updates.md)
-* [[!DNL Experience Manager] 发布路线图](update-releases-roadmap.md)
-* [[!DNL Experience Manager] 释放车辆定义](update-release-vehicle-definitions.md)
+* [[!DNL Experience Manager]  版本更新](aem-releases-updates.md)
+* [[!DNL Experience Manager]  版本发行路线图](update-releases-roadmap.md)
+* [[!DNL Experience Manager]  版本发行方式定义](update-release-vehicle-definitions.md)
 
 ## 以前的版本更新
 
-* [发行说明： [!DNL Experience Manager] 6.3累积修复包](release-notes-aem-6-3-cumulative-fix-pack.md)
-* [发行说明： [!DNL Experience Manager] 6.2累积修复包](release-notes-aem-6-2-cumulative-fix-pack.md)
+* [发行说明： [!DNL Experience Manager]  6.3 累积修补程序包](release-notes-aem-6-3-cumulative-fix-pack.md)
+* [发行说明： [!DNL Experience Manager]  6.2 累积修补程序包](release-notes-aem-6-2-cumulative-fix-pack.md)
 
-## [!DNL Experience Manager] Forms发布更新
+## [!DNL Experience Manager] Forms 版本更新
 
-* [[!DNL Experience Manager] Forms](aem-forms-releases.md)
-* [在Forms JEE上安装累 [!DNL Experience Manager] 积修复包](install-cfp-aem-forms-jee.md)
+* [[!DNL Experience Manager]  Forms 版本](aem-forms-releases.md)
+* [在  [!DNL Experience Manager]  Forms JEE 上安装累积修补程序包](install-cfp-aem-forms-jee.md)
 
 ## 文档更新
 
-* [[!DNL Experience Manager] 文档：最近的文档更新](documentation-updates.md)
+* [[!DNL Experience Manager]  文档：近期文档更新](documentation-updates.md)
 * [以前的文档更新](previous-documentation-updates.md)
