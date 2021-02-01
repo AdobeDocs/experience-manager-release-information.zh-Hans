@@ -45,13 +45,10 @@ AEM 累积修补程序包 6.2 SP1-CFP20 是 AEM 6.2 的最新累积修补程序�
 >[!NOTE]
 >
 >* AEM 累积修补程序包 6.2 SP1-CFP10 中包含一个新的 Sling `discovery-  api` 包 Johnzon 1.0.0。此外，还为 CRX 存储库中的节点 */var/discovery* 添加了拥有读取和写入权限的服务用户 sling-discovery。
-   >
-   >
-* 添加了 Apache Commons **org.apache.commons/commons-email/1.5** 的电子邮件包，用于替换 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
-   >
-   >
-* 对于在 AEM 实例上拥有大量用户的客户，Adobe 建议通过安装文件夹来部署 CFP。
-
+>
+>* 添加了 Apache Commons **org.apache.commons/commons-email/1.5** 的电子邮件包，用于替换 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
+>
+>* 对于在 AEM 实例上拥有大量用户的客户，Adobe 建议通过安装文件夹来部署 CFP。
 >
 
 
@@ -1327,10 +1324,8 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 >
 >* 从 Word/Web 复制并粘贴内容到 CM 文本编辑器时，内容中显示换行符。NPR-19530
 >* CM 文本编辑器中无换行符的内容不会自动换行。NPR-19449
-
 >
->
-这些问题将在以后的 CFP 中解决。
+>这些问题将在以后的 CFP 中解决。
 
 #### 自适应表单 {#adaptive-forms-9}
 
