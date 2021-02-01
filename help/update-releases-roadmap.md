@@ -4,8 +4,8 @@ description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 translation-type: tm+mt
 source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
