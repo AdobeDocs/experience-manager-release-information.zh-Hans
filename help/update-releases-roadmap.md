@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '403'
+ht-degree: 100%
 
 ---
 
@@ -29,18 +29,18 @@ ht-degree: 0%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | 月度发行版本 | 2021 年 3 月 25 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | 月度发行版本 | 2021 年 4 月 29 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | 月度发行版本 | 2021 年 5 月 27 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | 月度发行版本 | 2021年6月24日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | 月度发行版本 | 2021年7月29日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | 月度发行版本 | 2021年8月26日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | 月度发行版本 | 2021年9月30日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | 月度发行版本 | 2021年10月28日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 月度发行版本 | 2021年12月2日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | 月度发行版本 | 2021 年 6 月 24 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | 月度发行版本 | 2021 年 7 月 29 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | 月度发行版本 | 2021 年 8 月 26 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | 月度发行版本 | 2021 年 9 月 30 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | 月度发行版本 | 2021 年 10 月 28 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 月度发行版本 | 2021 年 12 月 2 日 |
 
 除月度发行版本之外，还会以每天一次的频率在 [!DNL Experience Manager] as a [!DNL Cloud Service] 中发布各种重要更新。
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
-受支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版的产品更新（包括新增功能、增强功能和错误修复）通过季度 Service Pack 和累积修补程序包 (CFP) 提供。这种方式允许通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
+受支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版的产品更新（包括新增功能、增强功能和错误修复）通过季度 Service Pack 和累积修补程序包 (CFP) 提供。这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 2021 年 2 月 25 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | 服务包 | 2021 年 5 月 27 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | 服务包 | 2021 年 8 月 26 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | 服务包 | 2021 年 11 月 25 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | Service Pack | 2021 年 5 月 27 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | Service Pack | 2021 年 8 月 26 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 2021 年 11 月 25 日 |
 
 >[!NOTE]
 >
@@ -75,8 +75,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [EOL 一览表](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager]  发行版和更新](https://helpx.adobe.com/cn/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager]  学习和支持](https://helpx.adobe.com/cn/support/experience-manager.html)
+>* [EOL 一览表](https://helpx.adobe.com/support/programs/eol-matrix.html)
+>* [[!DNL Experience Manager]  发行版和更新](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
+>* [[!DNL Experience Manager]  学习和支持](https://helpx.adobe.com/support/experience-manager.html)
 >* [[!DNL Experience Manager]  更新版本发行方式定义](/help/update-release-vehicle-definitions.md)
 
