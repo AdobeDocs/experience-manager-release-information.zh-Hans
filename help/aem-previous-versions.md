@@ -1,11 +1,11 @@
 ---
 title: 旧版 AEM、CQ 和 CRX
 description: 旧版 Adobe Experience Manager、CQ 和 CRX 的文档包。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '773'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->要了解 [!DNL Experience Manager] 版本何时将结束核心支持，请参阅[产品和技术支持时段](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)并搜索 `AEM`。
+>要了解 [!DNL Experience Manager] 版本何时将结束核心支持，请参阅[产品和技术支持时段](https://helpx.adobe.com/support/programs/eol-matrix.html)并搜索 `AEM`。
 
 ### 安装之前 {#before-installation}
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 您需要一个有效的 Adobe ID：
 
-* 如果您没有 Adobe ID，可以在 www.adobe.com 创建一个。如果您在创建或管理 Adobe ID 时需要帮助，[请参阅本指南](https://helpx.adobe.com/cn/manage-account.html)
+* 如果您没有 Adobe ID，可以在 www.adobe.com 创建一个。如果您在创建或管理 Adobe ID 时需要帮助，[请参阅本指南](https://helpx.adobe.com/manage-account.html)
 
 | [!DNL Experience Manager] 版本 | Software Distribution 链接 |
 |:-----------:|:--------------------------------------------------:|
