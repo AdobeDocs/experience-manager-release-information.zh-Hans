@@ -6,9 +6,9 @@ audience: end-user
 user-guide-title: Adobe Experience Manager 版本更新和路线图
 breadcrumb-title: AEM 版本信息
 user-guide-description: 请参阅最新的 AEM 版本更新。
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
