@@ -1,9 +1,9 @@
 ---
 title: 旧版 AEM、CQ 和 CRX
 description: 旧版 Adobe Experience Manager、CQ 和 CRX 的文档包。
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: c8e7f79be233c94d33b7605c73e586dce022412c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 100%
 
