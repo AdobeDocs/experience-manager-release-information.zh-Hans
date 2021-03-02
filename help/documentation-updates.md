@@ -3,7 +3,7 @@ title: '[!DNL Experience Manager] 近期文档更新'
 description: ' [!DNL Experience Manager]  文档中的新增内容、更新内容或修改内容'
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 94a5511d9f88f023fa8947dd4cf4ff7a43979dac
+source-git-commit: aafdb3e36e9f856de37d5462af923aad32a73f6d
 workflow-type: tm+mt
 source-wordcount: '3220'
 ht-degree: 99%
@@ -23,7 +23,7 @@ ht-degree: 99%
 >
 >AEM as Cloud Service按月发布。
 >
->有关各个版本（当前amd先前版本）的相关文档，请参阅[发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)。
+>有关各个版本（当前和先前版本）的相关文档，请参阅[发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)。
 
 | 日期 | 主题 | 所做更改 |
 | --- | --- | --- |
