@@ -2,11 +2,11 @@
 title: '[!DNL Adobe Experience Manager] 版本更新'
 description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 73b15ea55fcd259dd514be990cb2c78e86737591
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 91%
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] 保持每月一次的发行频率。这表示每月都会推出新功能，以便持续更新 [!DNL Experience Manager]。
 
-有关当前/最新版本的详细信息，请参阅 [!DNL Experience Manager] 的[当前发行说明(a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html))。 您还可以从此处导航到先前版本的详细信息（按时间顺序排列）。
+有关最新版本的详细信息，请参阅 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 最新发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)。您还可以在此处浏览早期版本的详细信息（按时间顺序排列）。
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
