@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 版本更新'
 description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
-translation-type: ht
-source-git-commit: 73b15ea55fcd259dd514be990cb2c78e86737591
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。
 
-* [[!DNL Experience Manager]  6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
+* [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
 
 * [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.4 产品更新通过季度 CFP 提供。这些更新包括错误修复。
 
-* [[!DNL Experience Manager]  6.4 Service Pack 8 累积修补程序包 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
+* [[!DNL Experience Manager] 6.4 Service Pack 8 累积修补程序包 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
 
 * [[!DNL Experience Manager]  6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html)
 
