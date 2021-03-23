@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] 近期文档更新'
 description: ' [!DNL Experience Manager]  文档中的新增内容、更新内容或修改内容'
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
 workflow-type: tm+mt
-source-wordcount: '3254'
+source-wordcount: '3247'
 ht-degree: 99%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 99%
 
 # [!DNL Experience Manager] 文档：近期文档更新 {#aem-documentation-recent-documentation-updates}
 
-本页列出了自新年伊始对 [!DNL Adobe Experience Manager] 文档做出的重要更改和更新。
+本页列表了[!DNL Adobe Experience Manager]的重要文档更改和更新。
 
 您还可以查看[先前的文档更新](previous-documentation-updates.md)。
 
@@ -58,7 +58,7 @@ ht-degree: 99%
 
 | 日期 | 主题 | 所做更改 |
 | --- | --- | --- |
-| 2021年3月11日 | [!DNL Experience Manager] 6.5 Service Pack 8 | 提供了 [[!DNL Experience Manager]  6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
+| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | 提供了 [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
 | 2020 年 11 月 25 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)。 |
 | 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 7 | 提供了 [[!DNL Experience Manager]  6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效功能 | 您现在可以从 Dynamic Media 发送请求，以使 CDN 缓存在几分钟内过期。当您更新资产并希望这些更改立即在您的网站上生效时，此功能非常有用。<br>请参阅[通过 Dynamic Media 使 CDN 缓存失效](https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)。 |
@@ -80,12 +80,12 @@ ht-degree: 99%
 
 | 日期 | 主题 | 所做更改 |
 | --- | --- | --- |
-| 2021 年 2 月 25 日 | [!DNL Experience Manager] 6.4 Service Pack 8 累积修补程序包 4 | 提供了 [[!DNL Experience Manager]  6.4 Service Pack 8 累积修补程序包 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。 |
-| 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.4 Service Pack 8 累积修补程序包 3 | 提供了 [[!DNL Experience Manager]  6.4 Service Pack 8 累积修补程序包 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。 |
-| 2020 年 9 月 3 日 | [!DNL Experience Manager] 6.4 Service Pack 8 累积修补程序包 2 | 提供了 [[!DNL Experience Manager]  6.4 Service Pack 8 累积修补程序包 2](https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/cfp-release-notes.html)。 |
+| 2021 年 2 月 25 日 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4 | 提供了 [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。 |
+| 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 3 | 提供了 [[!DNL Experience Manager]  6.4 Service Pack 8 Cumulative Fix Pack 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。 |
+| 2020 年 9 月 3 日 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 2 | 提供了 [[!DNL Experience Manager]  6.4 Service Pack 8 Cumulative Fix Pack 2](https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/cfp-release-notes.html)。 |
 | 2020 年 7 月 29 日 | [多站点管理器] | 已对[创建新同步操作](https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action)和[创建新转出配置](https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration)过程进行了更新。 |
 | 2020 年 6 月 19 日 | Adobe Experience Manager | 在 Adobe，我们力图在所有代码、文档和体验中使用相同或者可互换使用的术语。<br>为此，我们一直在对此文档集进行一系列更新，且将来会继续进行更新。 |
-| 2020 年 6 月 4 日 | [!DNL Experience Manager] 6.4 Service Pack 8 累积修补程序包 1 | 提供了 [[!DNL Experience Manager]  6.4 Service Pack 8 累积修补程序包 1](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html)。 |
+| 2020 年 6 月 4 日 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 1 | 提供了 [[!DNL Experience Manager]  6.4 Service Pack 8 Cumulative Fix Pack 1](https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html)。 |
 | 2020 年 4 月 13 日 | 资产处理 | 新增了有关如何使用工作流处理资产的概述。此外，还新增了介绍如何[自动触发资产处理工作流](https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/assets/using/assets-workflow.html)的主题。 |
 | 2020 年 3 月 30 日 | Dynamic Media - 智能成像 | “智能成像帮助”主题已全面更新，其中新增了一些信息，包括描述新增的智能成像优化的图像资产示例。<br>请参阅[智能成像](https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/assets/dynamic/imaging-faq.html)。 |
 | 2020 年 3 月 5 日 | [!DNL Experience Manager] 6.4 Service Pack 8 | 提供了 [[!DNL Experience Manager]  6.4 Service Pack 8](https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html)。 |
@@ -96,7 +96,7 @@ ht-degree: 99%
 | --- | --- | --- |
 | 2020 年 6 月 19 日 | Adobe Experience Manager | 在 Adobe，我们力图在所有代码、文档和体验中使用相同或者可互换使用的术语。<br>为此，我们一直在对此文档集进行一系列更新，且将来会继续进行更新。 |
 | 2020 年 3 月 30 日 | Dynamic Media - 智能成像 | “智能成像帮助”主题已全面更新，其中新增了一些信息。<br>请参阅[智能成像](https://helpx.adobe.com/cn/experience-manager/6-3/assets/using/imaging-faq.html)。 |
-| 2020 年 3 月 5 日 | [!DNL Experience Manager] 6.3.3.8 | 提供了适用于 [!DNL Experience Manager] 6.3 的[累积修补程序包 6.3.3.8](https://helpx.adobe.com/cn/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)。 |
+| 2020 年 3 月 5 日 | [!DNL Experience Manager] 6.3.3.8 | 提供了适用于 [!DNL Experience Manager] 6.3 的 [Cumulative Fix Pack 6.3.3.8](https://helpx.adobe.com/cn/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)。 |
 
 ## [!DNL Experience Manager] 6.2 {#aem-62}
 
