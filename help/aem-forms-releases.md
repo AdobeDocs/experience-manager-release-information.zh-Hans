@@ -3,10 +3,10 @@ title: AEM Forms 发行版
 description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 translation-type: tm+mt
-source-git-commit: e15774a3cc034e946ec7443a51181e4c636debaf
+source-git-commit: ad6014815c1b15b66e549653bf0f66fc26b1d2f4
 workflow-type: tm+mt
-source-wordcount: '13231'
-ht-degree: 99%
+source-wordcount: '13263'
+ht-degree: 98%
 
 ---
 
@@ -42,6 +42,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.334.zip">适用于 Windows 的 AEM Forms 附加组件包</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.334.zip">适用于 Mac OS X 的 AEM Forms 附加组件包 [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.36.zip">AEM Forms 兼容包</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-014/aem-forms-designer-6.5.0-English.msp">AEM Forms Designer修补</a></li>
       <br><b>JEE 补丁安装程序</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Win/AEMForms-6.5.0-0025_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Linux/AEMForms-6.5.0-0025_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -55,7 +56,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/AIX/AEMForms-6.5.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms 客户端 SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0025<br /> </p> AEM Forms 附加组件包：6.0.334</p> <p>AEM Forms 兼容包：2.0.36</p><p>客户端 SDK：6.0.334<br /> </p></td> 
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0025<br /> </p> AEM Forms 附加组件包：6.0.334</p> <p>AEM Forms 兼容包：2.0.36</p><p>客户端 SDK：6.0.334<br /> </p><p>AEM Forms Designer 补丁：650.014</p></td> 
    </tr>
    <tr> 
     <td>2020 年 12 月 3 日</td> 
