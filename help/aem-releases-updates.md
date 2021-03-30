@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 版本更新'
 description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
-对于 Managed Services 版和内部部署版，本文列出了最新的累积修补程序包版本、最新的 Service Pack 版本以及主要版本，并且将引导您查阅这些版本的文档。对于您所用的 [!DNL Experience Manager] 版本，[!DNL Adobe] 建议查看并应用最新的 Service Pack，然后再应用最新的累积修补程序包，以保持部署稳定、安全且最新。
+对于 Managed Services 版和内部部署版，本文列出了最新的 Cumulative Fix Pack 版本、最新的 Service Pack 版本以及主要版本，并且将引导您查阅这些版本的文档。对于您所用的 [!DNL Experience Manager] 版本，[!DNL Adobe] 建议查看并应用最新的 Service Pack，然后再应用最新的 Cumulative Fix Pack，以保持部署稳定、安全且最新。
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.4 产品更新通过季度 CFP 提供。这些更新包括错误修复。
 
-* [[!DNL Experience Manager] 6.4 Service Pack 8 累积修补程序包 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
+* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
 
 * [[!DNL Experience Manager]  6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html)
 
@@ -51,7 +51,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.3 {#aem-63}
 
-* [[!DNL Experience Manager]  6.3 Service Pack 3 累积修补程序包 8](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-3-cumulative-fix-pack.html)
+* [[!DNL Experience Manager]  6.3 Service Pack 3 Cumulative Fix Pack 8](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-3-cumulative-fix-pack.html)
 
 * [[!DNL Experience Manager]  6.3 Service Pack 3](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)
 
@@ -62,6 +62,6 @@ ht-degree: 100%
 <!-- TBD: This content will soon be archived and new links can move to aem-previous-versions.md article. See status in UGP-1894.
 -->
 
-* [Experience Manager 6.2 Service Pack 1 累积修补程序包 20](https://helpx.adobe.com/cn/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
+* [Experience Manager 6.2 Service Pack 1 Cumulative Fix Pack 20](https://helpx.adobe.com/cn/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
 * [Experience Manager 6.2 Service Pack 1](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes/sp1.html)
 * [Experience Manager 6.2](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes.html)
