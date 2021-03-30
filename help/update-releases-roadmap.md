@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 93%
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
-受支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版的产品更新（包括新增功能、增强功能和错误修复）通过季度 Service Pack 和累积修补程序包 (CFP) 提供。这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
+受支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版的产品更新（包括新增功能、增强功能和错误修复）通过季度 Service Pack 和 Cumulative Fix Pack (CFP) 提供。这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -56,12 +56,12 @@ ht-degree: 93%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4是6.4的最 [!DNL Experience Manager] 后一个CFP。有关最新发布的CFP的详细信息，请参 [[!DNL Experience Manager] 阅6.4 Cumulative Fix Pack发行说明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是适用于 [!DNL Experience Manager] 6.4 的最新 CFP。有关最新发布的 CFP 的详细信息，请参阅 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。
 
 >[!MORELIKETHIS]
 >
->* [EOL 一览表](https://helpx.adobe.com/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager]  发行版和更新](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager]  学习和支持](https://helpx.adobe.com/support/experience-manager.html)
+>* [EOL 一览表](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)
+>* [[!DNL Experience Manager]  发行版和更新](https://helpx.adobe.com/cn/experience-manager/aem-releases-updates.html)
+>* [[!DNL Experience Manager]  学习和支持](https://helpx.adobe.com/cn/support/experience-manager.html)
 >* [[!DNL Experience Manager]  更新版本发行方式定义](/help/update-release-vehicle-definitions.md)
 
