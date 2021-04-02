@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: ad6014815c1b15b66e549653bf0f66fc26b1d2f4
 workflow-type: tm+mt
 source-wordcount: '13263'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
     <td><strong>内部版本</strong></td> 
    </tr>
    <tr> 
-    <td>2021年3月18日</td> 
+    <td>2021 年 3 月 18 日</td> 
     <td><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/release-notes/service-pack/sp-release-notes.html">适用于 AEM 6.5.8.0 的 AEM Forms Service Pack 8 Forms 附加组件包</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
@@ -86,7 +86,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
    </tr> 
    <tr> 
     <td>2020 年 9 月 3 日</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">适用于 AEM 6.5.6.0 的 AEM Forms Service Pack 6 Forms 附加组件包</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans">适用于 AEM 6.5.6.0 的 AEM Forms Service Pack 6 Forms 附加组件包</a></td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0</a></td> 
     <td> 
      <ul> 
@@ -146,7 +146,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
    </tr> 
    <tr> 
     <td>2019 年 9 月 19 日</td> 
-    <td><a href="https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html">适用于 AEM 6.5.2.0 的 AEM Forms Service Pack 2 Forms 附加组件包</a></td> 
+    <td><a href="https://helpx.adobe.com/cn/experience-manager/6-5/release-notes/sp-release-notes.html">适用于 AEM 6.5.2.0 的 AEM Forms Service Pack 2 Forms 附加组件包</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
      <ul> 
@@ -198,7 +198,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
   </tbody> 
  </table>
 
-`[1]` 联系 [Adobe 支持团队](https://www.adobe.com/account/sign-in.supportportal.html)以获取 Workbench、权限管理 SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
+`[1]` 联系 [Adobe 支持团队](https://www.adobe.com/cn/account/sign-in.supportportal.html)以获取 Workbench、权限管理 SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
 
 `[2]` 适用于 Mac OS X 的 AEM [!DNL Forms] 附加组件包在生产环境中不受支持，应当仅将其用于演示目的。PDF 生成器功能不适用于 Mac OS X 包。
 
@@ -353,7 +353,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
   </tr> 
   <tr> 
    <td>2019 年 7 月 3 日</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">适用于 AEM 6.4.5.0 的 AEM Forms Service Pack 5 Forms 附加组件包</a></td> 
+   <td><a href="https://helpx.adobe.com/cn/experience-manager/6-4/release-notes/sp-release-notes.html">适用于 AEM 6.4.5.0 的 AEM Forms Service Pack 5 Forms 附加组件包</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.5.0</a></td> 
    <td> 
     <ul> 
@@ -432,7 +432,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
   <tr> 
    <td>2018 年 4 月 4 日</td> 
    <td>AEM 6.4 Forms 附加组件包</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/sites/deploying/using/deploy.html" target="_blank">AEM 6.4</a></td> 
+   <td><a href="https://helpx.adobe.com/cn/experience-manager/6-4/sites/deploying/using/deploy.html" target="_blank">AEM 6.4</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/fd/AEM-FORMS-6.4-AIX" target="_blank">适用于 AIX 的 AEM Forms 附加组件包</a></li> 
@@ -476,7 +476,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
   <tr> 
    <td>2020 年 3 月 5 日</td> 
    <td><a href="/help/release-notes-aem-6-3-cumulative-fix-pack.md">适用于 AEM 6.3 累积修补程序包 6.3.3.8 的 Forms 附加组件包</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
+   <td><a href="https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html">AEM 6.3.3.8</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEM-FORMS-6.3.3.8-AIX.zip">适用于 AIX 的 AEM Forms 附加组件包</a></li> 
@@ -646,7 +646,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
   </tr> 
   <tr> 
    <td>2018 年 4 月 5 日</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 Service Pack 2 Forms 附加组件包</a></td> 
+   <td><a href="https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3 Service Pack 2 Forms 附加组件包</a></td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp2-release-notes.html" target="_blank">AEM 6.3.2.0</a></td> 
    <td> 
     <ul> 
@@ -700,7 +700,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
   </tr> 
   <tr> 
    <td>2017 年 10 月 13 日</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/release-notes/sp1-release-notes.html">AEM 6.3 Service Pack 1 Forms 附加组件包</a></td> 
+   <td><a href="https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp1-release-notes.html">AEM 6.3 Service Pack 1 Forms 附加组件包</a></td> 
    <td><a href="https://helpx.adobe.com/in/experience-manager/6-3/release-notes/sp1-release-notes.html" target="_blank">AEM 6.3 Service Pack 1</a></td> 
    <td> 
     <ul> 
@@ -1163,7 +1163,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
  </tbody> 
 </table>
 
-`[1]` 除了 AEM [!DNL Forms] 附加组件包和 AEM [!DNL Forms] 应用程序的源代码之外，还发布了适用于 Microsoft Office 的 AEM [!DNL Forms] 文档安全扩展的更新版本、JEE Core 上的 AEM [!DNL Forms] 的修补程序以及文档安全组件。有关详细信息，请参阅 [AEM 6.2  [!DNL Forms]  累积修补程序 10325 的发行说明](https://helpx.adobe.com/experience-manager/6-2/forms/using/cf1-release-notes.html)。
+`[1]` 除了 AEM [!DNL Forms] 附加组件包和 AEM [!DNL Forms] 应用程序的源代码之外，还发布了适用于 Microsoft Office 的 AEM [!DNL Forms] 文档安全扩展的更新版本、JEE Core 上的 AEM [!DNL Forms] 的修补程序以及文档安全组件。有关详细信息，请参阅 [AEM 6.2  [!DNL Forms]  累积修补程序 10325 的发行说明](https://helpx.adobe.com/cn/experience-manager/6-2/forms/using/cf1-release-notes.html)。
 
 `[2]` 联系 [Adobe 支持团队](https://www.adobe.com/account/sign-in.supportportal.html)以获取 AEM [!DNL Forms] JEE、AEM [!DNL Forms] 应用程序源或 AEM [!DNL Forms Designer] 安装程序、AEM [!DNL Forms Workbench] 修补程序或者 AEM-fd 客户端 SDK（如果适用于该版本）。
 
@@ -1171,7 +1171,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
 
 >[!NOTE]
 >
->AEM [!DNL Forms] 会定期发布补丁或快速修补程序，以解决错误并提高软件的可用性和性能。如果您在使用 AEM [!DNL Forms] 时遇到问题，该问题可能已通过补丁或快速修补程序得以解决。有关可用快速修补程序的详细信息，请参阅 [Adobe Experience Manager 6.2 修补程序](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)。
+>AEM [!DNL Forms] 会定期发布补丁或快速修补程序，以解决错误并提高软件的可用性和性能。如果您在使用 AEM [!DNL Forms] 时遇到问题，该问题可能已通过补丁或快速修补程序得以解决。有关可用快速修补程序的详细信息，请参阅 [Adobe Experience Manager 6.2 修补程序](https://helpx.adobe.com/cn/experience-manager/kb/aem62-available-hotfixes.html)。
 
 ## 切记事项 {#things-to-remember}
 
