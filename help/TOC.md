@@ -10,9 +10,9 @@ feature-set: Experience Manager
 feature: 发行信息
 role: 领导者, 架构师, 开发人员, 数据架构师, 数据工程师, 管理员, 商业实践者
 level: 初学者, 中级, 经验丰富
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
