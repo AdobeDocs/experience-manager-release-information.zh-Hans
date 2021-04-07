@@ -4,9 +4,9 @@ solution: Experience Cloud
 type: 文档
 git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-release-information.zh-Hans
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
