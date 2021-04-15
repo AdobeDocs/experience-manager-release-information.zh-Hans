@@ -1,13 +1,13 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
-type: 文档
+type: Documentation
 git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-release-information.zh-Hans
 index: true
-translation-type: ht
-source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
-workflow-type: ht
-source-wordcount: '112'
+translation-type: tm+mt
+source-git-commit: 461b4d84d7e8512d433cc3c2a00ede133de05e36
+workflow-type: tm+mt
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
