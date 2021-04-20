@@ -7,9 +7,9 @@ user-guide-title: Adobe Experience Manager 版本更新和路线图
 breadcrumb-title: AEM 版本信息
 user-guide-description: 请参阅最新的 AEM 版本更新。
 feature-set: Experience Manager
-feature: 发行信息
-role: 领导者, 架构师, 开发人员, 数据架构师, 数据工程师, 管理员, 商业实践者
-level: 初学者, 中级, 经验丰富
+feature: Release Information
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: ht
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
 workflow-type: ht
