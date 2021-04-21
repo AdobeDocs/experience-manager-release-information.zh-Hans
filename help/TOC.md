@@ -1,19 +1,19 @@
 ---
 cloud: Experience Cloud
-product: Adobe Experience Manager
+product: experience manager
 solution: Experience Manager
 audience: end-user
 user-guide-title: Adobe Experience Manager 版本更新和路线图
 breadcrumb-title: AEM 版本信息
 user-guide-description: 请参阅最新的 AEM 版本更新。
 feature-set: Experience Manager
-feature: Release Information
+feature: 发行信息
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
 level: Beginner, Intermediate, Experienced
-translation-type: ht
-source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
-workflow-type: ht
-source-wordcount: '94'
+translation-type: tm+mt
+source-git-commit: e89dcf7b57b2af9674fd5016f0764311702966a7
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
