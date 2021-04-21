@@ -2,14 +2,14 @@
 title: 在 AEM Forms JEE 上安装累积修补程序包
 description: 在 AEM Forms JEE 上安装和配置累积修补程序包 (CFP) 的步骤概述
 contentOwner: AK
+exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 translation-type: ht
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '1102'
 ht-degree: 100%
 
 ---
-
 
 # 在 AEM [!DNL  Forms] JEE 上安装累积修补程序包{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
