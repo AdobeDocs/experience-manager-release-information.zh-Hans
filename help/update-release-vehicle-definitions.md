@@ -2,14 +2,14 @@
 title: 更新版本发行方式定义
 description: 本文详细介绍了各种类型的  [!DNL Experience Manager]  发行版本，包括完整版本、功能包和 Service Pack。
 contentOwner: AK
+exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 translation-type: ht
-source-git-commit: 11ff4f7d66038a80697afe5f104c560137e130f4
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '730'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Experience Manager] 更新版本发行方式定义 {#update-release-vehicle-definitions}
 
