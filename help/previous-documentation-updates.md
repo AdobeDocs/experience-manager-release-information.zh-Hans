@@ -2,14 +2,14 @@
 title: 以前的文档更新
 description: 本页列出了以前对  [!DNL Adobe Experience Manager] 文档做出的重要更改和更新。
 contentOwner: alvawb
+exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 translation-type: ht
-source-git-commit: 47b391ed659264b611f08d2fa9e45a923be5c445
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '9351'
 ht-degree: 100%
 
 ---
-
 
 # 以前的文档更新{#previous-documentation-updates}
 
@@ -35,7 +35,7 @@ ht-degree: 100%
    <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/release-notes/sp-release-notes.html">AEM 6.5 Service Pack 3</a>。</td> 
   </tr>
   <tr>
-   <td>2019 年 12 月 5 日</td> 
+   <td>2019 年 5 月 12 日</td> 
    <td>核心组件<br /> </td> 
    <td>现在提供了核心组件 2.8.0 版（其中包含许多修补程序），同时还提供了<a href="https://github.com/adobe/aem-core-wcm-components">可在 GitHub 上获取的开发人员详细信息和项目下载</a>。</td> 
   </tr>
@@ -55,7 +55,7 @@ ht-degree: 100%
    <td>记录了用于在服务器端呈现单页应用程序的<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/developing/headless/spas/spa-ssr.html#remote-content-renderer-configuration">远程内容渲染器</a>功能。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 11 日</td> 
+   <td>2019 年 11 月 10 日</td> 
    <td>Activity Map</td> 
    <td><p>由于 Adobe Analytics API 中的安全性更改，无法再使用 AEM 中包含的 Activity Map 版本。现在，应使用 <a href="https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">Adobe Analytics 提供的 ActivityMap 插件</a>。 </p> </td> 
   </tr>
@@ -72,7 +72,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 10 月 1 日</td> 
    <td>JEE 安装中的 AEM Forms </td> 
-   <td><p>添加了对 Oracle 18c 数据库驱动程序的 AEM Forms 支持。 </p> <p>平台列表：<a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>添加了对 Oracle 18c 数据库驱动程序的 AEM Forms 支持。 </p> <p>平台列表：<a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 1 日 </td> 
@@ -102,7 +102,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 9 月 19 日</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a>。</td>
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans">AEM 6.5 Service Pack 2 (6.5.2.0)</a>。</td>
   </tr>
   <tr>
    <td>2019 年 9 月 9 日</td> 
@@ -157,7 +157,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 7 月 3 日</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0)</a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans">AEM 6.5 Service Pack 1 (6.5.1.0)</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 25 日</td> 
@@ -251,7 +251,7 @@ ht-degree: 100%
    <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 7</a>。</td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 11 日</td> 
+   <td>2019 年 11 月 10 日</td> 
    <td>Activity Map</td> 
    <td><p>由于 Adobe Analytics API 中的安全性更改，无法再使用 AEM 中包含的 Activity Map 版本。现在，应使用 <a href="https://docs.adobe.com/content/help/zh-Hans/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">Adobe Analytics 提供的 ActivityMap 插件</a>。 </p> </td> 
   </tr>
@@ -313,12 +313,12 @@ ht-degree: 100%
   <tr>
    <td>2019 年 2 月 11 日</td> 
    <td>协作文档<br /> </td> 
-   <td><p>以下 AEM 文档集已迁移到新的<a href="https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html">协作文档平台</a>。</p> 
+   <td><p>以下 AEM 文档集已迁移到新的<a href="https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans">协作文档平台</a>。</p> 
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html">核心组件</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html">Dispatcher</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html">HTL</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html">Cloud Manager</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=zh-Hans">核心组件</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=zh-Hans">Dispatcher</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=zh-Hans">HTL</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=zh-Hans">Cloud Manager</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/exc/using/overview.html?lang=zh-Hans">Adobe Experience Cloud 库</a></li> 
     </ul> <p>内容保持不变，但在呈现方式上进行了一些改进。现在提供了一个令人激动的新功能：可在 GitHub 上通过每个页面上的<strong>编辑此页面</strong>和<strong>记录问题</strong>链接来提交拉取请求和问题，从而添加文档建议。 我们欢迎您提出任何意见！</p> </td> 
   </tr>
@@ -345,7 +345,7 @@ ht-degree: 100%
   <tr>
    <td>2018 年 12 月 17 日</td> 
    <td>体验片段 - 构建基块</td> 
-   <td>您可以选择一个或多个组件来<a href="https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/experience-fragments.html#authoring">创建用于在体验片段中回收的构建基块</a>。</td> 
+   <td>您可以选择一个或多个组件来<a href="https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/experience-fragments.html?lang=zh-Hans#authoring">创建用于在体验片段中回收的构建基块</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 12 月 11 日</td> 
@@ -629,7 +629,7 @@ ht-degree: 100%
    <td>提供了适用于 AEM 6.3 的<a href="release-notes-aem-6-3-cumulative-fix-pack.md">累积修补程序包 6.3.3.7</a>。</td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 11 日</td> 
+   <td>2019 年 11 月 10 日</td> 
    <td>Activity Map</td> 
    <td><p>由于 Adobe Analytics API 中的安全性更改，无法再使用 AEM 中包含的 Activity Map 版本。现在，应使用 <a href="https://helpx.adobe.com/cn/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html" target="_blank">Adobe Analytics 提供的 ActivityMap 插件</a>。</p> </td> 
   </tr>
