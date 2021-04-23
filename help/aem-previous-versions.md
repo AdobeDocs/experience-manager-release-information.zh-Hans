@@ -2,11 +2,11 @@
 title: 旧版 AEM、CQ 和 CRX
 description: 旧版 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-translation-type: ht
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
-source-wordcount: '773'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
+workflow-type: tm+mt
+source-wordcount: '793'
+ht-degree: 93%
 
 ---
 
@@ -70,13 +70,17 @@ ht-degree: 100%
 
 ### 在本地实例上安装包 {#install-package-local-instance}
 
+>[!NOTE]
+>
+>对于AEM 6.2，您可能需要使用以下命令将本地实例开始为最大堆大小增加：` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+
 1. 打开 [!DNL Experience Manager] 用户界面。在 Web 浏览器中，输入：`http://localhost:4502/`。以管理员身份登录。
 
 1. 选择&#x200B;**[!UICONTROL 工具]** > **[!UICONTROL 部署]** > **[!UICONTROL 包]**。
 
 1. 从包管理器用户界面中，选择&#x200B;**[!UICONTROL 上传包]**。
 
-1. 浏览到您将 AEM 5.6.1 包 (aem-docs-5-6-1.zip) 下载到的位置。
+1. 浏览到您下载AEM包的位置。
 
 1. 选择该包，然后单击&#x200B;**[!UICONTROL 确定]**。
 
@@ -86,7 +90,7 @@ ht-degree: 100%
 
 1. 在确认对话框中，再次选择&#x200B;**[!UICONTROL 安装]**。注意：安装过程将需要花费几分钟时间。
 
-1. 在 Web 浏览器中，启动文档页面。以 AEM 5.6.1 为例，URL 应为：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
+1. 在 Web 浏览器中，启动文档页面。使用AEM 5.6.1示例，URL为：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
 
 ## 从 [!DNL Experience Manager] 社区获取帮助 {#get-help-from-aem-community}
 
