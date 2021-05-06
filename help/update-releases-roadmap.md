@@ -2,11 +2,11 @@
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e73837adaeb3407c4c92de0c927e92e0044dac27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '341'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | 月度发行版本 | 2021年5月6日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | 月度发行版本 | 2021 年 5 月 6 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | 月度发行版本 | 2021 年 5 月 27 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | 月度发行版本 | 2021 年 6 月 24 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | 月度发行版本 | 2021 年 7 月 29 日 |
