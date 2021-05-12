@@ -2,10 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-translation-type: tm+mt
-source-git-commit: e73837adaeb3407c4c92de0c927e92e0044dac27
+source-git-commit: 0926a739fe07b10b425d198317a92724fcc85503
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 100%
 
 ---
@@ -24,7 +23,6 @@ ht-degree: 100%
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | 月度发行版本 | 2021 年 5 月 6 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | 月度发行版本 | 2021 年 5 月 27 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | 月度发行版本 | 2021 年 6 月 24 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | 月度发行版本 | 2021 年 7 月 29 日 |
@@ -62,5 +60,5 @@ ht-degree: 100%
 >* [EOL 一览表](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager]  发行版和更新](https://helpx.adobe.com/cn/experience-manager/aem-releases-updates.html)
 >* [[!DNL Experience Manager]  学习和支持](https://helpx.adobe.com/cn/support/experience-manager.html)
->* [[!DNL Experience Manager]  更新版本发行方式定义](/help/update-release-vehicle-definitions.md)
+>* [[!DNL Experience Manager] 更新版本发行方式定义](/help/update-release-vehicle-definitions.md)
 
