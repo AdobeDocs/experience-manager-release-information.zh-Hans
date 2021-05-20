@@ -3,9 +3,8 @@ title: 在 AEM Forms JEE 上安装累积修补程序包
 description: 在 AEM Forms JEE 上安装和配置累积修补程序包 (CFP) 的步骤概述
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1102'
 ht-degree: 100%
 
@@ -47,7 +46,7 @@ ht-degree: 100%
 >
 >如果您在 AEM 6.2 [!DNL Forms OSGi] 上，请按照 [AEM 6.2 CFP 发行说明](release-notes-aem-6-2-cumulative-fix-pack.md)中的安装说明操作。
 
-1. 联系 [Adobe 支持人员](https://www.adobe.com/cn/account/sign-in.supportportal.html)以获取 AEM 6.2 [!DNL Forms JEE] CFP 安装程序。
+1. 联系 [Adobe 支持人员](https://www.adobe.com/account/sign-in.supportportal.html)以获取 AEM 6.2 [!DNL Forms JEE] CFP 安装程序。
 1. 运行 CFP 安装程序，并按照[安装和配置 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中的所述配置 AEM [!DNL Forms JEE]。
 1. 安装 [AEM 修补程序 12785 版本 7.0](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785)。
 1. 安装 [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)。
