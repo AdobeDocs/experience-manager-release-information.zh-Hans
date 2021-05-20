@@ -10,9 +10,8 @@ feature-set: Experience Manager
 feature: 发行信息
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
 level: Beginner, Intermediate, Experienced
-translation-type: ht
 source-git-commit: e89dcf7b57b2af9674fd5016f0764311702966a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
