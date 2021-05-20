@@ -3,11 +3,10 @@ title: '[!DNL Experience Manager] 近期文档更新'
 description: ' [!DNL Experience Manager]  文档中的新增内容、更新内容或修改内容'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-translation-type: tm+mt
 source-git-commit: fa68729be0642a7369e2a1bef643fac32a76bc3e
 workflow-type: tm+mt
 source-wordcount: '3247'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,8 +26,8 @@ ht-degree: 99%
 
 | 日期 | 主题 | 所做更改 |
 | --- | --- | --- |
-| 2020 年 12 月 2 日 | 批次集预设 | 了解如何使用 Dynamic Media 中的批次集预设自动创建图像集和旋转集。请参阅[批次集预设](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html#dynamicmedia)。 |
-| 2020 年 12 月 2 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/accessibility-dm.html#dynamicmedia)。 |
+| 2020 年 12 月 2 日 | 批次集预设 | 了解如何使用 Dynamic Media 中的批次集预设自动创建图像集和旋转集。请参阅[批次集预设](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html?lang=zh-Hans#dynamicmedia)。 |
+| 2020 年 12 月 2 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/accessibility-dm.html?lang=zh-Hans#dynamicmedia)。 |
 | 2020 年 10 月 29 日 | 核心组件 | 核心组件版本 2.12.0 中引入了新的 POST 表单处理程序；通过上下文感知配置包含自定义 CSS、JavaScript 和元数据标记的功能；以及可简化自定义组件中的数据层集成的 **DataLayerBuilderutility**。该版本与[创作文档](https://docs.adobe.com/content/help/zh-Hans/experience-manager-core-components/using/introduction.html)以及[可在 GitHub 上获取的开发人员详细信息和项目下载](https://github.com/adobe/aem-core-wcm-components)一起提供。 |
 | 2020 年 9 月 24 日 | 完成新的 Dynamic Media 配置后发送收件箱通知 | 当设置完新的 Dynamic Media 配置时，您将在 [!DNL Experience Manager] 收件箱中收到相应状态通知。此通知会告知您配置是否成功。如果配置失败，此通知将提供错误代码。请在联系 Adobe 客户关怀部门时提供此错误代码。<br>请参阅[对新的 Dynamic Media 配置进行故障排除](https://docs.adobe.com/content/help/zh-Hans/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#troubleshoot-dm-config)。 |
 | 2020 年 9 月 24 日 | 在 Dynamic Media 配置中重置密码。 | 允许在 Dynamic Media 中首次设置临时密码后重置密码，这与使用 Dynamic Media Classic 时不同。请参阅[在  [!DNL Cloud Service] 中创建新的 Dynamic Media 配置](https://docs.adobe.com/content/help/zh-Hans/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#configuring-dynamic-media-cloud-services)中的步骤 6 和 7，以及[更改 Dynamic Media 密码](https://docs.adobe.com/content/help/zh-Hans/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#change-dm-password)。 |
