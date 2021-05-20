@@ -2,9 +2,8 @@
 title: AEM 6.3 累积修补程序包
 description: AEM 6.3 累积修补程序包发行说明
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '15916'
 ht-degree: 100%
 
@@ -35,7 +34,7 @@ Adobe 引入了统一交付模式，用于发布修补程序。现在，Adobe �
 
 AEM 累积修补程序包 6.3.3.8 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 Service Pack 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修补程序包 6.3.3.8 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM 累积修补程序包 6.3.3.8 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM 累积修补程序包**&#x200B;的主要功能亮点包括：
 
@@ -101,7 +100,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 AEM 累积修补程序包 6.3.3.7 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 Service Pack 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修补程序包 6.3.3.7 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM 累积修补程序包 6.3.3.7 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ### 资产 {#assets-1}
 
@@ -169,7 +168,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 AEM 累积修补程序包 6.3.3.6 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 Service Pack 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修补程序包 6.3.3.6 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM 累积修补程序包 6.3.3.6 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ### 资产 {#assets-2}
 
@@ -223,7 +222,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 AEM 累积修补程序包 6.3.3.5 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 Service Pack 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修补程序包 6.3.3.5 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM 累积修补程序包 6.3.3.5 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM 累积修补程序包**&#x200B;的主要功能亮点包括：
 
@@ -291,7 +290,7 @@ AEM 6.3.3.5 中包含的内容包列表
 
 AEM 累积修补程序包 6.3.3.4 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 Service Pack 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修补程序包 6.3.3.4 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM 累积修补程序包 6.3.3.4 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM 累积修补程序包**&#x200B;的主要功能亮点包括：
 
@@ -399,7 +398,7 @@ AEM 6.3.3.4 中包含的内容包列表
 
 AEM 累积修补程序包 6.3.3.3 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 Service Pack 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修补程序包 6.3.3.3 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM 累积修补程序包 6.3.3.3 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM 累积修补程序包**&#x200B;的主要功能亮点包括：
 
@@ -446,11 +445,11 @@ AEM 累积修补程序包 6.3.3.3 依赖于 AEM 6.3 Service Pack 3。因此，�
 
 * DispatcherFlushRules 在 6.3.3.1 中中断复制。NPR-28150：适用于 CQ-4261401 的修补程序
 
-#### 营销活动 - 定位 {#campaign-targeting-1}
+#### 营销活动 - 定位  {#campaign-targeting-1}
 
 * TargetedContentManager 中出现空指针异常。适用于 CQ-4263485 的修补程序
 
-#### 社交 - SCORM {#social-scorm}
+#### 社交 - SCORM  {#social-scorm}
 
 * 在播放器中删除对可共享内容对象引用模型 (SCORM) 云的引用。适用于 CQ-4260779 的修补程序
 
@@ -458,7 +457,7 @@ AEM 累积修补程序包 6.3.3.3 依赖于 AEM 6.3 Service Pack 3。因此，�
 
 * 通过链接共享电子邮件下载，会返回空的/损坏的 ZIP 文件。适用于 CQ-4259686 的修补程序
 
-#### MAC - Test&amp;Target 集成 {#mac-test-target-integration}
+#### MAC - Test&amp;Target 集成  {#mac-test-target-integration}
 
 * 无法对默认受众之外的受众配置“目标组件”选项。适用于 CQ-4261370 的修补程序
 
@@ -479,7 +478,7 @@ AEM 累积修补程序包 6.3.3.3 依赖于 AEM 6.3 Service Pack 3。因此，�
 * 在管理控制台的“策略集”视图中，无法看到除列出的前 1000 项之外的任何其他策略集。NPR-28060、NPR-26047：适用于 CQ-4249865 的修补程序
 * 引发名称为 java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE 的异常，导致短暂的进程无法完成。NPR-28652
 
-#### 表单 - 自适应表单 {#forms-adaptive-forms}
+#### 表单 - 自适应表单  {#forms-adaptive-forms}
 
 * 选中复选框项目时，下拉列表中的添加/删除条目不会更新。NPR-28224：适用于 CQ-4252834 的修补程序
 
@@ -550,7 +549,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 
 * 在 Dynamic Media 组件中指定断点后，不显示图像。适用于 CQ-4256168 的修补程序
 
-#### DAM - DMServices {#dam-dmservices}
+#### DAM - DMServices  {#dam-dmservices}
 
 * 包含相关视频的 MixedMediaSet 无法正确同步。适用于 CQ-4251650 的修补程序
 * 对于混合媒体集，无法在查看器预设编辑器中播放视频。适用于 CQ-4251442 的修补程序
@@ -559,7 +558,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 
 * 应用 SP3 补丁后，指向内容片段模型的链接缺失。适用于 CQ-4259029 的修补程序
 
-#### DAM - UI {#dam-ui}
+#### DAM - UI  {#dam-ui}
 
 * 安装 SP3 后，文件夹元数据架构 UI 损坏。适用于 CQ-4257737 的修补程序
 
@@ -602,7 +601,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 
 * 在 WebSphere 上创建基于 SOAP 的表单数据模型失败。NPR-27692：适用于 CQ-4253702 的修补程序
 
-#### 表单 - 自适应表单 {#forms-adaptive-forms-1}
+#### 表单 - 自适应表单  {#forms-adaptive-forms-1}
 
 * AEM Forms 存在 XML 注入漏洞。NPR-27863：适用于 CQ-4257315 的修补程序
 * 如果在站点页面中配置了错误的表单，并且选中“表单覆盖页面的整个宽度”复选框，AEM Forms 容器组件会变得不可见。NPR-25972：适用于 CQ-4239287/CQ-4249133 的修补程序
@@ -613,7 +612,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 
 * 在 WebSphere 上创建基于 SOAP 的表单数据模型失败。NPR-27692：适用于 CQ-4253702 的修补程序
 
-#### 包含的 OSGi 包和内容包 {#osgi-bundles-and-content-packages-included}
+#### 包含的 OSGi 包和内容包  {#osgi-bundles-and-content-packages-included}
 
 AEM 6.3.3.2 中包含的 OSGi 包列表
 
@@ -627,7 +626,7 @@ AEM 6.3.3.2 中包含的内容包列表
 
 AEM 累积修补程序包 6.3.3.1 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 Service Pack 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修补程序包 6.3.3.1 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM 累积修补程序包 6.3.3.1 依赖于 AEM 6.3 Service Pack 3。因此，您必须先安装 AEM 6.3 Service Pack 3，然后再安装 AEM 累积修补程序包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 Service Pack 3 发行说明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM 累积修补程序包**&#x200B;的主要功能亮点包括：
 
@@ -979,7 +978,7 @@ AEM 累积修补程序包 6.3.2.2 依赖于 AEM 6.3 Service Pack 2。因此，�
 * 数字字段不符合最小值。NPR-23967：适用于 CQ-4244830 的修补程序
 * 在自适应表单与 AdobeSign 的集成中支持多分片。NPR-23383
 
-#### 后端集成 {#backend-integration}
+#### 后端集成  {#backend-integration}
 
 * (FDM)（Web 服务）在 WSDL 解析器中支持 WSDL 的扩展结构。NPR-23640、NPR-23236：适用于 4205821 的修补程序
 * 将 SDLInvokerParams 包含在 Forms 附加组件客户端 SDK 中。NPR-23157
@@ -1187,7 +1186,7 @@ AEM Forms 的主要功能亮点包括：
 * (Firefox) 无法更新自适应表单的 XML 架构属性，因为记录文档 (DOR) 中的选项未在属性页面中预先选择。NPR-22298：适用于 CQ-4237402 的修补程序
 * 发布页面后修改的表单，不会在发布站点时再次发布。NPR-23013：适用于 CQ-4236566 的修补程序
 
-#### 后端集成 {#backend-integration-1}
+#### 后端集成  {#backend-integration-1}
 
 * SOAP 服务的 OOTB 基本身份验证不适用于 FDM 集成中的基本身份验证。NPR-23238：适用于 CQ-4241308 的修补程序
 
@@ -1360,15 +1359,15 @@ AEM 累积修补程序包的主要功能亮点包括：
 * 即使关联的表单数据模型服务未返回值，下拉列表也会显示上次存储的值。NPR-20710
 * 无法在规则编辑器中编辑具有布尔约束条件的现有规则。NPR-21128
 
-#### 表单门户 {#form-portal}
+#### 表单门户  {#form-portal}
 
 * 即使自适应表单的资产类型不是 XDP，也会为其显示 HTML 配置文件。NPR-20079
 
-#### 后端集成 {#backend-integration-2}
+#### 后端集成  {#backend-integration-2}
 
 * 无法将开关组件的值设置为 true/false。NPR-21111
 
-#### OSGi 工作流 {#osgi-workflow}
+#### OSGi 工作流  {#osgi-workflow}
 
 * 管理工作流提交仅列出十个应用程序。CQ-4230193
 
@@ -1382,7 +1381,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 
 * FormSetPrefillApp 起点未预填充 AEM Forms 应用程序中的表单集字段。NPR-20950
 
-#### 表单 - AEM (LiveCycle) {#forms-aem-livecycle}
+#### 表单 - AEM (LiveCycle)  {#forms-aem-livecycle}
 
 * 安装最新的 CTJPEG2K 库，以解决关键安全漏洞。这会影响 XMLFM（AEM 和 IfBA）、RM、PDFG 模块。NPR-20625：NPR-21337。
 
@@ -1443,7 +1442,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 * 发布了 JSON API 以使用内容片段。NPR-19500
 * 创作对话框中的富文本编辑器字段无法使用粗体、斜体、下划线功能。NPR-19670、NPR-19718：适用于 CQ-4219088 的修补程序
 
-### Mobile On-Demand {#mobile-on-demand-1}
+### 按需移动设备{#mobile-on-demand-1}
 
 * 由于使用全尺寸图像导致呈现过程缓慢，AEM 文章控制台出现呈现问题。NPR-19088
 
@@ -1517,7 +1516,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 
 * 从 Word 文件中复制粘贴的内容在文本编辑器中丢失其内容颜色和字体。NPR-19521
 
-#### 汇编程序服务 {#assembler-services}
+#### 汇编程序服务  {#assembler-services}
 
 * 在验证文档是否符合 PDFA-1b 格式时，Acrobat 与 AEM 结果之间存在差异。NPR-19280
 
@@ -1536,7 +1535,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 * 将表单最大化/最小化并将其另存为草稿或转发后，工作流“附件”、“注释”和“详细信息”选项卡在工作区中无法使用。NPR-20243
 * 在 HTML 工作区中提交数据后，多行文本字段 (TextArea) 不会保留换行符或文本中断。NPR-20085
 
-#### 进程报告 {#process-reporting}
+#### 进程报告  {#process-reporting}
 
 * 由于空指针异常，进程报告无法正确获取数据。NPR-19759
 
@@ -1544,7 +1543,7 @@ AEM 累积修补程序包的主要功能亮点包括：
 >
 >安装 [AEM Forms 发行版](aem-forms-releases.md)一文中所列的 LiveCycle 嵌入包以修复问题。
 
-#### 标准服务 {#standard-services}
+#### 标准服务  {#standard-services}
 
 * docConvertor 不支持 PDF 中的拼合透明度，且无法生成 PDF/A。NPR-16228：适用于 CQ-4214488 的修补程序
 
@@ -1750,7 +1749,7 @@ AEM 累积修补程序包 6.3.0.1 是一个重要更新，它包括自 2017 年 
 * 在安装累积修补程序包之前，请确保拍摄快照或备份您的 AEM 实例。
 * 不支持卸载 CFP。
 
-### 添加新日志记录器 {#adding-new-loggers}
+### 添加新日志记录器  {#adding-new-loggers}
 
 要配置调试级别日志记录并在 SP/CFP 安装期间检索活动日志，您可以按照以下步骤操作：
 
@@ -1799,7 +1798,7 @@ AEM 累积修补程序包 6.3.0.1 是一个重要更新，它包括自 2017 年 
 >
 >如果您不使用 AEM Forms，请跳过此部分。
 
-#### 安装 AEM Forms 附加组件 {#install-forms}
+#### 安装 AEM Forms 附加组件  {#install-forms}
 
 1. 确保您已安装 AEM 6.3.3.x CFP 包。
 1. 下载适用于您的操作系统的 [AEM Forms 发行版](aem-forms-releases.md)中列出的相应 Forms 附加组件包。
@@ -1809,17 +1808,17 @@ AEM 累积修补程序包 6.3.0.1 是一个重要更新，它包括自 2017 年 
 
 AEM Forms JEE 中的修复通过单独的安装程序来交付。有关在 AEM Forms JEE 上安装 CFP 的信息，请参阅[在 AEM Forms JEE 上安装 CFP](install-cfp-aem-forms-jee.md)。
 
-#### Forms Designer 安装程序 {#designer-installer}
+#### Forms Designer 安装程序  {#designer-installer}
 
 1. 要安装更新，请运行 Designer 6.2.0_&lt;语言>_Cumulative_QF.msp 文件。
 1. 在“欢迎”屏幕上，单击&#x200B;**更新**。安装随即开始。
 1. 安装完成后，单击&#x200B;**完成**。
 
-## 配置 AEM Forms JEE 的设置 (JBoss EAP) {#configuration-settings-for-aem-forms-jee-jboss-eap}
+## 配置 AEM Forms JEE 的设置 (JBoss EAP)  {#configuration-settings-for-aem-forms-jee-jboss-eap}
 
 >[!NOTE]
 >
->如果要安装 6.3.3.0 或更高版本，请执行以下步骤来配置 JBoss 应用程序服务器的设置。如果是在 Oracle WebLogic 或 IBM WebSpehere 应用程序服务器上运行的 AEM Forms 服务器上安装 6.3.3.0，则无需其他配置。有关更多详细信息，请参阅 [AEM 6.3.3.0 发行说明](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+>如果要安装 6.3.3.0 或更高版本，请执行以下步骤来配置 JBoss 应用程序服务器的设置。如果是在 Oracle WebLogic 或 IBM WebSpehere 应用程序服务器上运行的 AEM Forms 服务器上安装 6.3.3.0，则无需其他配置。有关更多详细信息，请参阅 [AEM 6.3.3.0 发行说明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ## Search&amp;Promote 集成的配置更新 {#configuration-updates-for-search-promote-integration}
 
@@ -1846,7 +1845,7 @@ AEM Forms JEE 中的修复通过单独的安装程序来交付。有关在 AEM F
 
 >[!NOTE]
 >
->如果您受到这两个问题的影响，请联系 [AEM 客户关怀团队](https://helpx.adobe.com/cn/marketing-cloud/contact-support.html)。
+>如果您受到这两个问题的影响，请联系 [AEM 客户关怀团队](https://helpx.adobe.com/marketing-cloud/contact-support.html)。
 
 * 由于管理员搜索功能中存在大量请求，观察到 CPU 使用率很高。NPR-24229
 * 重新打开组件后，未在 pathBrowser 中选择 PathField。NPR-24177
