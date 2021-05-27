@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] 近期文档更新'
 description: ' [!DNL Experience Manager]  文档中的新增内容、更新内容或修改内容'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: fa68729be0642a7369e2a1bef643fac32a76bc3e
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
-source-wordcount: '3247'
+source-wordcount: '3262'
 ht-degree: 100%
 
 ---
@@ -57,7 +57,8 @@ ht-degree: 100%
 
 | 日期 | 主题 | 所做更改 |
 | --- | --- | --- |
-| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | 提供了 [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans#service-pack)。 |
+| 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | 提供了 [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans#service-pack)。 |
+| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | 提供了 [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
 | 2020 年 11 月 25 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=zh-Hans#dynamic)。 |
 | 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 7 | 提供了 [[!DNL Experience Manager]  6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效功能 | 您现在可以从 Dynamic Media 发送请求，以使 CDN 缓存在几分钟内过期。当您更新资产并希望这些更改立即在您的网站上生效时，此功能非常有用。<br>请参阅[通过 Dynamic Media 使 CDN 缓存失效](https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)。 |
