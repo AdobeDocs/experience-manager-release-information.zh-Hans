@@ -3,7 +3,7 @@ title: '[!DNL Adobe Experience Manager] 版本更新'
 description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。
 
-* [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans)
+* [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans)
 
 * [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans)
 
