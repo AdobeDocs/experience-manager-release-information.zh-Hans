@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 733e77a10f0003ed10a1560d0f5b20f0368cf757
 workflow-type: tm+mt
 source-wordcount: '13746'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
     <td><strong>内部版本</strong></td> 
    </tr>
    <tr> 
-    <td>2021年6月3日</td> 
+    <td>2021 年 6 月 3 日</td> 
     <td><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/release-notes/service-pack/sp-release-notes.html">适用于 AEM 6.5.9.0 的 AEM Forms Service Pack 9 Forms 附加组件包</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td> 
     <td> 
