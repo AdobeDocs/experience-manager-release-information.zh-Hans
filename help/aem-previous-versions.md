@@ -2,9 +2,9 @@
 title: 旧版 AEM、CQ 和 CRX
 description: 旧版 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
+source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '820'
 ht-degree: 100%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 100%
 
 | [!DNL Experience Manager] 版本 | Software Distribution 链接 |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.3 | [从 Software Distribution 下载 AEM-DOCS-6.3](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [从 Software Distribution 下载 AEM-DOCS-6.2](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [从 Software Distribution 下载 AEM-DOCS-6.1](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-6-1.zip) |
 | [!DNL Experience Manager] 6.0 | [从 Software Distribution 下载 AEM-DOCS-6.0](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-0.zip) |
