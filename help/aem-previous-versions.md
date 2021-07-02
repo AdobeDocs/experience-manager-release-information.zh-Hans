@@ -3,7 +3,7 @@ title: 旧版 AEM、CQ 和 CRX
 description: 旧版 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
 ht-degree: 100%
 
@@ -68,7 +68,7 @@ ht-degree: 100%
 
 ![Software Distribution 示例](assets/screen_shot_2020-07-10at161922.jpg)
 
-### 在本地实例上安装包 {#install-package-local-instance}
+### 在本地实例上安装该包 {#install-package-local-instance}
 
 >[!NOTE]
 >
