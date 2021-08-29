@@ -2,10 +2,10 @@
 title: AEM 6.2 累积修补程序包
 description: Experience Manager 6.2 累积修复包发行说明。深入了解 Experience Manager 组件的各个累积修复包中修复的问题。
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: c56b6919de7740901a7f71635ac6efd22bdf9a15
 workflow-type: tm+mt
-source-wordcount: '19975'
-ht-degree: 100%
+source-wordcount: '19969'
+ht-degree: 99%
 
 ---
 
@@ -48,8 +48,8 @@ AEM 累积修补程序包 6.2 SP1-CFP20 是 AEM 6.2 的最新累积修补程序�
 >* 添加了 Apache Commons **org.apache.commons/commons-email/1.5** 的电子邮件包，用于替换 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
 >
 >* 对于在 AEM 实例上拥有大量用户的客户，Adobe 建议通过安装文件夹来部署 CFP。
->
 
+>
 
 
 ## 包含的问题 {#issues-included}
@@ -327,7 +327,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 ### 表单 - JEE 安装程序 {#forms-jee-installer-3}
 
-#### 文档安全 {#document-security}
+#### Document Security {#document-security}
 
 * 变量以“列表”数据类型填充，子类型为字符串，但出现“无法强制对象”错误。NPR-26194：适用于 CQ-4252287 的修补程序
 * 安装 6.2-SP1-CFP15 后，无法访问水印配置。NPR-26130：适用于 CQ-4250984 的修补程序
@@ -1323,6 +1323,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 >
 >* 从 Word/Web 复制并粘贴内容到 CM 文本编辑器时，内容中显示换行符。NPR-19530
 >* CM 文本编辑器中无换行符的内容不会自动换行。NPR-19449
+
 >
 >这些问题将在以后的 CFP 中解决。
 
@@ -2248,7 +2249,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 >
 >如果您不使用 AEM Forms，请跳过此部分。
 
-#### 安装 AEM Forms 附加组件  {#install-aem-forms-add-on}
+#### 安装 AEM Forms 附加组件 {#install-aem-forms-add-on}
 
 >[!NOTE]
 >
@@ -2262,7 +2263,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 
 AEM Forms JEE 中的修复通过单独的安装程序来交付。有关在 AEM Forms JEE 上安装 CFP 的信息，请参阅[在 AEM Forms JEE 上安装 CFP](install-cfp-aem-forms-jee.md)。
 
-#### Forms Designer 安装程序  {#designer-installer}
+#### Forms Designer 安装程序 {#designer-installer}
 
 1. 要安装更新，请运行 Designer6.2.0_&lt;语言>_Cumulative_QF.msp 文件。
 1. 在“欢迎”屏幕上，单击&#x200B;**更新**。安装随即开始。
@@ -2450,5 +2451,5 @@ CFP12.1 中包含 NPR-21355。如果您安装的是 CFP12.1 或更高版本，�
 >* [AEM 6.2 发行说明](https://docs.adobe.com/docs/cn/aem/6-2/release-notes.html)
 >* [AEM 产品页面](http://www.adobe.com/solutions/web-experience-management.html)
 >* [AEM 6.2 文档](https://docs.adobe.com/content/docs/cn/aem/6-2.html)
->* [订阅](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe) [Adobe 产品更新早知道](https://docs.adobe.com/content/help/zh-Hans/release-notes/experience-cloud/current.html)
+>* [Adobe优先级产品更新](https://docs.adobe.com/content/help/zh-Hans/release-notes/experience-cloud/current.html)
 
