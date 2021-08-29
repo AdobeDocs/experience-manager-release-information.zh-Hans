@@ -1,10 +1,9 @@
 ---
 title: AEM 6.2 累积修补程序包
-description: Experience Manager 6.2 累积修复包发行说明。深入了解 Experience Manager 组件的各个累积修复包中修复的问题。
-exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-source-git-commit: c56b6919de7740901a7f71635ac6efd22bdf9a15
+description: AEM 6.2 累积修补程序包发行说明.
+source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
 workflow-type: tm+mt
-source-wordcount: '19969'
+source-wordcount: '19953'
 ht-degree: 99%
 
 ---
