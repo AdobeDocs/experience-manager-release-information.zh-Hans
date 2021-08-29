@@ -3,9 +3,9 @@ title: AEM Forms 发行版
 description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 7ad2dc86027f0c3a64922c1328f154e2fd8f403f
+source-git-commit: 90a8b515d9cb567a700714c215581361ef05f310
 workflow-type: tm+mt
-source-wordcount: '10036'
+source-wordcount: '9745'
 ht-degree: 100%
 
 ---
@@ -213,8 +213,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-WEBSPHERE-GLOBALSEC-CONFIG">AEM Websphere 全局安全配置包</a> </li> 
       <li><a href="https://licensing.adobe.com/">AEM Forms JEE 安装程序</a><sup> [1]</sup></li> 
       <li><a href="https://licensing.adobe.com/">AEM Workbench</a> <sup>[1]</sup></li> 
-      <li><a href="https://licensing.adobe.com/">AEM Designer 安装程序</a> <sup>[1]</sup></li> 
-      <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.4.0-COMPAT">AEM Forms 兼容包</a></li> 
+      <li><a href="https://licensing.adobe.com/">AEM Designer 安装程序</a> <sup>[1]</sup></li>      
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FORMS-APP-SRC-PKG">AEM Forms 应用程序源</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 引用站点包</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov 引用站点包</a></li> 
@@ -385,8 +384,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-LX">适用于 Linux 的 AEM Forms 附加组件包</a><br /> </li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-WIN">适用于 Windows 的 AEM Forms 附加组件包</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">适用于 Mac OS X 的 AEM Forms 附加组件包 [2]</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/fd/AEM-FORMS-6.4.5.0-COMPAT">AEM Forms 兼容包</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.5.0-OSX">适用于 Mac OS X 的 AEM Forms 附加组件包 [2]</a><br /> </li>      
      <li>AEM Forms JEE 安装程序 [1]<br /> </li> 
     </ul> </td> 
    <td><p>AEM Forms JEE 安装程序：6.4.0-0008_00</p> <p>AEM Forms 附加组件包：5.1.66</p> <p>AEM Forms 兼容包：<strong></strong>1.1.14</p> <br /> </td> 
@@ -417,8 +415,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-LX">适用于 Linux 的 AEM Forms 附加组件包</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-WIN">适用于 Windows 的 AEM Forms 附加组件包</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-SOL">适用于 Solaris 的 AEM Forms 附加组件包</a></li> 
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">适用于 Mac OS X 的 AEM Forms 附加组件包<sup>[2]</sup></a></li> 
-     <li>AEM Forms JEE 安装程序<sup> [1]</sup><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.1.0-FORMS-APP-SRC-PKG"></a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-OSX">适用于 Mac OS X 的 AEM Forms 附加组件包<sup>[2]</sup></a></li>      
     </ul> </td> 
    <td><p>AEM Forms 附加组件包与客户端 SDK：<strong>5.1.42</strong></p> <p>AEM Forms JEE 安装程序：<strong>6.4.0-004</strong></p> </td> 
   </tr> 
@@ -770,9 +767,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-LX" target="_blank">适用于 Linux 的 AEM Forms 附加组件包</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-WIN" target="_blank">适用于 Windows 的 AEM Forms 附加组件包</a></li> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-SOL" target="_blank">适用于 Solaris 的 AEM Forms 附加组件包</a></li>
-     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">适用于 Mac OS X 的 AEM Forms 附加组件包 </a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG" target="_blank">AEM Forms JEE 包</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-FORMS-APP-SRC-PKG" target="_blank">AEM Forms 应用程序源代码</a></li> 
+     <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-OSX">适用于 Mac OS X 的 AEM Forms 附加组件包 </a></li>      
      <li>AEM Forms 客户端 SDK <sup>[1]</sup><br /> </li> 
      <li>AEM Forms Designer <sup>[1]</sup></li> 
      <li>AEM Forms JEE 安装程序<sup> [1]</sup></li> 
@@ -785,18 +780,9 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
    <td>AEM 6.3 Forms 附加组件包</td> 
    <td><a href="https://docs.adobe.com/docs/zh-Hans/aem/6-3/deploy.html" target="_blank">AEM 6.3</a></td> 
    <td> 
-    <ul> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-AIX">适用于 AIX 的 AEM Forms 附加组件包</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-LX">适用于 Linux 的 AEM Forms 附加组件包</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-WIN">适用于 Windows 的 AEM Forms 附加组件包</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-SOL">适用于 Solaris 的 AEM Forms 附加组件包</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-Forms-6.3-OSX">适用于 Mac OS X 的 AEM Forms 附加组件包 </a><sup>[2]</sup></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-CMB">Central Migration Bridge 包</a><br /> </li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FORMS-APP-SRC-PKG">AEM Forms 应用程序源代码包</a></li> 
+    <ul>      
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/fd/AEM-DOCUMENTSECURITY-INDEXER-6.3">AEM Forms Document Security Indexer 包</a></li> 
-     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms 客户端 SDK</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-FSI-REF-SITE" target="_blank">AEM Forms FSI 引用站点包</a></li> 
-     <li><a href="https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/fd/AEM-FORMS-6.3-GOV-REF-SITE" target="_blank">AEM Forms Gov 引用站点包</a></li> 
+     <li><a href="https://repo.adobe.com/nexus/content/groups/public/com/adobe/aemfd/aemfd-client-sdk/6.3.0/aemfd-client-sdk-6.3.0.jar" target="_blank">AEM Forms 客户端 SDK</a></li>      
     </ul> </td> 
    <td><p>AEM Forms 附加组件包与客户端 SDK：<strong>4.0.74</strong></p> <p>Central Migration Bridge 包：<strong>5.0.10</strong></p> <p>AEM Forms 应用程序源：<strong>3.1.12</strong></p> <p>AEM Forms Document Security Indexer：<strong>2.0.4</strong></p> <p>AEM Forms FSI 引用站点包：<strong>aemfd: cq-we-finance-pkg:3.0.6</strong></p> <p>AEM Forms Gov 引用站点包：<strong>day/cq60/fd: cq -we-gov-all-pkg:4.0.8</strong></p> </td> 
   </tr> 
