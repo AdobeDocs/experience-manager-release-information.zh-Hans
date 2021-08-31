@@ -1,9 +1,9 @@
 ---
 title: AEM 6.2 累积修补程序包
 description: AEM 6.2 累积修补程序包发行说明.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **产品** | Adobe Experience Manager |
 |---|---|
 | **版本** | 6.2 |
-| **发行版** | [累积修补程序包 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **发行版** | 累积修补程序包 6.2 SP1-CFP20 |
 | **先决条件** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **正式发布** | 2019 年 6 月 6 日 |
 
@@ -2206,7 +2206,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 
 * AEM 6.2 Service Pack 1 是安装 CFP 的先决条件。有关安装说明，请参阅 [AEM 6.2 Service Pack 1 发行说明](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)。
 
-* 可在 [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) 中下载累积修补程序包，您可以直接从 AEM 实例访问 Software Distribution。
+* 可在 [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) 中下载累积修补程序包，您可以直接从 AEM 实例访问 Software Distribution。
 * 对于使用 RDBMK 或 MongoDB 的群集部署，可以在使用包管理器的任何创作实例上安装 CFP 包。
 
 * 在安装累积修补程序包之前，请确保拍摄快照或备份您的 AEM 实例。

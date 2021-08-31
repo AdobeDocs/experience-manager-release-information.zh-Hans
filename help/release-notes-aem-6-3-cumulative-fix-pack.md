@@ -1,9 +1,9 @@
 ---
 title: AEM 6.3 累积修补程序包
 description: AEM 6.3 累积修补程序包发行说明。
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '15916'
+source-wordcount: '15893'
 ht-degree: 99%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 99%
 | **产品** | Adobe Experience Manager |
 |---|---|
 | **版本号** | 6.3 |
-| **发行版本** | [PackageShare](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8)、[Sofware Distribution（测试版）](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip)上的累积修补程序包 6.3.3.8 |
+| **发行版本** | [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip)上的累积修补程序包6.3.3.8 |
 | **先决条件** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **正式发布** | 2020 年 3 月 5 日 |
 
@@ -1721,7 +1721,7 @@ AEM 累积修补程序包 6.3.0.1 是一个重要更新，它包括自 2017 年 
 
 ## 通过 Software Distribution 下载 CFP 说明 {#download-instructions-for-cfp-via-package-share}
 
-您可以直接从 [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8) 下载 CFP 包，或者执行以下步骤：
+您可以直接从 [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) 下载 CFP 包，或者执行以下步骤：
 
 1. 打开 [Software Distribution](https://experience.adobe.com/downloads)。您需要 Adobe ID 才能登录 Software Distribution。
 1. 点按标题菜单中的 **[!UICONTROL Adobe Experience Manager]**。
