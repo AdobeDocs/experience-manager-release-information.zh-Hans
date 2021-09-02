@@ -3,10 +3,10 @@ title: AEM Forms 发行版
 description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 2a236007b057269c3f6fab059f4a426f9b40c70a
+source-git-commit: ca29e401c462861c07befd91914f21660a0fd44a
 workflow-type: tm+mt
-source-wordcount: '10241'
-ht-degree: 99%
+source-wordcount: '10253'
+ht-degree: 98%
 
 ---
 
@@ -54,7 +54,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/Solaris/AEMForms-6.5.0-0030_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0030/WebSphere/AIX/AEMForms-6.5.0-0030_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.490/">AEM Forms 客户端 SDK</a></li>      
+      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms 客户端 SDK</a></li>      
      </ul> </td> 
     <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0030<br /> </p> AEM Forms 附加组件包：6.0.490</p> <p>客户端 SDK：6.0.490<br /> </p><p>AEM Forms 兼容包：2.0.40</p><p>AEM Forms Designer 补丁：650.017</p><p>AEM Forms on JEE嵌入包：5.0.18</p></td> 
    </tr>
@@ -67,7 +67,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">适用于 Linux 的 AEM Forms 附加组件包</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">适用于 Windows 的 AEM Forms 附加组件包</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.434.zip">适用于 Mac OS X 的 AEM Forms 附加组件包 [2]</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">LiveCycle 嵌入包</a></li>      
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">AEM Forms on JEE嵌入包</a></li>      
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms Workbench</a></li>      
       <br><b>JEE 补丁安装程序</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/jboss/Win/AEMForms-6.5.0-0028_jboss_win.zip">JBoss Windows</a></li>
@@ -82,7 +82,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms 客户端 SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0028<br /> </p> AEM Forms 附加组件包：6.0.434</p> <p>客户端 SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>LiveCycle 嵌入包：5.0.14</p></td> 
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0028<br /> </p> AEM Forms 附加组件包：6.0.434</p> <p>客户端 SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE嵌入包：5.0.14</p></td> 
    </tr>
    <tr> 
     <td>2021 年 3 月 18 日</td> 
@@ -506,7 +506,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
  </tbody> 
 </table>
 
-`[1]` 联系 [Adobe 支持团队](https://www.adobe.com/account/sign-in.supportportal.html)以获取 AEM [!DNL Forms JEE]、AEM [!DNL Forms] 客户端 SDK、[!DNL LiveCycle] 嵌入包、AEM [!DNL Forms Designer]、RMCSDK、PPL 以及增强型 PPL 的安装程序。
+`[1]` 联系 [Adobe 支持团队](https://www.adobe.com/account/sign-in.supportportal.html)以获取 AEM [!DNL Forms JEE]、AEM [!DNL Forms] 客户端 SDK、[!DNL AEM Forms on JEE] 嵌入包、AEM [!DNL Forms Designer]、RMCSDK、PPL 以及增强型 PPL 的安装程序。
 
 `[2]` 适用于 Mac OS X 的 AEM [!DNL Forms] 附加组件包在生产环境中不受支持，应当仅将其用于演示目的。PDF 生成器功能不适用于 Mac OS X 包。
 
@@ -743,10 +743,10 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3.1.1-OSX">适用于 Mac OS X 的 AEM Forms 附加组件包</a><sup> [2]</sup></li> 
      <li>AEM Forms JEE 安装程序 <sup>[1]</sup></li> 
      <li>AEM Forms 客户端 SDK <sup>[1]</sup></li> 
-     <li>LiveCycle 嵌入包 <sup>[1] [3]</sup></li> 
+     <li>AEM Forms on JEE嵌入包<sup>[1] [3]</sup></li> 
      <li>AEM Forms 应用程序源<sup> [1]</sup></li> 
     </ul> </td> 
-   <td><p>AEM Forms 附加组件包与客户端 SDK：<strong>4.1.36</strong></p> <p>AEM Forms JEE 安装程序：<strong>6.3.0-0013</strong></p> <p> LiveCycle 嵌入包：<strong>4.0.20</strong></p> <p>AEM Forms 应用程序源：<strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
+   <td><p>AEM Forms 附加组件包与客户端 SDK：<strong>4.1.36</strong></p> <p>AEM Forms JEE 安装程序：<strong>6.3.0-0013</strong></p> <p> AEM Forms on JEE嵌入包：<strong>4.0.20</strong></p> <p>AEM Forms 应用程序源：<strong>3.1.16</strong></p> <p> </p> <p> </p> </td> 
   </tr> 
   <tr> 
    <td>2017 年 10 月 13 日</td> 
@@ -817,11 +817,11 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
 </table>
 
 `[1]`
-联系 [Adobe 支持团队](https://www.adobe.com/account/sign-in.supportportal.html)以获取 AEM [!DNL Forms] JEE、AEM [!DNL Forms] 客户端 SDK、[!DNL LiveCycle] 嵌入包、AEM [!DNL Forms Designer]、RMCSDK、PPL 以及增强型 PPL 的安装程序。
+联系 [Adobe 支持团队](https://www.adobe.com/account/sign-in.supportportal.html)以获取 AEM [!DNL Forms] JEE、AEM [!DNL Forms] 客户端 SDK、[!DNL AEM Forms on JEE] 嵌入包、AEM [!DNL Forms Designer]、RMCSDK、PPL 以及增强型 PPL 的安装程序。
 
 `[2]` 适用于 Mac OS X 的 AEM [!DNL Forms] 附加组件包在生产环境中不受支持，应当仅将其用于演示目的。PDF 生成器功能不适用于 Mac OS X 包。
 
-`[3]` **重要信息**：在安装 LiveCycle 嵌入包之前，请安装 [AEM 累积修补程序包 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) 并确保 **Apache Sling 身份验证服务**&#x200B;包的版本是 1.4.0 或更高版本，否则，服务器可能会变得无响应且无法恢复。可以在 `http://[server]:[port]/system/console/bundles` 中检查包版本。
+`[3]` **重要信息**:在JEE嵌入包上安装AEM Forms之前，请安 [装AEM累积修补程序包6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) ，并确保 **Apache Sling身份验证** 服务包的版本是1.4.0或更高版本，否则，服务器可能会变得无响应且无法恢复。可以在 `http://[server]:[port]/system/console/bundles` 中检查包版本。
 
 <!--
 ## AEM 6.2 [!DNL Forms] releases {#aem-62-forms-releases}
