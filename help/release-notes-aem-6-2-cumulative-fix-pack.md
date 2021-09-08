@@ -1,10 +1,10 @@
 ---
 title: AEM 6.2 累积修补程序包
-description: AEM 6.2 累积修补程序包发行说明.
+description: AEM 6.2 累积修补程序包发行说明。
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 99%
 <!-- TBD: Should we keep this article published after AEM 6.2 content is archived via UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
 -->
 
-## 发行信息 {#release-information}
+## 发行版信息 {#release-information}
 
 | **产品** | Adobe Experience Manager |
 |---|---|
@@ -34,7 +34,7 @@ Adobe 引入了统一交付模式，用于发布修补程序。现在，Adobe �
 
 ## 关于此发行版 {#about-the-release}
 
-AEM 累积修补程序包 6.2 SP1-CFP20 是 AEM 6.2 的最新累积修补程序包，它是一个重要更新，包括自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
+AEM 累积修补程序包 6.2 SP1-CFP20 是 AEM 6.2 的最新累积修补程序包，它是一个重要更新，包括自 [AEM 6.2 SP1](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
 
 >[!CAUTION]
 >
@@ -108,7 +108,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 ### 累积修补程序包 19 {#cumulative-fix-pack-1}
 
-AEM 累积修补程序包 6.2 SP1-CFP19 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
+AEM 累积修补程序包 6.2 SP1-CFP19 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
 
 此累积修补程序包的主要功能亮点包括：
 
@@ -183,7 +183,7 @@ AEM 6.2 SP1-CFP19 中包含的内容包列表
 
 ### 累积修补程序包 18 {#cumulative-fix-pack-2}
 
-AEM 累积修补程序包 6.2 SP1-CFP18 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
+AEM 累积修补程序包 6.2 SP1-CFP18 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
 
 此累积修补程序包的主要功能亮点包括：
 
@@ -251,7 +251,7 @@ AEM 6.2 SP1-CFP18 中包含的内容包列表
 
 ### 累积修补程序包 17 {#cumulative-fix-pack-3}
 
-AEM 累积修补程序包 6.2 SP1-CFP17 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
+AEM 累积修补程序包 6.2 SP1-CFP17 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
 
 此累积修补程序包的主要功能亮点包括：
 
@@ -275,7 +275,7 @@ AEM 累积修补程序包 6.2 SP1-CFP17 是一个重要更新，它包括自 [AE
 * 激活页面后，发布与设计导入程序组件关联的资源时出现问题。NPR-25638：适用于 CQ-102532 的修补程序
 * RTE 富文本工具栏包含选择列表。NPR-25165：适用于 CQ-4248948 的修补程序
 * 将 ContextHub 迁移到 jQuery 3。NPR-25059：适用于 Granite-19902 的修补程序
-* 对于 Parsys 嵌套组件，始终从多个可用组件中应用第一个（具有最少的嵌套路径）令人满意的设计。有关更多信息，请参阅[设计路径解析](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/page-templates-static.html)。NPR-25250：适用于 CQ-4246276 的修补程序
+* 对于 Parsys 嵌套组件，始终从多个可用组件中应用第一个（具有最少的嵌套路径）令人满意的设计。有关更多信息，请参阅[设计路径解析](https://helpx.adobe.com/cn/experience-manager/6-3/sites/developing/using/page-templates-static.html)。NPR-25250：适用于 CQ-4246276 的修补程序
 
 ### 集成 {#integration-3}
 
@@ -324,9 +324,9 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 * 发布页面时，不相关的表单资产报告为引用。NPR-26167：适用于 CQ-4251004 的修补程序
 
-### 表单 - JEE 安装程序 {#forms-jee-installer-3}
+### Forms - JEE 安装程序 {#forms-jee-installer-3}
 
-#### Document Security {#document-security}
+#### 文档安全 {#document-security}
 
 * 变量以“列表”数据类型填充，子类型为字符串，但出现“无法强制对象”错误。NPR-26194：适用于 CQ-4252287 的修补程序
 * 安装 6.2-SP1-CFP15 后，无法访问水印配置。NPR-26130：适用于 CQ-4250984 的修补程序
@@ -343,7 +343,7 @@ AEM 6.2 SP1-CFP17 中包含的内容包列表
 
 ### 累积修补程序包 16 {#cumulative-fix-pack-4}
 
-AEM 累积修补程序包 6.2 SP1-CFP16 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
+AEM 累积修补程序包 6.2 SP1-CFP16 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
 
 此累积修补程序包的主要功能亮点包括：
 
@@ -423,7 +423,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 * (OSGi) AEM Forms OSGi 受 Jackson 数据绑定安全警报影响。NPR-24274：适用于 CQ-4230245 的修补程序
 
-#### 权限管理 {#rights-management}
+#### Rights Management {#rights-management}
 
 * 安装 AEM 6.2 SP1-CFP14 后，Apache POI 失败。NPR-25054、NPR-25052：适用于 CQ-4245898、CQ-4244778 的修补程序
 
@@ -455,7 +455,7 @@ AEM 6.2 SP1-CFP16 中包含的内容包列表
 
 ### 累积修补程序包 15 {#cumulative-fix-pack-5}
 
-AEM 累积修补程序包 6.2 SP1-CFP15 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
+AEM 累积修补程序包 6.2 SP1-CFP15 是一个重要更新，它包括自 [AEM 6.2 SP1](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes/sp1.html) 正式发布以来的一些关键客户修补程序。
 
 此累积修补程序包的主要功能亮点包括：
 
@@ -786,7 +786,7 @@ AEM 累积修补程序包 6.2 SP1-CFP12.1 是一个重要更新，它包括自 A
 
 * 添加 Target 框架时，在编辑器的“选择模式”列表中无法使用“定位”模式。NPR-21047
 
-### Mobile On-Demand {#mobile-on-demand-1}
+### Mobile-on-demand {#mobile-on-demand-1}
 
 * (Digital Publishing Suite) AEM 中作品集的出版日期与 Folio Producer 中显示的日期不匹配。NPR-21145
 
@@ -1133,7 +1133,7 @@ AEM 6.2 SP1-CFP9 中更新的内容包列表
 
 [获取文件](assets/do-not-localize/content_package-list62sp1-cfp9.txt)
 
-AEM 6.2 SP1-CFP9 中包含的 OSGi 包列表
+AEM 6.2 SP1-CFP9 中更新的 OSGi 包列表
 
 [获取文件](assets/do-not-localize/content_package-list62sp1-cfp9-1.txt)
 
@@ -1227,7 +1227,7 @@ AEM 累积修补程序包 6.2 SP1-CFP8 是一个重要更新，它包括自 AEM 
 
 ## CFP8 中包含的 OSGi 包 {#osgi-bundles-included-in-cfp}
 
-AEM 6.2 SP1-CFP8 中包含的 OSGi 包列表
+AEM 6.2 SP1-CFP8 中更新的 OSGi 包列表
 
 [获取文件](assets/do-not-localize/updated-bundles-list-cfp8.txt)
 
@@ -1345,7 +1345,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 ## CFP7 中包含的 OSGi 包 {#osgi-bundles-included-in-cfp-1}
 
-AEM 6.2 SP1-CFP7 中包含的 OSGi 包列表
+AEM 6.2 SP1-CFP7 中更新的 OSGi 包列表
 
 [获取文件](assets/do-not-localize/bundle-list-6_2sp1cfp7.txt)
 
@@ -1495,7 +1495,7 @@ AEM 累积修补程序包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 
 * 在慢速连接中，选择资产并单击“开发人员工具”并不总是会在操作栏中显示工具栏操作，并且必须重新加载页面。NPR-17568：适用于 CQ-108365 的修补程序
 * 操作栏应更新为使用两个容器：coral-actionbar-primary 和 coral-actionbar-secondary，而不是一个 coral-actionbar-container。NPR-17591：适用于 GRANITE-15225 的修补程序
 
-### Mobile On-Demand {#mobile-on-demand-2}
+### Mobile-on-demand {#mobile-on-demand-2}
 
 * 对 AEM Mobile 应用程序具有“只读”权限的用户无法从 AEM Mobile 内容管理页面预览内容。NPR-17390：适用于 CQ-4209690 的修补程序
 
@@ -1635,7 +1635,7 @@ AEM 累积修补程序包 6.2 SP1-CFP4 是一个重要更新，它包括自 AEM 
 
 * 测试 AEM 营销活动模板和修改种子地址以包含“其他数据”时，Adobe Campaign 下拉列表会在触屏 UI ContextHub 中消失。NPR-16771：适用于 CQ-105748 的修补程序
 
-### Mobile On-Demand {#mobile-on-demand-3}
+### Mobile on-demand {#mobile-on-demand-3}
 
 * 当从 AEM 创作环境预检发布时，超过 5 秒的预检操作会在 AEMM - AEM PECS 集成 Splunk 功能板上引起异常峰值，导致每秒出现大量状态请求。NPR-16908：适用于 CQ-4207055 的修补程序
 * 安装 AEM-6.2-SP1-CFP1-1.0 更新后，AEM Mobile 配置管理失败。NPR-16909：适用于 CQ-4204892 的修补程序
@@ -1799,7 +1799,7 @@ CFP3 的主要功能亮点包括：
    NPR-16611
 
 * 对于允许使用多个附件的文件附件小部件，如果在含有先前附件的小部件上提交了一个具有附件的新表单实例，则在打开添加的附件时将会显示错误代码，而不是实际内容。NPR-16258
-* 保护表单预填充服务免遭通过 `file://`、`http://` 和 `ftp://` 之类的协议进行的未经授权访问。请参阅“[使用配置管理器配置预填充服务](https://helpx.adobe.com/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)”。NPR-15414
+* 保护表单预填充服务免遭通过 `file://`、`http://` 和 `ftp://` 之类的协议进行的未经授权访问。请参阅“[使用配置管理器配置预填充服务](https://helpx.adobe.com/cn/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)”。NPR-15414
 
 * 请求在“验证”步骤中以 PDF 格式而不是 HTML 格式呈现自适应表单，并将所有附件附加到 PDF，以便打印输出可显示完整表单。NPR-9011
 
@@ -1819,7 +1819,7 @@ CFP3 的主要功能亮点包括：
 * 在资产编辑器配置中将日期显示格式更改为 `locale=en_US; dateFormat=MMM dd,yyyy;`，无法按预期起作用，并且日期格式会显示为乱码。NPR-16007
 * 即使之前设置的方式不同，重新创作时，信件中的数据链接类型也会显示为“用户”。NPR-16619
 
-**Forms门户**
+**Forms Portal**
 
 * 草稿和提交组件的升级方案不适用于数据库示例实施。NPR-16752
 
@@ -1831,7 +1831,7 @@ CFP3 的主要功能亮点包括：
 
 **流程管理 - HTML 工作区**
 
-* 保护表单预填充服务免遭通过“file://”、“http://”和“ftp://”之类的协议进行的未经授权访问。有关详细信息，请参阅[使用配置管理器配置预填充服务](https://helpx.adobe.com/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)。NPR-15434
+* 保护表单预填充服务免遭通过“file://”、“http://”和“ftp://”之类的协议进行的未经授权访问。有关详细信息，请参阅[使用配置管理器配置预填充服务](https://helpx.adobe.com/cn/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)。NPR-15434
 
 **用户管理 **
 
@@ -2196,7 +2196,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 
 >[!NOTE]
 >
->Adobe 提供的可选功能包依赖于发行版本和累积修补程序包。如果您已安装功能包，请联系 [AEM 客户关怀团队](https://helpx.adobe.com/marketing-cloud/contact-support.html)以验证与 AEM 6.2 的累积修补程序包的兼容性。
+>Adobe 提供的可选功能包依赖于发行版本和累积修补程序包。如果您已安装功能包，请联系 [AEM 客户关怀团队](https://helpx.adobe.com/cn/marketing-cloud/contact-support.html)以验证与 AEM 6.2 的累积修补程序包的兼容性。
 
 >[!NOTE]
 >
@@ -2227,7 +2227,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 可以通过以下方式将 CFP 自动安装到正在运行的实例中：
 
 * 在服务器运行时，将包放入 ../crx-quickstart/install 中。包会自动进行安装。
-* 使用[包管理器中的 HTTP API](https://helpx.adobe.com/experience-manager/6-2/sites/administering/using/package-manager.html) – 确保使用 `cmd=install&recursive=true` – 这会安装嵌套包。
+* 使用[包管理器中的 HTTP API](https://helpx.adobe.com/cn/experience-manager/6-2/sites/administering/using/package-manager.html) – 确保使用 `cmd=install&recursive=true` – 这会安装嵌套包。
 
 ### 验证安装 {#validate-installation}
 
@@ -2256,7 +2256,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 
 1. 确保您已安装 AEM 6.2 SP1 CFP 包。
 1. 下载适用于您的操作系统的 [AEM Forms 发行版](aem-forms-releases.md)中列出的相应 Forms 附加组件包。
-1. 按照[安装 AEM Forms 附加组件包](https://helpx.adobe.com/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html)中的所述安装 Forms 附加组件包。
+1. 按照[安装 AEM Forms 附加组件包](https://helpx.adobe.com/cn/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html)中的所述安装 Forms 附加组件包。
 
 #### 安装 AEM Forms JEE 包 {#install-aem-forms-jee-bundles-package}
 
@@ -2332,7 +2332,7 @@ CFP12.1 中包含 NPR-21355。如果您安装的是 CFP12.1 或更高版本，�
 
 1. 创建位于 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ 的 jsafeFIPS.jar 文件、jsafeJCEFIPS.jar 文件和 certjFIPS.jar 文件的备份，并从上述目录中删除这些文件。
 
-   联系 [Adobe 支持团队](https://helpx.adobe.com/marketing-cloud/contact-support.html)以获取新的 JAR 文件。将 [Adobe 支持团队](https://helpx.adobe.com/marketing-cloud/contact-support.html)提供的 JAR 文件放在 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+   联系 [Adobe 支持团队](https://helpx.adobe.com/cn/marketing-cloud/contact-support.html)以获取新的 JAR 文件。将 [Adobe 支持团队](https://helpx.adobe.com/cn/marketing-cloud/contact-support.html)提供的 JAR 文件放在 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. （仅限 Windows）修改 `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` 或 `domain.conf.bat` 配置文件：
 
@@ -2445,10 +2445,10 @@ CFP12.1 中包含 NPR-21355。如果您安装的是 CFP12.1 或更高版本，�
 
 >[!MORELIKETHIS]
 >
->* [AEM 6.2 修补程序页面](https://helpx.adobe.com/experience-manager/kb/aem62-available-hotfixes.html)
+>* [AEM 6.2 修补程序页面](https://helpx.adobe.com/cn/experience-manager/kb/aem62-available-hotfixes.html)
 >* [AEM 6.2 SP1 发行说明](https://docs.adobe.com/content/docs/cn/aem/6-2/release-notes/sp1.html)
 >* [AEM 6.2 发行说明](https://docs.adobe.com/docs/cn/aem/6-2/release-notes.html)
->* [AEM 产品页面](http://www.adobe.com/solutions/web-experience-management.html)
+>* [AEM 产品页面](http://www.adobe.com/cn/solutions/web-experience-management.html)
 >* [AEM 6.2 文档](https://docs.adobe.com/content/docs/cn/aem/6-2.html)
->* [Adobe优先级产品更新](https://docs.adobe.com/content/help/zh-Hans/release-notes/experience-cloud/current.html)
+>* [Adobe 优先产品更新](https://docs.adobe.com/content/help/zh-Hans/release-notes/experience-cloud/current.html)
 
