@@ -4,7 +4,7 @@ description: 在 AEM Forms JEE 上安装和配置累积修补程序包 (CFP) 的
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1044'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # 在 AEM [!DNL  Forms] JEE 上安装累积修补程序包{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
-## 在 AEM 6.3 [!DNL Forms JEE] 上安装 CFP  {#install-cfp-forms-6-3}
+## 在 AEM 6.3 [!DNL Forms JEE] 上安装 CFP {#install-cfp-forms-6-3}
 
 按照指定的顺序，执行以下步骤，在 AEM 6.3 [!DNL Forms JEE] 上安装累积修补程序包。
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### 安装 AEM [!DNL Forms JEE] 包 {#install-aem-forms-jee-bundles-package}
 
-AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）为 AEM [!DNL Forms] 上的 [!DNL Forms JEE] 用户提供了与 AEM [!DNL Forms OSGi] 上相同的权限和功能。检查包管理器中已安装的包，如果尚未安装，请安装包。
+AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）为 [!DNL Forms] 用户（AEM [!DNL Forms JEE] 上）提供了与 AEM [!DNL Forms OSGi] 上相同的权限和功能。 检查包管理器中已安装的包，如果尚未安装，请安装包。
 
 ### CQ-4208044 的附加说明 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）�
 
 1. 再次导入修改后的文件，然后重新运行同步。
 
-## 在 AEM 6.2 [!DNL  Forms JEE] 上安装 CFP  {#install-cfp-on-aem-62-forms-jee}
+## 在 AEM 6.2 [!DNL  Forms JEE] 上安装 CFP {#install-cfp-on-aem-62-forms-jee}
 
 按照指定的顺序，执行以下步骤，在 AEM 6.2 [!DNL Forms JEE] 上安装累积修补程序包。
 
@@ -46,16 +46,16 @@ AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）�
 >
 >如果您在 AEM 6.2 [!DNL Forms OSGi] 上，请按照 [AEM 6.2 CFP 发行说明](release-notes-aem-6-2-cumulative-fix-pack.md)中的安装说明操作。
 
-1. 联系 [Adobe 支持人员](https://www.adobe.com/account/sign-in.supportportal.html)以获取 AEM 6.2 [!DNL Forms JEE] CFP 安装程序。
+1. 联系 [Adobe 支持人员](https://www.adobe.com/cn/account/sign-in.supportportal.html)以获取 AEM 6.2 [!DNL Forms JEE] CFP 安装程序。
 1. 运行 CFP 安装程序，并按照[安装和配置 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中的所述配置 AEM [!DNL Forms JEE]。
 1. 安装 AEM 修补程序 12785 版本 7.0。
-1. 安装 [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/zh-Hans/aem/6-2/release-notes/sp1.html)。
+1. 安装 [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)。
 1. 安装最新的 [AEM 6.2 Service Pack1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md)。
 1. 安装适用于 [AEM 6.2 Service Pack 1 CFP](aem-forms-releases.md) 的 [!DNL Forms] 附加组件包。
 
 ### 安装 AEM [!DNL Forms JEE] 包 {#install-aem-forms-jee-bundles-package-1}
 
-AEM Forms JEE 包（aemfd-jee-bundles-package-6.2CFP5；版本 1.0.2）为 AEM [!DNL Forms] 上的 [!DNL Forms JEE] 用户提供了与 AEM [!DNL Forms OSGi] 上相同的权限和功能。检查包管理器中已安装的包，如果尚未安装，请安装包。
+AEM Forms JEE 包（aemfd-jee-bundles-package-6.2CFP5；版本 1.0.2）为 [!DNL Forms] 用户（AEM [!DNL Forms JEE] 上）提供了与 AEM [!DNL Forms OSGi] 上相同的权限和功能。 检查包管理器中已安装的包，如果尚未安装，请安装包。
 
 ### 为组件级别的操作配置超时 (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
