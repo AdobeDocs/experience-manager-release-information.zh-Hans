@@ -2,10 +2,10 @@
 title: 旧版 AEM、CQ 和 CRX
 description: 旧版 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
-workflow-type: ht
+source-git-commit: c18f6ccda6945de5fe36c49421c549b5361dec16
+workflow-type: tm+mt
 source-wordcount: '820'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ## 旧版 [!DNL Experience Manager] 文档 {#older-version-aem-documentation}
 
-本页面上列出的 [!DNL Experience Manager]、CQ 和 CRX 版本已结束其产品周期，Adobe 官方将不再销售这些版本。您可以根据需要查阅我们针对这些旧版本最后发布的一版官方文档以进行自助。我们建议您升级到最新版本（目前为 [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html?lang=zh-Hans)）。
+本页面上列出的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已结束其产品周期，Adobe 官方将不再销售这些版本。您可以根据需要查阅我们针对这些旧版本最后发布的一版官方文档以进行自助。我们建议您升级到最新版本 — [[!DNL Adobe Experience Manager] 作为Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。
 
 >[!NOTE]
 >
