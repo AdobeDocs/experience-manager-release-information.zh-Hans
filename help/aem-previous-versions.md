@@ -3,9 +3,9 @@ title: 旧版 AEM、CQ 和 CRX
 description: 旧版 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: c18f6ccda6945de5fe36c49421c549b5361dec16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 98%
 
 ## 旧版 [!DNL Experience Manager] 文档 {#older-version-aem-documentation}
 
-本页面上列出的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已结束其产品周期，Adobe 官方将不再销售这些版本。您可以根据需要查阅我们针对这些旧版本最后发布的一版官方文档以进行自助。我们建议您升级到最新版本 — [[!DNL Adobe Experience Manager] 作为Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。
+本页面上列出的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已结束其产品周期，Adobe 官方将不再销售这些版本。您可以根据需要查阅我们针对这些旧版本最后发布的一版官方文档以进行自助。我们建议您升级至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。
 
 >[!NOTE]
 >
->要了解 [!DNL Experience Manager] 版本何时将结束核心支持，请参阅[产品和技术支持时段](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)并搜索 `AEM`。
+>要了解 [!DNL Experience Manager] 版本核心支持结束时间，请参阅[产品和技术支持时段](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)并搜索 `AEM`。
 
 ### 安装之前 {#before-installation}
 
