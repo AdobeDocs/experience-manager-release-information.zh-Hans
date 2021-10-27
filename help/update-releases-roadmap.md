@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4fbe23dcd632ed39fee44b84c18d4d71a3447b1d
+source-git-commit: 92a62256c873371aa95c2afce1d7b02773e9f3b7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '323'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,11 @@ ht-degree: 0%
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 2021 年 11 月 25 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 2022年2月24日 |
+| [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 2022年5月26日 |
+| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 2022年8月25日 |
+| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 2022年11月24日 |
+
 
 >[!NOTE]
 >
