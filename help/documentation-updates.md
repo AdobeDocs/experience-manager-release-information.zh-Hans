@@ -3,10 +3,10 @@ title: '[!DNL Experience Manager] 近期文档更新'
 description: ' [!DNL Experience Manager]  文档中的新增内容、更新内容或修改内容'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: a64bc67f185aaefd41d9376e1119e72a56cce598
 workflow-type: tm+mt
-source-wordcount: '4430'
-ht-degree: 100%
+source-wordcount: '4506'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 100%
 
 | 日期 | 主题 | 所做更改 |
 | --- | --- | --- |
+| 2021 年 11 月 25 日 | AEM with Dynamic Media — 配置 | 现在，您可以在AEM上的Dynamic Media中直接配置“常规设置”和“发布设置”，而无需使用Dynamic Media桌面应用程序。<br>请参阅 [配置Dynamic Media常规设置](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html) 和 [为图像服务器配置Dynamic Media发布设置](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html).<br>另请参阅 [配置Dynamic Media - Scene7模式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html) |
 | 2021 年 11 月 4 日 | 带 Dynamic Media 的 AEM - 智能裁切 | 使用最新的 Adobe Sensei 服务改进了图像资源的智能裁切和智能色板功能。文档更新包括以下内容：<br>• 在图像配置文件的“裁切选项”对话框中新增了&#x200B;**[!UICONTROL 跨目标分辨率保留裁切内容]**&#x200B;选项。<br>• 在手动重新对齐多个资源的智能裁切窗口或调整其大小时，即使您稍后决定重新处理这些资源，也会维护并保留所做的这些编辑。不过，如果您在图像配置文件的&#x200B;**[!UICONTROL 响应式图像裁切]**&#x200B;区域中编辑宽度和/或高度，则这些资源需要重新处理。<br>• 新的智能裁切和色板支持的图像文件格式表。<br>有关这些更新，请参阅[图像配置文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/image-profiles.html)。 |
 | 2021 年 11 月 3 日 | 智能裁切视频查看器 API | Dynamic Media 查看器参考指南中现在提供了新的[智能裁切视频查看器 API 文档](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=en)。 |
 | 2020 年 12 月 2 日 | 批次集预设 | 了解如何使用 Dynamic Media 中的批次集预设自动创建图像集和旋转集。请参阅[批次集预设](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html?lang=zh-Hans#dynamicmedia)。 |
@@ -70,7 +71,7 @@ ht-degree: 100%
 | 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 10 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
 | 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
 | 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
-| 2020 年 11 月 25 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=zh-Hans#dynamic)。 |
+| 2020 年 11 月 25 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)。 |
 | 2020 年 11 月 26 日 | Experience Manager 6.5 Service Pack 7 | 现已推出 [Experience Manager 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack)。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效功能 | 您现在可以从 Dynamic Media 发送请求，以使 CDN 缓存在几分钟内过期。当您更新资产并希望这些更改立即在您的网站上生效时，此功能非常有用。<br>请参阅[通过 Dynamic Media 使 CDN 缓存失效](https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)。 |
 | 2020 年 9 月 3 日 | 使用 Dynamic Media 中的“选择性发布”功能 | 您可以选择在文件夹级别向 Experience Manager 或 Dynamic Media 发布资产或从中取消发布资产。您可以通过使用&#x200B;**[!UICONTROL 管理出版物]**&#x200B;或&#x200B;**[!UICONTROL 快速发布]**&#x200B;来完成此任务，而不是仅依赖 **Dynamic Media 配置**，其设置全局适用于 Dynamic Media 实例中的所有文件夹。<br>请参阅[使用 Dynamic Media 中的“选择性发布”功能](https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/assets/dynamic/selective-publishing.html)。 |
