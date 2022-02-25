@@ -1,8 +1,8 @@
 ---
-title: '[!DNL Adobe Experience Manager] 版本更新和路线图'
-description: '[!DNL Adobe Experience Manager] 版本更新和路线图'
+title: '"[!DNL Adobe Experience Manager] 版本更新和路线图"'
+description: '"[!DNL Adobe Experience Manager] 版本更新和路线图"'
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
