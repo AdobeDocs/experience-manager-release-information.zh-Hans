@@ -3,9 +3,9 @@ title: '"[!DNL Adobe Experience Manager] 版本发行路线图"'
 description: '"[!DNL Adobe Experience Manager] 版本发行路线图"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 80%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 对于新增功能，通常遵循每月一次的发行频率。 即将发布的 [!DNL Experience Manager] as a [!DNL Cloud Service]计划如下。
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 的新增功能通常保持每月一次的发行频率。即将计划发行的 [!DNL Experience Manager] as a [!DNL Cloud Service] 功能版本如下所示。
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 功能发布 | 2022 年 3 月 31 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 功能发布 | 2022 年 4 月 28 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 功能发布 | 2022 年 5 月 26 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 功能版本 | 2022 年 3 月 31 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 功能版本 | 2022 年 4 月 28 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 功能版本 | 2022 年 5 月 26 日 |
 
-除了功能发布之外，还提供了 [!DNL Experience Manager] as a [!DNL Cloud Service] 以维护版本的形式，通常每周进行一次相应的维护更新。
+除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中还以维护版本的形式提供了重要的错误修复和安全修复，相应的维护更新通常每周进行一次。
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
