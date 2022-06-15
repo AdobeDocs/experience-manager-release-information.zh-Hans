@@ -1,25 +1,25 @@
 ---
-title: 在 AEM Forms JEE 上安装累积修补程序包
-description: 在 AEM Forms JEE 上安装和配置累积修补程序包 (CFP) 的步骤概述
+title: 在 AEM Forms JEE 上安装累积修订包
+description: 在 AEM Forms JEE 上安装和配置累积修订包 (CFP) 的步骤概述
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# 在 AEM [!DNL  Forms] JEE 上安装累积修补程序包{#installing-cumulative-fix-packs-on-aem-forms-jee}
+# 在 AEM [!DNL  Forms] JEE 上安装累积修订包{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## 在 AEM 6.3 [!DNL Forms JEE] 上安装 CFP {#install-cfp-forms-6-3}
 
-按照指定的顺序，执行以下步骤，在 AEM 6.3 [!DNL Forms JEE] 上安装累积修补程序包。
+按照指定的顺序，执行以下步骤，在 AEM 6.3 [!DNL Forms JEE] 上安装累积修订包。
 
 1. 联系 [Adobe 支持人员](https://www.adobe.com/cn/account/sign-in.supportportal.html)以获取 AEM 6.3 [!DNL Forms JEE] CFP 安装程序。
 1. 运行 CFP 安装程序，并按照[安装和配置 AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) 中的所述配置 AEM [!DNL Forms JEE]。
 1. 安装最新的 AEM CFP 6.3.3.x
-1. 安装适用于 AEM CFP [6.3.3.x](aem-forms-releases.md) 的 [!DNL Forms] 附加组件包
+1. 安装[!DNL Forms]适用于 AEM CFP [6.3.3.x](aem-forms-releases.md) 的附加组件包
 
 ### 安装 AEM [!DNL Forms JEE] 包 {#install-aem-forms-jee-bundles-package}
 
@@ -40,13 +40,13 @@ AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）�
 
 ## 在 AEM 6.2 [!DNL  Forms JEE] 上安装 CFP {#install-cfp-on-aem-62-forms-jee}
 
-按照指定的顺序，执行以下步骤，在 AEM 6.2 [!DNL Forms JEE] 上安装累积修补程序包。
+按照指定的顺序，执行以下步骤，在 AEM 6.2 [!DNL Forms JEE] 上安装累积修订包。
 
-1. 联系 [Adobe 支持人员](https://www.adobe.com/account/sign-in.supportportal.html)以获取 AEM 6.2 [!DNL Forms JEE] CFP 安装程序。
+1. 联系 [Adobe 支持人员](https://www.adobe.com/cn/account/sign-in.supportportal.html)以获取 AEM 6.2 [!DNL Forms JEE] CFP 安装程序。
 1. 运行 CFP 安装程序，并按照[安装和配置 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中的所述配置 AEM [!DNL Forms JEE]。
 1. 安装 AEM 修补程序 12785 版本 7.0。
 1. 安装 AEM 6.2 Service Pack 1。
-1. 安装最新的发行说明 — aem-6-2-cumulative-fix-pack.md。
+1. 安装最新的 release-notes-aem-6-2-cumulative-fix-pack.md。
 1. 安装适用于 AEM 6.2 Service Pack 1 CFP 的 [!DNL Forms] 附加组件包。
 
 ### 安装 AEM [!DNL Forms JEE] 包 {#install-aem-forms-jee-bundles-package-1}
