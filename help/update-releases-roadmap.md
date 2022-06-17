@@ -3,9 +3,9 @@ title: '"[!DNL Adobe Experience Manager] 版本发行路线图"'
 description: '"[!DNL Adobe Experience Manager] 版本发行路线图"'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 75f742e3caa864803ddbbc47cc43fae4cbe52a4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 98%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 的新增功能通常保持每月一次的发行频率。即将计划发行的 [!DNL Experience Manager] as a [!DNL Cloud Service] 功能版本如下所示。
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 的新增功能通常保持每月一次的发行频率。即将计划发行的 [!DNL Experience Manager] as a [!DNL Cloud Service] 功能版本如下所示。
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.6.0 | 2022.6.0 | 功能版本 | 2022 年 6 月 30 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.7.0 | 2022.7.0 | 功能版本 | 2022年7月28日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | 功能版本 | 2022年8月25日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 | 2022.9.0 | 功能版本 | 2022 年 9 月 29 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 功能版本 | 2022年10月27日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 | 2022.11.0 | 功能版本 | 2022年11月17日 |
+| [!DNL Experience Manager] 作为 [!DNL Cloud Service] 2022.6.0 | 2022.6.0 | 功能版本 | 2022 年 6 月 30 日 |
+| [!DNL Experience Manager] 作为 [!DNL Cloud Service] 2022.7.0 | 2022.7.0 | 功能版本 | 2022年 7 月 28 日 |
+| [!DNL Experience Manager] 作为 [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | 功能版本 | 2022 年 8 月 25 日 |
+| [!DNL Experience Manager] 作为 [!DNL Cloud Service] 2022.9.0 | 2022.9.0 | 功能版本 | 2022 年 9 月 29 日 |
+| [!DNL Experience Manager] 作为 [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 功能版本 | 2022 年 10 月 27 日 |
+| [!DNL Experience Manager] 作为 [!DNL Cloud Service] 2022.11.0 | 2022.11.0 | 功能版本 | 2022 年 11 月 17 日 |
 
 除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中还以维护版本的形式提供了重要的错误修复和安全修复，相应的维护更新通常每周进行一次。
 
@@ -38,7 +38,7 @@ ht-degree: 98%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的 Service Pack 的详细信息，请参阅 [[!DNL Experience Manager]  6.5 Service Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans)。
+[!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的 Service Pack 的详细信息，请参阅 [[!DNL Experience Manager]  6.5 Service Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)。
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
@@ -54,7 +54,7 @@ ht-degree: 98%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是适用于 [!DNL Experience Manager] 6.4 的最新 CFP。有关最新发布的 CFP 的详细信息，请参阅 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=zh-Hans)。
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是适用于 [!DNL Experience Manager] 6.4 的最新 CFP。有关最新发布的 CFP 的详细信息，请参阅 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。
 
 >[!MORELIKETHIS]
 >
