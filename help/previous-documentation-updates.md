@@ -4,9 +4,9 @@ description: 本页列出了以前对  [!DNL Adobe Experience Manager] 文档做
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: d984db863b24ced14834c437b76fea80774b17d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 99%
   <tr>
    <td>2019 年 10 月 1 日</td> 
    <td>JEE 安装中的 AEM Forms </td> 
-   <td><p>添加了对 Oracle 18c 数据库驱动程序的 AEM Forms 支持。 </p> <p>平台列表：<a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>添加了对 Oracle 18c 数据库驱动程序的 AEM Forms 支持。 </p> <p>平台列表：<a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/cn/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 1 日 </td> 
@@ -156,7 +156,7 @@ ht-degree: 99%
   <tr>
    <td>2019 年 7 月 3 日</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0)</a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans">AEM 6.5 Service Pack 1 (6.5.1.0)</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 25 日</td> 
@@ -302,7 +302,7 @@ ht-degree: 99%
   <tr>
    <td>2019 年 4 月 4 日</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a>。</td> 
+   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 2 月 22 日</td> 
@@ -339,7 +339,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 12 月 20 日</td> 
    <td>AEM 6.4 Service Pack 3</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a>。</td> 
+   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 12 月 17 日</td> 
@@ -414,7 +414,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 10 月 3 日</td> 
    <td>AEM 6.4 Service Pack 2</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0)。</td> 
+   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0)。</td> 
   </tr>
   <tr>
    <td>2018 年 9 月 18 日</td> 
@@ -434,12 +434,12 @@ ht-degree: 99%
   <tr>
    <td>2018 年 8 月 24 日</td> 
    <td>富文本编辑器<br /> </td> 
-   <td>对<a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">配置 RTE</a> 一文进行了以下改进：优化了文章结构、添加了一些缺失信息、添加了工作流图示，以及对长篇文章进行了拆分。</td> 
+   <td>对<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">配置 RTE</a> 一文进行了以下改进：优化了文章结构、添加了一些缺失信息、添加了工作流图示，以及对长篇文章进行了拆分。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
    <td>单页应用程序<br /> </td> 
-   <td>更新和扩充了有关为 AEM SPA 编辑器开发<a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">单页应用程序 (SPA)</a> 这一主题的文档。<br /> </td> 
+   <td>更新和扩充了有关为 AEM SPA 编辑器开发<a href="https://helpx.adobe.com/cn/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">单页应用程序 (SPA)</a> 这一主题的文档。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 16 日</td> 
@@ -474,7 +474,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 7 月 5 日</td> 
    <td>MC-CC 集成<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">配置 AEM Assets 与 Marketing Cloud 和 Creative Cloud 的集成</a>一文中的错误修复和行文改进。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/integration/configure-assets-cc-integration.html">配置 AEM Assets 与 Marketing Cloud 和 Creative Cloud 的集成</a>一文中的错误修复和行文改进。</td> 
   </tr>
   <tr>
    <td>2018 年 7 月 5 日</td> 
@@ -489,7 +489,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 6 月 29 日</td> 
    <td>AEM 6.4.1.0</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0 </a>。</td> 
+   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0 </a>。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 25 日</td> 
@@ -509,7 +509,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 6 月 14 日</td> 
    <td>增强型智能标记</td> 
-   <td>改进了有关如何<a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">使用智能内容服务配置资产标记</a>的文档。</td> 
+   <td>改进了有关如何<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">使用智能内容服务配置资产标记</a>的文档。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 4 日</td> 
@@ -555,7 +555,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 4 月 24 日<br /> </td> 
    <td>单页应用程序<br /> </td> 
-   <td><p>单页应用程序 (SPA) 可以为网站用户提供引人入胜的良好体验。为此，开发人员希望能够使用 SPA 框架构建站点，而创作者则希望能够在 AEM 中顺畅地为以 SPA 形式构建的站点编辑内容。</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 创作功能</a>（当前为技术预览版）提供了旨在为 AEM 提供 SPA 支持的完备解决方案。</p> </td> 
+   <td><p>单页应用程序 (SPA) 可以为网站用户提供引人入胜的良好体验。为此，开发人员希望能够使用 SPA 框架构建站点，而创作者则希望能够在 AEM 中顺畅地为以 SPA 形式构建的站点编辑内容。</p> <p><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 创作功能</a>（当前为技术预览版）提供了旨在为 AEM 提供 SPA 支持的完备解决方案。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 4 月 4 日</td> 
@@ -571,7 +571,7 @@ ht-degree: 99%
 
 ## 旧版内容 {#legacy-content}
 
-自2017年10月24日起，旧版AEM文档已移至 [旧版Adobe Experience Manager、CQ和CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hans).
+截至 2017 年 10 月 24 日，AEM 文档的旧版本已移至[旧版本的 Adobe Experience Manager、CQ 和 CRX ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hans)的新位置。
 
 移动的版本包括：
 
@@ -601,7 +601,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 2 月 14 日</td> 
    <td>AEM 发行版和更新</td> 
-   <td><p>发布了包含所有可用 AEM 发行版和更新的一站式中心。该中心可链接到适用于 AEM 6.4、AEM 6.3、AEM 6.2 和 AEM 6.1 的最新累积修订包、Service Pack、功能包和修补程序。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html">AEM 发行版和更新</a>。 </p> </td> 
+   <td><p>发布了包含所有可用 AEM 发行版和更新的一站式中心。该中心可链接到适用于 AEM 6.4、AEM 6.3、AEM 6.2 和 AEM 6.1 的最新累积修订包、Service Pack、功能包和修补程序。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html">AEM 发行版本和更新</a>。 </p> </td> 
   </tr>
  </tbody>
 </table>
