@@ -1,12 +1,12 @@
 ---
-title: '"[!DNL Adobe Experience Manager] 版本更新"'
-description: '"[!DNL Adobe Experience Manager] 版本更新"'
+title: "[!DNL Adobe Experience Manager] 版本更新"
+description: "[!DNL Adobe Experience Manager] 版本更新"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: ht
-source-wordcount: '314'
-ht-degree: 100%
+source-git-commit: fddac7650badf6d04d9da72893196431e246250f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] 保持每月一次的发行频率。这表示每月都会推出新功能，以便持续更新 [!DNL Experience Manager]。
 
-有关最新版本的详细信息，请参阅 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 最新发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=zh-Hans)。您还可以在此处浏览早期版本的详细信息（按时间顺序排列）。
+有关最新版本的详细信息，请参阅 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 最新发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/aem-cloud-changes.html?lang=zh-Hans)。从此处，您还可以导航到以前版本的详细信息（按时间顺序排列）。
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
@@ -32,11 +32,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。
 
-* [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans)
-
-* [[!DNL Experience Manager]  6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans)
-
-有关引入的功能列表，请参阅 [ [!DNL Experience Manager]  6.5 Service Pack 中的新增功能](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html?lang=zh-Hans)。
+请参阅 [[!DNL Experience Manager] 6.5最新功能包](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) 以了解当前/最新版本的详细信息。 从此处，您还可以导航到以前版本的详细信息（按时间顺序排列）。
 
 ### [!DNL Experience Manager] 6.4 {#aem-64}
 
@@ -47,20 +43,3 @@ ht-degree: 100%
 * [[!DNL Experience Manager]  6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=zh-Hans)
 
 * [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=zh-Hans)
-
-### [!DNL Experience Manager] 6.3 {#aem-63}
-
-* [[!DNL Experience Manager]  6.3 Service Pack 3 Cumulative Fix Pack 8](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-3-cumulative-fix-pack.html?lang=zh-Hans)
-
-* [[!DNL Experience Manager]  6.3 Service Pack 3](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes/sp3-release-notes.html)
-
-* [[!DNL Experience Manager]  6.3](https://helpx.adobe.com/cn/experience-manager/6-3/release-notes.html)
-
-### [!DNL Experience Manager] 6.2 {#aem-62}
-
-<!-- TBD: This content will soon be archived and new links can move to aem-previous-versions.md article. See status in UGP-1894.
--->
-
-* [Experience Manager 6.2 Service Pack 1 Cumulative Fix Pack 20](https://helpx.adobe.com/cn/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
-* [Experience Manager 6.2 Service Pack 1](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes/sp1.html)
-* [Experience Manager 6.2](https://helpx.adobe.com/cn/experience-manager/6-2/release-notes.html)
