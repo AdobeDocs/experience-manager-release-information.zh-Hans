@@ -3,7 +3,7 @@ title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9e7e31227e5f4a460552a844ad90c1270db8c6f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '322'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 的新增功能通常保持每月一次的发行频率。即将计划发行的 [!DNL Experience Manager] as a [!DNL Cloud Service] 功能版本如下所示。
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 的新增功能通常保持每月一次的发行频率。即将计划发行的 [!DNL Experience Manager] as a [!DNL Cloud Service] 功能版本如下所示。
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的 Service Pack 的详细信息，请参阅 [[!DNL Experience Manager]  6.5 Service Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)。
+[!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的 Service Pack 的详细信息，请参阅 [[!DNL Experience Manager]  6.5 Service Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans)。
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
@@ -50,7 +50,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是适用于 [!DNL Experience Manager] 6.4 的最新 CFP。有关最新发布的 CFP 的详细信息，请参阅 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是适用于 [!DNL Experience Manager] 6.4 的最新 CFP。有关最新发布的 CFP 的详细信息，请参阅 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=zh-Hans)。
 
 >[!MORELIKETHIS]
 >
