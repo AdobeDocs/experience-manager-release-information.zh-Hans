@@ -3,9 +3,9 @@ title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9925f351b2a2c379ee0ba31c360d553e6902adcf
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '377'
+ht-degree: 100%
 
 ---
 
@@ -34,12 +34,12 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->**计划维护排除期**
+>**计划内的维护排除期**
 >
-> 在以下时间范围内（从午夜开始到午夜结束），不会执行自动AEMaCS维护(00:00):
+> 在欧洲中部时间午夜 (00:00) 开始和结束的以下时间范围内，不会执行自动 AEMaaCS 维护：
 >
->* 11月21日星期一至12月12日星期一
->* 12月19日星期一至1月3日星期二
+>* 11 月 21 日（星期一）至 12 月 12 日（星期一）
+>* 12 月 19 日（星期一）至 1 月 3 日（星期二）
 
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
