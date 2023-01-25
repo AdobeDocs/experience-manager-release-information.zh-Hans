@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ea146055aa89a8b69511fe0175c7a2bdac13be64
+source-git-commit: b6c0c9c1ab739d32d6c8946b01dc33ef189f5f8e
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -19,18 +19,18 @@ ht-degree: 80%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 通常针对新增功能的月度发行频率。 即将启动的功能 [!DNL Experience Manager] as a [!DNL Cloud Service]计划如下。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 的新增功能通常保持每月一次的发行频率。即将计划的 [!DNL Experience Manager] as a [!DNL Cloud Service] 功能激活如下所示。
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 功能激活 | 2022 年 11 月 10 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 功能激活 | 2023 年 1 月 25 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 功能激活 | 2023 年 2 月 2 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 功能激活 | 2023 年 2 月 23 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 功能激活 | 2023 年 3 月 30 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 功能激活 | 2023 年 4 月 27 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 功能激活 | 2023 年 5 月 25 日 |
 
-除了功能发布之外，还提供了 [!DNL Experience Manager] as a [!DNL Cloud Service] 以维护版本的形式，通常以较高频率进行相应的维护更新。
+除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中还以维护版本的形式提供了重要的错误修复和安全修复，相应的维护更新通常以更高的频率进行。
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
