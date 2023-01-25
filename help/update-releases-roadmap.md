@@ -4,8 +4,8 @@ description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b6c0c9c1ab739d32d6c8946b01dc33ef189f5f8e
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
