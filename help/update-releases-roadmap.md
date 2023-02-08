@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5d40d0382bf4c504de7a2d934276e2222faa0561
+source-git-commit: f0b0900828f9728871ab4acc28d778b845e0d559
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 100%
+source-wordcount: '345'
+ht-degree: 95%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 的新增功能通常保持每月一次的发行频率。即将计划的 [!DNL Experience Manager] as a [!DNL Cloud Service] 功能激活如下所示。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 的新增功能通常保持每月一次的发行频率。即将启动的功能 [!DNL Experience Manager] as a [!DNL Cloud Service] 计划如下。
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中还以维护版本的形式提供了重要的错误修复和安全修复，相应的维护更新通常以更高的频率进行。
 
-## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
+## [!DNL Experience Manager] 内部部署版和Managed Services {#aem-on-prem-managed-services}
 
 受支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版的产品更新（包括新增功能、增强功能和错误修复）通过季度 Service Pack 和 Cumulative Fix Pack (CFP) 提供。这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
 
