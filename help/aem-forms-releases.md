@@ -4,9 +4,9 @@ description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 7df5ca957b710be1ed37a90fd2b0dfefdc4e38d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '14217'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -32,9 +32,9 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
     <td><strong>内部版本</strong></td>
    </tr>
    <tr>
-    <td>2023年3月02日</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans">适用于 AEM 6.5.16.0 的 AEM Forms 服务包 16 Forms 附加组件包</a></td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans">AEM 6.5.16.0</a></td>
+    <td>2023 年 3 月 2 月</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html">适用于 AEM 6.5.16.0 的 AEM Forms 服务包 16 Forms 附加组件包</a></td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html">AEM 6.5.16.0</a></td>
     <td>
      <ul>
      <br><b>AEM Forms on OSGi 补丁安装程序</b></br>
