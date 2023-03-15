@@ -3,10 +3,10 @@ title: 以前的文档更新
 description: 本页列出了以前对  [!DNL Adobe Experience Manager] 文档做出的重要更改和更新。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: d984db863b24ced14834c437b76fea80774b17d8
-workflow-type: ht
-source-wordcount: '3632'
-ht-degree: 100%
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+workflow-type: tm+mt
+source-wordcount: '3650'
+ht-degree: 77%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 12 月 12 日</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/sp-release-notes.html?lang=zh-Hans">AEM 6.5 Service Pack 3</a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=en">AEM 6.5 Service Pack 3</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 12 日</td> 
@@ -51,7 +51,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>Headless 体验管理<br /> </td> 
-   <td>记录了用于在服务器端呈现单页应用程序的<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/headless/spas/spa-ssr.html?lang=zh-Hans">远程内容渲染器</a>功能。<br /> </td> 
+   <td>记录了用于在服务器端呈现单页应用程序的<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=en#remote-content-renderer">远程内容渲染器</a>功能。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 11 月 10 日</td> 
@@ -61,7 +61,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 10 月 10 日</td> 
    <td>Cloud Manager</td> 
-   <td><p>在 2019 年 10 月 10 日发布了 Cloud Manager 版本 2019.10.0。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=zh-Hans">2019.10.0 发行说明</a>，其中着重介绍了<i>新增功能</i>以及有关部署步骤和 maven 项目版本处理的更新。<br /> </p> </td> 
+   <td><p>在 2019 年 10 月 10 日发布了 Cloud Manager 版本 2019.10.0。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=en">2019.10.0 发行说明</a>，其中着重介绍了<i>新增功能</i>以及有关部署步骤和 maven 项目版本处理的更新。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 8 日</td> 
@@ -76,7 +76,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 10 月 1 日 </td> 
    <td>AEM Screens 项目的“最佳实践指南”</td> 
-   <td><p>该新指南不仅为您的数字签名实施提供了详尽的见解和实用的建议，以便您构思、设计和引入创造性的客户体验，还将指导您在 AEM Screens 中部署数字签名项目时，使用一些最佳实践对业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html">AEM Screens 项目最佳实践指南</a>，以获取更多详细信息。</p> </td> 
+   <td><p>本新指南不仅为您的数字标牌实施提供了详尽见解和实用建议，以便构想、设计和引入创意客户体验，而且还可指导您如何使用在AEM Screens中部署数字标牌项目时遵循的一些最佳实践，对业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html">AEM Screens 项目最佳实践指南</a>，以获取更多详细信息。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -101,7 +101,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 9 月 19 日</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans">AEM 6.5 Service Pack 2 (6.5.2.0)</a>。</td>
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.2.html?lang=en">AEM 6.5 Service Pack 2 (6.5.2.0)</a>。</td>
   </tr>
   <tr>
    <td>2019 年 9 月 9 日</td> 
@@ -156,32 +156,32 @@ ht-degree: 100%
   <tr>
    <td>2019 年 7 月 3 日</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hans">AEM 6.5 Service Pack 1 (6.5.1.0)</a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=en">AEM 6.5 Service Pack 1 (6.5.1.0)</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 25 日</td> 
    <td>核心组件<br /> </td> 
-   <td>现在提供了核心组件 2.5.0 版（其中包含新的“可折叠项”、“按钮”、“容器”和“下载”组件），同时还提供了<a href="https://github.com/adobe/aem-core-wcm-components">可在 GitHub 上获取的开发人员详细信息和项目下载</a>。</td> 
+   <td>现在提供了核心组件2.5.0版（其中包含新的“可折叠项”、“按钮”、“容器”和“下载”组件），同时还提供了 <a href="https://github.com/adobe/aem-core-wcm-components">可在GitHub上获取开发人员详细信息和项目下载</a>.</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 17 日<br /> </td> 
    <td>AEM Assets 与 Creative Cloud 的集成</td> 
-   <td>更新了最佳实践，并提供了业务需求、Adobe 解决方案产品和客户用例的清晰映射。新增了一张信息图，使内容更有视觉吸引力。请参阅 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">AEM Creative Cloud 集成最佳实践</a>。<br /> </td> 
+   <td>更新了最佳实践，并提供了业务需求、Adobe 解决方案产品和客户用例的清晰映射。新增了一张信息图，使内容更有视觉吸引力。请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=en" target="_blank">AEM Creative Cloud 集成最佳实践</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 6 月 3 日</td> 
    <td>富文本编辑器 (RTE)<br /> </td> 
-   <td><p>在<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">创建多字段组件</a>中添加了一个包。<br /> </p> <p>基于客户反馈创建了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">常见问题解答</a>。</p> </td> 
+   <td><p>在<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">创建多字段组件</a>中添加了一个包。<br /> </p> <p>基于客户反馈创建了<a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html?lang=en" target="_blank">常见问题解答</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 5 月 31 日</td> 
    <td>AEM 与 Magento 的集成 </td> 
-   <td><a href="https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/integrations.html">Commerce 集成框架</a>。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento.html?lang=en">Commerce 集成框架</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 24 日</td> 
    <td>AEM 6.5 中的触屏 UI 功能状态<br /> </td> 
-   <td>发布了针对 AEM 6.5 的<a href="https://helpx.adobe.com/cn/experience-manager/6-5/release-notes/touch-ui-features-status.html">触屏 UI 功能状态</a>页面<br /> </td> 
+   <td>发布了针对 AEM 6.5 的<a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=en">触屏 UI 功能状态</a>页面<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 5 月 14 日</td> 
@@ -225,7 +225,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 4 月 12 日</td> 
    <td>AEM 6.5 Screens 用户指南</td> 
-   <td><p>请参阅<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html">实施 Windows 10 Player</a>，以获取更多信息。</p> </td> 
+   <td><p>请参阅<a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/administering/installing-client/implementing-windows-player.html?lang=en">实施 Windows 10 Player</a>，以获取更多信息。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 4 月 8 日</td> 
@@ -262,7 +262,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 9 月 19 日</td> 
    <td>AEM 6.4 Service Pack 6<br /> </td> 
-   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 Service Pack 6 (6.4.6.0)</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 9 月 9 日<br /> </td> 
@@ -272,42 +272,42 @@ ht-degree: 100%
   <tr>
    <td>2019 年 9 月 6 日</td> 
    <td><strong>AEM 6.4 文档的开源</strong></td> 
-   <td><p>现在，在 GitHub 中发布了 AEM 6.4 文档。我们的读者不仅可以为页面评分和记录问题，还可以开展协作来为文档添加内容。要为文档添加内容，请阅读以下网站中的行为准则和贡献者指南：<a href="https://github.com/AdobeDocs/experience-manager-64.en" target="_blank">https://github.com/AdobeDocs/experience-manager-64.en</a>。</p> <p>您可以通过向 AEM 文档和产品团队提交拉取请求来获取所有更新，从而监控批准和发布。</p> </td> 
+   <td><p>现在，在 GitHub 中发布了 AEM 6.4 文档。客户可以对页面进行评级、记录问题，甚至可以协作并贡献文档内容。 要为文档添加内容，请阅读以下网站中的行为准则和贡献者指南：<a href="https://github.com/AdobeDocs/experience-manager-64.en" target="_blank">https://github.com/AdobeDocs/experience-manager-64.en</a>。</p> <p>您可以通过向 AEM 文档和产品团队提交拉取请求来获取所有更新，从而监控批准和发布。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 8 月 20 日</td> 
    <td>AEM Assets 智能标记</td> 
-   <td>了解在证书过期后如何<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/assets/managing/config-smart-tagging.html#certrenew" target="_blank">更新证书</a>。</td> 
+   <td>了解在证书过期后如何<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=en#certrenew" target="_blank">更新证书</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 8 月 2 日<br /> </td> 
    <td>新 PDF 光栅化程序包</td> 
-   <td><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/assets/administer/aem-pdf-rasterizer.html" target="_blank">提供了一个新包</a>，它有助于 AEM Assets 处理繁琐的 AI/PDF 文件并生成预览和缩略图。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/aem-pdf-rasterizer.html?lang=en" target="_blank">提供了一个新包</a>，它有助于 AEM Assets 处理繁琐的 AI/PDF 文件并生成预览和缩略图。</td> 
   </tr>
   <tr>
    <td>2019 年 7 月 3 日</td> 
    <td>AEM 6.4 Service Pack 5</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 5 (6.4.5.0)</a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 Service Pack 5 (6.4.5.0)</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 17 日</td> 
    <td>AEM Assets 与 Creative Cloud 的集成</td> 
-   <td>更新了最佳实践，并提供了业务需求、Adobe 解决方案产品和客户用例的清晰映射。新增了一张信息图，使内容更有视觉吸引力。请参阅 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">AEM Creative Cloud 集成最佳实践</a>。</td> 
+   <td>更新了最佳实践，并提供了业务需求、Adobe 解决方案产品和客户用例的清晰映射。新增了一张信息图，使内容更有视觉吸引力。请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html?lang=en" target="_blank">AEM Creative Cloud 集成最佳实践</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 3 日</td> 
    <td>富文本编辑器 (RTE)<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">配置文章</a>中新增了一个包，此包启用了所有插件，并且将用作示例配置。社区成员提供了有关如何<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">创建多字段组件</a>的教程。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/operations/rich-text-editor.html?lang=en" target="_blank">配置文章</a>中新增了一个包，此包启用了所有插件，并且将用作示例配置。社区成员提供了有关如何<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">创建多字段组件</a>的教程。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 4 月 4 日</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 Service Pack 4 (6.4.4.0)</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 2 月 22 日</td> 
    <td>Headless 体验管理</td> 
-   <td><p>为了获得高度自定义的全渠道体验，AEM 的无外设实施是与自定义前端应用程序连接的首选替代方案。</p> <p>新的<a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/headless.ug.js">无外设体验管理指南</a>集中提供了所有的 AEM 无外设主题（包括内容服务、SPA、内容片段、体验片段和 HTTP API）。<br /> </p> </td> 
+   <td><p>为了获得高度自定义的全渠道体验，AEM 的无外设实施是与自定义前端应用程序连接的首选替代方案。</p> <p>新的<a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en&amp;topic=/experience-manager/6-4/sites/developing/morehelp/headless.ug.js">无外设体验管理指南</a>集中提供了所有的 AEM 无外设主题（包括内容服务、SPA、内容片段、体验片段和 HTTP API）。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 2 月 11 日</td> 
@@ -316,30 +316,30 @@ ht-degree: 100%
     <ul> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=zh-Hans">核心组件</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=zh-Hans">Dispatcher</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=zh-Hans">HTL</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=zh-Hans">Cloud Manager</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html">HTL</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html">Cloud Manager</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/exc/using/overview.html?lang=zh-Hans">Adobe Experience Cloud 库</a></li> 
-    </ul> <p>内容保持不变，但在呈现方式上进行了一些改进。现在提供了一个令人激动的新功能：可在 GitHub 上通过每个页面上的<strong>编辑此页面</strong>和<strong>记录问题</strong>链接来提交拉取请求和问题，从而添加文档建议。 我们欢迎您提出任何意见！</p> </td> 
+    </ul> <p>内容保持不变，但在呈现方式上进行了一些改进。现在提供了一个令人激动的新功能：可在 GitHub 上通过每个页面上的<strong>编辑此页面</strong>和<strong>记录问题</strong>链接来提交拉取请求和问题，从而添加文档建议。 Adobe欢迎您的投入！</p> </td> 
   </tr>
   <tr>
    <td>2019 年 2 月 11 日</td> 
    <td>核心组件</td> 
-   <td>推出了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-core-components/using/components/separator.html">“分隔符”组件</a> 2.3.0 版；对<a href="http://opensource.adobe.com/aem-core-wcm-components/library/image.html">组件库</a>进行了改进，使试用组件变得更加容易。<br /> </td> 
+   <td>推出了<a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/separator.html?lang=en">“分隔符”组件</a> 2.3.0 版；对<a href="https://www.aemcomponents.dev">组件库</a>进行了改进，使试用组件变得更加容易。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 1 月 10 日</td> 
    <td>体验片段</td> 
-   <td>有关<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-target">删除已导出到 Target 的体验片段</a>的文档。</td> 
+   <td>有关<a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-target">删除已导出到 Target 的体验片段</a>的文档。</td> 
   </tr>
   <tr>
    <td>2019 年 1 月 9 日</td> 
    <td>集成问题疑难解答</td> 
-   <td>新增了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/integration/troubleshooting-integration-issues.html">集成问题疑难解答</a>页面。</td> 
+   <td>新增了<a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/troubleshooting-integration-issues.html?lang=en">集成问题疑难解答</a>页面。</td> 
   </tr>
   <tr>
    <td>2018 年 12 月 20 日</td> 
    <td>AEM 6.4 Service Pack 3</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs">AEM 6.4 Service Pack 3 (6.4.3.0)</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 12 月 17 日</td> 
@@ -348,13 +348,13 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2018 年 12 月 11 日</td> 
-   <td><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/platform/templates/templates.html#template-availability">模板可用性</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/templates/templates.html?lang=en#template-availability">模板可用性</a></td> 
    <td>更新了定义模板可用性时的建议。</td> 
   </tr>
   <tr>
    <td>2018 年 12 月 11 日</td> 
    <td>单页应用程序<br /> </td> 
-   <td>现在提供了 Angular 框架的<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-getting-started-angular.html">入门指南</a>。<br /> </td> 
+   <td>现在提供了 Angular 框架的<a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-getting-started-angular.html?lang=en">入门指南</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 12 月 7 日</td> 
@@ -364,32 +364,32 @@ ht-degree: 100%
   <tr>
    <td>2018 年 11 月 28 日</td> 
    <td>单页应用程序</td> 
-   <td>适用于 AEM 中单页应用程序 (SPA) 的<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-development-principles-for-aem">开发原则</a>和<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-design-models">设计模型</a>。<br /> </td>
+   <td>适用于 AEM 中单页应用程序 (SPA) 的<a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=en#spa-development-principles-for-aem">开发原则</a>和<a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=en#spa-design-models">设计模型</a>。<br /> </td>
   </tr>
   <tr>
    <td>2018 年 11 月 28 日</td> 
    <td>单页应用程序</td> 
-   <td>现在提供了有关 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-ssr.html">SPA 服务器端渲染功能</a>的技术预览版的文档。<br /> </td> 
+   <td>现在提供了有关 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-ssr.html?lang=zh-Hans">SPA 服务器端渲染功能</a>的技术预览版的文档。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 11 月 28 日</td> 
    <td>核心组件<br /> </td> 
-   <td>对<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-core-components/using/versions.html">核心组件文档</a>进行了相应更新。<br /> </td> 
+   <td>对<a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/versions.html?lang=en">核心组件文档</a>进行了相应更新。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 11 月 19 日</td> 
    <td>体验片段</td> 
-   <td>面向开发人员的“快速入门”页面，重点介绍了如何<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html">在 We.Retail 中使用体验片段</a>。<br /> </td> 
+   <td>面向开发人员的“快速入门”页面，重点介绍了如何<a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html?lang=en">在 We.Retail 中使用体验片段</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 11 月 2 日</td> 
    <td>AEM Screens</td> 
-   <td>将 AEM Screens 文档从“Sites”分支移到了独立的“Screens”分支。有关完整的整合文档，请参阅 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-screens/user-guide/aem-screens-introduction.html">AEM Screens 用户指南</a>。</td> 
+   <td>将 AEM Screens 文档从“Sites”分支移到了独立的“Screens”分支。有关完整的整合文档，请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html?lang=en">AEM Screens 用户指南</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 11 月 1 日</td> 
    <td>Cloud Manager</td> 
-   <td>Cloud Manager 2018.9.0 版中添加了对基于 Adobe I/O 的 API（包括事件）的支持，该 API 用于将 Cloud Manager 的 CI/CD 管道与其他系统集成。此外，该 API 还可以在 React 中重写 UI 层。有关更多信息，请参阅 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-cloud-manager/using/release-notes/release-notes-2018-9-0.html">2018.9.0 版发行说明</a>。</td> 
+   <td>Cloud Manager 2018.9.0 版中添加了对基于 Adobe I/O 的 API（包括事件）的支持，该 API 用于将 Cloud Manager 的 CI/CD 管道与其他系统集成。此外，该 API 还可以在 React 中重写 UI 层。有关更多信息，请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2018/2018-9-0.html?lang=en">2018.9.0 版发行说明</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 10 月 25 日</td> 
@@ -399,57 +399,57 @@ ht-degree: 100%
   <tr>
    <td>2018 年 10 月 16 日</td> 
    <td>核心组件<br /> </td> 
-   <td>推出了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-core-components/using/components/tabs.html">选项卡</a>组件和<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-core-components/using/components/carousel.html">轮播</a>组件 2.2.0 版，对“图像”、“标题”和“页面”组件进行了改进，并进行了大量错误修复。</td> 
+   <td>推出了<a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/tabs.html?lang=en">选项卡</a>组件和<a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/carousel.html?lang=en">轮播</a>组件 2.2.0 版，对“图像”、“标题”和“页面”组件进行了改进，并进行了大量错误修复。</td> 
   </tr>
   <tr>
    <td>2018 年 10 月 10 日<br /> </td> 
    <td>单页应用程序</td> 
-   <td>在 AEM 6.4.2.0 中提供了 AEM SPA Editor SDK 框架，并发布了<a href="https://helpx.adobe.com/cn/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">更新后的文档</a>。<br /> </td> 
+   <td>在 AEM 6.4.2.0 中提供了 AEM SPA Editor SDK 框架，并发布了<a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en&amp;topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">更新后的文档</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 10 月 3 日</td> 
    <td>静态模板<br /> </td> 
-   <td>详细介绍了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/platform/templates/page-templates-static.html">如何将设计应用于静态模板</a>。<br /> </td> 
+   <td>详细介绍了<a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/templates/page-templates-static.html?lang=en">如何将设计应用于静态模板</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 10 月 3 日</td> 
    <td>AEM 6.4 Service Pack 2</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0)。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=en#hotfixes-and-feature-packs-included-in-previous-service-packs" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0)。</td> 
   </tr>
   <tr>
    <td>2018 年 9 月 18 日</td> 
    <td>AEM Screens</td> 
-   <td>要使用动态嵌入式序列，请按渠道角色分配渠道。通过<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-screens/user-guide/authoring/product-features/dynamic-embedded-sequences.html">使用动态嵌入式序列</a>，用户可以遵循某个层次结构，在该层次结构中，对一个渠道所做的更改/更新会传播到相关的其他渠道中。它遵循父子层次结构，并且还包括图像或视频等资产。</td> 
+   <td>要使用动态嵌入式序列，请按渠道角色分配渠道。通过<a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/authoring/product-features/dynamic-embedded-sequences.html?lang=en">使用动态嵌入式序列</a>，用户可以遵循某个层次结构，在该层次结构中，对一个渠道所做的更改/更新会传播到相关的其他渠道中。它遵循父子层次结构，并且还包括图像或视频等资产。</td> 
   </tr>
   <tr>
    <td>2018 年 9 月 12 日</td> 
    <td>Cloud Manager</td> 
-   <td>通过在生产环境中横向扩展“调度程序”/“发布”区段来启用自动缩放，进而在负载、数量、访问量和其他定义的受监控量度急剧增加时提供所需支持。有关更多信息，请参阅 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-cloud-manager/using/release-notes/release-notes-2018-7-0.html">2018.7.0 版发行说明</a>。</td> 
+   <td>通过在生产环境中横向扩展“调度程序”/“发布”区段来启用自动缩放，进而在负载、数量、访问量和其他定义的受监控量度急剧增加时提供所需支持。有关更多信息，请参阅 <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2018/2018-7-0.html?lang=en">2018.7.0 版发行说明</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 29 日<br /> </td> 
    <td>AEM Assets</td> 
-   <td>要配置 oAuth 集成，请参阅<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">配置 AEM Assets 集成</a>和<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=zh-Hans" target="_blank">配置 Assets 与 Brand Portal 的集成</a>这两篇文章中提供的有关 Adobe I/O 网关服务的信息。</td> 
+   <td>要配置oAuth集成，请访问以下网站：Adobe Developer Console网关服务 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/deprecated-removed-features.html?lang=en" target="_blank">配置AEM Assets集成</a> 和 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=zh-Hans" target="_blank">配置Assets与Brand Portal集成</a> 文章。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
    <td>富文本编辑器<br /> </td> 
-   <td>对<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">配置 RTE</a> 一文进行了以下改进：优化了文章结构、添加了一些缺失信息、添加了工作流图示，以及对长篇文章进行了拆分。</td> 
+   <td>对<a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/operations/rich-text-editor.html?lang=en" target="_blank">配置 RTE</a> 一文进行了以下改进：优化了文章结构、添加了一些缺失信息、添加了工作流图示，以及对长篇文章进行了拆分。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
    <td>单页应用程序<br /> </td> 
-   <td>更新和扩充了有关为 AEM SPA 编辑器开发<a href="https://helpx.adobe.com/cn/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">单页应用程序 (SPA)</a> 这一主题的文档。<br /> </td> 
+   <td>开发文档 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en&amp;topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">单页应用程序(SPA)</a> 更新和扩展了AEM SPA编辑器。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 16 日</td> 
    <td>Livefyre 集成</td> 
-   <td>更新了 <a href="https://helpx.adobe.com/cn/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 功能包版本</a>以及<a href="https://helpx.adobe.com/cn/experience-manager/6-4/release-notes/feature-packs-release-notes.html">功能包</a>页面。 </td> 
+   <td>已更新 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/livefyre-feature-pack-206.html?lang=en">2.0.6功能包版本</a>和 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=en">功能包</a> 页面。 </td> 
   </tr>
   <tr>
    <td>2018 年 7 月 19 日</td> 
    <td>核心组件 2.1.0 版</td> 
-   <td>对<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-core-components/using/components/image.html">图像</a>组件 2.1.0 版进行了改进、新增了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-core-components/using/components/teaser.html">Teaser</a> 组件，并进行了大量错误修复。</td> 
+   <td>对<a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/image.html?lang=en">图像</a>组件 2.1.0 版进行了改进、新增了 <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/teaser.html?lang=en">Teaser</a> 组件，并进行了大量错误修复。</td> 
   </tr>
   <tr>
    <td>2018 年 7 月 19 日</td> 
@@ -474,67 +474,67 @@ ht-degree: 100%
   <tr>
    <td>2018 年 7 月 5 日</td> 
    <td>MC-CC 集成<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/integration/configure-assets-cc-integration.html">配置 AEM Assets 与 Marketing Cloud 和 Creative Cloud 的集成</a>一文中的错误修复和行文改进。</td> 
+   <td>中的错误修复和编辑改进 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/deprecated-removed-features.html?lang=en">配置AEM Assets与Experience Cloud和Creative Cloud的集成一文</a>.</td> 
   </tr>
   <tr>
    <td>2018 年 7 月 5 日</td> 
    <td>资产智能标记<br /> </td> 
-   <td>进一步改进了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/assets/managing/config-smart-tagging.html">配置智能标记</a>一文，以优化结构、修复错误并提供与相关文章的交叉链接。</td> 
+   <td>进一步改进了<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=en">配置智能标记</a>一文，以优化结构、修复错误并提供与相关文章的交叉链接。</td> 
   </tr>
   <tr>
    <td>2018 年 7 月 5 日</td> 
    <td>与 Adobe Analytics 集成<br /> </td> 
-   <td>对<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/integration/adobeanalytics.html">与 Adobe Analytics 集成</a>页面进行了各项更新。<br /> </td> 
+   <td>对<a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics.html?lang=en">与 Adobe Analytics 集成</a>页面进行了各项更新。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 6 月 29 日</td> 
    <td>AEM 6.4.1.0</td> 
-   <td>提供了 <a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0 </a>。</td> 
+   <td>提供了 <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=zh-Hans" target="_blank">AEM 6.4.1.0 </a>。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 25 日</td> 
    <td>触屏 UI</td> 
-   <td>针对 6.4 更新了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/release-notes/touch-ui-features-status.html">触屏 UI 功能状态</a>页面。<br /> </td> 
+   <td>针对 6.4 更新了<a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=en">触屏 UI 功能状态</a>页面。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 6 月 22 日</td> 
    <td>单页应用程序<br /> </td> 
-   <td><p>现在提供了更多 SPA 内容，这些内容概要介绍了 SPA 在 AEM SPA 编辑器中的运行方式、AEM 中 SPA 的架构，以及有关如何调整组件以使其能够与 AEM SPA 一起使用的示例。</p> 
+   <td><p>其他SPA内容现已可用。 本教程介绍了SPA如何在AEM SPA编辑器中工作，AEM中的SPA架构，以及有关如何调整组件以使其能够与AEM SPA配合使用的示例。</p> 
     <ul> 
-     <li><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 演练</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-architecture.html">SPA 架构</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-implementing-react-component.html">为 SPA 实施 React 组件</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-walkthrough.html?lang=en">SPA 演练</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-architecture.html?lang=en">SPA 架构</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-implementing-react-component.html?lang=en">为 SPA 实施 React 组件</a></li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>2018 年 6 月 14 日</td> 
    <td>增强型智能标记</td> 
-   <td>改进了有关如何<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">使用智能内容服务配置资产标记</a>的文档。</td> 
+   <td>改进了有关如何<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/config-smart-tagging.html?lang=en" target="_blank">使用智能内容服务配置资产标记</a>的文档。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 4 日</td> 
    <td>Cloud Manager</td> 
-   <td>现已发布有关如何<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html">将 Cloud Manager 与 AEM 6.4 一起使用</a>的文档。</td> 
+   <td>现已发布有关如何<a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en">将 Cloud Manager 与 AEM 6.4 一起使用</a>的文档。</td> 
   </tr>
   <tr>
    <td>2018 年 5 月 30 日<br /> </td> 
    <td>包验证</td> 
-   <td>更新了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/contentmanagement/package-manager.html">如何使用包</a>文档，在该文档中提供了有关新增的包验证功能（包括 ACL 验证功能）的更多详细信息。<br /> </td> 
+   <td>更新了<a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=zh-Hans">如何使用包</a>文档，在该文档中提供了有关新增的包验证功能（包括 ACL 验证功能）的更多详细信息。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 5 月 30 日</td> 
    <td>Activity Map</td> 
-   <td>页面编辑器中适用于已发布页面的 Activity Map 功能。如何<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/authoring/page-performance/pa-using.html">使用</a>。</td> 
+   <td>页面编辑器中适用于已发布页面的 Activity Map 功能。如何<a href="https://experienceleague.adobe.com/docs/experience-manager-64/authoring/page-performance/pa-using.html?lang=en">使用</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 5 月 25 日<br /> </td> 
    <td>GDPR 就绪</td> 
-   <td><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/administering/bestpractices/gdpr-compliance-sites.html">GDPR 就绪</a>与 AEM。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-64/administering/bestpractices/gdpr-compliance-sites.html?lang=en">GDPR 就绪</a>与 AEM。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 5 月 4 日</td> 
    <td>AEM 6.4 参考资料<br /> </td> 
-   <td><p>提供了<a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-65/developing/introduction/reference-materials.html">参考资料</a>，其中包括：</p> 
+   <td><p>提供了<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html?lang=en">参考资料</a>，其中包括：</p> 
     <ul> 
      <li>Adobe AEM 6.4.0 API</li> 
      <li>API 差异</li> 
@@ -550,20 +550,20 @@ ht-degree: 100%
   <tr>
    <td>2018 年 4 月 25 日</td> 
    <td>Dynamic Media：轮播查看器</td> 
-   <td>新增的 <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=zh-Hans" target="_blank">Dynamic Media 中的轮播查看器</a>能以轮播方式显示带有可单击热点或区域的不可缩放的横幅图像。此查看器旨在实现“可购项目轮播”体验，以便用户可以在横幅图像上选择热点或区域，并重定向到客户网站上的“快速浏览”或“产品详细信息”页面。此查看器适用于桌面和移动设备。</td> 
+   <td>新增的 <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=zh-Hans" target="_blank">Dynamic Media 中的轮播查看器</a>能以轮播方式显示带有可单击热点或区域的不可缩放的横幅图像。此查看器旨在实施“可购物轮播”体验。用户可以在横幅图像上选择热点或区域，然后被重定向到客户网站上的概览或产品详细信息页面。 此查看器适用于桌面和移动设备。</td> 
   </tr>
   <tr>
    <td>2018 年 4 月 24 日<br /> </td> 
    <td>单页应用程序<br /> </td> 
-   <td><p>单页应用程序 (SPA) 可以为网站用户提供引人入胜的良好体验。为此，开发人员希望能够使用 SPA 框架构建站点，而创作者则希望能够在 AEM 中顺畅地为以 SPA 形式构建的站点编辑内容。</p> <p><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 创作功能</a>（当前为技术预览版）提供了旨在为 AEM 提供 SPA 支持的完备解决方案。</p> </td> 
+   <td><p>单页应用程序 (SPA) 可以为网站用户提供引人入胜的良好体验。为此，开发人员希望能够使用 SPA 框架构建站点，而创作者则希望能够在 AEM 中顺畅地为以 SPA 形式构建的站点编辑内容。</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-walkthrough.html?lang=en">SPA 创作功能</a>（当前为技术预览版）提供了旨在为 AEM 提供 SPA 支持的完备解决方案。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 4 月 4 日</td> 
    <td>AEM 6.4 版本</td> 
-   <td><p>Adobe Experience Manager 6.4 是 Adobe Experience Manager 6.3 代码库的升级版本。它提供了一些新功能和增强功能、重要的客户修复、高优先级的客户增强功能，以及针对产品稳定性的一般错误修复。它还包含所有 Adobe Experience Manager 6.3 功能包、修补程序和 Service Pack 版本。</p> <p>请参阅以下内容：</p> 
+   <td><p>Adobe Experience Manager 6.4 是 Adobe Experience Manager 6.3 代码库的升级版本。它提供了新增和增强功能、关键客户修复、高优先级客户增强功能，以及面向产品稳定性的一般错误修复。 它还包含所有 Adobe Experience Manager 6.3 功能包、修补程序和 Service Pack 版本。</p> <p>请参阅以下内容：</p> 
     <ul> 
-     <li><a href="https://helpx.adobe.com/cn/support/experience-manager/6-4.html">AEM 6.4 文档</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/zh-Hans/experience-manager-64/release-notes/release-notes.html">发行说明</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=zh-Hans">AEM 6.4 文档</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=en">发行说明</a></li> 
     </ul> </td> 
   </tr>
  </tbody>
@@ -1430,12 +1430,12 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>February 23, 2017</td> 
-   <td><p><a href="http://answers.livefyre.com/product/storify-2/createastory/">Create a Storify 2</a></p> </td> 
+   <td><p><a href="https://answers.livefyre.com/product/storify-2/createastory/">Create a Storify 2</a></p> </td> 
    <td>Updated documentation to reflect a new option to open a Modal window when a site visitor shares a link to a Storify 2 post.</td> 
   </tr>
   <tr>
    <td>February 23, 2017</td> 
-   <td><a href="http://answers.livefyre.com/product/studio-v2/streams/creating-streams/add-rules-for-your-stream/add-instagram-rules/">Add Instagram Rules</a></td> 
+   <td><a href="https://answers.livefyre.com/product/studio-v2/streams/creating-streams/add-rules-for-your-stream/add-instagram-rules/">Add Instagram Rules</a></td> 
    <td>Studio Users can now create stream rules that include a specific check-in location on Instagram.</td> 
   </tr>
   <tr>
@@ -1632,7 +1632,7 @@ ht-degree: 100%
      <li>Complete metadata schema publishing from Assets to Brand Portal</li> 
      <li>Enhanced reporting capabilities—assets downloaded, expired, and published</li> 
      <li>Newly introduced DRM capabilities—assets expiration controls and notification</li> 
-     <li>New <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">what’s new article</a> to learn about the new and updated features</li> 
+     <li>New <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">what's new article</a> to learn about the new and updated features</li> 
      <li>New version-agnostic <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal user guide</a> independent of AEM Assets User Guide</li> 
     </ul> </td> 
   </tr>

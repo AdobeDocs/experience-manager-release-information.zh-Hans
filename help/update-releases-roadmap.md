@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05652027b9a88d9aa530d25b6a88f75c1646f310
-workflow-type: ht
-source-wordcount: '339'
-ht-degree: 100%
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+workflow-type: tm+mt
+source-wordcount: '344'
+ht-degree: 89%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hans) 的新增功能通常保持每月一次的发行频率。即将为 [!DNL Experience Manager] as a [!DNL Cloud Service] 推出的功能激活安排如下。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html) 的新增功能通常保持每月一次的发行频率。即将为 [!DNL Experience Manager] as a [!DNL Cloud Service] 推出的功能激活安排如下。
 
 | 发行版本 | 版本号 | 类型 | 计划 |
 |---|---|---|---|
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
-受支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版的产品更新（包括新增功能、增强功能和错误修复）通过季度 Service Pack 和 Cumulative Fix Pack (CFP) 提供。这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
+针对受支持产品的新增功能、增强功能和错误修复的产品更新 [!DNL Experience Manager] 内部部署版和Managed Services版通过季度Service Pack和累积修补程序包(CFP)提供。 这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -57,7 +57,7 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [EOL 一览表](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager]  发行版和更新](https://helpx.adobe.com/cn/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager]  学习和支持](https://helpx.adobe.com/cn/support/experience-manager.html)
+>* [[!DNL Experience Manager]  发行版和更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
+>* [[!DNL Experience Manager]  学习和支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 >* [[!DNL Experience Manager]  更新版本发行方式定义](/help/update-release-vehicle-definitions.md)
 
