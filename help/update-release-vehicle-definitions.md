@@ -4,9 +4,9 @@ description: 本文详细介绍了各种类型的  [!DNL Experience Manager]  �
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '730'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 93%
 
 | 项目 | 描述 |
 |-------|------|
-| 定义 | <ul> <li> 按计划发行 </li> <li> 支持发行说明中定义的特定版本的升级路径 </li> </ul> |
+| 定义 | <ul> <li> 按计划发行 </li> <li> 对于在发行说明中指定的特定版本支持升级路径 </li> </ul> |
 | 命名 | <ul> <li> 主要版本的版本号按照公式 X+1.Y.Z 递增。 </li> <li> 次要版本的版本号按照公式 X.Y+1.Z 递增。 </li> </ul> 其中 X 是主版本号，Y 是次版本号，Z 是修补程序版本号。 |
 | 包含项 | <ul> <li> 新增功能 </li> <li>  改进功能 </li> <li>  错误修复 </li> </ul> |
 | 文档 | <ul> <li> 发行说明可在文档门户中找到 </li> <li> 有关新增功能、改进功能和错误修复的文档可在文档门户中找到 </li> </ul> |
@@ -51,7 +51,7 @@ ht-degree: 93%
 | 包含项 | CFP 是指累积修补程序包，其中包含所有组件在指定日期之前所具有的修补程序。例如，如果客户应用 CFP3，则 CFP3 = CFP1 + CFP2。 |
 | 文档 | 发行说明可在文档门户中找到 |
 | 发行频率 | 每季度 |
-| 可用性和安装 | <ul> <li> 以包形式提供 </li> <li>  可在 Software Distribution 上获取 </li> <li>  取决于发布的最新 Service Pack </li> <li>  CFP 是独立的。客户无需担心查找/解决依赖项。 CFP 应安装在最新发布的 Service Pack 上。 </li> <li>  CFP 可以作为单个包进行安装，以改善客户体验。  </li> </ul> |
+| 可用性和安装 | <ul> <li> 以包形式提供 </li> <li>  可在 Software Distribution 上获取 </li> <li>  取决于发布的最新 Service Pack </li> <li>  CFP 是独立的。客户无需担心要查找/解决依赖项。CFP 应安装在最新发布的 Service Pack 上。 </li> <li>  CFP 可以作为单个包进行安装，以改善客户体验。  </li> </ul> |
 | 测试级别 | 在集成级别已通过 QA 验证并已进行回归测试 |
 
 ## 叠加 {#overlay}
@@ -77,4 +77,4 @@ ht-degree: 93%
 | 可用性和安装 | <ul> <li>通过 Service Pack 提供 </li> <li> 可在 Software Distribution 上获取。客户通过 Software Distribution 接受 [!DNL Adobe's] 条款和条件。 </li> </ul> |
 | 测试级别 | General Availability 功能包已通过 QA 验证。 |
 
-* 1:Oak修补程序不作为单独的修补程序提供。 但是，它们包含在后续的累积 Oak 修补程序中。如有必要，可以提供基于最新 COFP 的诊断版本。但前提是客户必须运行最新的 COFP。诊断版本仅提供与修补程序相同级别的质量保证。因此，它们提供的质量保证不如累积修补程序包、Service Pack或产品版本提供的质量保证。 最终修补程序将随下一个 CFP 一起提供。
+* 1：不以个别修补程序的形式提供 Oak 修补程序。但是，它们包含在后续的累积 Oak 修补程序中。如有必要，可以提供基于最新 COFP 的诊断版本。但前提是客户必须运行最新的 COFP。诊断版本仅提供与修补程序相同级别的质量保证。因此，诊断版本无法提供像累积修订包、服务包或产品版本那样多的质量保证。最终修补程序将随下一个 CFP 一起提供。
