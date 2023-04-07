@@ -4,9 +4,9 @@ description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 845c8e7db35bce391ed380d36642e2e84c045c56
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '14264'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
 >
 >AEM Forms 在计划的 AEM 服务包和累积修订包发行日期后一周发布附加组件包。
 
-以下列表包含所有AEM [!DNL Forms] 迄今为止已发布的附加组件包、相应的AEM版本（先决条件）、包的下载链接以及其他有用信息。
+以下列表包含迄今为止已发布的所有 AEM [!DNL Forms] 附加组件包、相应的 AEM 版本（先决条件）、包的下载链接以及其他有用信息。
 
 ## AEM 6.5 [!DNL Forms] 发行版 {#aem-65-forms-releases}
 
