@@ -2,10 +2,10 @@
 title: 下载旧版本的 AEM、CQ 和 CRX 文档
 description: 下载旧版本的 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '818'
-ht-degree: 100%
+source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
+workflow-type: tm+mt
+source-wordcount: '828'
+ht-degree: 95%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 100%
 
 在下载包之前，请确定谁使用内容。此决定影响如何部署它：
 
-* 开发人员可在本地进行安装以便快速参考。
-* 为了满足更为广泛的组织文档需求，建议在一个可从内部访问的非生产 AEM 创作实例中部署该包。
+* 开发人员可以在本地安装，以便快速参考。
+* 为了满足更广泛的组织文档需求，建议将包部署在可在内部访问的非生产AEM创作实例上。
 
 >[!NOTE]
 >
@@ -40,6 +40,7 @@ ht-degree: 100%
 
 | [!DNL Experience Manager] 版本 | Software Distribution 链接 |
 |:-----------:|:--------------------------------------------------:|
+| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4文档](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=zh-Hans) |
 | [!DNL Experience Manager] 6.3 | [从 Software Distribution 下载 AEM-DOCS-6.3](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [从 Software Distribution 下载 AEM-DOCS-6.2](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [从 Software Distribution 下载 AEM-DOCS-6.1](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
@@ -78,7 +79,7 @@ ht-degree: 100%
 
 1. 打开 [!DNL Experience Manager] 用户界面。在 Web 浏览器中，输入：`http://localhost:4502/`。以管理员身份登录。
 
-1. 选择&#x200B;**[!UICONTROL 工具]** > **[!UICONTROL 部署]** > **[!UICONTROL 包]**。
+1. 选择 **[!UICONTROL 工具]** > **[!UICONTROL 部署]** > **[!UICONTROL 包]**.
 
 1. 从包管理器用户界面中，选择&#x200B;**[!UICONTROL 上传包]**。
 

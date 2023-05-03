@@ -3,9 +3,9 @@ title: "[!DNL Adobe Experience Manager] 版本更新"
 description: "[!DNL Adobe Experience Manager] 版本更新"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '254'
+source-git-commit: 3d078becd3165d77bb027c4d8aec040e1cf01932
+workflow-type: tm+mt
+source-wordcount: '207'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service] 保持每月一次的发行频率。这表示每月都会推出新功能，以便持续更新 [!DNL Experience Manager]。
+[!DNL Experience Manager]as a[!DNL Cloud Service] 的新增功能通常保持每月一次的发行频率。
 
 有关最新版本的详细信息，请参阅 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 最新发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)。从这里还可导航到以前版本的详细信息（按时间顺序排列）。
 
@@ -32,14 +32,4 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。
 
-查看 [[!DNL Experience Manager] 6.5 最新功能包](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans)以了解有关当前/最新版本的详细信息。从这里还可导航到以前版本的详细信息（按时间顺序排列）。
-
-### [!DNL Experience Manager] 6.4 {#aem-64}
-
-[!DNL Experience Manager] 6.4 产品更新通过季度 CFP 提供。这些更新包括错误修复。
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=zh-Hans)
-
-* [[!DNL Experience Manager]  6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=zh-Hans)
-
-* [[!DNL Experience Manager]  6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=zh-Hans)
+查看 [[!DNL Experience Manager] 6.5 最新功能包](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)以了解有关当前/最新版本的详细信息。从这里还可导航到以前版本的详细信息（按时间顺序排列）。
