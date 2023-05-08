@@ -4,9 +4,9 @@ description: ' [!DNL Experience Manager] 文档中的新增内容、更新内容
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
 source-git-commit: 02f4d90fb23cb5758fba04bc246caf2ef3eb5098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2459'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 99%
 | 2020 年 9 月 24 日 | 完成新的 Dynamic Media 配置后发送收件箱通知 | 当设置完新的 Dynamic Media 配置时，您将在 Experience Manager 收件箱中收到相应状态通知。此通知会告知您配置是否成功。如果配置失败，此通知将提供错误代码。请在联系 Adobe 客户关怀部门时提供此错误代码。<br>请参阅[对新的 Dynamic Media 配置进行故障排除](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm.html?lang=zh-Hans)。 |
 | 2020 年 9 月 24 日 | 在 Dynamic Media 配置中重置密码。 | 允许在 Dynamic Media 中首次设置临时密码和后续重置密码，而不是通过 Dynamic Media Classic 进行。请参阅[在 Cloud Services 中创建 Dynamic Media 配置](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm.html?lang=zh-Hans#configuring-dynamic-media-cloud-services)中的步骤 6 和 7，以及[更改 Dynamic Media 密码](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm.html?lang=zh-Hans#change-dm-password)。 |
 | 2020 年 9 月 24 日 | 使用 Dynamic Media 中的“选择性发布”功能 | 您可以选择在文件夹级别向 Experience Manager 或 Dynamic Media 发布资产或从中取消发布资产。您可以通过使用“管理出版物”或“快速发布”来完成此任务，而不是仅依赖 Dynamic Media 配置，其设置全局适用于 Dynamic Media 实例中的所有文件夹。<br>请参阅[使用 Dynamic Media 中的“选择性发布”功能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/selective-publishing.html?lang=zh-Hans)。 |
-| 2020 年 9 月 11 日 | 单页应用程序 | 单页应用程序 (SPA) 编辑器 JavaScript SDK [现已开源](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/hybrid/reference-materials.html?lang=zh-Hans)。 |
+| 2020 年 9 月 11 日 | 单页面应用程序 | 单页面应用程序 (SPA) 编辑器 JavaScript SDK [现已开源](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/hybrid/reference-materials.html?lang=zh-Hans)。 |
 | 2020 年 8 月 27 日 | Dynamic Media 中的 CDN 失效功能 | 您现在可以从 Dynamic Media 发送请求，以使 CDN 缓存在几分钟内过期。当您更新资产并希望这些更改立即在您的网站上生效时，此功能非常有用。<br>请参阅[通过 Dynamic Media 使 CDN 缓存失效](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/invalidate-cdn-cache-dynamic-media.html?lang=zh-Hans)。 |
 | 2020 年 8 月 11 日 | 用于发布页面的打开和关闭时间属性 | 使用[打开和关闭时间属性](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/page-properties.html?lang=zh-Hans#basic)发布页面时，请查看“页面属性”中的“基本”选项卡，您现在可以[预配置自动复制](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=zh-Hans#on-and-off-times-trigger-configuration)。 |
 | 2020 年 7 月 23 日 | 核心组件 | 核心组件版本 2.11.0 中引入了对 AMP 的支持，该版本现在与[创作文档](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=zh-Hans)以及[可在 GitHub 上获取的开发人员详细信息和项目下载](https://github.com/adobe/aem-core-wcm-components)一起提供。 |
