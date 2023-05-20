@@ -4,7 +4,7 @@ description: ' [!DNL Experience Manager] 文档中的新增内容、更新内容
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
 source-git-commit: 02f4d90fb23cb5758fba04bc246caf2ef3eb5098
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2459'
 ht-degree: 100%
 

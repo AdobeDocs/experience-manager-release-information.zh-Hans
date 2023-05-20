@@ -4,7 +4,7 @@ description: 本文详细介绍了各种类型的  [!DNL Experience Manager]  �
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 100%
 
