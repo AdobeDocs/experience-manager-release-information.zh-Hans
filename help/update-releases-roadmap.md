@@ -27,9 +27,9 @@ ht-degree: 100%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 功能激活 | 2023 年 5 月 31 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | 功能激活 | 2023 年 6 月 29 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | 功能激活 | 2023 年 7 月 27 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | 功能激活 | 2023 年 31 月 8 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | 功能激活 | 2023 年 8 月 31 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 2023.9.0 | 功能激活 | 2023 年 9 月 28 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | 功能激活 | 2023 年 26 月 10 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | 功能激活 | 2023 年 10 月 26 日 |
 
 除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中还以维护版本的形式提供了重要的错误修复和安全修复，相应的维护更新通常以更高的频率进行。
 
@@ -45,7 +45,7 @@ ht-degree: 100%
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 2023 年 2 月 23 日 |
 | [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 2023 年 5 月 25 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 2023 年 31 月 8 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 2023 年 8 月 31 日 |
 | [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 2023 年 11 月 30 日 |
 
 >[!NOTE]
