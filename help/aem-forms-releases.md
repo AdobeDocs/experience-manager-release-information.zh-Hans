@@ -4,9 +4,9 @@ description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 89faf68ad43d106e23547d48957ad9c699fd7f58
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6953'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
