@@ -4,8 +4,8 @@ description: 在 AEM Forms JEE 上安装和配置累积修订包 (CFP) 的步骤
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '910'
 ht-degree: 100%
 
 ---
