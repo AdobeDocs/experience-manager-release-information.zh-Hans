@@ -3,10 +3,10 @@ title: AEM Forms 发行版
 description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 87a651b987fb73333a627450d00e891b57465210
+source-git-commit: 81c18c5423b4c62a192666fa8774f754d8ff4745
 workflow-type: tm+mt
-source-wordcount: '7414'
-ht-degree: 95%
+source-wordcount: '7427'
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
     <td><strong>内部版本</strong></td>
    </tr>
    <tr>
-    <td>2023年6月01日</td>
+    <td>2023 年 6 月 01 日</td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6517">适用于 AEM 6.5.17.0 的 AEM Forms 服务包 17 Forms 附加组件包</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html">AEM 6.5.17.0</a></td>
     <td>
@@ -51,6 +51,8 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0065/WebSphere/linux/AEMForms-6.5.0-0065_websphere_linux.tar.gz">WebSphere® Linux</a></li>
       <br><b>Workbench 安装程序</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20230222-1-12345/workbench_DVD.zip">AEM Forms Workbench 安装程序</a> </li>
+       <br><b>SDK</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.966/">AEM Forms 客户端 SDK</a> </li>
       <br><b>Forms Designer</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp17/Designer6.5.0_English_Cumulative_QF.msp">英语安装程序</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp17/Designer6.5.0_French_Cumulative_QF.msp">法语安装程序</a> </li>
@@ -59,7 +61,7 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp17/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE安装程序：AEMForms-6-5-0-0065<br/><p>AEM Forms 附加组件包：6.0.968</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6-5-0-0065<br/><p>AEM Forms 附加组件包：6.0.968</p></td>
    </tr>
    <tr>
     <td>2023 年 3 月 2 月</td>
