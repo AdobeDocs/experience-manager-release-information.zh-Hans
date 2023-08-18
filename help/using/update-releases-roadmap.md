@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0d6d189e10b38d5a87baf381bfab15c8afc7a128
-workflow-type: ht
-source-wordcount: '336'
+source-git-commit: 0e08661d65926e57a853ed8bc37170abba695308
+workflow-type: tm+mt
+source-wordcount: '341'
 ht-degree: 100%
 
 ---
@@ -41,12 +41,12 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的 Service Pack 的详细信息，请参阅 [[!DNL Experience Manager]  6.5 Service Pack 发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)。
 
-| 发行版本 | 版本号 | 类型 | 计划 |
-|---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 2023 年 2 月 23 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 2023 年 5 月 25 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 2023 年 8 月 31 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 2023 年 11 月 30 日 |
+| 发行版本 | 版本号 | 类型 | 计划 | 状态 |
+|---|---|---|---|---|
+| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 2023 年 2 月 23 日 | 已激活 |
+| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 2023 年 5 月 25 日 | 已激活 |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 2023 年 8 月 24 日 | 目标 |
+| [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 2023 年 11 月 23 日 | 目标 |
 
 >[!NOTE]
 >
