@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0e08661d65926e57a853ed8bc37170abba695308
-workflow-type: ht
-source-wordcount: '341'
-ht-degree: 100%
+source-git-commit: 15841ed517305f1db2d12931add81ff1ef817492
+workflow-type: tm+mt
+source-wordcount: '372'
+ht-degree: 97%
 
 ---
 
@@ -23,15 +23,24 @@ ht-degree: 100%
 
 | 发行版本 | 类型 | 计划 | 状态 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 功能激活 | 2023 年 4 月 12 日 | 已激活 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 功能激活 | 2023 年 6 月 7 日 | 已激活 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 功能激活 | 2023 年 6 月 29 日 | 已激活 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 功能激活 | 2023 年 7 月 27 日 | 已激活 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 功能激活 | 2023 年 8 月 31 日 | 目标 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 功能激活 | 2023 年 9 月 28 日 | 目标 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 功能激活 | 2023 年 10 月 26 日 | 目标 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.11.0 | 功能激活 | 2023 年 11 月 30 日 | 目标 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.12.0 | 功能激活 | 2023年12月14日 | 目标 |
 
 除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中还以[维护版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html)的形式提供了重要的错误修复和安全修复，相应的维护更新通常以更高的频率进行。
+
+>[!CAUTION]
+>
+>**计划内的维护排除期**
+>
+> 在欧洲中部时间午夜 (00:00) 开始和结束的以下时间范围内，不会执行自动 AEMaaCS 维护：
+>
+>* 11月16日星期四至11月28日星期二
+>* 12月15日星期五至1月2日星期二
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
