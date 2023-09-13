@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3c1188eba0a6a7efb252d4d0fe5152778afa4a77
+source-git-commit: d49db9de4e6fd520d7c6e502c1c4573e4c49a45e
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 76%
+source-wordcount: '487'
+ht-degree: 75%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 76%
 
 | 发行版本 | Event | 计划 | 状态 |
 |---|---|---|---|
-| 功能版本2023.6.0 | 功能激活 | 2023 年 6 月 29 日 | 已激活 |
-| 功能版本2023.7.0 | 功能激活 | 2023 年 7 月 27 日 | 已激活 |
-| 维护版本 | 自动更新 | 2023年8月7-10日 | 已更新 |
-| 维护版本 | 自动更新 | 2023年8月21至24日 | 已更新 |
-| 功能版本2023.8.0 | 功能激活 | 2023 年 8 月 31 日 | 已激活 |
-| 维护版本 | 自动更新 | 2023年9月4日至7日 | 目标 |
-| 维护版本 | 自动更新 | 2023年9月18至21日 | 目标 |
+| 功能发布 [2023.6.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-6-0.html) | 功能激活 | 2023 年 6 月 29 日 | 已激活 |
+| 功能发布 [2023.7.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-7-0.html) | 功能激活 | 2023 年 7 月 27 日 | 已激活 |
+| 维护版本 [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | 自动更新 | 2023 年 8 月 2 日 | 已更新 |
+| 维护版本 [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | 自动更新 | 2023 年 8 月 21 日 | 已更新 |
+| 功能发布 [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 功能激活 | 2023 年 8 月 31 日 | 已激活 |
+| 维护版本 [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | 自动更新 | 2023 年 9 月 1 日 | 已更新 |
+| 维护版本 [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | 自动更新 | 2023 年 9 月 12 日 | 已更新 |
 | 功能版本2023.9.0 | 功能激活 | 2023 年 9 月 28 日 | 目标 |
 | 维护版本 | 自动更新 | 2023年10月2日至5日 | 目标 |
 | 维护版本 | 自动更新 | 2023年10月16-19日 | 目标 |
@@ -60,9 +60,9 @@ ht-degree: 76%
 
 | 发行版本 | 版本号 | 类型 | 计划 | 状态 |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 2023 年 2 月 23 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 2023 年 5 月 25 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 2023 年 8 月 24 日 | 已激活 |
+| [!DNL Experience Manager][ 6.5 Service Pack 16](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.16.html) | 6.5.16.0 | Service Pack | 2023 年 2 月 23 日 | 已激活 |
+| [!DNL Experience Manager][ 6.5 Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html) | 6.5.17.0 | Service Pack | 2023 年 5 月 25 日 | 已激活 |
+| [!DNL Experience Manager][ 6.5 Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) | 6.5.18.0 | Service Pack | 2023 年 8 月 24 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 2023 年 11 月 23 日 | 目标 |
 
 >[!NOTE]
