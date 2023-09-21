@@ -4,9 +4,9 @@ description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: e8497431ba050d485d3b359efbb708cbd6fdfa83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '8127'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/hotfix/Hotfix-on-SP18.zip">Hotfix-FORMS-10578</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE完整安装程序：6-5-0-20230913-1-12345 <br/><p>AEM Forms JEE 补丁安装程序：aemforms-6-5-0-0069<br/><p>AEM Forms 附加组件包：6.5.18.0 </p></td>
+    <td><p>AEM Forms JEE 完整安装程序： 
+    6-5-0-20230913-1-12345 <br/><p>AEM Forms JEE 补丁安装程序：aemforms-6-5-0-0069<br/><p>AEM Forms 附加组件包：6.5.18.0 </p></td>
    </tr>
    <tr>
     <td>2023 年 6 月 01 日</td>
