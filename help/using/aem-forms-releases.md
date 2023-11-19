@@ -3,9 +3,9 @@ title: AEM Forms 发行版
 description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: f03a2ce6bef6d167e780f750c7fdb6627d088094
+source-git-commit: a0c476e652ee19ee1f6ef3f7bc8a8eab91c2da33
 workflow-type: tm+mt
-source-wordcount: '8168'
+source-wordcount: '8171'
 ht-degree: 99%
 
 ---
@@ -16,7 +16,8 @@ Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序�
 
 >[!NOTE]
 >
-> 中提供的AEM Forms功能，例如自适应Forms [AEM 6.5快速入门](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)仅供探索及评估之用。 对于生产使用，获得AEM Forms的有效许可证至关重要。
+>
+>中提供的自适应Forms功能 [AEM 6.5快速入门](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)，仅供探索和评估之用。 对于生产使用，获取AEM Forms的有效许可证至关重要，因为Adaptive Forms功能需要适当的许可。
 
 
 <!--
