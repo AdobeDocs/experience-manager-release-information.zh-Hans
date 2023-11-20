@@ -3,9 +3,9 @@ title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 97cb94f05cd40bb1321712a6713b93db626948ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '557'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -37,11 +37,11 @@ ht-degree: 96%
 | 维护版本 | 自动更新 | 2023 年 12 月 11-14 日 | 目标 |
 | 功能版本 2023.12.0 | 功能激活 | 2023 年 12 月 14 日 | 目标 |
 | 功能版本 2024.1.0 | 功能激活 | 2024 年 1 月 25 日 | 目标 |
-| 功能版本 2024.2.0 | 功能激活 | 2024年2月29日 | 目标 |
-| 功能版本 2024.3.0 | 功能激活 | 2024年3月28日 | 目标 |
-| 功能版本 2024.4.0 | 功能激活 | 2024年4月25日 | 目标 |
-| 功能版本 2024.5.0 | 功能激活 | 2024年5月30日 | 目标 |
-| 功能版本 2024.6.0 | 功能激活 | 2024年6月27日 | 目标 |
+| 功能版本 2024.2.0 | 功能激活 | 2024 年 2 月 29 日 | 目标 |
+| 功能版本 2024.3.0 | 功能激活 | 2024 年 3 月 28 日 | 目标 |
+| 功能版本 2024.4.0 | 功能激活 | 2024 年 4 月 25 日 | 目标 |
+| 功能版本 2024.5.0 | 功能激活 | 2024 年 5 月 30 日 | 目标 |
+| 功能版本 2024.6.0 | 功能激活 | 2024 年 6 月 27 日 | 目标 |
 | 功能版本 2024.7.0 | 功能激活 | 2024 年 7 月 25 日 | 目标 |
 
 >[!CAUTION]
@@ -50,8 +50,8 @@ ht-degree: 96%
 >
 > 在欧洲中部时间午夜 (00:00) 开始和结束的以下时间范围内，不会执行自动 AEMaaCS 维护：
 >
->* 2023年11月16日星期四至2023年11月28日星期二
->* 2023年12月15日星期五至2024年1月2日星期二
+>* 2023 年 11 月 16 日星期四至 2023 年 11 月 28 日星期二
+>* 2023 年 12 月 15 日星期五至 2024 年 1 月 2 日星期二
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
@@ -67,10 +67,10 @@ ht-degree: 96%
 | [!DNL Experience Manager][ 6.5 Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html) | 6.5.17.0 | Service Pack | 2023 年 5 月 25 日 | 已激活 |
 | [!DNL Experience Manager][ 6.5 Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) | 6.5.18.0 | Service Pack | 2023 年 8 月 24 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 2023 年 11 月 30 日 | 目标 |
-| [!DNL Experience Manager] 6.5 Service Pack 20 | 6.5.20.0 | Service Pack | 2024年2月22日 | 目标 |
-| [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0 | Service Pack | 2024年5月23日 | 目标 |
-| [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 2024年8月22日 | 目标 |
-| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | 2024年11月21日 | 目标 |
+| [!DNL Experience Manager] 6.5 Service Pack 20 | 6.5.20.0 | Service Pack | 2024 年 2 月 22 日 | 目标 |
+| [!DNL Experience Manager] 6.5 Service Pack 21 | 6.5.21.0 | Service Pack | 2024 年 5 月 23 日 | 目标 |
+| [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 2024 年 8 月 22 日 | 目标 |
+| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | 2024 年 11 月 21 日 | 目标 |
 
 >[!NOTE]
 >
