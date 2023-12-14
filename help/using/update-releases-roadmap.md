@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7eee7e685910e936892e110ef68ac9e6b67ab016
+source-git-commit: 0899c2a87eaf2dc5ec802d739625b3e290fa54ee
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '525'
 ht-degree: 97%
 
 ---
@@ -33,15 +33,15 @@ ht-degree: 97%
 | 维护版本 [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html#release-13804) | 自动更新 | 2023 年 10 月 16-19 日 | 已更新 |
 | 功能版本 [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0.html) | 功能激活 | 2023 年 10 月 26 日 | 已激活 |
 | 维护版本 [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html#release-14029) | 自动更新 | 2023 年 10 月 30 日至 11 月 2 日 | 已更新 |
-| 维护版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | 自动更新 | 2023 年 11 月 13-16 日 | 已更新 |
-| 功能版本 [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 功能激活 | 2023 年 11 月 30 日 | 已激活 |
+| 维护版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html#release-14227) | 自动更新 | 2023 年 11 月 13-16 日 | 已更新 |
+| 功能版本 [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html) | 功能激活 | 2023 年 11 月 30 日 | 已激活 |
+| 维护版本 [14538](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | 自动更新 | 2023 年 12 月 11-14 日 | 已更新 |
+| 功能版本 [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 功能激活 | 2023 年 12 月 14 日 | 已激活 |
 
 ### 即将发布的版本 {#upcoming}
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 | 自动更新 | 2023 年 12 月 11-14 日 | 目标 |
-| 功能版本 2023.12.0 | 功能激活 | 2023 年 12 月 14 日 | 目标 |
 | 维护版本 | 自动更新 | 2024年1月8-10日 | 目标 |
 | 维护版本 | 自动更新 | 2024年1月22至24日 | 目标 |
 | 功能版本 2024.1.0 | 功能激活 | 2024 年 1 月 25 日 | 目标 |
