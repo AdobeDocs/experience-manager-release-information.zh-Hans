@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f0d7dff2ff21befed5f0c2fde36b5442267d61ad
+source-git-commit: 4e209f166c0401279f73632e19bf8f05ee0e9dec
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '467'
 ht-degree: 100%
 
 ---
@@ -50,15 +50,6 @@ ht-degree: 100%
 | 功能版本 2024.5.0 | 功能激活 | 2024 年 5 月 30 日 | 目标 |
 | 功能版本 2024.6.0 | 功能激活 | 2024 年 6 月 27 日 | 目标 |
 | 功能版本 2024.7.0 | 功能激活 | 2024 年 7 月 25 日 | 目标 |
-
->[!CAUTION]
->
->**计划内的维护排除期**
->
-> 在欧洲中部时间午夜 (00:00) 开始和结束的以下时间范围内，不会执行自动 AEMaaCS 维护：
->
->* 2023 年 11 月 16 日星期四至 2023 年 11 月 28 日星期二
->* 2023 年 12 月 15 日星期五至 2024 年 1 月 2 日星期二
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
