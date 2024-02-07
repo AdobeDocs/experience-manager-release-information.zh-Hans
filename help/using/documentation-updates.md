@@ -3,7 +3,7 @@ title: "[!DNL Experience Manager] 最近文档更新"
 description: ' [!DNL Experience Manager] 文档中的新增内容、更新内容或修改内容'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 5e8fbbc0cc3ab5cc96de9e363fbc44bcca37f1ea
+source-git-commit: d719a7bdfd6bc9a8a2daab4b3452db6047027764
 workflow-type: tm+mt
 source-wordcount: '1940'
 ht-degree: 97%
@@ -66,24 +66,24 @@ ht-degree: 97%
 
 | 日期 | 主题 | 更改 |
 | --- | --- | --- |
-| 2021 年 11 月 25 日 | [!DNL Experience Manager] 6.5 Service Pack 11 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-11.html)。 |
+| 2021 年 11 月 25 日 | [!DNL Experience Manager] 6.5 Service Pack 11 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-11.html)。 |
 | 2021 年 11 月 3 日 | 智能裁切视频查看器 API | Dynamic Media 查看器参考指南中现在提供了新的[智能裁切视频查看器 API 文档](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html)。 |
-| 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 10 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-10.html)。 |
-| 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-9.html)。 |
-| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-8.html)。 |
+| 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 10 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-10.html)。 |
+| 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-9.html)。 |
+| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-8.html)。 |
 | 2020 年 11 月 25 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=zh-Hans#dynamic)。 |
-| 2020 年 11 月 26 日 | Experience Manager 6.5 Service Pack 7 | 现已推出 [Experience Manager 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-7.html)。 |
+| 2020 年 11 月 26 日 | Experience Manager 6.5 Service Pack 7 | 现已推出 [Experience Manager 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-7.html)。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效功能 | 您现在可以从 Dynamic Media 发送请求，以使 CDN 缓存在几分钟内过期。当您更新资产并希望这些更改立即在您的网站上生效时，此功能非常有用。<br>请参阅[通过 Dynamic Media 使 CDN 缓存失效](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)。 |
 | 2020 年 9 月 3 日 | 使用 Dynamic Media 中的“选择性发布”功能 | 您可以选择在文件夹级别向 Experience Manager 或 Dynamic Media 发布资产或从中取消发布资产。您可以通过使用&#x200B;**[!UICONTROL 管理出版物]**&#x200B;或&#x200B;**[!UICONTROL 快速发布]**&#x200B;来完成此任务，而不是仅依赖 **Dynamic Media 配置**，其设置全局适用于 Dynamic Media 实例中的所有文件夹。<br>请参阅[使用 Dynamic Media 中的“选择性发布”功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/selective-publishing.html)。 |
-| 2020 年 9 月 3 日 | Experience Manager 6.5 Service Pack 6 | 现已推出 [Experience Manager 6.5 Service Pack 6](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-6.html)。 |
+| 2020 年 9 月 3 日 | Experience Manager 6.5 Service Pack 6 | 现已推出 [Experience Manager 6.5 Service Pack 6](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-6.html)。 |
 | 2020 年 7 月 29 日 | 多站点管理器 | 已对[创建同步操作](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action)和[创建转出配置](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration)过程进行了更新。 |
 | 2020 年 7 月 15 日 | Sling 备忘单 | 已将 [Sling 备忘单](https://experienceleague.adobe.com/docs/experience-manager-65/developing/platform/sling-cheatsheet.html)更新为引用 [HTL。](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html) |
 | 2020 年 6 月 19 日 | Adobe Experience Manager | Adobe 旨在从其代码、文档和体验中使用公平的术语。<br>因此对此文档集作出了更新以反映此公平性。 |
 | 2020 年 6 月 4 日 | 使用 Brand Portal 配置 Experience Manager Assets | Adobe I/O 已升级到 Adobe Developer Console，现在具有新品牌标识、用户界面和工作流。已基于最新的 Adobe Developer Console 工作流更新文档，以使用 Brand Portal 配置 Experience Manager Assets：<br>- [使用 Brand Portal 配置 Experience Manager Assets ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/brandportal/configure-aem-assets-with-brand-portal.html)<br>- [将旧配置升级到 Adobe Developer Console](https://experienceleague.adobe.com/docs/experience-manager-65/assets/brandportal/configure-aem-assets-with-brand-portal.html#upgrade-integration-65) |
-| 2020 年 6 月 4 日 | Experience Manager 6.5 Service Pack 5 | 现已推出 [Experience Manager 6.5 Service Pack 5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-5.html)。 |
+| 2020 年 6 月 4 日 | Experience Manager 6.5 Service Pack 5 | 现已推出 [Experience Manager 6.5 Service Pack 5](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-5.html)。 |
 | 2020 年 5 月 25 日 | 辅助功能和 WCAG 2.1 准则 | 有关 WCAG 2.1 准则的更新：<br>- [Adobe Experience Manager as a Cloud Service 和 Web 无障碍准则](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/compliance/accessibility/web-accessibility.html)<br>- [WCAG 2.1 快速指南](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/compliance/accessibility/quick-guide-wcag.html)<br>- [创建无障碍内容（WCAG 2.1 合规）](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/accessible-content.html) |
 | 2020 年 4 月 13 日 | 资产版本控制 | 已更新有关如何创建、预览以及恢复 [Experience Manager 中的资产版本](https://experienceleague.adobe.com/docs/experience-manager-65/assets/managing/manage-assets.html#asset-versioning)的内容和视频。 |
 | 2020 年 4 月 13 日 | 资产处理 | 新增了有关如何使用工作流处理资产的概述。此外，还新增了介绍如何[自动触发资产处理工作流](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/assets-workflow.html)的主题。 |
 | 2020 年 3 月 30 日 | Dynamic Media — 智能成像 | “智能成像帮助”主题已全面更新，其中新增了一些信息，包括描述新增的智能成像优化的图像资产示例。<br>请参阅[智能成像](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html)。 |
-| 2020 年 3 月 5 日 | Experience Manager 6.5 Service Pack 4 | 现已推出 [Experience Manager 6.5 Service Pack 4](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-4.html)。 |
+| 2020 年 3 月 5 日 | Experience Manager 6.5 Service Pack 4 | 现已推出 [Experience Manager 6.5 Service Pack 4](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-4.html)。 |
 | 2020 年 3 月 4 日 | 配置 Dynamic Media — Scene7 模式 | 可在“Dynamic Media 配置”页面上的“工具”>“云服务”中找到新增的“同步所有内容”选项。<br>请参阅[创建 Dynamic Media 配置](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html#configuring-dynamic-media-cloud-services)。 |

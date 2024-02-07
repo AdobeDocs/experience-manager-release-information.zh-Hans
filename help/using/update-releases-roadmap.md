@@ -2,7 +2,7 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f01868f5f3b12d8bcd3de1954465f015ddb601a2
+source-git-commit: 98344e1994596f917f947243fdaf94e5d33f9039
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 97%
@@ -58,13 +58,13 @@ ht-degree: 97%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 产品更新通过季度服务包提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的服务包的详细信息，请参阅 [[!DNL Experience Manager]  6.5 服务包发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans)。
+[!DNL Experience Manager] 6.5 产品更新通过季度服务包提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的服务包的详细信息，请参阅 [[!DNL Experience Manager]  6.5 服务包发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html)。
 
 | 发行版本 | 版本号 | 类型 | 计划 | 状态 |
 |---|---|---|---|---|
-| [!DNL Experience Manager][ 6.5 服务包 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-17.html) | 6.5.17.0 | 服务包 | 2023 年 5 月 25 日 | 已激活 |
-| [!DNL Experience Manager][ 6.5 服务包 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-18.html) | 6.5.18.0 | 服务包 | 2023 年 8 月 24 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 [服务包 19](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans) | 6.5.19.0 | 服务包 | 2023 年 11 月 30 日 | 已激活 |
+| [!DNL Experience Manager][ 6.5 服务包 17](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-17.html) | 6.5.17.0 | 服务包 | 2023 年 5 月 25 日 | 已激活 |
+| [!DNL Experience Manager][ 6.5 服务包 18](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-18.html) | 6.5.18.0 | 服务包 | 2023 年 8 月 24 日 | 已激活 |
+| [!DNL Experience Manager] 6.5 [服务包 19](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html) | 6.5.19.0 | 服务包 | 2023 年 11 月 30 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 服务包 20 | 6.5.20.0 | 服务包 | 2024 年 2 月 22 日 | 目标 |
 | [!DNL Experience Manager] 6.5 服务包 21 | 6.5.21.0 | 服务包 | 2024 年 5 月 23 日 | 目标 |
 | [!DNL Experience Manager] 6.5 服务包 22 | 6.5.22.0 | 服务包 | 2024 年 8 月 22 日 | 目标 |
