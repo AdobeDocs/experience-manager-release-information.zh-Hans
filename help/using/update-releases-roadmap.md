@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: f40bca25cb2110f6c10fc858542d0e36188d0d76
 workflow-type: tm+mt
 source-wordcount: '477'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -76,7 +76,7 @@ ht-degree: 97%
 
 >[!MORELIKETHIS]
 >
->* [EOL 一览表](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)
+>* [EOL 一览表](https://helpx.adobe.com/cn/cn/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager]  发行版和更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=zh-Hans)
 >* [[!DNL Experience Manager]  学习和支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hans)
 >* [[!DNL Experience Manager]  更新版本发行方式定义](/help/using/update-release-vehicle-definitions.md)
