@@ -4,9 +4,9 @@ description: ' [!DNL Experience Manager] 文档中的新增内容、更新内容
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
 source-git-commit: d719a7bdfd6bc9a8a2daab4b3452db6047027764
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1940'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 97%
 | 2020 年 5 月 4 日 | Dynamic Media 中不受支持的图像格式 | 关于 Dynamic Media 中不受支持的光栅图像文件格式的子类型的信息。<br>请参阅 [Dynamic Media 中不受支持的光栅图像格式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html)。 |
 | 2020 年 4 月 20 日 | 内容片段 | 关于 [Experience Manager Assets HTTP API 中的内容片段支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/assets-api-content-fragments.html)、[自定义和扩展内容片段](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/configuring-and-extending/content-fragments-customizing.html)以及[用于呈现的内容片段配置组件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/configuring-and-extending/content-fragments-configuring-components-rendering.html)的信息。 |
 | 2020 年 4 月 9 日 | 使用 Brand Portal 配置 Experience Manager Assets as a Cloud Service | Experience Manager Assets as a Cloud Service 现在支持 Brand Portal。 您可以在 Adobe I/O 上使用 Experience Manager Assets as a Cloud Service 配置 Brand Portal 租户：<br>- [使用 Brand Portal 配置 Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/brand-portal/configure-aem-assets-with-brand-portal.html)<br>- [将资产发布到 Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/brand-portal/publish-to-brand-portal.html) |
-| 2020 年 4 月 9 日 | Adobe Asset Link v2.0 版本 | Adobe Asset Link 2.0 支持使用多个 Adobe Experience Manager 环境，并支持 Experience Manager as a Cloud Service。 在使用 AAL 将资产上传到文件夹后，营销人员可使用 Experience Manager 配置自动执行资产处理工作流。 <br>请参阅 [Adobe Asset Link](https://helpx.adobe.com/cn/enterprise/using/adobe-asset-link.html)。 |
+| 2020 年 4 月 9 日 | Adobe Asset Link v2.0 版本 | Adobe Asset Link 2.0 支持使用多个 Adobe Experience Manager 环境，并支持 Experience Manager as a Cloud Service。 在使用 AAL 将资产上传到文件夹后，营销人员可使用 Experience Manager 配置自动执行资产处理工作流。 <br>请参阅 [Adobe Asset Link](https://helpx.adobe.com/cn/cn/enterprise/using/adobe-asset-link.html)。 |
 | 2020 年 3 月 24 日 | 配置 Dynamic Media 云服务 | 在配置 Dynamic Media 云服务时有新选项可用：<br>**选择性发布** - 当选择此选项时，即意味着自动发布资产仅供安全预览。可显式地将资产发布到 Experience Manager，而不发布到 DMS7 以供投放在公共域中。<br>请参阅[配置 Dynamic Media 云服务](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm.html)。 |
 | 2020 年 3 月 2 日 | Dynamic Media — 智能裁剪 | 在 Dynamic Media 组件中使用智能裁切时，现在有一个新选项可用：<br>**启用宽高比匹配** - 选择此选项可让 Dynamic Media 选取一个最符合原始图像宽高比的智能裁切演绎版。<br>请参阅[使用智能裁剪时](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/adding-dynamic-media-assets-to-pages.html)。 |
 | 2020 年 2 月 25 日 | 基于角色的权限 | Cloud Manager 预配置了一些具有适当权限的角色。每个角色均具有特定权限、预配置任务或与之关联的权限。[“基于角色的权限”页面](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/cloud-manager.html)列出了可用功能以及能够执行各项功能的角色。 |
@@ -71,7 +71,7 @@ ht-degree: 97%
 | 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 10 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-10.html)。 |
 | 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-9.html)。 |
 | 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | 现已推出 [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-8.html)。 |
-| 2020 年 11 月 25 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=zh-Hans#dynamic)。 |
+| 2020 年 11 月 25 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)。 |
 | 2020 年 11 月 26 日 | Experience Manager 6.5 Service Pack 7 | 现已推出 [Experience Manager 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-7.html)。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效功能 | 您现在可以从 Dynamic Media 发送请求，以使 CDN 缓存在几分钟内过期。当您更新资产并希望这些更改立即在您的网站上生效时，此功能非常有用。<br>请参阅[通过 Dynamic Media 使 CDN 缓存失效](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html)。 |
 | 2020 年 9 月 3 日 | 使用 Dynamic Media 中的“选择性发布”功能 | 您可以选择在文件夹级别向 Experience Manager 或 Dynamic Media 发布资产或从中取消发布资产。您可以通过使用&#x200B;**[!UICONTROL 管理出版物]**&#x200B;或&#x200B;**[!UICONTROL 快速发布]**&#x200B;来完成此任务，而不是仅依赖 **Dynamic Media 配置**，其设置全局适用于 Dynamic Media 实例中的所有文件夹。<br>请参阅[使用 Dynamic Media 中的“选择性发布”功能](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/selective-publishing.html)。 |
