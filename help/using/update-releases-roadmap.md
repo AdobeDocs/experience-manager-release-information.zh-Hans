@@ -3,7 +3,7 @@ title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2d7380a05e9b6d35448f4b555403f0044aabe9c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '468'
 ht-degree: 100%
 
@@ -26,14 +26,14 @@ ht-degree: 100%
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0.html#release-13323) | 自动更新 | 2023 年 9 月 1 日 | 已更新 |
-| 维护版本 [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0.html#release-13420) | 自动更新 | 2023 年 9 月 18-20 日 | 已更新 |
+| 维护版本 [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0.html?lang=zh-Hans#release-13323) | 自动更新 | 2023 年 9 月 1 日 | 已更新 |
+| 维护版本 [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0.html?lang=zh-Hans#release-13420) | 自动更新 | 2023 年 9 月 18-20 日 | 已更新 |
 | 功能版本 [2023.9.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0.html?lang=zh-Hans) | 功能激活 | 2023 年 9 月 28 日 | 已激活 |
-| 维护版本 [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0.html#release-13665) | 自动更新 | 2023 年 10 月 2-5 日 | 已更新 |
-| 维护版本 [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0.html#release-13804) | 自动更新 | 2023 年 10 月 16-19 日 | 已更新 |
+| 维护版本 [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0.html?lang=zh-Hans#release-13665) | 自动更新 | 2023 年 10 月 2-5 日 | 已更新 |
+| 维护版本 [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0.html?lang=zh-Hans#release-13804) | 自动更新 | 2023 年 10 月 16-19 日 | 已更新 |
 | 功能版本 [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0.html?lang=zh-Hans) | 功能激活 | 2023 年 10 月 26 日 | 已激活 |
-| 维护版本 [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html#release-14029) | 自动更新 | 2023 年 10 月 30 日至 11 月 2 日 | 已更新 |
-| 维护版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html#release-14227) | 自动更新 | 2023 年 11 月 13-16 日 | 已更新 |
+| 维护版本 [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html?lang=zh-Hans#release-14029) | 自动更新 | 2023 年 10 月 30 日至 11 月 2 日 | 已更新 |
+| 维护版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html?lang=zh-Hans#release-14227) | 自动更新 | 2023 年 11 月 13-16 日 | 已更新 |
 | 功能版本 [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=zh-Hans) | 功能激活 | 2023 年 11 月 30 日 | 已激活 |
 | 维护版本 [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=zh-Hans) | 自动更新 | 2023 年 12 月 11-14 日 | 已更新 |
 | 功能版本 [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html?lang=zh-Hans) | 功能激活 | 2023 年 12 月 14 日 | 已激活 |
@@ -57,13 +57,13 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 产品更新通过季度服务包提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的服务包的详细信息，请参阅 [[!DNL Experience Manager]  6.5 服务包发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html)。
+[!DNL Experience Manager] 6.5 产品更新通过季度服务包提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的服务包的详细信息，请参阅 [[!DNL Experience Manager]  6.5 服务包发行说明](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html?lang=zh-Hans)。
 
 | 发行版本 | 版本号 | 类型 | 计划 | 状态 |
 |---|---|---|---|---|
-| [!DNL Experience Manager][ 6.5 服务包 17](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-17.html) | 6.5.17.0 | 服务包 | 2023 年 5 月 25 日 | 已激活 |
-| [!DNL Experience Manager][ 6.5 服务包 18](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-18.html) | 6.5.18.0 | 服务包 | 2023 年 8 月 24 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 [服务包 19](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html) | 6.5.19.0 | 服务包 | 2023 年 11 月 30 日 | 已激活 |
+| [!DNL Experience Manager][ 6.5 服务包 17](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-17.html?lang=zh-Hans) | 6.5.17.0 | 服务包 | 2023 年 5 月 25 日 | 已激活 |
+| [!DNL Experience Manager][ 6.5 服务包 18](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-18.html?lang=zh-Hans) | 6.5.18.0 | 服务包 | 2023 年 8 月 24 日 | 已激活 |
+| [!DNL Experience Manager] 6.5 [服务包 19](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/release-notes.html?lang=zh-Hans) | 6.5.19.0 | 服务包 | 2023 年 11 月 30 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 服务包 20 | 6.5.20.0 | 服务包 | 2024 年 2 月 22 日 | 目标 |
 | [!DNL Experience Manager] 6.5 服务包 21 | 6.5.21.0 | 服务包 | 2024 年 5 月 23 日 | 目标 |
 | [!DNL Experience Manager] 6.5 服务包 22 | 6.5.22.0 | 服务包 | 2024 年 8 月 22 日 | 目标 |
@@ -75,7 +75,7 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [EOL 一览表](https://helpx.adobe.com/cn/cn/support/programs/eol-matrix.html)
+>* [EOL 一览表](https://helpx.adobe.com/cn/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager]  发行版和更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=zh-Hans)
 >* [[!DNL Experience Manager]  学习和支持](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hans)
 >* [[!DNL Experience Manager]  更新版本发行方式定义](/help/using/update-release-vehicle-definitions.md)
