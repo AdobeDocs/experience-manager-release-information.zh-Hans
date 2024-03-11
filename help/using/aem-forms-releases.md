@@ -3,7 +3,7 @@ title: AEM Forms 发行版
 description: 包含所有 AEM Forms 发行版和相应包的列表
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: a2cfc6f0db79e0adb1f278627aeb771074e33897
+source-git-commit: 215fdcb616fae9720fdc31115176af26517b96ce
 workflow-type: tm+mt
 source-wordcount: '2888'
 ht-degree: 99%
@@ -40,15 +40,15 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
   </tr>
   <tr>
-    <td>2024 年 2 月 29 日</td>
+    <td>2024 年 3 月 08 日</td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6520">适用于 AEM 6.5.20.0 的 AEM Forms 服务包 20 Forms 附加组件包</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hans">AEM 6.5.20.0</a></td>
     <td>
      <ul>
      <br><b>OSGi 上的 AEM Forms 补丁安装程序</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-LINUX-PKG-6.0.1180.zip">适用于 Linux 的 AEM Forms 附加组件包</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-WIN-PKG-6.0.1180.zip">适用于 Windows 的 AEM Forms 附加组件包</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Adobe-AEMFD-OSX-PKG-6.0.1180.zip">适用于 Mac OS X 的 AEM Forms 附加组件包 [2]</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-LINUX-PKG-6.0.1192.zip">适用于 Linux 的 AEM Forms 附加组件包</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-WIN-PKG-6.0.1192.zip">适用于 Windows 的 AEM Forms 附加组件包</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/ADOBE-AEMFD-OSX-PKG-6.0.1192.zip">适用于 Mac OS X 的 AEM Forms 附加组件包 [2]</a></li>
       <br><b>AEM Forms on JEE 补丁安装程序</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/jboss/win/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-WINDOWS-JBOSS.zip">JBoss® Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0083/jboss/linux/ADOBE-AEM-FORMS-JEE-SERVICE-PACK-6.5.20.0-LINUX-JBOSS.tar.gz">JBoss® Linux</a></li>
@@ -72,7 +72,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 补丁安装程序：6-5-0-0083 <br/><p>AEM Forms 附加组件包：6.0.1180 </p></td>
+    <td><p>AEM Forms JEE 补丁安装程序：6-5-0-0083 <br/><p>AEM Forms 附加组件包：6.0.1192 </p></td>
    </tr>
   <tr>
     <td>2023 年 12 月 15 日</td>
