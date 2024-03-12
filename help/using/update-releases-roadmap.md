@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7c38fa83d5f24c4ad3d953b00e00306a4a2e70c9
-workflow-type: ht
-source-wordcount: '477'
-ht-degree: 100%
+source-git-commit: 8d7f2b64a2bb4608a916b8d2c4f55abb463caa0a
+workflow-type: tm+mt
+source-wordcount: '479'
+ht-degree: 99%
 
 ---
 
@@ -35,16 +35,16 @@ ht-degree: 100%
 | 维护版本 [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html?lang=zh-Hans#release-14029) | 自动更新 | 2023 年 10 月 30 日至 11 月 2 日 | 已更新 |
 | 维护版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html?lang=zh-Hans#release-14227) | 自动更新 | 2023 年 11 月 13-16 日 | 已更新 |
 | 功能版本 [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=zh-Hans) | 功能激活 | 2023 年 11 月 30 日 | 已激活 |
-| 维护版本 [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=zh-Hans) | 自动更新 | 2023 年 12 月 11-14 日 | 已更新 |
+| 维护版本 [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0.html#release-14697) | 自动更新 | 2023 年 12 月 11-14 日 | 已更新 |
 | 功能版本 [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html?lang=zh-Hans) | 功能激活 | 2023 年 12 月 14 日 | 已激活 |
 | 功能版本 [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hans) | 功能激活 | 2024 年 1 月 25 日 | 已激活 |
+| 维护版本 [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=zh-Hans) | 自动更新 | 2024 年 3 月 11-13 日 | 已激活 |
 
 ### 即将发布的版本 {#upcoming}
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
 | 功能版本 2024.2.0 | 功能激活 | 2024 年 2 月 29 日 | 已取消 |
-| 维护版本 | 自动更新 | 2024 年 3 月 11-13 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 4 月 1-3 日 | 目标 |
 | 功能版本 2024.3.0 | 功能激活 | 2024 年 4 月 4 日 | 目标 |
 | 功能版本 2024.4.0 | 功能激活 | 2024 年 4 月 25 日 | 目标 |
