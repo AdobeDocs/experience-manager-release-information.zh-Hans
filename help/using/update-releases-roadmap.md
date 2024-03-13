@@ -2,9 +2,9 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 8d7f2b64a2bb4608a916b8d2c4f55abb463caa0a
+source-git-commit: 4c3f6652b13c99bdd2140c7e4a03be9eb9417a06
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '471'
 ht-degree: 99%
 
 ---
@@ -44,7 +44,6 @@ ht-degree: 99%
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 功能版本 2024.2.0 | 功能激活 | 2024 年 2 月 29 日 | 已取消 |
 | 维护版本 | 自动更新 | 2024 年 4 月 1-3 日 | 目标 |
 | 功能版本 2024.3.0 | 功能激活 | 2024 年 4 月 4 日 | 目标 |
 | 功能版本 2024.4.0 | 功能激活 | 2024 年 4 月 25 日 | 目标 |
