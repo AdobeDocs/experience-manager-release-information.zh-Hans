@@ -45,7 +45,7 @@ ht-degree: 99%
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2024 年 3 月 19-21 日 | 目标 |
+| 维护版本 [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2024 年 3 月 19–21 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 4 月 1-3 日 | 目标 |
 | 功能版本 2024.3.0 | 功能激活 | 2024 年 4 月 4 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 4 月 15-17 日 | 目标 |
