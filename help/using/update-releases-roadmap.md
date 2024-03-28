@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 7fe057f759a0ae328957efd6d425c6a2d37ef1d1
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 98%
 | 维护版本 | 自动更新 | 2024 年 6 月 3-5 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 6 月 17-19 日 | 目标 |
 | 功能版本 2024.6.0 | 功能激活 | 2024 年 6 月 27 日 | 目标 |
-| 维护版本 | 自动更新 | 2024年7月1日至3日 | 目标 |
+| 维护版本 | 自动更新 | 2024 年 7 月 1-3 日 | 目标 |
 | 功能版本 2024.7.0 | 功能激活 | 2024 年 7 月 25 日 | 目标 |
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
