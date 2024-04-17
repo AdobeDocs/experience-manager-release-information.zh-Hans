@@ -2,10 +2,10 @@
 title: 下载旧版本的 AEM、CQ 和 CRX 文档
 description: 下载旧版本的 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ## 旧版本的 [!DNL Experience Manager] 文档 {#older-version-aem-documentation}
 
-本页面上列出的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已结束其产品周期，Adobe 官方将不再销售这些版本。您可自助获得 Adobe 为这些旧版本发布的最后一版官方文档。Adobe 建议您升级至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。
+本页面上列出的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已结束其产品周期，Adobe 官方将不再销售这些版本。您可自助获得 Adobe 为这些旧版本发布的最后一版官方文档。Adobe 建议您升级至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service)。
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 | [!DNL Experience Manager] 版本 | Software Distribution 链接 |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 文档](https://experienceleague.adobe.com/docs/experience-manager-64.html) |
+| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 文档](https://experienceleague.adobe.com/en/docs/experience-manager-64) |
 | [!DNL Experience Manager] 6.3 | [从 Software Distribution 下载 AEM-DOCS-6.3](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [从 Software Distribution 下载 AEM-DOCS-6.2](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [从 Software Distribution 下载 AEM-DOCS-6.1](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |

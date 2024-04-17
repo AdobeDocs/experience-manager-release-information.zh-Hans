@@ -1,17 +1,17 @@
 ---
-title: "[!DNL Adobe Experience Manager] 版本更新和路线图"
-description: "[!DNL Adobe Experience Manager] 版本更新和路线图"
+title: Adobe Experience Manager 版本更新和路线图
+description: Adobe Experience Manager版本更新和路线图。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '56'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 66%
 
 ---
 
 # Adobe Experience Manager 版本更新和路线图
 
-本指南包含有关 [!DNL Adobe Experience Manager] 版本发行路线图、以前的版本更新和文档更新的信息。
+本指南包含有关 [!DNL Adobe Experience Manager] 版本发行路线图、以前的版本更新和文档更新。
 
 * [[!DNL Experience Manager] 版本更新](aem-releases-updates.md)
 * [[!DNL Experience Manager] 版本发行路线图](update-releases-roadmap.md)

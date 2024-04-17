@@ -3,10 +3,10 @@ title: "[!DNL Adobe Experience Manager] 版本更新"
 description: "[!DNL Adobe Experience Manager] 版本更新"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] 的新增功能通常保持每月一次的发行频率。
 
-有关最新版本的详细信息，请参阅[ [!DNL Experience Manager] as a [!DNL Cloud Service] 最新发行说明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)。从这里还可导航到以前版本的详细信息（按时间顺序排列）。
+有关最新版本的详细信息，请参阅[ [!DNL Experience Manager] as a [!DNL Cloud Service] 最新发行说明](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)。从这里还可导航到以前版本的详细信息（按时间顺序排列）。
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
@@ -30,6 +30,6 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-[!DNL Experience Manager] 6.5 产品更新通过季度 Service Pack 提供。这些更新包括新增功能、增强功能和错误修复。
+[!DNL Experience Manager] 6.5 产品更新通过季度服务包提供。这些更新包括新增功能、增强功能和错误修复。
 
-查看 [[!DNL Experience Manager] 6.5 最新功能包](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)以了解有关当前/最新版本的详细信息。从这里还可导航到以前版本的详细信息（按时间顺序排列）。
+查看 [[!DNL Experience Manager] 6.5 最新功能包](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)以了解有关当前/最新版本的详细信息。从这里还可导航到以前版本的详细信息（按时间顺序排列）。

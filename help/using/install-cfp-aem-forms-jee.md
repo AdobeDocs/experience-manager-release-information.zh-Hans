@@ -1,12 +1,12 @@
 ---
 title: 在 AEM Forms JEE 上安装累积修订包
-description: 在 AEM Forms JEE 上安装和配置累积修订包 (CFP) 的步骤概述
+description: 在AEM Forms JEE上安装和配置累积修订包(CFP)的步骤概述。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '921'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '909'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）为 AEM [!DNL Forms JEE] 上的 [!DNL Forms] 用户提供与 AEM [!DNL Forms OSGi] 上相同的权限和功能。检查包管理器中已安装的包，如果尚未安装，请安装包。
 
-### CQ-4208044 的附加说明 {#additional-instructions-for-cq}
+### CQ-4208044的更多说明 {#additional-instructions-for-cq}
 
 如果将 AEM 6.3 [!DNL Forms JEE] 服务器与 Oracle 数据库一起使用，请在部署 CFP1 后（即，在运行配置管理器后）配置以下设置。运行企业域同步时，需要此设置才能同步用户、组和组成员。
 
@@ -100,8 +100,8 @@ DSC 部署需要的时间是可变的，因此，部署可能会失败。要更�
 
    导航到安装介质上的相应目录，或硬盘上您在其中复制了安装程序的文件夹：
 
-   * （Windows 32 位）：Disk1\InstData\Windows\VM
-   * （Windows 64 位）：Disk1\InstData\Windows_64bit\VM
+   * (`Windows 32-bit`)： `Disk1\InstData\Windows\VM`
+   * (`Windows 64-bit`)： `Disk1\InstData\Windows_64bit\VM`
 
    然后，双击以下名称的文件：
 
@@ -126,7 +126,7 @@ DSC 部署需要的时间是可变的，因此，部署可能会失败。要更�
    随后将启动安装向导以指导您完成安装。
 
 1. 在“简介”面板上，单击&#x200B;**[!UICONTROL 下一步]**。
-1. 在“选择安装文件夹”屏幕上，确认所显示的默认位置适合您现有的安装，或单击&#x200B;**[!UICONTROL 浏览]**&#x200B;以选择从中安装 AEM [!DNL Forms] 的备选文件夹，然后单击&#x200B;**[!UICONTROL 下一步]**。
+1. 在Choose Install Folder屏幕上，验证显示的默认位置对于现有安装是否正确。 或者，单击 **[!UICONTROL 浏览]** 以选择AEM所在的备用文件夹 [!DNL Forms] 安装，然后单击 **[!UICONTROL 下一个]**.
 1. 阅读“Quick Fix Patch Summary”信息，然后单击 **[!UICONTROL Next]**。
 1. 阅读“Pre-Installation Summary”信息，然后单击 **[!UICONTROL Install]**。
 1. 安装完成后，单击 **[!UICONTROL Next]** 以将快速修补程序更新应用到已安装的文件。
