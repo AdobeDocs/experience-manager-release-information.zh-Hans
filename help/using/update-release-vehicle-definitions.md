@@ -1,12 +1,12 @@
 ---
 title: 更新版本发行方式定义
-description: 本文详细介绍了各种类型的  [!DNL Experience Manager]  发行版本，包括完整版本、功能包和 Service Pack。
+description: 本文详细介绍了各种类型的 [!DNL Experience Manager] 发行版本，包括完整版本、功能包和Service Pack。
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+workflow-type: tm+mt
 source-wordcount: '731'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -77,4 +77,4 @@ ht-degree: 100%
 | 可用性和安装 | <ul> <li>通过 Service Pack 提供 </li> <li> 可在 Software Distribution 上获取。客户通过 Software Distribution 接受 [!DNL Adobe's] 条款和条件。 </li> </ul> |
 | 测试级别 | General Availability 功能包已通过 QA 验证。 |
 
-* 1：不以个别修补程序的形式提供 Oak 修补程序。但是，它们包含在后续的累积 Oak 修补程序中。如有必要，可以提供基于最新 COFP 的诊断版本。但前提是客户必须运行最新的 COFP。诊断版本仅提供与修补程序相同级别的质量保证。因此，诊断版本无法提供像累积修订包、服务包或产品版本那样多的质量保证。最终修补程序将随下一个 CFP 一起提供。
+* 1：不以个别修补程序的形式提供 Oak 修补程序。但是，它们包含在后续的累积 Oak 修补程序中。如有必要，可以提供基于最新COFP构建的诊断程序。 但前提是客户必须运行最新的 COFP。诊断版本仅提供与修补程序相同级别的质量保证。因此，诊断版本无法提供像累积修订包、服务包或产品版本那样多的质量保证。最终修补程序将随下一个 CFP 一起提供。
