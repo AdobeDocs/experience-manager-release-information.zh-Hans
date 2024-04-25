@@ -4,9 +4,9 @@ description: "[!DNL Adobe Experience Manager] 版本更新"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

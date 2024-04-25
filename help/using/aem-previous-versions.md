@@ -3,9 +3,9 @@ title: 下载旧版本的 AEM、CQ 和 CRX 文档
 description: 下载旧版本的 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '570'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 99%
 
 需要有效的 Adobe ID：
 
-* 如果您没有 Adobe ID，可在 https://www.adobe.com/ 上创建一个。如果需要帮助您创建或管理 Adobe ID，[请参阅本指南](https://helpx.adobe.com/cn/manage-account.html)
+* 如果您没有 Adobe ID，可在 https://www.adobe.com/cn/ 上创建一个。如果需要帮助您创建或管理 Adobe ID，[请参阅本指南](https://helpx.adobe.com/cn/manage-account.html)
 
 | [!DNL Experience Manager] 版本 | Software Distribution 链接 |
 |:-----------:|:--------------------------------------------------:|

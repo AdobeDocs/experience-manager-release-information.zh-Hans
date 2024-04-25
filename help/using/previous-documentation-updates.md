@@ -1,12 +1,12 @@
 ---
 title: 以前的文档更新
-description: 了解有关以前的重要文档更改和更新的更多信息 [!DNL Adobe Experience Manager].
+description: 了解有关  [!DNL Adobe Experience Manager] 旧版重要文档更改和更新的更多信息。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1228'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -25,13 +25,13 @@ ht-degree: 82%
   </tr>
    <tr>
    <td>2019 年 12 月 12 日</td> 
-   <td>预览 3D 资产<br /> </td> 
-   <td><p>AEM 支持在创作过程中上传、交付和以交互方式预览 3D 资产。AEM 中的资产详细信息页面提供了交互式 3D 查看器。该查看器提供了各种控件，其中包括一组交互式相机控件，可让您对 3D 资产执行绕行、缩放和平移操作。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/previewing-3d-assets" target="_blank">预览 3D 资产</a>。</p> </td> 
+   <td>预览 3D 资源<br /> </td> 
+   <td><p>AEM 支持在创作过程中上传、交付和以交互方式预览 3D 资源。AEM 中的资源详细信息页面提供了交互式 3D 查看器。该查看器提供了各种控件，其中包括一组交互式相机控件，可让您对 3D 资源执行绕行、缩放和平移操作。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/previewing-3d-assets" target="_blank">预览 3D 资源</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 12 月 12 日</td> 
-   <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-3">AEM 6.5 Service Pack 3</a> 现已发布。</td> 
+   <td>AEM 6.5 服务包 3<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-3">AEM 6.5 服务包 3</a> 现已发布。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 12 日</td> 
@@ -46,12 +46,12 @@ ht-degree: 82%
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>AEM 项目原型<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM项目原型</a> 创建一个Adobe Experience Manager项目作为您自己的AEM项目的起点。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM 项目原型</a>用于创建 Adobe Experience Manager 项目，此项目可作为您自己的 AEM 项目的起点。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>Headless 体验管理<br /> </td> 
-   <td>的功能 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">远程内容渲染器</a>已记录用于单页应用程序的服务器端渲染。<br /> </td> 
+   <td>记录了用于在服务器端呈现单页面应用程序的<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">远程内容渲染器</a>功能。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 11 月 10 日</td> 
@@ -76,7 +76,7 @@ ht-degree: 82%
   <tr>
    <td>2019 年 10 月 1 日 </td> 
    <td>AEM Screens 项目的“最佳实践指南”</td> 
-   <td><p>本新指南为您的数字标牌实施提供了详尽见解和实用建议，以便构想、设计和引入创意客户体验。 它还指导您如何在AEM Screens中部署数字标牌项目时，使用一些遵循的最佳实践对您的业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 项目最佳实践指南</a>，以获取更多详细信息。</p> </td> 
+   <td><p>这份新指南提供了全面的见解和实用建议，可帮助您构想、设计并将有意的客户体验融入到您的数字标牌实施中。它还可以指导您使用在 AEM Screens 中部署数字标牌项目时遵循的一些最佳实践对您的业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 项目最佳实践指南</a>，以获取更多详细信息。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -86,22 +86,22 @@ ht-degree: 82%
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>AEM Assets 搜索<br /> </td> 
-   <td>现在提供了有关资产搜索和发现的新增内容，这是一个一站式服务，其中介绍了使用、配置、疑难解答、限制和技巧。查看<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/search-assets" target="_blank">搜索资产</a>。</td> 
+   <td>现在提供了有关资源搜索和发现的新增内容，这是一个一站式服务，其中介绍了使用、配置、疑难解答、限制和技巧。查看<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/search-assets" target="_blank">搜索资源</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
-   <td>Scene7：重新处理资产工作流<br /> </td> 
-   <td><p>现在，如果某个文件夹具有现有处理配置文件且您在稍后更改了此配置文件，则可以重新处理该文件夹中的资产。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/processing-profiles" target="_blank">重新处理文件夹中的资产</a>。<br /> </p> </td> 
+   <td>Scene7：重新处理资源工作流<br /> </td> 
+   <td><p>现在，如果某个文件夹具有现有处理配置文件且您在稍后更改了此配置文件，则可以重新处理该文件夹中的资源。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/processing-profiles" target="_blank">重新处理文件夹中的资源</a>。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>将 Dynamic Media 查看器与 Adobe Analytics 和 Adobe Launch 集成</td> 
-   <td><p>适用于Adobe Launch的Dynamic Media Viewers扩展和Dynamic Media Viewers 5.13，允许Dynamic Media、Adobe Analytics和Adobe Launch的客户在Adobe Launch配置中使用特定于Dynamic Media Viewers的事件和数据。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">将 Dynamic Media 查看器与 Adobe Analytics 和 Adobe Launch 集成</a>。 </p> </td> 
+   <td><p>用于 Adobe Launch 的 Dynamic Media 查看器扩展以及 Dynamic Media 查看器 5.13 版允许 Dynamic Media 客户、Adobe Analytics 客户和 Adobe Launch 客户在其 Adobe Launch 配置中使用特定于 Dynamic Media 查看器的事件和数据。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">将 Dynamic Media 查看器与 Adobe Analytics 和 Adobe Launch 集成</a>。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 19 日</td> 
-   <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-2">AEM 6.5 Service Pack 2 (6.5.2.0)</a> 现已发布。</td>
+   <td>AEM 6.5 服务包 2</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-2">AEM 6.5 服务包 2 (6.5.2.0)</a> 现已发布。</td>
   </tr>
   <tr>
    <td>2019 年 9 月 9 日</td> 
@@ -135,7 +135,7 @@ ht-degree: 82%
   </tr>
   <tr>
    <td>2019 年 7 月 25 日</td> 
-   <td>AEM Assets在不同许可证下的功能</td> 
+   <td>不同许可证下的 AEM Assets 功能</td> 
    <td>更新了 AEM 6.5 版的独立 DAM 许可证与 AEM MediaLibrary 中可用的 AEM Assets <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">功能列表</a>。<br /> </td> 
   </tr>
   <tr>
@@ -155,8 +155,8 @@ ht-degree: 82%
   </tr>
   <tr>
    <td>2019 年 7 月 3 日</td> 
-   <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-1">AEM 6.5 Service Pack 1 (6.5.1.0)</a> 现已发布。</td> 
+   <td>AEM 6.5 服务包 1</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-1">AEM 6.5 服务包 1 (6.5.1.0)</a> 现已发布。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 25 日</td> 
@@ -166,7 +166,7 @@ ht-degree: 82%
   <tr>
    <td>2019 年 6 月 17 日<br /> </td> 
    <td>AEM Assets 与 Creative Cloud 的集成</td> 
-   <td>通过清晰明了的业务需求、Adobe解决方案选项和客户使用案例映射更新了最佳做法。 新增了一张信息图，使内容更有视觉吸引力。请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 集成最佳实践</a>。<br /> </td> 
+   <td>更新了最佳实践，并提供了业务需求、Adobe 解决方案产品和客户用例的清晰映射。新增了一张信息图，使内容更有视觉吸引力。请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 集成最佳实践</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 6 月 3 日</td> 
@@ -175,7 +175,7 @@ ht-degree: 82%
   </tr>
   <tr>
    <td>2019 年 5 月 31 日</td> 
-   <td>AEM与Adobe Commerce集成 </td> 
+   <td>AEM 和 Adobe Commerce 集成 </td> 
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Commerce 集成框架</a>。</td> 
   </tr>
   <tr>
@@ -186,7 +186,7 @@ ht-degree: 82%
   <tr>
    <td>2019 年 5 月 14 日</td> 
    <td>查看器参考指南</td> 
-   <td>中用于视频播放器的修饰符预加载 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload">视频</a> 和 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload"><code>Video360</code></a> 现在已记录查看器。</td> 
+   <td>现在记录了<a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload">视频</a>和 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload"><code>Video360</code></a> 查看器中适用于视频播放器的修饰符预加载。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 14 日</td> 
