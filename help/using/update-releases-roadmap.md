@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
+source-git-commit: f2d1c4df7e8313c622b8ffde1dab9a2b8c117ff6
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 94%
+source-wordcount: '484'
+ht-degree: 93%
 
 ---
 
@@ -27,12 +27,6 @@ ht-degree: 94%
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 [13323](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13323) | 自动更新 | 2023 年 9 月 1 日 | 已更新 |
-| 维护版本 [13420](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13420) | 自动更新 | 2023 年 9 月 18-20 日 | 已更新 |
-| 功能版本 [2023.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0) | 功能激活 | 2023 年 9 月 28 日 | 已激活 |
-| 维护版本 [13665](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13665) | 自动更新 | 2023 年 10 月 2-5 日 | 已更新 |
-| 维护版本 [13804](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13804) | 自动更新 | 2023 年 10 月 16-19 日 | 已更新 |
-| 功能版本 [2023.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0) | 功能激活 | 2023 年 10 月 26 日 | 已激活 |
 | 维护版本 [14029](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | 自动更新 | 2023 年 10 月 30 日至 11 月 2 日 | 已更新 |
 | 维护版本 [14227](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | 自动更新 | 2023 年 11 月 13-16 日 | 已更新 |
 | 功能版本 [2023.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | 功能激活 | 2023 年 11 月 30 日 | 已激活 |
@@ -41,15 +35,15 @@ ht-degree: 94%
 | 功能版本 [2024.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | 功能激活 | 2024 年 1 月 25 日 | 已激活 |
 | 维护版本 [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | 自动更新 | 2024 年 3 月 11-13 日 | 已更新 |
 | 维护版本 [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | 自动更新 | 2024 年 3 月 19–21 日 | 已更新 |
-| 功能版本 [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能激活 | 2024 年 4 月 11 日 | 已激活 |
+| 功能版本 [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | 功能激活 | 2024 年 4 月 11 日 | 已激活 |
 | 维护版本 [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | 自动更新 | 2024 年 4 月 8–15 日 | 已更新 |
+| 维护版本 [15977](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2024 年 4 月 20-24 日 | 已更新 |
+| 功能版本 [2024.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能激活 | 2024 年 4 月 25 日 | 已激活 |
 
 ### 即将发布的版本 {#upcoming}
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 [15977](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2024 年 4 月 20-24 日 | 目标 |
-| 功能版本 2024.4.0 | 功能激活 | 2024 年 4 月 25 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 5 月 6-8 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 5 月 20-22 日 | 目标 |
 | 功能版本 2024.5.0 | 功能激活 | 2024 年 5 月 30 日 | 目标 |
