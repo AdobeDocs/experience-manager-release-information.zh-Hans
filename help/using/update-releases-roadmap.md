@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f2d43c2fa0ac3ba3b66bbb3bac69b4c54200b037
+source-git-commit: b8d32035318004de0646e47ec4289529616db564
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 99%
+source-wordcount: '468'
+ht-degree: 98%
 
 ---
 
@@ -27,14 +27,6 @@ ht-degree: 99%
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 [14029](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | 自动更新 | 2023 年 10 月 30 日至 11 月 2 日 | 已更新 |
-| 维护版本 [14227](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | 自动更新 | 2023 年 11 月 13-16 日 | 已更新 |
-| 功能版本 [2023.11.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | 功能激活 | 2023 年 11 月 30 日 | 已激活 |
-| 维护版本 [14697](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0#release-14697) | 自动更新 | 2023 年 12 月 11-14 日 | 已更新 |
-| 功能版本 [2023.12.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0) | 功能激活 | 2023 年 12 月 14 日 | 已激活 |
-| 功能版本 [2024.1.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | 功能激活 | 2024 年 1 月 25 日 | 已激活 |
-| 维护版本 [15262](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | 自动更新 | 2024 年 3 月 11-13 日 | 已更新 |
-| 维护版本 [15575](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | 自动更新 | 2024 年 3 月 19–21 日 | 已更新 |
 | 功能版本 [2024.3.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | 功能激活 | 2024 年 4 月 11 日 | 已激活 |
 | 维护版本 [15860](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | 自动更新 | 2024 年 4 月 8–15 日 | 已更新 |
 | 维护版本 [15977](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977) | 自动更新 | 2024 年 4 月 20–24 日 | 已更新 |
@@ -51,7 +43,14 @@ ht-degree: 99%
 | 维护版本 | 自动更新 | 2024 年 6 月 24-26 日 | 目标 |
 | 功能版本 2024.6.0 | 功能激活 | 2024 年 6 月 27 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 7 月 8-10 日 | 目标 |
+| 维护版本 | 自动更新 | 2024 年 7 月 22-24 日 | 目标 |
 | 功能版本 2024.7.0 | 功能激活 | 2024 年 7 月 25 日 | 目标 |
+| 维护版本 | 自动更新 | 2024 年 8 月 5-7 日 | 目标 |
+| 维护版本 | 自动更新 | 2024 年 8 月 19-21 日 | 目标 |
+| 功能版本 2024.8.0 | 功能激活 | 2024年8月29日 | 目标 |
+| 维护版本 | 自动更新 | 2024 年 9 月 2-4 日 | 目标 |
+| 维护版本 | 自动更新 | 2024 年 9 月 16-18 日 | 目标 |
+| 功能版本 2024.9.0 | 功能激活 | 2024年9月26日 | 目标 |
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
