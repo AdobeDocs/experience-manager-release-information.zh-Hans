@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 41f506652e36c936863699e0c51be41ff660a3ba
-workflow-type: ht
-source-wordcount: '469'
-ht-degree: 100%
+source-git-commit: 6faba11633109c02680633701250295653dc0f51
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,15 +32,15 @@ ht-degree: 100%
 | 维护版本 [15977](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977) | 自动更新 | 2024 年 4 月 20–24 日 | 已更新 |
 | 功能版本 [2024.4.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-4-0) | 功能激活 | 2024 年 4 月 25 日 | 已激活 |
 | 维护版本 [16145](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16145) | 自动更新 | 2024 年 5 月 6-8 日 | 已更新 |
-| 维护版本 [16461](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2024 年 5 月 27 日至 6 月 3 日 | 已更新 |
+| 维护版本 [16461](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16461) | 自动更新 | 2024 年 5 月 27 日至 6 月 3 日 | 已更新 |
 | 功能版本 [2024.5.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能激活 | 2024 年 5 月 30 日 | 已激活 |
+| 维护版本 [16544](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-6-0#release-16544) | 自动更新 | 2024 年 6 月 10-12 日 | 已更新 |
 
 ### 即将发布的版本 {#upcoming}
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 | 自动更新 | 2024 年 6 月 10-12 日 | 目标 |
-| 维护版本 | 自动更新 | 2024 年 6 月 24-26 日 | 目标 |
+| 维护版本 [16799](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2024 年 6 月 24-26 日 | 目标 |
 | 功能版本 2024.6.0 | 功能激活 | 2024 年 6 月 27 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 7 月 8-10 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 7 月 22-24 日 | 目标 |
