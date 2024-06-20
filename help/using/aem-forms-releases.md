@@ -4,9 +4,9 @@ description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 59688701f3ec75fa204bf26a0ad2239b4d58a179
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3030'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   </tr>
   <tr>
-    <td>2024年6月13日</td>
+    <td>2024 年 6 月 13 日</td>
     <td><a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes">适用于 AEM 6.5.21.0 的 AEM Forms 服务包 20 Forms 附加组件包</a></td>
     <td><a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.21.0</a></td>
     <td>
@@ -66,10 +66,10 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp21_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE修补程序安装程序：6.5.0-0087 <br/><p>AEM Forms 附加组件包：6.0.1244 </p></td>
+    <td><p>AEM Forms JEE 补丁安装程序：6.5.0-0087 <br/><p>AEM Forms 附加组件包：6.0.1244 </p></td>
    </tr>
   <tr>
-    <td>2024 年 3 月 08 日</td>
+    <td>2024 年 3 月 8 日</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">适用于 AEM 6.5.20.0 的 AEM Forms 服务包 20 Forms 附加组件包</a></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.20.0</a></td>
     <td>
@@ -231,7 +231,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><p>AEM Forms JEE 安装程序：AEMForms-6-5-0-0065<br/><p>AEM Forms 附加组件包：6.0.968</p></td>
    </tr>
    <tr>
-    <td>2023 年 3 月 2 月</td>
+    <td>2023 年 3 月 2 日</td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-16#forms-6516">适用于 AEM 6.5.16.0 的 AEM Forms 服务包 16 Forms 附加组件包</a></td>
     <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-16">AEM 6.5.16.0</a></td>
     <td>
