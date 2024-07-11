@@ -3,10 +3,10 @@ title: "[!DNL Adobe Experience Manager] 版本更新"
 description: "[!DNL Adobe Experience Manager] 版本更新"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
-对于 Managed Services 版和内部部署版，本文列出了最新的累积修订包版本、最新的服务包版本以及主要版本，并且将引导您查阅这些版本的文档。对于您所用的 [!DNL Experience Manager] 版本，[!DNL Adobe] 建议您查看并应用最新的服务包，然后再应用最新的累积修订包，以保持部署稳定、安全且最新。
+对于Managed Services版和内部部署版，本文列出了最新的累积修补程序包版本、最新的Service Pack版本以及主要版本，并且将引导您查阅这些版本的文档。 对于您所用的 [!DNL Experience Manager] 版本，[!DNL Adobe] 建议您查看并应用最新的服务包，然后再应用最新的累积修订包，以保持部署稳定、安全且最新。
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 

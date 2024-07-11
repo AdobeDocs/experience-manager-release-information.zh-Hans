@@ -1,12 +1,12 @@
 ---
 title: 在 AEM Forms JEE 上安装累积修订包
-description: 在 AEM Forms JEE 上安装和配置累积修订包 (CFP) 的步骤概述。
+description: 在AEM Forms JEE上安装和配置累积修订包(CFP)的步骤概述。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '909'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '905'
+ht-degree: 91%
 
 ---
 
@@ -27,12 +27,12 @@ AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）�
 
 ### CQ-4208044 的更多说明 {#additional-instructions-for-cq}
 
-如果将 AEM 6.3 [!DNL Forms JEE] 服务器与 Oracle 数据库一起使用，请在部署 CFP1 后（即，在运行配置管理器后）配置以下设置。运行企业域同步时，需要此设置才能同步用户、组和组成员。
+如果使用AEM 6.3 [!DNL Forms JEE] 服务器和Oracle数据库，请在部署CFP1后（即，在运行配置管理器后）配置以下设置。 运行企业域同步时，需要此设置才能同步用户、组和组成员。
 
 1. 登录到&#x200B;**管理员** UI。
 1. 导航到 **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**。
 1. 导出 config.xml 文件。
-1. 在 *config.xml* 中，修改域配置下的“`groupMemberDBQueryBatchSize`”条目。示例条目：
+1. 修改&#39;&#39;条目`groupMemberDBQueryBatchSize`“（在您的域配置下），位于 *config.xml*. 示例条目：
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -83,7 +83,7 @@ DSC 部署需要的时间是可变的，因此，部署可能会失败。要更�
 
 1. 要将 `DesigntimeService's previewLCA` 操作的超时值设置为 700 秒，请使用：
 
-   set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
 1. 要将加载和安装等 `DSC operations` 设置为 600 秒，请使用：
 
@@ -98,7 +98,7 @@ DSC 部署需要的时间是可变的，因此，部署可能会失败。要更�
 
    **Windows**
 
-   导航到安装介质上的相应目录，或硬盘上您在其中复制了安装程序的文件夹：
+   导航到安装介质上的目录或复制安装程序的文件夹。
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`

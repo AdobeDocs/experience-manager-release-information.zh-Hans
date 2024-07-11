@@ -1,15 +1,15 @@
 ---
 title: AEM 6.2 累积修订包
-description: AEM 6.2 累积修订包发行说明。
+description: 详细了解AEM 6.2累积修补程序包发行说明。
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-source-git-commit: 8dbf2db92a9525d0e70ca25784f8f68fa7dee7a7
-workflow-type: ht
-source-wordcount: '20911'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '21082'
+ht-degree: 72%
 
 ---
 
-# AEM 6.2 累积修订包发行说明{#release-notes-aem-cumulative-fix-pack}
+# AEM 6.2累积修补程序包发行说明{#release-notes-aem-cumulative-fix-pack}
 
 <!-- TBD: Should we keep this article published after AEM 6.2 content is archived by way of UGP-1894. If an AEM version is EOL should we discard its details RNs but still retain its docs?
 -->
@@ -20,7 +20,7 @@ ht-degree: 100%
 |---|---|
 | **版本** | 6.2 |
 | **发行版** | 累积修订包 6.2 SP1-CFP20 |
-| **先决条件** | [AEM 6.2 服务包 1](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) |
+| **先决条件** | [AEM 6.2 服务包 1](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) |
 | **正式发布** | 2019 年 6 月 6 日 |
 
 ### 累积修订包 {#cumulative-fix-pack}
@@ -31,15 +31,15 @@ Adobe 引入了统一交付模式，用于发布修补程序。现在，Adobe �
 * 提高了质量保证
 * 简化了安装（用户将 CFP 安装为一个不含任何依赖关系的包，最新的服务包除外）
 
-有关 CFP 和其他发行版类型的更多信息，请参阅[维护版本工具](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。
+有关 CFP 和其他发行版类型的更多信息，请参阅[维护版本工具](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。
 
 ## 关于此发行版 {#about-the-release}
 
-AEM 累积修订包 6.2 SP1-CFP20 是 AEM 6.2 的最新累积修订包，它是一个重要更新，包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
+AEM 累积修订包 6.2 SP1-CFP20 是 AEM 6.2 的最新累积修订包，它是一个重要更新，包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
 
 >[!CAUTION]
 >
->在没有验证已安装功能包之间的兼容性的情况下应用 CFP，可能会导致系统故障或自定义配置丢失，这些问题可能需要从备份还原才能解决。
+>在没有验证已安装功能包之间的兼容性的情况下应用CFP，可能会导致系统故障或自定义配置丢失，这些问题可能需要从备份还原才能解决。
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ AEM 累积修订包 6.2 SP1-CFP20 是 AEM 6.2 的最新累积修订包，它是�
 
 ### 漏洞 {#vulnerability}
 
-* CSRF 保护框架不适用于 AEM Foundation 表单。NPR-28612：适用于 GRANITE-22231 的修补程序
+* CSRF保护框架无法与AEM Foundation表单一起使用。 NPR-28612：适用于 GRANITE-22231 的修补程序
 
 ### 表单 {#forms}
 
@@ -77,7 +77,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 >[!NOTE]
 >
->对于 AEM Forms 客户，请在安装任意 AEM 服务包、累积修订包或功能包之后，再安装 AEM Forms 附加组件包，这一点至关重要。
+>对于AEM Forms客户，必须在安装任何AEM Service Pack、Cumulative Fix Pack或功能包之后安装AEM Forms加载项包。
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 #### 表单 - 通信 {#forms-correspondence}
 
-* 在以 PDF 格式预览信件时，放置在主要页面上的文本字段不接受从数据选项卡或根据指定的数据链接输入的值。NPR-29239：适用于 CQ-4266856 的修补程序。
+* 将字母预览为PDF时，位于主页的文本字段将不遵循从“数据”选项卡或根据指定的数据链接输入的值。 NPR-29239：适用于 CQ-4266856 的修补程序。
 
 #### 表单 - 交互式通信 {#forms-interactive-communication}
 
@@ -107,7 +107,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 ### 累积修订包 19 {#cumulative-fix-pack-1}
 
-AEM 累积修订包 6.2 SP1-CFP19 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
+AEM 累积修订包 6.2 SP1-CFP19 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
 
 此累积修订包的主要功能亮点包括：
 
@@ -116,8 +116,8 @@ AEM 累积修订包 6.2 SP1-CFP19 是一个重要更新，它包括自 [AEM 6.2 
 
 ### 资源 {#assets}
 
-* 如果缺少“编辑 ACL”权限，则无法重命名 DAM 文件夹。NPR-27555：适用于 CQ-104652 的修补程序
-* 在 6.2.1 CFP 17 及更高版本中，图像预设编辑器工具无响应。NPR-28147：适用于 CQ-4261041 的修补程序
+* 如果缺少“编辑ACL”权限，则无法重命名DAM文件夹。 NPR-27555：适用于 CQ-104652 的修补程序
+* 图像预设编辑器工具在6.2.1 CFP 17及更高版本中无响应。 NPR-28147：适用于 CQ-4261041 的修补程序
 
 ### 站点 {#sites}
 
@@ -129,7 +129,7 @@ AEM 累积修订包 6.2 SP1-CFP19 是一个重要更新，它包括自 [AEM 6.2 
 * 无法在目标容器上正确取消 Live Copy 继承。NPR-28129：适用于 CQ-4259813 的修补程序
 * 目标组件未考虑 `cq:actions`。NPR-27616：适用于 CQ-4257497 的修补程序
 
-* 中断继承的图标显示不一致。NPR-27671：适用于 CQ-4257779 的修补程序
+* 用于中断继承的图标显示不一致。 NPR-27671：适用于 CQ-4257779 的修补程序
 
 ### Felix {#felix}
 
@@ -151,7 +151,7 @@ AEM 累积修订包 6.2 SP1-CFP19 是一个重要更新，它包括自 [AEM 6.2 
 
 * 应将包管理器活动日志提取到单独的日志文件中。NPR-27323：适用于 Granite-14866 的修补程序
 * 安装完成后，error.log 中将会显示标准化短语/措辞/日志行。NPR-27835
-* Granite 包插件正在挑选较低版本的 org.apache.sling.i18n 的依赖项。适用于 CQ-4263245 的修补程序
+* Granite包插件正在挑选较低版本的org.apache.sling.i18n的依赖项。 适用于 CQ-4263245 的修补程序
 * 在 6.2SP1-CFP15 之后安装最新 CFP 时，将会删除 com.adobe.cq.com.adobe.cq.ui.commons 包。适用于 CQ-4258808 的修补程序
 
 ### 表单 {#forms-1}
@@ -182,7 +182,7 @@ AEM 6.2 SP1-CFP19 中包含的内容包列表
 
 ### 累积修订包 18 {#cumulative-fix-pack-2}
 
-AEM 累积修订包 6.2 SP1-CFP18 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
+AEM 累积修订包 6.2 SP1-CFP18 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
 
 此累积修订包的主要功能亮点包括：
 
@@ -193,17 +193,17 @@ AEM 累积修订包 6.2 SP1-CFP18 是一个重要更新，它包括自 [AEM 6.2 
 ### 资源 {#assets-1}
 
 * `Camera RAW` 进程在大量摄取期间卡住，最终阻止所有工作流处理。NPR-26990：适用于 NPR-23860 的修补程序
-* 下载功能通过资源下载 servlet 使用 AEM Assets，允许匿名用户下载所有资源。NPR-27054：适用于 CQ-4254732 的修补程序
+* 下载功能通过资源下载servlet使用AEM Assets，允许匿名用户下载所有资源。 NPR-27054：适用于 CQ-4254732 的修补程序
 * 在 AEM 中电子邮件模板的主题行上，特殊字符显示为断开。NPR-26470：适用于 CQ-4252368 的修补程序
 
 ### 站点 {#sites-1}
 
 * 由于 ConfigPostProcessor 类的行为不正确，暂停父图像会从子页面中删除 `cq:LiveRelationship` 混合类型。NPR-26745：适用于 CQ-4254163 的修补程序
-* 添加了对核心页面组件的重定向支持。NPR-26576：适用于 CQ-110529 的修补程序
+* 添加了对核心页面组件的重定向支持。 NPR-26576：适用于 CQ-110529 的修补程序
 * 将 ContextHub 迁移到 `jQuery` 3。NPR-26956：适用于 CQ-4255472 的修补程序
 * 对话框中的锚点输入字段显示在浏览器可见部分之外，直到最大化才能看到。NPR-26852：适用于 CQ-4255019 的修补程序
-* 在内容片段中复制粘贴文本时，插入多余的 &lt;br>。NPR-26660：适用于 CRTE-151 的修补程序
-* 经典 siteadmin 不会在某些页面的右侧窗格中呈现列表。NPR-27247：适用于 CQ-4251621 的修补程序
+* 复制粘贴文本时插入多余的 &lt;br> 在内容片段中。 NPR-26660：适用于 CRTE-151 的修补程序
+* 传统网站管理员不会在某些页面的右侧窗格中呈现列表。 NPR-27247：适用于 CQ-4251621 的修补程序
 * （经典 UI）尝试移动/重命名页面时，会生成以下错误：“移动页面时出错。”NPR-27179：适用于 CQ-4235907 的修补程序
 
 ### 集成 {#integration-2}
@@ -216,7 +216,7 @@ AEM 累积修订包 6.2 SP1-CFP18 是一个重要更新，它包括自 [AEM 6.2 
 
 ### 平台 {#platform}
 
-* 由于存在特殊字符长破折号 (—)，发布程序刷新缓存时出现问题。NPR-27199：适用于 CQ-4242790 的修补程序
+* 由于存在特殊字符长破折号，Publisher刷新缓存时出现问题。 NPR-27199：适用于 CQ-4242790 的修补程序
 
 ### Granite {#granite-1}
 
@@ -232,7 +232,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 ### Forms 附加组件包 {#forms-add-on-package-2}
 
-* AEM Forms 附加组件包中没有新的修补程序。
+* AEM Forms附加组件包中没有新的修复。
 
 ### Forms JEE 安装程序 {#forms-jee-installer-2}
 
@@ -250,7 +250,7 @@ AEM 6.2 SP1-CFP18 中包含的内容包列表
 
 ### 累积修订包 17 {#cumulative-fix-pack-3}
 
-AEM 累积修订包 6.2 SP1-CFP17 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
+AEM 累积修订包 6.2 SP1-CFP17 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
 
 此累积修订包的主要功能亮点包括：
 
@@ -272,13 +272,13 @@ AEM 累积修订包 6.2 SP1-CFP17 是一个重要更新，它包括自 [AEM 6.2 
 * （外部链接检查程序）无效的 https 链接显示为有效链接。NPR-25541：适用于 CQ-4201333 的修补程序
 * （经典 UI）在 Live Copy 下创建独立页面时，该页面将创建为 Live Copy。NPR-25610：适用于 CQ-4249801 的修补程序
 * 激活页面后，发布与设计导入程序组件关联的资源时出现问题。NPR-25638：适用于 CQ-102532 的修补程序
-* RTE 富文本工具栏包含选择列表。NPR-25165：适用于 CQ-4248948 的修补程序
+* RTE富文本编辑器工具栏包含选择列表。 NPR-25165：适用于 CQ-4248948 的修补程序
 * 将 ContextHub 迁移到 jQuery 3。NPR-25059：适用于 Granite-19902 的修补程序
-* 对于 Parsys 嵌套组件，始终从多个可用组件中应用第一个（具有最少的嵌套路径）令人满意的设计。有关更多信息，请参阅[设计路径解析](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。NPR-25250：适用于 CQ-4246276 的修补程序
+* 对于 Parsys 嵌套组件，始终从多个可用组件中应用第一个（具有最少的嵌套路径）令人满意的设计。有关更多信息，请参阅[设计路径解析](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。NPR-25250：适用于 CQ-4246276 的修补程序
 
 ### 集成 {#integration-3}
 
-* 使用 OOTB Target 集成定位组件时，会呈现整个页面，而不是空的目标组件。NPR-25273：适用于 CQ-4248003 的修补程序
+* 使用OOTB Target集成定位组件时，会呈现整个页面，而不是空的目标组件。 NPR-25273：适用于 CQ-4248003 的修补程序
 * 在定位模式中，中断继承仍会将组件显示为“已定位”，并且在编辑模式中继承未中断。NPR-25324：适用于 CQ-4248162 的修补程序
 * 在页面上定义个性化并解析受众时，相应的体验会在编辑模式下显示。NPR-25731：适用于 CQ-4249465 的修补程序
 * 将 AEM 与非默认上下文路径一起使用时，会出现错误的 Teaser URL。NPR-25971：适用于 CQ-4250953 的修补程序
@@ -301,7 +301,7 @@ AEM 累积修订包 6.2 SP1-CFP17 是一个重要更新，它包括自 [AEM 6.2 
 
 ### 社区 {#communities}
 
-* 使用 Mongo 驱动程序 3.x 版本无法启动 cq -social-as-provider 包。NPR-26271：适用于 CQ-4252710 的修补程序
+* cq-social-as-provider捆绑包不以Mongo驱动程序3.x版本开头。 NPR-26271：适用于 CQ-4252710 的修补程序
 
 ### UI - Foundation {#ui-foundation-1}
 
@@ -317,7 +317,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 #### 自适应表单 {#adaptive-forms-2}
 
-* 从自适应表单提交数据时编码错误。NPR-25539
+* 从自适应表单提交数据时编码错误。 NPR-25539
 
 #### 表单 - 管理 {#forms-management}
 
@@ -327,7 +327,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 #### 文档安全 {#document-security}
 
-* 变量以“列表”数据类型填充，子类型为字符串，但会出现“无法强制对象”错误。NPR-26194：适用于 CQ-4252287 的修补程序
+* 变量以List数据类型填充，子类型为字符串，但出现“无法强制对象”错误。 NPR-26194：适用于 CQ-4252287 的修补程序
 * 安装 6.2-SP1-CFP15 后，无法访问水印配置。NPR-26130：适用于 CQ-4250984 的修补程序
 
 ### 包含的 OSGi 包和内容包 {#osgi-bundles-and-content-packages-included-2}
@@ -342,7 +342,7 @@ AEM 6.2 SP1-CFP17 中包含的内容包列表
 
 ### 累积修订包 16 {#cumulative-fix-pack-4}
 
-AEM 累积修订包 6.2 SP1-CFP16 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
+AEM 累积修订包 6.2 SP1-CFP16 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
 
 此累积修订包的主要功能亮点包括：
 
@@ -367,28 +367,28 @@ AEM 累积修订包 6.2 SP1-CFP16 是一个重要更新，它包括自 [AEM 6.2 
 * 修补 clientlib 中的 jQuery 1.12.4 以包含安全修补程序。NPR-24129：适用于 Granite-20058 的修补程序
 * 在每日 CQ 邮件服务中添加了 STARTTLS 支持。NPR-23941：适用于 CQ-4240397 的修补程序
 * 删除默认的 MERGE_PRESERVE aclHandling。NPR-24593：适用于 Granite-21889 的修补程序
-* 当请求包含无效查询参数时，LineChecker 无法将链接外部化。NPR-24127：适用于 CQ-4241893 的修补程序
+* 当请求包含无效的查询参数时，LineChecker无法将链接外部化。 NPR-24127：适用于 CQ-4241893 的修补程序
 
 ### MSM {#msm}
 
-* 针对跨站点脚本 (XSS) 攻击的主动修补程序。NPR-21893：适用于 CQ-4223385 的修补程序
-* 如果 BlueprintConfig 位于根目录上，则会出现 MSM LiveRelationship: 有效 RolloutConfig 错误。NPR-23999：适用于 CQ-4243000 的修补程序
+* 针对跨站点脚本攻击(XSS)的主动修补程序。 NPR-21893：适用于 CQ-4223385 的修补程序
+* MSM LiveRelationship：如果BlueprintConfig位于根目录上，则有效RolloutConfig将错误。 NPR-23999：适用于 CQ-4243000 的修补程序
 
 ### 站点 {#sites-3}
 
 * 在 Live Copy 区域中创建体验时，需要首先中断继承，以便对其进行配置。NPR-24995：适用于 CQ-4248209 的修补程序
 * （触屏 UI）在锁定或解锁页面时，顶部工具栏上的多个图标消失。NPR-23954：适用于 CQ-4243345 的修补程序
 * ContextHub 中的字段未正确对齐。NPR-23958
-* 在锁定的页面上执行发布操作会中断创作。NPR-23970：适用于 CQ-4243203 的修补程序
+* 在锁定的页面上，Publish操作会中断创作。 NPR-23970：适用于 CQ-4243203 的修补程序
 * /etc/reports/ 中的 OOTB 报告无法正常工作，且不显示历史数据图。NPR-20035：适用于 CQ-4220180 的修补程序
-* 在项目上启动“请求启动项”工作流时，启动项创建失败。NPR-24255：适用于 CQ-4245030 的修补程序
+* 在项目上启动“请求启动项”工作流时，启动项创建失败。 NPR-24255：适用于 CQ-4245030 的修补程序
 * 安装 CFP10 后，电子邮件会忽略 HTML 标记和属性。NPR-24287：适用于 CQ-4240028 的修补程序
 * 标记选取器：标记元数据架构“标记”字段中的标记建议会查询可标记的节点，因此，需要较长时间才能加载。NPR-24347：适用于 CQ-4244291 的修补程序
 * Salesforce 集成因代理配置而失败。NPR-24418：适用于 CQ-4245300 的修补程序
 * (WCM) 在创建修订版期间出现异常时，PageManager 会将页面保留为已签入状态。NPR-24565：适用于 CQ-4246203 的修补程序
 * 应用 CFP14 后，“设备模拟器”按钮从编辑和预览模式中消失。NPR-24566：适用于 CQ-4247060 的修补程序
-* （经典 UI）在对话框中创作后，整个标记显示为空。NPR-24688：适用于 CQ-4246407 的修补程序
-* 首次尝试时无法创建版本。NPR-24774：适用于 CQ-4232176 的修补程序
+* （经典UI）在对话框中创作后，整个标记显示为空。 NPR-24688：适用于 CQ-4246407 的修补程序
+* 无法在第一次尝试时创建版本。 NPR-24774：适用于 CQ-4232176 的修补程序
 * /etc/reports/ 中的 OOTB 报告无法正常工作，且不显示历史数据图。NPR-24138：适用于 CQ-4220180 的修补程序
 
 ### 漏洞 {#vulnerability-1}
@@ -408,9 +408,9 @@ AEM 累积修订包 6.2 SP1-CFP16 是一个重要更新，它包括自 [AEM 6.2 
 
 ### 用户界面 {#user-interface}
 
-* 由于管理员搜索功能中存在大量请求，观察到 CPU 使用率很高。NPR-23588：适用于 Granite-21286 的修补程序
-* （经典 UI）即使关联的表单数据模型服务设置为空字段，组件也会显示默认值。NPR-21903：适用于 GRANITE-19744 的修补程序
-* 当不存在请求的表单数据时，多字段会引发空指针异常。NPR-24513：适用于 Granite-21055 的修补程序
+* 由于管理员搜索功能中有许多请求，观察到CPU利用率很高。 NPR-23588：适用于 Granite-21286 的修补程序
+* （经典UI）即使关联的表单数据模型服务设置为空字段，组件也会显示默认值。 NPR-21903：适用于 GRANITE-19744 的修补程序
+* 当不存在请求的FormData时，多字段会引发NPE。 NPR-24513：适用于 Granite-21055 的修补程序
 
 ## 表单 {#forms-4}
 
@@ -429,7 +429,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 #### HTML5 表单 {#html-forms}
 
 * 在 HTML 预览中，数据未使用多行字段的预填充内容进行填充。NPR-23357：适用于 CQ-4244212 的修补程序
-* 通过默认预览来预览信件时，不显示布局片段映射，而在单击“预览”时，会正确显示布局片段映射。NPR-22993：适用于 CQ-4237745 的修补程序
+* 通过默认预览来预览信件时，不显示布局片段映射，而在单击“预览”时，会正确显示布局片段映射。 NPR-22993：适用于 CQ-4237745 的修补程序
 * 将社保号模式应用于模板时，文本字段的 HTML 预览出现问题。NPR-23205
 
 #### 自适应表单 {#adaptive-forms-3}
@@ -454,27 +454,27 @@ AEM 6.2 SP1-CFP16 中包含的内容包列表
 
 ### 累积修订包 15 {#cumulative-fix-pack-5}
 
-AEM 累积修订包 6.2 SP1-CFP15 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
+AEM 累积修订包 6.2 SP1-CFP15 是一个重要更新，它包括自 [AEM 6.2 SP1](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 正式发布以来的一些关键客户修补程序。
 
 此累积修订包的主要功能亮点包括：
 
-* 在 Foundation 表中实施主动安全修复，以保持设计的一致性。
+* 在Foundation表中进行主动安全修复，以保持设计的一致性。
 * 添加了对 TypeHint 的支持，可将值保存为字符串。
 * 增强了表单预填充服务的安全性
-* 更新至最新的 adobe-reader-extensions-dsc.jar 文件，以获取 Reader 扩展中的修补程序。
+* 更新到最新的adobe-reader-extensions-dsc.jar文件，以修复读取器扩展名中的错误。
 * 调整了验证挂接，以考虑用于提升数输入的 `:invalid` 项。
 
 ### 资源 {#assets-4}
 
-* 对于 TIFF、金字塔生成流程，EmbedXMP 数据始终设置为“活动”。NPR-22776：适用于 CQ-4234498 的修补程序
+* 对于TIFF金字塔生成流程，EmbedXMP数据始终设置为“活动”。 NPR-22776：适用于 CQ-4234498 的修补程序
 * 在多值字段中无法设置多个默认值。NPR-22900：适用于 CQ-4239000 的修补程序
-* (Dynamic Media) 选中“动态呈现版本”复选框时，下载的 zip 文件会生成原始的 TIFF 图像，并且文件具有零字节。NPR-22410：适用于 CQ-4198471 的修补程序
+* (Dynamic Media)选中“动态演绎版”复选框后，下载的zip文件会生成包含零字节文件的原始TIFF图像。 NPR-22410：适用于 CQ-4198471 的修补程序
 * （触屏 UI）列视图中资源的默认上传位置。NPR-23475：适用于 CQ-4237057 的修补程序
 
 ### 集成 {#integration-5}
 
 * 在 Target 模式中，作者可以修改从 Blueprint 继承的组件，而无需取消继承。NPR-22751：适用于 CQ-4237907 的修补程序
-* 路径变量无法正确编码，从而导致非持久性跨站点脚本 (XSS)。NPR-22851
+* 路径变量未正确编码，从而导致非持久性跨站点脚本(XSS)。 NPR-22851
 
 ### MSM {#msm-1}
 
@@ -488,13 +488,13 @@ AEM 累积修订包 6.2 SP1-CFP15 是一个重要更新，它包括自 [AEM 6.2 
 ### 站点 {#sites-4}
 
 * 如果在富文本编辑器的文本中创建的指向文档的链接包含空格或其他特殊字符，则该链接不起作用。NPR-22289：适用于 CQ-4224321 的修补程序
-* 保存具有大型值 (10000000000) 的区段会将提升设置为 0，从而导致出现错误消息。NPR-22524：适用于 CQ-4237006 的修补程序
+* 保存具有大型值(10000000000)的区段会将提升设置为0，从而导致出现错误消息。 NPR-22524：适用于 CQ-4237006 的修补程序
 * 在多字段组件中，无法单击“添加”项。NPR-22552：适用于 CQ-4237404 的修补程序
-* 当区段具有长标题时，水平滚动条不可见。NPR-22615：适用于 CQ-4237001 的修补程序
+* 当区段具有长标题时，水平滚动条不可见。 NPR-22615：适用于 CQ-4237001 的修补程序
 * 加载空受众会生成错误的 JavaScript 代码。NPR-22974：适用于 CQ-4238734 的修补程序
 * 在计划激活或取消激活时，必须提供工作流标题，因此，自定义工作流标题在时间轴中未翻译。NPR-23121：适用于 CQ-4237552 的修补程序
 * 请求提供针对站点中 Target 区段相关问题的修补程序。NPR-23128
-* (Firefox) 选定角色对应的复选框不正确。NPR-23345
+* (Firefox)选定角色对应的复选框不正确。 NPR-23345
 * 不同模式的标签会与图标一起显示。NPR-23275
 * 将组件从 AEM 6.0 迁移到 AEM 6.2 时出现“无效的递归选择器值”错误。NPR-23503：适用于 CQ-4241258 的修补程序
 
@@ -504,16 +504,16 @@ AEM 累积修订包 6.2 SP1-CFP15 是一个重要更新，它包括自 [AEM 6.2 
 
 ### 翻译 {#translation-1}
 
-* 在翻译配置中设置“不翻译”资源时，将会创建资源语言副本。NPR-22540：适用于 CQ-4237962 的修补程序
+* 在翻译配置中设置“不翻译”资产时，将创建资产语言副本。 NPR-22540：适用于 CQ-4237962 的修补程序
 
 ### 用户界面 {#user-interface-1}
 
 * 将 Omnisearch 与连字符查询一起使用，会返回服务器错误。NPR-22999：适用于 Granite-19674 的修补程序
-* 日期选取器不支持由隐藏的字段设置的手动设置外部类型提示。更改类型提示会导致转换错误。NPR-23333：适用于 Granite-21194 的修补程序
+* DatePicker不支持手动设置隐藏字段设置的外部类型提示。 更改类型提示会导致转换错误。NPR-23333：适用于 Granite-21194 的修补程序
 
 ### WCM - Foundation 组件 {#wcm-foundation-components-2}
 
-* 为了提高安全性，已弃用 CAPTCHA 组件。如果您使用的是 CAPTCHA 组件，则在安装 6.2 SP2-CFP15 或更高版本后，将显示“Captcha 组件已弃用，不应再使用”消息。可以自定义 AEM 组件来包含 reCAPTCHA 以提高安全性。NPR-22151：适用于 CQ-4220052 的修补程序
+* 为了提高安全性，现已弃用CAPTCHA组件。 如果使用CAPTCHA组件，则在安装6.2 SP2-CFP15或更高版本后，将显示“Captcha组件已弃用，不应使用”消息。 可以自定义 AEM 组件来包含 reCAPTCHA 以提高安全性。NPR-22151：适用于 CQ-4220052 的修补程序
 * WCM Foundation 组件“表”容易遭受存储型跨站点脚本攻击。NPR-23206：适用于 CQ-4240760 的修补程序
 
 ### 漏洞 {#vulnerability-2}
@@ -526,8 +526,8 @@ AEM 累积修订包 6.2 SP1-CFP15 是一个重要更新，它包括自 [AEM 6.2 
 
 #### 通信管理 {#correspondence-management}
 
-* 通过默认预览来预览信件时，不显示布局片段映射，而在单击“预览”按钮时，会正确显示布局片段映射。NPR-23335：适用于 CQ-4237745 的修补程序
-* 使用直接信件 URL 时，不会填充与 XDP 中定义的绑定相对应的信件数据。NPR-24145：适用于 CQ-4244290 的修补程序
+* 通过默认预览预览字母时，不会显示布局片段映射，而单击“预览”按钮时也会正确显示布局片段映射。 NPR-23335：适用于 CQ-4237745 的修补程序
+* 与在XDP中定义的绑定相对应的字母中的数据不是使用直接字母URL填充的。 NPR-24145：适用于 CQ-4244290 的修补程序
 
 #### 移动设备表单 {#mobile-forms}
 
@@ -539,16 +539,16 @@ AEM 累积修订包 6.2 SP1-CFP15 是一个重要更新，它包括自 [AEM 6.2 
 
 #### Forms Manager {#forms-manager}
 
-* 重新发布站点页面时，不会发布嵌入到站点的表单。NPR-23014：适用于 CQ-4236566 的修补程序
+* 重新发布站点页面时，不会发布嵌入到站点中的Forms。 NPR-23014：适用于 CQ-4236566 的修补程序
 
 #### 漏洞 {#vulnerability-3}
 
-* 针对跨站点脚本的主动修补程序。NPR-20624：适用于 CQ-4206055 的修补程序
-* Forms Manager 的注释选项卡中存在存储型跨站点脚本 (XSS) 漏洞。NPR-27157：适用于 CQ-4255556 的修补程序
+* 用于跨站点脚本的主动修补程序。 NPR-20624：适用于 CQ-4206055 的修补程序
+* Forms Manager的注释选项卡中存在存储型跨站点脚本(XSS)漏洞。 NPR-27157：适用于 CQ-4255556 的修补程序
 
 #### 加密服务 {#encryption-service}
 
-* (OSGi) [JEE] 使用“验证 PDF 进程”进行验证时，包含附件的 PDF 的签名状态不正确。NPR-23269、NPR-23737
+* (OSGI) [JEE] 使用“验证PDF进程”进行验证时，带附件的PDF的签名状态不正确。 NPR-23269、NPR-23737
 
 ### Forms JEE 安装程序 {#forms-jee-installer-5}
 
@@ -586,9 +586,9 @@ AEM 累积修订包 6.2 SP1-CFP14 是一个重要更新，它包括自 AEM 6.2 S
 
 ### 资源 {#assets-5}
 
-* 用户无法下载包含免责声明和长文件名的资源。NPR-22163：适用于 CQ-4235274 的修补程序
-* 单引号字符会阻止在批量视图中更新元数据，当您使用快速工具栏操作打开资源属性时，用户界面会损坏。NPR-22317、NPR-22353：适用于 CQ-4236990、CQ-4236469 的修补程序
-* “资源到期通知”作业不会停用已过期的资源。NPR-22346：适用于 CQ-4237188 的修补程序
+* 用户无法下载包含免责声明和长文件名的资产。 NPR-22163：适用于 CQ-4235274 的修补程序
+* 单引号字符会阻止在批量视图中更新元数据，当您使用快速工具栏操作打开资产的属性时，UI会损坏。 NPR-22317、NPR-22353：适用于 CQ-4236990、CQ-4236469 的修补程序
+* 资产到期通知作业不会停用已过期的资产。 NPR-22346：适用于 CQ-4237188 的修补程序
 * 在 Safari 上的资源中使用数字版权管理时，资源下载失败。NPR-22378：适用于 CQ-4236460 的修补程序
 * 小图像的 Web 演绎版像素大小不准确。NPR-22435：适用于 CQ-4236742 的修补程序
 
@@ -597,32 +597,32 @@ AEM 累积修订包 6.2 SP1-CFP14 是一个重要更新，它包括自 AEM 6.2 S
 * （触屏 UI）已移动的标记会显示在页面属性中的旧位置和新位置。NPR-21921：适用于 CQ-4238598 的修补程序
 * （触屏 UI）富文本编辑器会从 &lt;a> 标记中删除 id 以外的所有其他属性。NPR-22045：适用于 CQ-4234133 的修补程序
 * 使用 CTRL+V 直接在富文本编辑器中粘贴内容会跳过换行符。NPR-22117：适用于 CUI-5881 的修补程序
-* （触屏 UI）在命名空间下无法显示超过 40 个标记。NPR-22290：适用于 CQ-99114 的修补程序
+* （触屏UI）无法在命名空间下显示超过40个标记。 NPR-22290：适用于 CQ-99114 的修补程序
 * 从端口 -1 到 AEM 6.2 的 RSS 馈送问题。NPR-22158：适用于 CQ-4233339 的修补程序
-* (IE) 首次在富文本字段中创作任何字符时，将向该字符添加尾随空格。NPR-22443：适用于 CQ-4235343 的修补程序
-* 当尝试与包名称匹配时，由于包声明中存在尾随空格字符，Java™ Use 对象冻结 SightlyJavaCompilerService。NPR-22557：适用于 Granite-20836 的修补程序
+* (IE)首次在富文本字段中创作任何字符时，将向该字符添加尾随空格。 NPR-22443：适用于 CQ-4235343 的修补程序
+* 当尝试匹配包名称时，Java™ Use对象会由于包声明中的尾随空格字符而冻结SightlyJavaCompilerService。 NPR-22557：适用于 Granite-20836 的修补程序
 * 触屏 UI 控制台不会选取新的标记语言。NPR-22250：适用于 CQ-4239194 的修补程序
 
 ### Mobile On-Demand {#mobile-on-demand}
 
-* (Digital Publishing Suite) 必须为作品集设置“出版日期”和“封面日期”字段，然后才能将其上传到 DPS。NPR-22484
+* (Digital Publishing Suite)作品集上传到DPS之前，“发布日期”和“封面日期”都是必填字段。 NPR-22484
 
 ### 商务 {#commerce}
 
-* 商务“创建目录”向导中存在多个跨站点脚本 (XSS) 漏洞。NPR-22344：适用于 CQ-4237017 的修补程序
+* commerce创建目录向导中存在多个跨站点脚本(XSS)漏洞。 NPR-22344：适用于 CQ-4237017 的修补程序
 
 ### MSM {#msm-2}
 
 * 在长时间索引更新期间，Live CopyIndex 同步会导致线程阻塞。NPR-22214：适用于 CQ-90667 的修补程序
 * 编辑 Live Copy 中的其他字段时会禁用 `cq:cugEnabled` 属性，从而导致页面不受保护。NPR-22246：适用于 CQ-4236050 的修补程序
 * 页面处于暂停状态时，“页面转出”操作无法更新子项。NPR-22483：适用于 CQ-4236956 的修补程序
-* 转出已在主版中移动的结构时会导致错误 `cq:moveTarget`。NPR-22373：适用于 CQ-4232536 的修补程序
+* 转出已在主节点中移动的结构会导致错误 `cq:moveTarget`. NPR-22373：适用于 CQ-4232536 的修补程序
 
 ### 集成 {#integration-6}
 
 * 尝试对选件选择器库中的选件进行排序时，导致出现异常行为。NPR-22208：适用于 CQ-4235439 的修补程序
 * 在长时间运行的查询期间，TargetContentImpl 致使 AEM 运行缓慢。NPR-22361：适用于 CQ-4236907 的修补程序
-* Target 引擎（mbox.js、at.js）不使用损坏的 URL，而是使用包含冒号的 URL，这在某些部署中可能会失败。NPR-22366：适用于 CQ-4237854 的修补程序
+* 目标引擎(mbox.js、at.js)不使用损坏的URL，并使用包含冒号的URL，这些URL可能会因某些部署而失败。 NPR-22366：适用于 CQ-4237854 的修补程序
 * 页面个性化需要对品牌节点具有发布权限。NPR-22370：适用于 CQ-4236895 的修补程序
 
 ### Foundation {#foundation}
@@ -631,7 +631,7 @@ AEM 累积修订包 6.2 SP1-CFP14 是一个重要更新，它包括自 AEM 6.2 S
 
 ### 项目 {#projects}
 
-* 工作流启动程序无法接受字符串的 TypeHint 值。NPR-22436：适用于 CQ-4237855 的修补程序
+* 工作流启动程序无法接受String的TypeHint值。 NPR-22436：适用于 CQ-4237855 的修补程序
 
 ### 翻译 {#translation-2}
 
@@ -639,7 +639,7 @@ AEM 累积修订包 6.2 SP1-CFP14 是一个重要更新，它包括自 AEM 6.2 S
 
 ### 用户界面 {#user-interface-2}
 
-* （经典 UI）即使关联的表单数据模型服务设置为空字段，组件也会显示默认值。NPR-21903：适用于 GRANITE-19744 的修补程序
+* （经典UI）即使关联的表单数据模型服务设置为空字段，组件也会显示默认值。 NPR-21903：适用于 GRANITE-19744 的修补程序
 
 ### WCM - Foundation 组件 {#wcm-foundation-components-3}
 
@@ -658,7 +658,7 @@ AEM 累积修订包 6.2 SP1-CFP14 是一个重要更新，它包括自 AEM 6.2 S
 
 #### 自适应表单 {#adaptive-forms-4}
 
-* 在 IE11 与 Chrome 中，自适应表单中的下拉列表占位符值不一致。NPR-22405：适用于 CQ-4227096 的修补程序
+* 在IE11和Chrome中，自适应形式的下拉占位符值不一致。 NPR-22405：适用于 CQ-4227096 的修补程序
 
 ### Forms JEE 安装程序 {#forms-jee-installer-6}
 
@@ -670,7 +670,7 @@ AEM 累积修订包 6.2 SP1-CFP14 是一个重要更新，它包括自 AEM 6.2 S
 
 #### 进程管理 {#process-management}
 
-* （HTML 工作区）用户声明任务后，将为该特定用户刷新队列计数，但不会为其他用户刷新队列计数，除非刷新页面。NPR-19778：适用于 CQ-4233665 的修补程序
+* (HTMLWorkspace)当用户声明任务时，仅为该特定用户刷新队列计数。 也就是说，除非刷新页面。 NPR-19778：适用于 CQ-4233665 的修补程序
 
 ### CFP14 中包含的 OSGi 包和内容包 {#osgi-bundles-and-content-packages-included-in-cfp}
 
@@ -685,7 +685,7 @@ AEM 累积修订包 6.2 SP1-CFP13 是一个重要更新，它包括自 AEM 6.2 S
 
 此累积修订包的主要功能亮点包括：
 
-* 将 AT.js 用作客户端库时，在“目标组件设置”中启用了“静态参数”字段配置。
+* 将AT.js用作客户端库时，在“目标组件设置”中启用了“静态参数”字段配置。
 * 修复了下拉组件的显示/隐藏功能。
 * 修复了使用 Target 同步受众的问题。
 * 增加了通信管理的多功能性，以允许使用特殊字符。
@@ -699,26 +699,26 @@ AEM 累积修订包 6.2 SP1-CFP13 是一个重要更新，它包括自 AEM 6.2 S
 
 * （触屏 UI）（经典 UI）HTL 和核心组件中存在多个跨站点脚本 (XSS) 漏洞。NPR-21532：适用于 CQ-4232305 和 CQ-4232511 的修补程序
 * 在 Internet Explorer 11 中，无法正常对选定文本创建内容/设置内容格式（例如，指定/删除新的列表样式）。NPR-21533：适用于 CQ-4230689 的修补程序
-* (Safari) 用户无法在资源查找器面板中查看所有资源。NPR-21981：适用于 CQ-4213720 的修补程序
-* 时间扭曲返回“RecursionTooDeepException”错误且页面出现乱码，即使更改了日期也不会创建任何新版本。NPR-21707：适用于 CQ-4199536 的修补程序
-* 在编辑器中加载页面时，会加载 WorkflowStatusprovider (pageinfo.json) 三次，从而导致 AEM 实例执行缓慢。NPR-21778：适用于 CQ-59232 的修补程序
+* (Safari)用户无法在资产查找器面板中查看所有资产。 NPR-21981：适用于 CQ-4213720 的修补程序
+* 时间扭曲返回“RecursionTooDeepException”错误，页面出现乱码，即使更改日期也不会创建任何新版本。 NPR-21707：适用于 CQ-4199536 的修补程序
+* 在编辑器中加载页面时，会加载WorkflowStatusprovider (pageinfo.json)三次，从而导致AEM实例执行缓慢。 NPR-21778：适用于 CQ-59232 的修补程序
 
 ### 集成 {#integration-7}
 
 * 在 Target 创作模式下创建的移动设备类型和浏览器受众在 AEM 中不起作用。NPR-21676、NPR-21681：适用于 CQ-4232100 的修补程序
 * 在刷新目标组件期间的高延迟下，可以在组件完全刷新之前添加其他选件。NPR-21744：适用于 CQ-4233158/CQ-4234293 的修补程序
-* 用户在 mbox 调用中看不到测试静态参数值，而在云配置中使用 AT.js 作为客户端库进行测试时，则可以看到这些值。NPR-21930：适用于 CQ-4234520 的修补程序
+* 用户在mbox调用中看不到测试静态参数值，而在云配置中使用AT.js作为客户端库进行测试时，则可以看到这些值。 NPR-21930：适用于 CQ-4234520 的修补程序
 
 ### 平台 {#platform-4}
 
-* 当用户或组数量较大时，用户同步出现性能问题。NPR-20431：适用于 CQ-4223282 的修补程序
-* 使用 Sling Distribution 进行用户同步时未同步某些用户。NPR-21911：适用于 Granite-20404 的修补程序
+* 当用户或组数量较大时，用户同步出现性能问题。 NPR-20431：适用于 CQ-4223282 的修补程序
+* 用户无法使用Sling Distribution与用户同步同步。 NPR-21911：适用于 Granite-20404 的修补程序
 * 阻止在搜索摘录中高亮显示停止词（在 Geometrixx 页面上）。NPR-21835：Granite-21067 的热修复
 注意：此修复需要 Oak CFP 1.4.20 或更高版本。
 
 ### 翻译 {#translation-3}
 
-* 创建翻译项目时，启动程序用户 ID 缺少 jcr 属性。NPR-21715：适用于 CQ-4230713 的修补程序
+* 创建翻译项目时，发起人用户ID缺少jcr属性。 NPR-21715：适用于 CQ-4230713 的修补程序
 
 ### WCM - Foundation 组件 {#wcm-foundation-components-4}
 
@@ -771,8 +771,8 @@ AEM 累积修订包 6.2 SP1-CFP12.1 是一个重要更新，它包括自 AEM 6.2
 
 ### 资源 {#assets-7}
 
-* OmniSearch 中的字符过多导致 AEM 服务器崩溃。NPR-21083：适用于 CQ-4223602 的修补程序
-* 在元数据架构的多值字段中的第二个选项中指定的值未附加到 CRX-de 中先前指定的值。NPR-21220：适用于 CQ-4224526 的修补程序
+* OmniSearch中的字符过多可能会导致AEM服务器崩溃。 NPR-21083：适用于 CQ-4223602 的修补程序
+* 在元数据架构的多值字段中的第二个选项中指定的值未附加到CRX-de中先前指定的值。 NPR-21220：适用于 CQ-4224526 的修补程序
 * 在 Safari 上的资源中使用数字版权管理时，资源下载失败。NPR-21387：适用于 CQ-4230287 的修补程序
 
 ### 站点 {#sites-7}
@@ -783,7 +783,7 @@ AEM 累积修订包 6.2 SP1-CFP12.1 是一个重要更新，它包括自 AEM 6.2
 
 ### 集成 {#integration-8}
 
-* 添加 Target 框架时，在编辑器的“选择模式”列表中无法使用“定位”模式。NPR-21047
+* 添加Target框架时，在编辑器的“选择模式”列表中无法使用“定位”模式。 NPR-21047
 
 ### Mobile-on-demand {#mobile-on-demand-1}
 
@@ -791,11 +791,11 @@ AEM 累积修订包 6.2 SP1-CFP12.1 是一个重要更新，它包括自 AEM 6.2
 
 ### MSM {#msm-3}
 
-* 删除 LC 中的第一个本地页面后，Live Copy 重置进程将停止。NPR-21276：适用于 CQ-4229743 的修补程序
+* 删除LC中的第一个本地页面后，Live Copy重置进程将停止。 NPR-21276：适用于 CQ-4229743 的修补程序
 
 ### 平台 {#platform-5}
 
-* 升级到 AEM 6.3 后，未找到引用作为脚本实施的标记的自定义 taglib。NPR-20149：适用于 Granite-18433 的修补程序
+* 升级到AEM 6.3后，未找到引用作为脚本实施的标记的自定义标记库。NPR-20149：适用于Granite-18433的修补程序
 
 ### 翻译 {#translation-4}
 
@@ -804,13 +804,13 @@ AEM 累积修订包 6.2 SP1-CFP12.1 是一个重要更新，它包括自 AEM 6.2
 
 ### 用户界面 {#user-interface-3}
 
-* 选择组件不会在表单提交过程中删除目标属性。NPR-21163：适用于 GRANITE-14125 的修补程序
-* 展开 HTTP.encodePathOfURI 会对加号“+”进行双重编码。NPR-21417：适用于 GRANITE-16340 的修补程序
+* 选择组件在表单提交过程中不会删除目标属性。 NPR-21163：适用于 GRANITE-14125 的修补程序
+* 展开HTTP.encodePathOfURI会对加号“+”进行双重编码。 NPR-21417：适用于 GRANITE-16340 的修补程序
 
 ### 漏洞 {#vulnerability-4}
 
-* DAM 元数据编辑器中存在跨站点脚本 (XSS) 漏洞。NPR-21434：适用于 CQ-83472 的修补程序
-* 多个 SWF 文件容易遭受跨站点脚本 (XSS) 攻击。NPR-20612：适用于 CQ-4213297 的修补程序
+* DAM元数据编辑器中的跨站点脚本(XSS)。 NPR-21434：适用于 CQ-83472 的修补程序
+* 多个SWF文件易受跨站点脚本(XSS)攻击。 NPR-20612：适用于 CQ-4213297 的修补程序
 
 ## 表单 {#forms-8}
 
@@ -821,8 +821,8 @@ AEM 累积修订包 6.2 SP1-CFP12.1 是一个重要更新，它包括自 AEM 6.2
 #### 通信管理 {#correspondence-management-2}
 
 * (IE 11) 加载完整的 UI 后，HTML 内容的初始呈现仅在左侧进行，而右侧会间歇性地加载。NPR-21554
-* 安装 AEM 6.2 SP1-CFP9 后，将禁用信件预览提交按钮。NPR-21547
-* 选择资源链接类型时，“资源选择器”窗口未在“编辑信件数据绑定”向导中打开。NPR-21164：适用于 CQ-4194567 的修补程序
+* 安装AEM 6.2 SP1-CFP9后，“Letter预览提交”按钮被禁用。 NPR-21547
+* 选择“资源”链接类型后，“资源选择器”窗口无法在“编辑字母数据绑定”向导中打开。 NPR-21164：适用于 CQ-4194567 的修补程序
 * 要编辑内嵌或可编辑的文本模块，请点按相关的“编辑”图标，或在信件预览中双击相关文本模块。NPR-21402
 
 #### 自适应表单 {#adaptive-forms-6}
@@ -834,11 +834,11 @@ AEM 累积修订包 6.2 SP1-CFP12.1 是一个重要更新，它包括自 AEM 6.2
 
 #### 核心 {#core-2}
 
-* 升级到最新的 Java™ 8 Update 131 会引发以下异常：“JsafeJCE 提供程序已禁用，FIPS 140 要求的自身完整性检查失败”。NPR-21355
+* 升级到最新的Java™ 8 Update 131会引发以下异常：“JsafeJCE提供程序已禁用，FIPS 140要求的自身完整性检查失败。” NPR-21355
 
 **注意：** =此 NPR 需要更多设置。请参阅[最新的 Java™ 8 更新](#latest-java-update-throws-an-exception-npr)。
 
-* 在核心、加密、签名以及文档安全中，将 Jsafe Jar 更新为 CryptoJ 6.1.3.1。NPR-21360、NPR-21361、NPR-21356、NPR-21358
+* 在核心、加密、签名和文档安全中，Jsafe Jar已更新为CryptoJ 6.1.3.1。 NPR-21360、NPR-21361、NPR-21356、NPR-21358
 
 #### 安装 LCM {#install-lcm-1}
 
@@ -854,7 +854,7 @@ AEM 累积修订包 6.2 SP1-CFP12.1 是一个重要更新，它包括自 AEM 6.2
 
 #### Reader 扩展服务 {#reader-extensions-service-1}
 
-* 在 RE 中，将 Jsafe Jar 更新为 CryptoJ 6.1.3.1。NPR-21357
+* Jsafe Jar更新为RE中的CryptoJ 6.1.3.1。 NPR-21357
 
 ## CFP12.1 中包含的 OSGi 包和内容包 {#osgi-bundles-and-content-packages-included-in-cfp-2}
 
@@ -872,30 +872,30 @@ AEM 累积修订包 6.2 SP1-CFP11 是一个重要更新，它包括自 AEM 6.2 S
 
 * 更新了 cq-msm-core，以实现有效的 Live Copyindex 同步。
 * 提高了内容片段的编辑效率。
-* 在包管理器中提供验证选项，以检测 ACL 权限。
+* 它在包管理器中提供了一个验证选项，用于检测ACL权限。
 * 引入了营销活动功能，可为客户通信包含电子邮件 ID。
 * 增强了 Dynamic Media 文件的视频编码功能。
-* 修复了 Sightly 组件和 Live Copy。
+* 修复了Sightly组件和LiveCopies中的。
 
 ### 资源 {#assets-8}
 
 * 对于名称中包含空格的文件，Dynamic Media 视频编码失败。NPR-20818：适用于 CQ-102469 的修补程序
 * AEM CQ“创作”/“发布”快速启动中的某些 SWF 文件存在多个跨站点脚本 (XSS) 漏洞。NPR-21071、NPR-21072
-* 用户无法下载包含免责声明和长文件名的资源。NPR-20255：适用于 CQ-4222139 的修补程序
+* 用户无法下载包含免责声明和长文件名的资产。 NPR-20255：适用于 CQ-4222139 的修补程序
 
 ### 站点 {#sites-8}
 
 * AEM 与 Campaign 集成：特殊链接在 Adobe Campaign 中被重写，从而阻止客户在电子邮件中发送 mailto: 超链接。NPR-20787：适用于 CQ-4225760 的修补程序
 * （触屏 UI）将语言设置为法语时，出现 AEM 可用性问题和性能问题。NPR-20854：适用于 CQ-4227628 的修补程序
-* 在 RTE 中使用链接插件关联已编码的资源文件时，会返回空链接。NPR-20626、NPR-21059：适用于 CQ-4223011 的修补程序
-* 内容片段元数据编辑器阻止内容作者保存对内容片段的更改。NPR-20641：适用于 CQ-4224755 的修补程序
+* 在RTE中使用链接插件链接已编码的资源文件时，会返回空链接。 NPR-20626、NPR-21059：适用于 CQ-4223011 的修补程序
+* 内容片段元数据编辑器阻止内容作者保存对内容片段的更改。 NPR-20641：适用于 CQ-4224755 的修补程序
 * 页面属性别名导致“请求发布/请求取消发布”。NPR-20731：适用于 CQ-4226227 的修补程序
 * 在 RTE 元素中进行链接编码时出现文本组件问题。NPR-20755：适用于 CQ-4224321 的修补程序
 
 ### 平台 {#platform-6}
 
 * ResourceResolverImpl.map() 不调用 ResourceDecorator。NPR-20788：适用于 GRANITE-19718 的修补程序
-* org.apache.sling.i18n.DefaultLocaleResolver 无法通过 org.apache.sling.engine.SlingRequestProcessor 处理请求。NPR-20706：适用于 CQ-94880 的修补程序
+* `org.apache.sling.i18n.DefaultLocaleResolver` 无法通过org.apache.sling.engine.SlingRequestProcessor处理请求。 NPR-20706：适用于 CQ-94880 的修补程序
 * 请求在包管理器中添加验证选项，以检测特定包上是否有任何 ACL 权限/特权被更改。适用于 CQ-4229196 的修补程序
 
 ### 工作流 {#workflow-1}
@@ -908,14 +908,14 @@ AEM 累积修订包 6.2 SP1-CFP11 是一个重要更新，它包括自 AEM 6.2 S
 
 ### WCM - Foundation 组件 {#wcm-foundation-components-5}
 
-* Sightly 图像组件“link to”因缺少 .html 扩展名而生成 403 错误。NPR-20823：适用于 CQ-4195909 的修补程序
+* Sightly图像组件“link to”因缺少.html扩展名而生成403错误。 NPR-20823：适用于 CQ-4195909 的修补程序
 * 在使用 Live Copy 的 Blueprint 站点上，当尝试删除表单组件时，会引发 NullPointerException 并添加回表单组件，而不是删除组件。NPR-20855：适用于 CQ-4204628 的修补程序
 * 在长时间索引更新期间，Live CopyIndex 同步会导致线程阻塞。NPR-20634：适用于 CQ-90667 的修补程序
 
 ### 安全 {#security}
 
 * 主动 XSS 库更新。NPR-21174
-* 升级到 Apache Commons Email 1.5，它提供了用于发送电子邮件的简化 API。NPR-20509：适用于 Granite-18240 的修补程序
+* 升级到Apache Commons Email 1.5，它提供了用于发送电子邮件的简化API。 NPR-20509：适用于 Granite-18240 的修补程序
 * 对 Apache Sling XSS Protection API 应用了安全修补程序，以消除绕过 XSS 攻击的可能性。NPR-21290：适用于 GRANITE-19924 的修补程序
 * 在 XSSAPI#getValidHref 函数中绕过 XSS 攻击。NPR-21174：适用于 Granite-19924 的修补程序
 
@@ -940,14 +940,14 @@ AEM Forms 的主要功能亮点包括：
 
 #### 通信管理 {#correspondence-management-3}
 
-* （通信 UI）单击一下后，会禁用提交按钮。NPR-21078
+* （通信UI）单击一下后禁用提交按钮。 NPR-21078
 
 ### Forms JEE 安装程序 {#forms-jee-installer-9}
 
 #### 汇编程序服务 {#assembler-service-1}
 
-* docConvertor 无法生成 PDF/A，出现“未绑定 `stEvt:action` 元素的前缀‘stEvt’”错误。NPR-21032：适用于 CQ-4222540 的修补程序
-* 调用服务 OMPFSubmission/PDFA/PDFtoPDFA 时出现名为 `java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE` 的异常。这会导致短暂的签名验证过程在重新启动服务器之前无法完成。NPR-20792
+* docConvertor无法生成PDF/A，错误为“元素的前缀为“stEvt” `stEvt:action` 未绑定。” NPR-21032：适用于 CQ-4222540 的修补程序
+* 调用服务 OMPFSubmission/PDFA/PDFtoPDFA 时出现名为 `java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE` 的异常。此异常导致短暂的签名验证过程在重新启动服务器之前无法完成。 NPR-20792
 
 #### Workbench {#workbench}
 
@@ -955,7 +955,7 @@ AEM Forms 的主要功能亮点包括：
 
 #### 进程管理 {#process-management-2}
 
-* 使用 dataref 参数呈现移动设备表单时，会多次调用准备数据进程。NPR-19801：适用于 CQ-4230427/CQ-4230400 的修补程序
+* 使用dataref参数呈现移动设备表单时，会多次调用准备数据进程。 NPR-19801：适用于 CQ-4230427/CQ-4230400 的修补程序
 
 ## CFP11 中包含的 OSGi 包和内容包 {#osgi-bundles-and-content-packages-included-in-cfp-3}
 
@@ -980,33 +980,33 @@ AEM 累积修订包 6.2 SP1-CFP10 是一个重要更新，它包括自 AEM 6.2 S
 
 * 如果禁用了资源更新工作流，将无法预览资源。NPR-20543：适用于 CQ-4204986 的修补程序
 * 在 granite: class 属性 (cq-damadmin-admin-assets-upload) 中添加的类存在呈现问题。NPR-20514：适用于 CQ-4219238 的修补程序
-* 标题中包含特殊字符的缩略图资源在 alt 属性中显示 Java™ 对象。NPR-20347：适用于 CQ-4223620 的修补程序
+* 标题中包含特殊字符的缩览图资源在NPR-20347的alt属性中显示Java™对象：CQ-4223620的修补程序
 * 由于许可问题，使用 Adobe 专有代码替换版本比较代码。NPR-20273：适用于 CQ-4223758 的修补程序
 * 上传具有多个 Alpha 层的 CMYK PSB 文件时出现处理问题。NPR-20251：适用于 CQ-4220869 的修补程序
-* 除非在 org.apache.sling.i18n 2.5.6 中重新启动服务器，否则国际化词典不起作用。NPR-20525：适用于 Granite-19490 的修补程序
-* 没有根据使用默认线程转储收集器配置（默认的 AEM 启动）设置的计划程序时间段生成任何线程转储。NPR-20288：适用于 GRANITE-19488/GRANITE-12741/CQ-90647 的修补程序。
+* 如果在org.apache.sling.i18n 2.5.6中重新启动服务器，则国际化词典有效。NPR-20525：花岗岩的修补程序 — 19490
+* 根据使用默认线程转储收集器配置(默认AEM启动)的调度程序周期，不会生成任何线程转储。 NPR-20288：花岗岩 — 19488/花岗岩 — 12741 CQ-90647的修补程序。
 
-### 站点 {#sites-9}
+### Sites {#sites-9}
 
-* 如果在打开保存的搜索后，修改的日期筛选器发生了更改，则对结果没有影响，显示的结果与修改的日期筛选器以前保存的值相同。NPR-19739：适用于 CQ-4219425 的修补程序
+* 如果在打开保存的搜索后更改了修改日期过滤器，则对结果没有影响。 并且，显示的结果与修改日期过滤器的先前保存值相同。 NPR-19739：适用于 CQ-4219425 的修补程序
 * 包含嵌套组件的页面加载失败。NPR-20312
 * 删除工作流包时，会触发“请求删除”工作流。NPR-20266：适用于 CQ-4221686 的修补程序
 * （触屏 UI）使用操作系统剪贴板和内部 AEM 剪贴板执行复制/粘贴操作时出现问题。NPR-20228：适用于 CQ-4220383 的修补程序
 * 加载多个资源（超过 100 个）时，列表视图中的 AEM 实例运行缓慢。NPR-20034：适用于 CQ-4222695 的修补程序
-* （触屏 UI）通过经典 UI 控制台删除启动项会使所有页面无法编辑。NPR-20520：适用于 CQ-4225074 的修补程序
+* （触屏UI）通过经典UI控制台删除启动项会使所有页面无法编辑。 NPR-20520：适用于 CQ-4225074 的修补程序
 * “目标”下拉列表不适用于对话框中的多个 RTE 组件。NPR-20345：适用于 CQ-4220981 的修补程序
 
 ### 平台 {#platform-7}
 
-* 使用匿名会话进行访问时，ClientLibraryProxyServlet 不会将请求代理到发布实例上的客户端库，并引发“HTTP 404 未找到”错误。NPR-20195：适用于 Granite-14409 的修补程序
+* 使用匿名会话进行访问时，ClientLibraryProxyServlet不会将请求代理到已发布实例上的客户端库，并引发“HTTP 404未找到”错误。 NPR-20195：适用于 Granite-14409 的修补程序
 
 ### 集成 {#integration-10}
 
-* 选择目标引擎作为 Adobe Target，会阻止组件加载，并在服务器日志中引发错误。NPR-20058：适用于 CQ-88071、CQ-109698、CQ-4201600 的修补程序
+* 选择目标引擎作为Adobe Target会阻止组件加载，并在服务器日志中引发错误。 NPR-20058：适用于 CQ-88071、CQ-109698、CQ-4201600 的修补程序
 
 ### 商务 {#commerce-1}
 
-* 创建同一页面的产品时，不显示确认或重定向弹出消息。NPR-20257：适用于 CQ-4223414 的修补程序
+* 从同一页面创建产品时，不会显示确认或重定向弹出消息。 NPR-20257：适用于 CQ-4223414 的修补程序
 
 ### 用户界面 {#user-interface-4}
 
@@ -1015,7 +1015,7 @@ AEM 累积修订包 6.2 SP1-CFP10 是一个重要更新，它包括自 AEM 6.2 S
 
 ### WCM - Foundation 组件 {#wcm-foundation-components-6}
 
-* 即使从多个图像就地编辑器组件中删除图像后，ImageMap 属性也仍然存在。NPR-20142：适用于 CQ-4222982 的修补程序
+* 即使从多图像就地编辑器组件中删除图像后，ImageMap属性仍然存在。 NPR-20142：适用于 CQ-4222982 的修补程序
 
 ## 表单 {#forms-10}
 
@@ -1025,18 +1025,18 @@ AEM 累积修订包 6.2 SP1-CFP10 是一个重要更新，它包括自 AEM 6.2 S
 
 #### 自适应表单 {#adaptive-forms-7}
 
-* 当通过 UI 更改时，为 DropDownList 执行 valueCommit 脚本两次。NPR-19989：适用于 CQ-110212 的修补程序
+* 通过UI更改时，为DropDownList执行valueCommit脚本两次。 NPR-19989：适用于 CQ-110212 的修补程序
 
 ### Forms JEE 安装程序 {#forms-jee-installer-10}
 
 **进程管理**
 
 * CFP 包中包含 AEM Forms HTML 工作区版本 2.2.26。NPR-20099
-* 将移动设备表单配置为以 PDF 格式查看时，预填充的表单不起作用。NPR-20566
+* 将移动设备表单配置为以PDF查看时，预填充的表单不起作用。 NPR-20566
 
 **权限管理**
 
-* CAC/双向身份验证证书选择对话框应显示证书，并将增强型密钥用法 (EKU) 作为客户端身份验证或智能卡登录。NPR-20708
+* CAC/双向身份验证证书选择对话框应显示证书，并将增强型密钥用法(EKU)作为客户端身份验证或智能卡登录。 NPR-20708
 * Forms JEE 支持 PKCS#11 双向身份验证。NPR-15001
 
 ## CFP10 中包含的 OSGi 包和内容包 {#osgi-bundles-and-content-packages-included-in-cfp-4}
@@ -1054,12 +1054,12 @@ AEM 累积修订包 6.2 SP1-CFP9 是一个重要更新，它包括自 AEM 6.2 SP
 此累积修订包的主要功能亮点包括：
 
 * 改进了 Analytics 经典 UI 配置以进行密钥输入。
-* 修复了 ContextHub 的独立持久性缓存。
+* 修复了上下文中心的独立持久性缓存。
 * 准确计算资源维度。
 * 优化了将资源发布到 Brand Portal 时的 AEM 性能。
 * 修复了画布节点中的 `Resourcetype` 值。
 * 为文档片段内容启用了区分大小写和特殊字符搜索功能。
-* 增强了自适应表单功能，可将 PDF 作为附件附加到 Safari 中。提供了可连接到新 Dynamic Media 发布基础架构的新 Dynamic Media，以实现更快速、更灵活的复制。
+* 增强了自适应表单功能，可将 PDF 作为附件附加到 Safari 中。此体验提供了一个新的Dynamic Media，它连接到新的Dynamic Media发布基础架构以实现更快、更可扩展的复制。
 
 ### 资源 {#assets-10}
 
@@ -1072,11 +1072,11 @@ AEM 累积修订包 6.2 SP1-CFP9 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### 站点 {#sites-10}
 
-* 当用户尝试发布/取消发布/创建被另一用户锁定的页面版本时，AEM 会出现意外行为。NPR-19249：适用于 CQ-4215298 和 CQ-4203856 的修补程序
-* 手动提升嵌套启动项时，子页面将被删除。NPR-19704
-* 在初始化过程中 ContextHub 存储覆盖默认持久层时出现持久性问题。NPR-19979：适用于 CQ-4218399 的修补程序
+* 当用户尝试发布时，AEM显示意外行为 `/unpublish/create` 被其他用户锁定的页面版本。 NPR-19249：适用于 CQ-4215298 和 CQ-4203856 的修补程序
+* 手动提升嵌套启动项时，子页面将被删除。 NPR-19704
+* 初始化期间ContextHub存储覆盖默认持久层时出现持久性问题。 NPR-19979：适用于 CQ-4218399 的修补程序
 * 内容片段与其他按钮重叠。NPR-19980：适用于 CQ-4221519 的修补程序
-* 在 SiteAdmin 中使用别名查看时，不显示站点页面。NPR-20053：适用于 CQ-4221478 的修补程序
+* 在SiteAdmin中使用别名查看时，不显示站点页面。 NPR-20053：适用于 CQ-4221478 的修补程序
 * 发布指向 Adobe Campaigns 中的导入程序页面的 Live Copy 页面时出错。NPR-20066：适用于 CQ-4220846 的修补程序
 
 ### 平台 {#platform-8}
@@ -1091,7 +1091,7 @@ AEM 累积修订包 6.2 SP1-CFP9 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### Brand Portal {#brand-portal}
 
-* 启用通过 tagadmin/tagging 控制台将标记从 AEM 发布到 Brand Portal 的功能。NPR-20271
+* 启用通过tagadmin/tagging控制台将标记从AEM发布到Brand Portal的功能。 NPR-20271
 
 ## 表单 {#forms-11}
 
@@ -1105,17 +1105,17 @@ AEM 累积修订包 6.2 SP1-CFP9 是一个重要更新，它包括自 AEM 6.2 SP
 
 #### 自适应表单 {#adaptive-forms-8}
 
-* 增强了自适应表单功能，可将 PDF 作为附件附加到 Safari 中。为了在现有表单中支持相同功能，需要更改附件构件和“支持的文件类型”中的配置，更新值 application/pdf 以替代 .pdf。NPR-19623
+* 增强了自适应表单功能，可将 PDF 作为附件附加到 Safari 中。为了在现有表单中支持相同的功能，请更改附件小部件和“支持的文件类型”中的配置，更新值application/pdf而不是.pdf。 NPR-19623
 
 #### Forms Manager {#forms-manager-1}
 
-* 如果在自适应表单的字段中未定义 validationState 但发生了 elementFocusChanged 事件，则错误事件 (errorState) 会返回到 Adobe Analytics 服务器。NPR-19513
+* 如果在自适应表单的字段中未定义validationState但发生了elementFocusChanged事件，则错误事件(errorState)会返回到Adobe Analytics服务器。 NPR-19513
 
 ### Forms JEE 安装程序 {#forms-jee-installer-11}
 
 #### 核心 {#core-3}
 
-* 关闭期间连接管理器不可用。在取消部署创作 EAR 之前，JBoss® 切断了 JDBC 依赖项，从而导致损坏问题。NPR-19703
+* 关闭期间连接管理器不可用。 在取消部署创作 EAR 之前，JBoss® 切断了 JDBC 依赖项，从而导致损坏问题。NPR-19703
 
 ## 包含的功能包 {#feature-packs-included-1}
 
@@ -1145,43 +1145,43 @@ AEM 累积修订包 6.2 SP1-CFP8 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### 资源 {#assets-11}
 
-* 在 Safari 浏览器上对智能收藏集应用 Omnisearch 筛选器时出现问题。NPR-19511
+* 在Safari浏览器上对智能收藏集应用Omnisearch过滤器时出现问题。 NPR-19511
 * 当有多个与 PDF 资源关联的关键字时，PDF 关键字元数据无法正确提取，并且会以错误方式修改。为解决该问题，已删除 PDF 资源的“主题”字段元数据属性。但是，您可以编辑元数据架构，为“主题”字段添加多值文本字段。NPR-19126
-* 工作流通知服务不对电子邮件中的链接进行编码，这会导致用户在单击链接后，无法加载链接。NPR-19490：适用于 CQ-4218055 的修补程序
-* 无法使用 Chrome 在列视图中加载页面/资源的完整列表。NPR-19458：适用于 CQ-4214248 的修补程序
-* 激活“请求激活”工作流时，AEM 收件箱中显示不正确的关闭时间图标。NPR-19365：CQ-4216174
+* 工作流通知服务不对电子邮件中的链接进行编码，这会阻止在用户单击链接后加载链接。 NPR-19490：适用于 CQ-4218055 的修补程序
+* 无法使用Chrome在列视图中加载页面/资源的完整列表。 NPR-19458：适用于 CQ-4214248 的修补程序
+* 激活“请求激活”工作流时，AEM收件箱中显示不正确的关闭时间图标。 NPR-19365：CQ-4216174
 * 在列表视图中排序时出现问题。NPR-19217：CQ-95602
-* 在“资源文件夹”设置中更改标题或缩略图图片时，文件夹的原始组和权限会被覆盖。NPR-19283：适用于 CQ-4216080 的修补程序
+* 在资产文件夹设置中更改标题或缩略图图片时，文件夹的原始组和权限将被覆盖。 NPR-19283：适用于 CQ-4216080 的修补程序
 * `Windows 10` 工作站自动切换到触控模式，导致某些按钮无法正常使用。NPR-19183
 
 ### 站点 {#sites-11}
 
-* 在对话框中包含多个 RTE 组件时出现问题。NPR-19311：NPR-19587
-* 初始化 VersionManagerImpl 后，原版 AEM 6.2 中的自动版本清除只运行一次。NPR-19315：适用于 CQ-4217175 的修补程序
-* 在“Salesforce.com 导出”工作流步骤中，工作流实例卡住。NPR-19222：适用于 CQ-4212976 的修补程序
-* 无法编辑从 Live Copy 创建的语言副本页面。NPR-18967
+* 在对话框中包含多个RTE组件时出现问题。 NPR-19311：NPR-19587
+* 初始化VersionManagerImpl后，Vanilla AEM 6.2中的自动版本清除只运行一次。 NPR-19315：适用于 CQ-4217175 的修补程序
+* 在“Salesforce.com导出”工作流步骤中，工作流实例卡住。 NPR-19222：适用于 CQ-4212976 的修补程序
+* 从活动副本创建的语言副本页面不可编辑。 NPR-18967
 * ReferencesUpdateAction 无法通过层次结构更改将链接更新到嵌套 Live Copy 中。NPR-18715：适用于 CQ-4214105 的修补程序
 
 ### 平台 {#platform-9}
 
-* Adobe 电子邮件模板服务会将标记添加到自定义用户模板。NPR-19190：适用于 CQ-4217113 的修补程序
+* Adobe电子邮件模板服务可将标记添加到自定义用户模板。 NPR-19190：适用于 CQ-4217113 的修补程序
 
 ### 项目 {#projects-2}
 
-* 项目编辑者无法将资源复制/粘贴到项目资源文件夹中。NPR-19619
+* 项目编辑者无法将资产复制/粘贴到项目资产文件夹中。 NPR-19619
 * 安装 6.2 SP1-CFP1 后，无法生成翻译项目的预览。NPR-16481：CQ-4204655
 
 ### 集成 {#integration-12}
 
 * 在经典 UI 上的 Adobe Digital Publishing Solution 中，文章的访问属性设置不正确。NPR-19366
-* 由于 AEM 文章控制台中的全尺寸文章，缩略图呈现缓慢。NPR-19086：CQ-4217148
+* 由于AEM文章控制台中的全尺寸文章，缩略图呈现缓慢。 NPR-19086：CQ-4217148
 * 如果用户可以访问多个区域，通过 Campaign 个性化选件时，会出现自动折叠的错误行为。NPR-19290：适用于 CQ-4218029 的修补程序
-* 如果对定位模块进行编辑并保存超过一次，则定位模式下不显示定位对话框。NPR-19144：适用于 CQ-4216708 的修补程序
+* 如果编辑并保存目标模块多次，则定位模式下不会显示定位对话框。 NPR-19144：适用于 CQ-4216708 的修补程序
 
 ### 工作流 {#workflow-2}
 
-* 用户无法在经典 UI 的收件箱中按用户/组筛选收件箱中的通知。NPR-19122：适用于 CQ-4215374 的修补程序
-* 图像映射未保留 HTL 图像组件中的选定坐标。NPR-18911：CQ-4211584
+* 用户无法在经典UI的收件箱中按用户/组筛选收件箱中的通知。 NPR-19122：适用于 CQ-4215374 的修补程序
+* 图像映射未保留HTL图像组件中的选定坐标。 NPR-18911：CQ-4211584
 
 ## 表单 {#forms-12}
 
@@ -1189,8 +1189,8 @@ AEM 累积修订包 6.2 SP1-CFP8 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### Forms 附加组件包 {#forms-add-on-package-12}
 
-* 从 Microsoft® Word 或 Web 浏览器将内容复制到通信管理器文本编辑器时，会丢失内容的样式。NPR-19530
-* 文本编辑器中不含换行符的内容不会自动换行。NPR-19481
+* 将内容从Microsoft® Word或Web浏览器复制到Correspondence Manager Text Editor时，样式会丢失。 NPR-19530
+* 没有换行符的文本编辑器无法换行。 NPR-19481
 * 启用了预览信件时在文档片段中搜索实际文本的功能。NPR-17792：适用于 CQ-4214501 的修补程序
 
 #### 通信管理 {#correspondence-management-5}
@@ -1200,19 +1200,19 @@ AEM 累积修订包 6.2 SP1-CFP8 是一个重要更新，它包括自 AEM 6.2 SP
 >文本片段的这项搜索功能具有一些限制：-
 >
 >* 文档片段内容区分大小写，但标题不区分大小写。
->* 如果搜索词的一部分采用不同的样式或包含特殊字符（如 &quot; 或 &#39; 或 \），则搜索结果不会高亮显示。
->* 搜索不适用于文档片段中的动态内容（例如数据词典元素值或变量值）。
+>* 如果搜索词的一部分采用不同的样式或包含特殊字符（如&quot;、&#39;或\），则搜索结果不会高亮显示。
+>* 搜索不适用于文档片段中的动态内容（例如数据字典元素值或变量值）。
 
 #### Forms Manager {#forms-manager-2}
 
 * 在 AEM 6.2 上应用 CFP6 后，无法编辑自适应表单的 XML 架构属性。适用于 CQ-4219684 的修补程序
-* 重新启动服务器时，AEM Forms Manager 核心包的所有服务不启动。适用于 CQ-4217014 的修补程序
+* 重新启动服务器时，AEM Forms Manager核心捆绑包的所有服务不会启动。 适用于 CQ-4217014 的修补程序
 
 ### Forms JEE 安装程序 {#forms-jee-installer-12}
 
 #### 安装 LCM {#install-lcm-2}
 
-* 安装 CFP6 后，Microsoft® Windows 上的管理员屏幕显示版本号为 6.0。适用于 CQ-4217573 的修补程序
+* 安装CFP6后，Microsoft® Windows上的管理员屏幕显示版本号为6.0。 适用于 CQ-4217573 的修补程序
 
 ## 包含的功能包 {#feature-packs-included-2}
 
@@ -1232,11 +1232,11 @@ AEM 累积修订包 6.2 SP1-CFP7 是一个重要更新，它包括自 AEM 6.2 SP
 
 此累积修订包的主要功能亮点包括：
 
-* 对于将 dc: title 属性设置为 String []（多字段）的图像，在图像卡片上显示标题时发生行为更改。
-* 修复了 Dynamic Media 云服务、触屏 UI 和安全 UI 界面的性能问题。
+* 对于将dc： title属性设置为String （多字段）的图像，在图像卡片上显示标题时发生行为更改。
+* 修复了Dynamic MediaCloud Service、触屏UI和安全UI界面的性能问题。
 * 修复了 Apache Felix Http Bridge 3.0.8 中的问题。
 * 解决了创作与发布环境之间的无二进制复制 (BLR) 问题。
-* 支持目标库文件 AT.js，这是用于与 Adobe Target 进行客户端集成的实施库，专为典型的 Web 实施和单页应用程序而设计。
+* 支持Target库文件AT.JS，这是用于与Adobe Target进行客户端集成的实施库，专为典型的Web实施和单页应用程序而设计。
 * 通过为 Analytics、DTM 和 Target 引入用户可配置的连接超时时间段，提高了 AEM 性能。
 
 ### 资源 {#assets-12}
@@ -1251,16 +1251,16 @@ AEM 累积修订包 6.2 SP1-CFP7 是一个重要更新，它包括自 AEM 6.2 SP
 * 移动资源操作导致性能下降。NPR-18346
 * 在设置了默认“显示全部”选项的情况下打开时间轴时，时间轴中未显示任何项目。NPR-18302：适用于 CQ-4211957 的修补程序
 * 将 ASCII/UTF-8 编码文本文件上传到 AEM Assets 时出现错误，并且缩略图生成失败。NPR-18006：适用于 CQ-4209345 的 CFP
-* 即使用户没有复制权限，也会显示“发布”操作按钮。NPR-17353：适用于 CQ-4209269 的修补程序
-* 使用 min:gcc;obfuscate=true 启用缩小功能后，Siteadmin 和 Miscadmin 无法运行。NPR-18593：适用于 CQ-4209220 的修补程序
+* Publish操作按钮即使在用户没有复制访问权限时也可见。 NPR-17353：适用于 CQ-4209269 的修补程序
+* 使用min：gcc；obfuscate=true启用缩小时站点管理员和杂项管理员均不起作用。 NPR-18593：适用于 CQ-4209220 的修补程序
 * 每次刷新屏幕之前，不会显示自定义菜单项。NPR-18500：适用于 CQ-4213581 的修补程序
 * 将 moment.js 升级至 2.10.6。NPR-18596：适用于 Granite-11881 的修补程序
-* 对 DM 宏应用权限，会中断管理员用户的视图。NPR-18544：适用于 CQ-4211729 的修补程序
+* 应用DM宏的权限会中断Admin用户的视图。 NPR-18544：适用于 CQ-4211729 的修补程序
 * 稍后发布资源会引发非法参数异常。CQ-4214532
 
 ### 站点 {#sites-12}
 
-* 在具有 MongoDB 的双活作者群集上，当时间达到为内容设置的“按时”时，两位作者都会尝试为同一内容触发复制。NPR-18708：适用于 CQ-4210982 的修补程序
+* 在具有MongoDB的主动 — 主动作者群集上，当时间达到为内容设置的“按时”时，两位作者都会尝试为同一内容触发复制。 NPR-18708：适用于 CQ-4210982 的修补程序
 * 使用不含 jcr: 内容节点的引用移动资源时，会引发空指针异常。NPR-18664
 * 占位符在包含多个 Parsys 组件的页面中不可见。NPR-18645：适用于 CQ-110253 的修补程序
 * AbstractCopyMoveCommand 中存在并发问题。NPR-18591
@@ -1268,9 +1268,9 @@ AEM 累积修订包 6.2 SP1-CFP7 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### 平台 {#platform-10}
 
-* 安装包后，JCR 安装程序不更新包版本。NPR-18728：适用于 NPR-15135 的修补程序
+* 安装包后，JCR安装程序不更新包版本。 NPR-18728：适用于 NPR-15135 的修补程序
 * 在创作与发布环境之间对二进制文件执行无二进制复制 (BLR) 失败。NPR-18704
-* 请求在 AEM 环境中解析 Apache Felix Http Bridge。NPR-18297
+* AEM环境中的Apache Felix Http Bridge解析请求。 NPR-18297
 * 当使用 Sling Content Distribution 同时复制具有相似结构的多个页面时，复制失败。NPR-18665：适用于 Granite-13712 的修补程序
 * Sling 分发包正在构建，但未自行清理。NPR-18601：适用于 Granite-16183 的修补程序
 
@@ -1285,7 +1285,7 @@ AEM 累积修订包 6.2 SP1-CFP7 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### WCM - Foundation 组件 {#wcm-foundation-components-7}
 
-* 图像映射未保留 HTL 图像组件中的选定坐标。NPR-18530：适用于 CQ-4211584 的修补程序
+* 图像映射未保留HTL图像组件中的选定坐标。 NPR-18530：适用于 CQ-4211584 的修补程序
 
 ### 翻译 {#translation-5}
 
@@ -1293,7 +1293,7 @@ AEM 累积修订包 6.2 SP1-CFP7 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### Brand Portal {#brand-portal-1}
 
-* 启用通过 tagadmin/tagging 控制台将标记从 AEM 发布到 Brand Portal 的功能。CQ-4212165
+* 启用通过tagadmin/tagging控制台将标记从AEM发布到Brand Portal的功能。 CQ-4212165
 
 ## 表单 {#forms-13}
 
@@ -1305,24 +1305,23 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 * 在保存片段之前，编辑面板中不会显示正确的数据。NPR-19092
 * 将文档片段添加到信件需要大量时间。NPR-18958
-* 如果数据 xml 文件中存在 XML 声明，并且通过 POST 请求发起信件演绎版，则相应的信件无法显示数据。NPR-18870
+* 如果数据xml文件中存在XML声明，并且通过POST请求发起信件演绎版，则相应的信件无法显示数据。 NPR-18870
 * 对 CM 资源采取的操作不会生成审核日志。NPR-16618
 
 >[!NOTE]
 >
 >如果您受到以下两个问题的影响，请不要安装此 CFP 附加组件包：
 >
->* 从 Word/Web 复制并粘贴内容到 CM 文本编辑器时，内容中显示换行符。NPR-19530
->* CM 文本编辑器中无换行符的内容不会自动换行。NPR-19449
+>* 从Word/Web到CM文本编辑器的“复制粘贴”显示换行内容。 NPR-19530
+>* CM文本编辑器中不含换行符的内容无法换行。 NPR-19449
 >
->这些问题将在以后的 CFP 中解决。
 
 #### 自适应表单 {#adaptive-forms-9}
 
-* 为可重复面板添加面板时，将删除上一个面板中下拉字段的值。NPR-18772
+* 为可重复面板添加面板时，会删除上一个面板中下拉字段的值。 NPR-18772
 * 标记为仅接受整数的自适应表单字段，也接受从数字键盘输入的几个特殊字符。NPR-18680
-* 用于在 guideroot 面板的初始化事件中更改按钮标题的脚本不起作用。NPR-18476
-* 对于在规则编辑器下创建的规则，在右侧面板中看不到滚动条。NPR-18716
+* 用于在指南根面板的初始值设定项事件中更改按钮标题的脚本不起作用。 NPR-18476
+* 对于在规则编辑器下创建的规则，在右侧面板中看不到滚动条。 NPR-18716
 
 #### AEM Forms 应用程序 {#aem-forms-app}
 
@@ -1348,40 +1347,40 @@ AEM 累积修订包 6.2 SP1-CFP6 是一个重要更新，它包括自 AEM 6.2 SP
 
 此累积修订包的主要功能亮点包括：
 
-* 在平板电脑中的布局模式下有效管理隐藏的组件。
+* 在平板电脑的布局模式下有效管理隐藏的组件。
 * 在混合设备上引入快速操作。
-* 解决 Live Copy 的组件级同步问题。
+* 解决活动副本的组件级同步问题。
 
 ### 资源 {#assets-13}
 
-* 当没有所需权限的用户尝试对资源执行移动操作时，客户会被阻止。NPR-18330：适用于 CQ-4212560 的修补程序
+* 当没有所需权限的用户尝试对资产执行移动操作时，客户会被阻止。 NPR-18330：适用于 CQ-4212560 的修补程序
 * 合并多个智能内容服务配置会导致可用性问题。NPR-18273：适用于 CQ-4201557 的修补程序
-* 在“资源”文件夹中添加了大约 80 个片段后，无法从“时间轴”控制台中使用签出操作/工作流。NPR-18257：适用于 CQ-4211214 的修补程序以及 NPR-18251：适用于 CQ-4211216 的修补程序。
+* 在大约10年后，将无法从“时间轴”控制台中使用签出操作/工作流。 80个片段将添加到Assets文件夹中。 NPR-18257：适用于 CQ-4211214 的修补程序以及 NPR-18251：适用于 CQ-4211216 的修补程序。
 * 资源报告期间系统崩溃，出现“内存不足”和“缺少分页”错误。NPR-17865：适用于 CQ-4209759 的修补程序
 * 发布的视频无法在已编码的视频资源上播放。NPR-17849：适用于 CQ-4210739 的修补程序
-* 不会生成 PDF 的缩略图。NPR-17831、NPR-17750：适用于 CQ-4210547 的修补程序
-* Adobe CQ DAM 到期通知作业不会停用已过期的资源。NPR-17666：适用于 CQ-107766 的修补程序
+* 不会生成PDF的缩略图。 NPR-17831、NPR-17750：适用于 CQ-4210547 的修补程序
+* Adobe CQ DAM到期通知作业不会停用已过期的资源。 NPR-17666：适用于 CQ-107766 的修补程序
 * 如果资源没有分配所有者，将停止资源到期活动。NPR-17665：适用于 CQ-4197946 的修补程序
 * 移动具有超过 150 个传入引用的资源文件夹时，会引发空指针异常。CQ-4200981
 
 ### 站点 {#sites-13}
 
-* 为 IP 范围设置分段规则后，个性化仅适用于第一个 IP。NPR-18121：适用于 CQ-83767 的修补程序
-* 启用 historyShow 属性后，登录因 NumberFormatException 而失败。NPR-18073：适用于 CQ-101965 的修补程序
-* 触屏 UI 中显示标记的已删除页面。NPR-18025：适用于 CQ-86694 的修补程序
+* 为IP范围设置分段规则后，Personalization仅适用于第一个IP。 NPR-18121：适用于 CQ-83767 的修补程序
+* 启用historyShow属性后，登录因NumberFormatException而失败。 NPR-18073：适用于 CQ-101965 的修补程序
+* 触屏UI中会显示标记的已删除页面。 NPR-18025：适用于 CQ-86694 的修补程序
 * 加载包含大量（2000 及以上）受众的页面时，出现性能问题。NPR-17884：适用于 CQ-4209567 的修补程序
-* 删除页面上的其他图像后，无法选择图像。NPR-17711：适用于 CQ-4201323 的修补程序
+* 删除页面上的其他图像后，无法选择图像。 NPR-17711：适用于 CQ-4201323 的修补程序
 
 ### 平台 {#platform-11}
 
-* 对于没有所需权限的用户，触屏 UI 控件不会隐藏。NPR-17945：适用于 CQ-4211231 的修补程序
+* 对于具有所需权限的用户，触屏UI控件会隐藏。 NPR-17945：适用于 CQ-4211231 的修补程序
 * 标记选取器字段中缺少日文标记。NPR-17768：适用于 CQ-4210456 的修补程序
 * 启用 FastQuerySize 后，getsize() 查询返回错误结果。NPR-18018
-* 备用实例上的 Web 控制台不可访问。NPR-17861：适用于 Granite-14582 的修补程序
+* 备用实例上的Web控制台不可访问。 NPR-17861：适用于 Granite-14582 的修补程序
 
 ### 商务 {#commerce-2}
 
-* 当目录 Blueprint 没有为区域定义任何条件时，会发生查询遍历。NPR-18229：适用于 CQ-4211924 的修补程序
+* 当目录Blueprint没有为区域定义任何条件时，会发生查询遍历。 NPR-18229：适用于 CQ-4211924 的修补程序
 
 ### 社区 {#communities-2}
 
@@ -1390,25 +1389,25 @@ AEM 累积修订包 6.2 SP1-CFP6 是一个重要更新，它包括自 AEM 6.2 SP
 ### 集成 {#integrations}
 
 * 解决了在 AEM Day HTTP Client 3.1 OSGi 配置了需要摘要身份验证的代理时可能发生的 AEM 搜索组件错误。NPR 18128
-* 缺少用于还原继承的复选框。NPR-17753：适用于 CQ-4210139 的修补程序请求
+* 缺少复选框，因此您可以还原继承。 NPR-17753：适用于 CQ-4210139 的修补程序请求
 * 当定位一个具有多个活动的组件时，用户无法设置优先级。NPR-18658：适用于 CQ-4210727 的修补程序
 * 用户无法浏览文件夹 /etc/segmentation 以选择在文件夹 /etc/segmentation/group1 下创建的受众。NPR-18522
 
 ### 安全 {#security-1}
 
 * 如果用户没有目标文件夹的写入权限，“移动资源”向导会挂起。NPR-18300
-* 请求使用 Apache Sling API 中的升级版 org.apache.sling.servlets.post servlet (2.3.22) 来预先制止 XSS 漏洞。NPR-18963
+* 请求在Apache Sling API中使用org.apache.sling.servlets.post servlet的升级版本(2.3.22)来防御XSS漏洞。 NPR-18963
 
 ### 翻译 {#translation-6}
 
-* 在项目完成之前，无需再次向翻译项目提交资源页面。NPR-18249：适用于 CQ-4209908 的修补程序
+* 在翻译项目完成之前，无需再次提交资产页面。 NPR-18249：适用于 CQ-4209908 的修补程序
 
 ### WCM - Foundation 组件 {#wcm-foundation-components-8}
 
-* 无法在可编辑的模板中使用 WCM Foundation iparsys 组件。NPR-18223：适用于 CQ-4210384 的修补程序
-* 图像映射未保留 HTL 图像组件中的选定坐标。NPR-18032：适用于 CQ-4211584 的修补程序
-* 当 HTL 图像组件呈现时，URL 中的文件名将重命名，从而导致 URL 断开。NPR-17908：适用于 CQ-4211587 的修补程序
-* 进行更改后无法退出“页面属性”。NPR-17832：适用于 CQ-96110 的修补程序
+* 无法在可编辑的模板中使用WCM foundation Iparsys组件。 NPR-18223：适用于 CQ-4210384 的修补程序
+* 图像映射未保留HTL图像组件中的选定坐标。 NPR-18032：适用于 CQ-4211584 的修补程序
+* 当HTL图像组件呈现时，URL中的文件名将重命名，从而导致URL断开。 NPR-17908：适用于 CQ-4211587 的修补程序
+* 进行更改后无法退出页面属性。 NPR-17832：适用于 CQ-96110 的修补程序
 
 ## 表单 {#forms-14}
 
@@ -1418,11 +1417,11 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 **通信管理**
 
-* 在信件呈现过程中，数据词典会被重复读取。NPR-18482：适用于 CQ-4210805 的修补程序
+* 在信件呈现期间，数据字典会被重复读取。 NPR-18482：适用于 CQ-4210805 的修补程序
 * 为 com.adobe.livecycle.content 类添加了 JavaDocs。NPR-18467
-* 创建信件时，信件说明未保存。NPR-18039
+* 创建信件时，信件说明未保存。 NPR-18039
 * 当文本模块已保存且文本模块中的表达式不包含开放或闭合的表达式标记时，未显示错误消息。文本模块显示错误消息，并且无法在信件中呈现。NPR-17798
-* 在安装附加组件包时，日志中出现意外错误。NPR-18295
+* 安装附加组件包时，日志中出现意外错误。 NPR-18295
 
 **Forms Manager**
 
@@ -1436,7 +1435,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 **签名服务**
 
-* 无法使用远程硬件安全模块对 PDF 文档进行签名。NPR-18017
+* 无法使用远程硬件安全模块签署PDF文档。 NPR-18017
 
 ## CFP6 中包含的 OSGi 包 {#osgi-bundles-included-in-cfp-2}
 
@@ -1455,7 +1454,7 @@ AEM 累积修订包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 6.2 SP
 * 解决了共享、移动、发布和下载资源的几个 UI 问题。
 * 增加了“移动”对话框在显示引用资源时的容量。
 * 解决了与 WCM 组件和工作流（例如取消发布和版本清除）相关的几个问题。
-* 改进了操作栏在显示工具栏操作和 Coral 组件方面的响应性。
+* 改进了操作栏在显示工具栏操作和Coral组件时的响应性。
 
 ### 资源 {#assets-14}
 
@@ -1469,7 +1468,7 @@ AEM 累积修订包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### 站点 {#sites-14}
 
-* 使用经典 UI 和触控 UI 移动页面时，“移动”对话框显示的引用不超过 150 个，从而导致用户无法更新这些引用和重新发布页面。通过为经典 UI 引入“maxRefNo”属性，此问题已得到修复，该属性可在 siteadmin 节点“/libs/wcm/core/content/siteadmin”上配置。此属性指定在大量移动操作之前显示的最大引用数（默认值为 150）。如果某个页面有多个引用，则它们不会显示在 movePage 对话框中。此配置还适用于 damadmin 和 miscadmin，方法是分别在 `'/libs/wcm/core/content/damadmin'` 和 `'/libs/wcm/core/content/miscadmin'` 节点上应用配置。NPR-17222：适用于 CQ-85878 的修补程序
+* 使用经典 UI 和触控 UI 移动页面时，“移动”对话框显示的引用不超过 150 个，从而导致用户无法更新这些引用和重新发布页面。通过为经典UI引入可在站点管理员节点上配置的“maxRefNo”属性，此问题已得到修复。 `'/libs/wcm/core/content/siteadmin'`. 此属性指定在大量移动操作之前显示的最大引用数（默认值为 150）。如果某个页面有多个引用，则它们不会显示在 movePage 对话框中。此配置也适用于DAM管理员和杂项管理员，方法是对节点应用配置： `'/libs/wcm/core/content/damadmin'` 和 `'/libs/wcm/core/content/miscadmin'` 的量度。 NPR-17222：适用于 CQ-85878 的修补程序
 
 * 使用 WCM 组件时，带有空格的超链接在触屏 UI 富文本编辑器中会被删除。NPR-17698、NPR-17570：适用于 CQ-4206768 的修补程序
 * 从页面属性触发“请求取消发布”工作流时，会向没有复制权限的用户显示 JavaScript 错误。NPR-17294：适用于 CQ-102064 的修补程序
@@ -1488,7 +1487,7 @@ AEM 累积修订包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### Mobile-on-demand {#mobile-on-demand-2}
 
-* 对 AEM Mobile 应用程序具有“只读”权限的用户无法从 AEM Mobile 内容管理页面预览内容。NPR-17390：适用于 CQ-4209690 的修补程序
+* 对AEM Mobile应用程序具有“只读”权限的用户无法从AEM Mobile内容管理页面预览内容。 NPR-17390：适用于 CQ-4209690 的修补程序
 
 ### 安全 {#security-2}
 
@@ -1503,7 +1502,7 @@ AEM 累积修订包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 6.2 SP
 
 **自适应表单**
 
-* 对于带有附件的自适应表单，在第二次提交表单时，将会在提交的 XML 中创建 afSubmissionInfo 标记的重复条目。NPR-17364
+* 对于带有附件的自适应表单，在第二次提交表单时，会在提交的XML中创建afSubmissionInfo标记的重复条目。 NPR-17364
 * 使用 Google Chrome 浏览器时，在从表单中删除附件后，尝试再次重新附加同一附件会引发错误。NPR-17297
 * 如果基于 XSD 或基于无表单模型的自适应表单中存在嵌套的可重复延迟加载面板，则在表单中填充的值不会保留在记录文档 (DOR) 中。NPR-17176
 * 错误日志中显示的有关规则编辑器的错误应添加到 try/catch 块 JavaScript 代码的 catch 块中。NPR-16757
@@ -1516,11 +1515,11 @@ AEM 累积修订包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 6.2 SP
 * 在数据词典计算元素中添加远程函数时，如果函数数量大于显示远程函数的选项卡的长度，则滚动条不会显示在选项卡中。NPR-17359
 * API 导入方法 `com.adobe.icc.services.api.LetterInstanceService` 不起作用。NPR-17922、NPR-16008
 * 编辑信件时，在文本模块中添加的变量未显示在“数据绑定”面板中。NPR-17940
-* 当 HTML 提交操作使用 POST 方法时，通信管理 UI 不会启动。NPR-17595
+* HTML提交操作使用POST方法时，通信管理UI不会启动。 NPR-17595
 
 **Forms Manager**
 
-* 如果为 AB 测试配置了自适应表单，则单击“开始 AB 测试”不会开始测试，并且会引发浏览器控制台错误。NPR-17838
+* 如果为AB测试配置了自适应表单，则单击启动AB Testing不会启动测试，并且会引发浏览器控制台错误。 NPR-17838
 
 **表单服务**
 
@@ -1530,7 +1529,7 @@ AEM 累积修订包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 6.2 SP
 
 **输出服务**
 
-* 使用 AEM Forms 6.2 输出服务将特定表单与数据 XML 合并所花费的时间，是使用 LiveCycle ES4 SP1 服务器执行相同操作所花费的时间的 20 倍。已在 Windows 和 Linux® 环境中修复该问题。NPR-17501
+* 使用AEM forms 6.2输出服务将特定表单与数据XML合并所需的时间是前者的20倍。 现已在Windows和Linux®环境中修复该问题。 NPR-17501
 
 **安装 LCM**
 
@@ -1542,7 +1541,7 @@ AEM 累积修订包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 6.2 SP
 
 #### AEM Forms JEE 包 {#aem-forms-jee-bundles-package}
 
-* 无论使用 JEE 管理员 UI 控制台还是 OSGi 控制台，表单用户的功能都应相同。NPR-17670
+* 无论使用JEE管理员UI控制台还是OSGi控制台，表单用户的功能都应相同。 NPR-17670
 
 ### CFP5 中包含的功能包 {#feature-packs-included-in-cfp}
 
@@ -1557,7 +1556,7 @@ AEM 累积修订包 6.2 SP1-CFP5 是一个重要更新，它包括自 AEM 6.2 SP
 
 通信管理
 
-* 预览信件期间在文本编辑器中编辑片段时，应显示已处理的文本（而不是片段中使用的内嵌条件）以进行编辑。NPR-15748、NPR-17504
+* 预览信件期间在文本编辑器中编辑片段时，应显示已处理的文本以供编辑，而不是显示片段中使用的内联条件。 NPR-15748、NPR-17504
 
 ### CFP5 中包含的 OSGi 包 {#osgi-bundles-included-in-cfp-3}
 
@@ -1588,46 +1587,46 @@ AEM 累积修订包 6.2 SP1-CFP4 是一个重要更新，它包括自 AEM 6.2 SP
 
 ### 平台 {#platform-12}
 
-* 通过在 /apps 中叠加来向&#x200B;**资源 OmniSearch** 结果添加列或自定义列不起作用。NPR-16737：适用于 CQ-4206785 的修补程序
+* 向添加列或自定义列 **Assets OmniSearch** 覆盖的结果 `/apps` 不起作用。 NPR-16737：适用于 CQ-4206785 的修补程序
 * 从 AEM 6.1 SP2 就地升级到 AEM 6.2 SP1 后，**诊断工具**&#x200B;页面无法正常运行。NPR-17121：适用于 CQ-4196786 的修补程序
 * HTL：在选择论坛、创建主题和帖子时，`Sightly SightlyCompiledScript` 会将不正确的 `addSelectors` 属性添加到 `RequestDispatcherOption`。NPR-17008：适用于 GRANITE-16384 的修补程序
 
 * 在 `ReportImporter` 使用的 `ManagedPollConfigs` 中添加了对 `CRON expressions` 的支持。NPR-16608：适用于 CQ-4206066 的修补程序请求
 
 * 为 LDAP 用户上传头像图片失败。NPR-16561：适用于 Granite-17013 的修补程序
-* 在卡片视图和列表视图中，“用户管理”屏幕上显示的结果数不同。NPR-16241：适用于 GRANITE-16914 的修补程序
+* “用户管理”屏幕上显示的结果数在“卡片”和“列表”视图中有所不同。 NPR-16241：适用于 GRANITE-16914 的修补程序
 * 在 Google Chrome 浏览器的“全屏”模式下查看时，工作流通知无法延迟加载。NPR-17013：适用于 CQ-4207567 的修补程序
 
 ### 资源 {#assets-15}
 
 * 在导入已定义方向的图像时，无法正确应用图像方向。NPR-16750：适用于 CQ-4204356 的修补程序
 * 资源时间轴视图不显示任何资源，即使默认情况下设置为“显示全部”也是如此。NPR-16957：适用于 CQ-98780 的修补程序
-* `Camera RAW`将文件（包括 ARW、CR2、NEF、DNG 和 EPS）添加为资源中的演绎版时，无法选择或删除这些文件。当用户单击这些文件时，会自动下载这些文件。NPR-16949：适用于 CQ-4206846 的修补程序
-* 在资源 UI 中的一个 PDF 内部创建另一个 PDF 时，不会在 DAM UI 中显示已创建的 PDF，但是这些 PDF 在 CRX 存储库中均可见。NPR-16833：适用于 CQ-4206501 的修补程序
+* `Camera RAW`将文件（包括 ARW、CR2、NEF、DNG 和 EPS）添加为资源中的演绎版时，无法选择或删除这些文件。当用户单击这些文件时，会自动下载这些文件。 NPR-16949：适用于 CQ-4206846 的修补程序
+* 在Assets UI中的其他PDF中创建PDF时，不会在DAM UI中显示已创建的PDF。 但是，这些PDF在CRX存储库中可见。 NPR-16833：适用于 CQ-4206501 的修补程序
 * 使用触屏 UI 将资源上传为其自身的直接子节点会导致出现问题。资源会作为先前选定的资源的直接子级上传。NPR-16534：适用于 CQ-4204287 的修补程序
 * 在 DAM UI 中，对资源添加注释以及在注释中标记用户，不会生成邮件通知。NPR-16589：适用于 CQ-102318 的修补程序
 
 ### 项目 {#projects-3}
 
-清除工作流后，“项目”工作流控制台会在页面上显示 NullPointerException。NPR-17017：适用于 CQ-4194269 的修补程序
+清除工作流后，“项目”工作流控制台在页面上显示NullPointerException。 NPR-17017：适用于 CQ-4194269 的修补程序
 
 ### 站点 {#sites-15}
 
 * 在创作实例上，`ContextHub` 中的文件不会最小化。NPR-17022：适用于 CQ-79456 的修补程序
-* WCM 启动项提升需要较长时间，才能提升包含大型页面树的启动项。NPR-16480：适用于 CQ-82731 的修补程序
+* WCM-Launches启动项提升需要较长时间，才能提升包含大型页面树的启动项。 NPR-16480：适用于 CQ-82731 的修补程序
 * 当使用非有效或未完成的规则创建区段（或受众）时，`ClientContext` 区段条件呈现器崩溃。NPR-16759：适用于 CQ-4205104 的修补程序
-* 在 WCM 启动项中，当从触屏 UI 的页面属性中启动操作时，与启动项关联的页面不会取消发布。NPR-16560：适用于 CQ-4204681 的修补程序
+* 在WCM启动项中，当从触屏UI的页面属性中启动操作时，与启动项关联的页面无法取消发布。 NPR-16560：适用于 CQ-4204681 的修补程序
 * 链接重写程序错误地重写了包含冒号的 href 值，它假定冒号“:”定义的是 JCR 命名空间。NPR-16753：适用于 CQ-4203762 的修补程序
-* 在 WCM 设计导入程序中，如果之前上传了某个 zip 文件后将其删除，则打开测试导入程序页面并再次尝试上传该 zip 文件会导致出现问题。NPR-16486：适用于 CQ-90962 的修补程序
-* 使用 Firefox、Safari 和 Google Chrome 浏览器导航到&#x200B;**[!UICONTROL 全局导航]**&#x200B;窗格时，会获得不同的用户体验。Firefox 浏览器显示&#x200B;**[!UICONTROL 工具]**&#x200B;菜单，而 Google Chrome 浏览器则显示&#x200B;**[!UICONTROL 导航]**&#x200B;菜单。NPR-16770：适用于 CQ-4200456 的修补程序
+* 在WCM设计导入程序中，如果之前上传了某个zip文件后将其删除，则打开测试导入程序页面并尝试上传该zip文件会导致出现问题。 NPR-16486：适用于 CQ-90962 的修补程序
+* 导航到 **[!UICONTROL 全局导航]** 窗格使用Firefox或Google Chrome浏览器可提供不同的用户体验。 Firefox浏览器显示 **[!UICONTROL 工具]** 菜单。 Google Chrome浏览器显示 **[!UICONTROL 导航]** 菜单。 NPR-16770：适用于 CQ-4200456 的修补程序
 
 ### 营销活动 {#campaign}
 
-* 测试 AEM 营销活动模板和修改种子地址以包含“其他数据”时，Adobe Campaign 下拉列表会在触屏 UI ContextHub 中消失。NPR-16771：适用于 CQ-105748 的修补程序
+* 在测试AEM促销活动模板并修改种子地址以包含“其他数据”时， Adobe Campaign下拉列表在触屏UI上下文中心中消失。 NPR-16771：适用于 CQ-105748 的修补程序
 
 ### Mobile on-demand {#mobile-on-demand-3}
 
-* 当从 AEM 创作环境预检发布时，超过 5 秒的预检操作会在 AEMM - AEM PECS 集成 Splunk 功能板上引起异常峰值，导致每秒出现大量状态请求。NPR-16908：适用于 CQ-4207055 的修补程序
+* 从AEM创作预检发布时，如果预检操作耗时超过五秒，则会导致AEMM - AEM PECS集成Splunk功能板上出现异常峰值，其中包含大量状态请求。 NPR-16908：适用于 CQ-4207055 的修补程序
 * 安装 AEM-6.2-SP1-CFP1-1.0 更新后，AEM Mobile 配置管理失败。NPR-16909：适用于 CQ-4204892 的修补程序
 
 ### 翻译 {#translation-7}
@@ -1646,15 +1645,15 @@ AEM 累积修订包 6.2 SP1-CFP4 是一个重要更新，它包括自 AEM 6.2 SP
 
 **自适应表单**
 
-* 在自适应表单编辑器中，head.jsp 中的 Target 设置注释应替换为新的 ContextHub 语句。NPR-17173
-* 在自适应表单规则编辑器中，**[!UICONTROL 选择项目]**&#x200B;将事件显示为“null”。NPR-17139
-* 使用前进箭头 (>) 向前导航时，已提交的表单会重新提交。NPR-17080
-* 通过 AJAX 提交自适应表单时，如果发生错误，永远不会调用“error”回调函数。NPR-17034
+* 在自适应Forms编辑器中，head.jsp中的“目标设置”注释应替换为新的上下文中心语句。 NPR-17173
+* 在“自适应Forms规则编辑器”中， **[!UICONTROL 选择项目]** 将事件显示为“null”。 NPR-17139
+* 通过使用向前箭头(>)向前导航来重新提交已提交的表单。 NPR-17080
+* 通过AJAX提交自适应表单时，如果出现错误，则绝不会调用“error”回调函数。 NPR-17034
 * 在运行时单击规则编辑器中的&#x200B;**[!UICONTROL 保存表单]**&#x200B;按钮不会保存表单。NPR-16905
 * 应从自适应表单的 Tab 键顺序中排除静态文本。NPR-16749
 * 十进制字段的计算值显示不正确。NPR-16596
 * 显示帮助内容的图标应包含在自适应表单的 Tab 键顺序中。NPR-16484
-* 支持在“**[!UICONTROL 默认预填充服务配置]**”中使用 `dataRef=C:/Users/` 类型的正则表达式，用于预填充自适应表单的数据。NPR-16425
+* 支持类型的正则表达式 `dataRef=C:/Users/`在 **[!UICONTROL 默认预填充服务配置]**. 此类型用于预填充自适应Forms的数据。 NPR-16425
 
 * 如果存在嵌套延迟加载情况，则无法正确触发所有面板的验证。NPR-15821
 
@@ -1667,8 +1666,8 @@ AEM 累积修订包 6.2 SP1-CFP4 是一个重要更新，它包括自 AEM 6.2 SP
 * 预览信件时，两端对齐的文本将以不同字体呈现。NPR-16976
 * 如果搜索的文本多次出现，则搜索功能无法正常运行。NPR-16920
 * 文本编辑器工具栏间歇性地显示在浏览器中。NPR-16919
-* 规则编辑器中的&#x200B;**[!UICONTROL 保存表单]**&#x200B;结构不起作用。NPR-16905
-* 使用 Internet Explorer 创建基于数据词典的文本模块时，“字体”下拉列表不填充字体系列。NPR-16944
+* 构造 **[!UICONTROL 保存表单]** 从规则编辑器中将不起作用。 NPR-16905
+* 使用Internet Explorer创建基于数据字典的文本模块时，“字体”下拉列表不会填充字体系列。 NPR-16944
 * 创建文本片段后，在预览信件时，信件字体发生更改。NPR-16830
 * 文档片段中开头或表达式之间含有制表符空格的信件无法呈现或预览。NPR-16769
 
@@ -1680,7 +1679,7 @@ AEM 累积修订包 6.2 SP1-CFP4 是一个重要更新，它包括自 AEM 6.2 SP
 
 * 单击已提交表单的&#x200B;**[!UICONTROL 下载]**&#x200B;链接，会打开 HTML 页面而不是 PDF 表单。NPR-17082
 
-* 对于已提交的实例，文件附件的 `Upload Comments` 不会显示在 UI 中，但是它们存在于 CRX 存储库内所存储的 XML 中。NPR-17075
+* `Upload Comments` 对于已提交的实例，文件附件的不会显示在UI中，但是它们存在于CRX存储库内所存储的XML中。 NPR-17075
 
 **Reader 扩展服务**
 
@@ -1690,7 +1689,7 @@ AEM 累积修订包 6.2 SP1-CFP4 是一个重要更新，它包括自 AEM 6.2 SP
 
 **核心**
 
-* 在升级过程中，配置管理器因超时而失败。NPR-16774（请参阅[为组件级别的操作配置超时](install-cfp-aem-forms-jee.md#configuring-timeout-for-operations-at-component-level-npr)）。
+* 在升级过程中，Configuration Manager因超时而失败。 NPR-16774（请参阅[为组件级别的操作配置超时](install-cfp-aem-forms-jee.md#configuring-timeout-for-operations-at-component-level-npr)）。
 
 **流程管理 - HTML 工作区**
 
@@ -1703,7 +1702,7 @@ AEM 累积修订包 6.2 SP1-CFP4 是一个重要更新，它包括自 AEM 6.2 SP
 
 **输出服务**
 
-* 输出服务无法处理以下 PDF：修改为在 `date-time format` 元数据中包含附加“milli-sec”字段。NPR-16838
+* 输出服务无法处理以下PDF：修改为在 `date-time format` 元数据。 NPR-16838
 
 #### Forms Designer {#forms-designer}
 
@@ -1724,28 +1723,28 @@ CFP3 的主要功能亮点包括：
 * 使用需要摘要身份验证的代理，提高了经典 UI 和 AEM 搜索组件的搜索功能效率。
 * 修复了上传资源和显示资源元数据时出现的问题
 * 修复了在标题中含有特殊字符的情况下，创建文件夹和移动页面时出现的问题。
-* 修复了在触屏 UI 中使用定位同步受众、发布营销活动，以及选择目标量度的问题
+* 修复了在触屏UI中使用定位同步受众、发布营销活动，以及选择目标量度的问题
 * 解决了翻译作业的同步问题
 * 增强了表单预填充服务的安全性
-* 改进了 Forms Portal 草稿和提交组件以及条形码表单服务
+* 改进了Forms Portal草稿和提交组件以及条形码Forms服务
 * 改进了包含文件附件构件或延迟加载片段的自适应表单的可用性。
 * 改进了“通信管理”的可用性，包括增强的搜索功能、记录已删除的资源，以及导入数据词典。
 
 ### 平台 {#platform-13}
 
 * 当两个线程尝试注入相同字段时，可能会出现 **ModelAdapterFactory** 争用情况，进而导致无法构建模型。NPR-16443：适用于 SLING-6584 的修补程序
-* 包管理器中的验证选项，用于检测 /apps 下叠加的文件（JSP 或 JavaScript 文件）与 /libs 下的修补程序中包含的此类文件之间是否存在任何冲突。然后，受影响的叠加可以重新设置为包含对 /libs 下文件的更改。NPR-16216：适用于 CQ-81729 的修补程序
+* 包管理器中的验证选项，用于检测下覆盖的文件(JSP或JavaScript文件)之间的任何冲突。 `/apps` 以及下的修补程序中包含的 `/libs`. 然后，受影响的叠加可以重新设置为包含对下文件的更改 `/libs`. NPR-16216：适用于 CQ-81729 的修补程序
 * 启动发布程序后，error.log 中的日志记录有时会停止几秒钟，需要清除才能再次运行。请求更新日志记录框架并提供 Sling 日志记录。NPR-15913：适用于 Granite-15452 的修补程序
 * 请求更新 JavaScript `use"` API，以避免 HTL JavaScript Use API 实施失败。NPR-16461：适用于 SLING-6780 的修补程序
 
 ### 站点 {#sites-16}
 
-* 从 AEM 6.0 升级到 AEM 6.2 后，在搜索标记时，因大量查询而导致经典 UI 性能缓慢。要解决此问题，可执行[在标记控制台中禁用复制状态（经典 UI）](#disable-replication-status-in-tagging-console-classic-ui-npr)中所述的步骤。NPR-15842：适用于 CQ-4201748 的修补程序.
+* 从 AEM 6.0 升级到 AEM 6.2 后，在搜索标记时，因大量查询而导致经典 UI 性能缓慢。要解决此问题，请在下面介绍的步骤 [在标记控制台中禁用复制状态（经典UI）](#disable-replication-status-in-tagging-console-classic-ui-npr) 可以遵循。 NPR-15842：适用于 CQ-4201748 的修补程序.
 
-* 在触屏 UI 中创建页面时，“name”字段的输入检查不检查特殊字符“撇号”（与经典 UI 中的情况相同）。因此，无法移动页面。NPR-16404：适用于 CQ-4205321 的修补程序。
+* 在触屏UI中创建页面时，“name”字段的输入检查不检查特殊字符“撇号”（与经典UI中的情况相同）。 因此，无法移动页面。NPR-16404：适用于 CQ-4205321 的修补程序。
 * 在富文本编辑器中对两行应用不同样式后将两行合并，会删除应用于第二行的样式。NPR-16389：适用于 CQ-4203835 的修补程序.
-* 在触屏 UI“站点”屏幕中，无法尝试将页面粘贴到不含子页面的页面中，因为不显示“粘贴”按钮。NPR-15894：适用于 CQ-4201696 的修补程序.
-* 在内容查找器面板中滚动“页面”选项卡时，经典 UI 中会无限显示几组页面，而触屏 UI 则仅显示有限的少数几个非重复页面。NPR-16271：适用于 CQ-4202371 的修补程序
+* 在触屏UI“站点”屏幕中，无法尝试将页面粘贴到不含子页面的页面中，因为粘贴按钮不可用。 NPR-15894：适用于 CQ-4201696 的修补程序.
+* 在“内容查找器”面板中滚动“页面”选项卡时，经典UI中会无限显示几组页面，而触屏UI则仅显示有限的少数几个非重复页面。 NPR-16271：适用于 CQ-4202371 的修补程序
 * 在触屏 UI 中打开 Live Copy 的“页面属性”并单击“保存”（不进行任何更改）时，会写下任何 Live Copy 选项卡并创建一个 LiveSync 配置节点。NPR-16327：适用于 CQ-108562 的修补程序
 * 表单约束无法读取 `ConstraintMessage` 属性。NPR-16388：适用于 CQ-101330 的修补程序
 * `wcm/foundation/components/parsys` 组件未显示“**[!UICONTROL 将组件拖动到此处]**”占位符。NPR-16748：适用于 CQ-4205187 的修补程序
@@ -1755,20 +1754,20 @@ CFP3 的主要功能亮点包括：
 * 安装 6.2 SP1 或修补程序 12430 后，PDF 光栅器停止工作并导致内存不足问题。NPR-15991
 * 字符串属性 `documentNumber` 的元数据显示为日期，然而它应该是数字。NPR-16134：适用于 GRANITE-16916 的修补程序
 * 时间轴事件气球中的文本截断。NPR-16226：适用于 CQ-85226 的修补程序
-* 在内容层次结构下创建标题中含有特殊字符的文件夹时，会显示特殊字符的编码形式。NPR-15935：适用于 CQ-4202987 的修补程序
-* 由于使用“创建”按钮时显示的行为不一致，用户在浏览资源时无法上传资源或创建文件夹。NPR-16410：适用于 CQ-4204793 的修补程序
+* 在内容层次结构下创建标题包含特殊字符的文件夹时，会显示这些字符的编码版本。 NPR-15935：适用于 CQ-4202987 的修补程序
+* 由于使用“创建”按钮时显示的行为不一致，用户在浏览资产时无法上传资产或创建文件夹。 NPR-16410：适用于 CQ-4204793 的修补程序
 * 在 AEM 创作中，从文章视图上传共享的 HTML 资源时出现意外错误。NPR-16133：适用于 AEMM-4155970 的修补程序
 
 ### 集成 {#integration-14}
 
-* 启用需要摘要身份验证的代理身份验证时，AEM 搜索组件会引发 ConcurrentModificationException。NPR-15309：适用于 CQ-4199191 的修补程序
-* 在 AEM 中创建 Target A/B 测试活动时，受众未同步到 Target 且显示“无受众”。NPR-16229：适用于 CQ-4204210 的修补程序
+* 启用采用摘要式身份验证的代理身份验证时，AEM Search组件会引发ConcurrentModificationException。 NPR-15309：适用于 CQ-4199191 的修补程序
+* 在AEM中创建Target A/B测试活动时，受众未同步到Target且显示“无受众”。 NPR-16229：适用于 CQ-4204210 的修补程序
 * 安装 SP1+NPR-11577 v1.2 后，在触屏 UI 中定位时，如果为目标量度选择“使用 Analytics 量度”，则永远无法加载量度的下拉列表。NPR-16129：适用于 CQ-4204316 的修补程序
-* 使用定位时，发布营销活动不会自动发布整个树，包括品牌和主版。NPR-15855：适用于 CQ-94630 的修补程序
+* 使用定位时，发布营销活动不会自动发布整个树，包括品牌和主要部分。 NPR-15855：适用于 CQ-94630 的修补程序
 
 ### 翻译 {#translation-8}
 
-* 同步翻译作业不会自动触发，并且在未存入翻译项目的情况下，AEM 轮询不会发生。NPR-15163：适用于 CQ-90856 的修补程序
+* 同步翻译作业现在会自动触发，并且现在无需探查翻译项目即可进行AEM轮询。 NPR-15163：适用于 CQ-90856 的修补程序
 
 ### 表单 {#forms-17}
 
@@ -1776,36 +1775,36 @@ CFP3 的主要功能亮点包括：
 
 **自适应表单**
 
-* 在保存带有附件的自适应表单时，附件的完整路径（而不是附件的名称）会添加到生成的 XML 的 `fileAttachment` 标记中。NPR-16529
+* 保存带有附件的自适应表单时，会将附件的完整路径添加到 `fileAttachment` 生成的XML的标记，而不是附件的名称。 NPR-16529
 * 在基于 XDP 的自适应表单中，提交的 XML 中存在 `afData/afBoundData` 包装器，即使预填充 XML 不包含 `afData/afBoundData` 包装器也是如此。NPR-16118
 
 * 数字字段中的指数表示法：使用自适应表单时，如果输入的数字的十进制小数总计超过十个字符，则该数字在提交的 XML 中将会变成指数符号。NPR-16106
 * 对于同时包含文件附件组件和延迟加载片段的表单，提交的数据 xml 不包含文件附件组件的信息。NPR-16022
 * 对于没有可重复父项的延迟加载可重复面板，面板的第二个实例中的可重复子项无法重复。NPR-15944
-* 尝试在表单编辑器中将一个片段保存在另一个片段内时，片段模型根不填充子片段的值。NPR-15943
+* 尝试在表单编辑器中将片段保存在片段内时，片段模型根不会填充子片段的值。 NPR-15943
 * 当创建仅包含一个项目的复选框，然后尝试显示复选框标题并隐藏项目标题时，如果项目文本为空，则创建词典操作会引发 `ArrayIndexOutOfBoundException`。此时不会创建词典，且屏幕上也不会生成错误响应。NPR-15816
 * 对于带有文件附件构件的自适应表单，在预览附加的文件后，表单的某些部分会被禁用。NPR-16611
 
-* 对于允许使用多个附件的文件附件构件，如果在含有先前附件的构件上提交了一个具有附件的新表单实例，则会显示错误代码。打开添加的附件而不是实际内容时会出现此错误。NPR-16258
-* 保护表单预填充服务免遭通过 `file://`、`http://` 和 `ftp://` 之类的协议进行的未经授权访问。请参阅[使用配置管理器配置预填充服务](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。NPR-15414
+* 对于允许多个附件的文件附件小部件，在已具有以前附件的小部件上提交带有附件的新表单实例将导致显示错误代码。 打开添加的附件而不是实际内容时，会发生此错误。 NPR-16258
+* 保护表单预填充服务免遭通过 `file://`、`http://` 和 `ftp://` 之类的协议进行的未经授权访问。请参阅 [使用配置管理器配置预填充服务](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15414
 
-* 请求在“验证”步骤中以 PDF 格式而不是 HTML 格式呈现自适应表单，并将所有附件附加到 PDF，以便打印输出可显示完整表单。NPR-9011
+* 请求在验证步骤中以PDF格式而不是HTML格式呈现自适应表单，并将所有附件附加到PDF，以便打印输出显示完整表单。 NPR-9011
 
 **通信管理**
 
-* 在“预览”/“编辑”模式下处理信件中的文本片段时，如果文本转换为列表，则将损坏整个信件功能，并生成 JavaScript 错误。NPR-16460
-* 导入 XSD 文件以在“通信管理”节点中创建数据词典时失败，因为每次上传 XSD 并选中根节点后，浏览器均无响应。此问题与浏览器无关，不会显示在服务器日志中。NPR-16452
+* 在“预览”或“编辑”模式下处理信件中的文本片段时，如果文本转换为列表，则将损坏整个信件功能。 并且，会生成一个JavaScript错误。 NPR-16460
+* 导入XSD文件以在“通信管理”节点中创建数据字典失败，因为每次上传XSD并选中根节点后，浏览器均无响应。 此问题与浏览器无关，不会显示在服务器日志中。NPR-16452
 * 使用 Internet Explorer 浏览器预览信件并尝试编辑内容的字体大小时，在字体大小下拉列表中看到从 8 到 72 的重复值。NPR-16387
-* 如果浮动字段显示为 XDP 片段中的输入字段，则在使用 Internet Explorer 浏览器预览信件时，该字段不会展开。NPR-16367
+* 如果浮动字段显示为XDP片段中的输入字段，则在使用Internet Explorer浏览器预览信件时，该字段不会展开。 NPR-16367
 * 尝试直接从预览提交信件时，信件名称的弹出窗口由于被隐藏而无法正确显示。NPR-16353
 * 编辑信件时添加的行空格未反映在预览窗口中。对于文本片段中的列表，PDF 输出不显示正确的间距。NPR-16267
-* 使用 Internet Explorer 浏览器处理文本文档片段时，尝试为文本提供缩进失败，因为光标不允许文本缩进。NPR-16128
-* 在现有文本文档片段中添加或修改数据词典需要很长时间，并且不会始终通知用户。NPR-16102
-* 使用 Internet Explorer 浏览器预览具有可滚动内容的信件时，浏览器的滚动条与信件的滚动条重叠。因此，右侧的片段无法显示全部内容。NPR-16068
-* 使用 Google Chrome 浏览器创建或编辑文本文档片段时，颜色选择下拉列表会自动弹出，并且无法删除。用户必须选择列表作为数据条目类型才能编辑片段。NPR-16067
+* 使用Internet Explorer浏览器处理文本文档片段时，尝试为文本提供缩进失败，因为光标不允许文本缩进。 NPR-16128
+* 向现有文本文档片段添加或修改数据字典需要很长时间，并且并不总是通知用户。 NPR-16102
+* 使用Internet Explorer浏览器预览包含可滚动内容的信件时，浏览器的滚动条与信件的滚动条重叠。 因此，右侧的片段无法显示全部内容。NPR-16068
+* 使用Google Chrome浏览器创建或编辑文本文档片段时，颜色选择下拉列表会自动弹出，并且无法删除。 用户必须选择list作为数据条目类型才能编辑片段。 NPR-16067
 * 使用 `Letterinstance` API 时，方法 `import com.adobe.icc.services.api.LetterInstanceService` 不起作用。NPR-16008
 * 在资源编辑器配置中将日期显示格式更改为 `locale=en_US; dateFormat=MMM dd,yyyy;`，无法按预期起作用，并且日期格式会显示为乱码。NPR-16007
-* 即使之前设置的方式不同，重新创作时，信件中的数据链接类型也会显示为“用户”。NPR-16619
+* 即使之前设置的方式不同，重新创作时信件中的数据链接类型也会显示为“用户”。 NPR-16619
 
 **Forms Portal**
 
@@ -1819,7 +1818,7 @@ CFP3 的主要功能亮点包括：
 
 **流程管理 - HTML 工作区**
 
-* 保护表单预填充服务免遭通过“file://”、“http://”和“ftp://”之类的协议进行的未经授权访问。有关详细信息，请参阅[使用配置管理器配置预填充服务](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。NPR-15434
+* 保护表单预填充服务免遭通过“file://”、“http://”和“ftp://”之类的协议进行的未经授权访问。 有关详细信息，请参见 [使用配置管理器配置预填充服务](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15434
 
 **用户管理 **
 
@@ -1834,17 +1833,17 @@ CFP3 的主要功能亮点包括：
 
 **Forms 附加组件包**
 
-* 在通信管理中删除任何资源时，error.log 文件中应记录一条警告消息。NPR-13225
-* 增强在通信管理中预览信件时的搜索功能，以便能够在文本片段内容中搜索文本，而不是只搜索信件标题或标签。NPR-16103
+* 在通信管理中删除任何资产时，error.log文件中应记录一条警告消息。 NPR-13225
+* 增强在通信管理中预览信件时的搜索功能，以便能够在文本片段内容中搜索文本，而不是只搜索信件标题或标签。 NPR-16103
 
 ### CFP3 中包含的 OSGi 包 {#osgi-bundles-included-in-cfp-5}
 
 在 AEM 6.2 SP1 与 CFP3 之间更新的 OSGi 包列表
 
-[获取文件](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt)
-累积修订包 2 的主要功能亮点包括：
+[获取文件](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt).
+累积修补程序包2的主要功能亮点包括：
 
-* AEM 平台中的稳定性修复和性能改进，包括 Sling 框架和操作
+* AEM平台中的稳定性修复和性能改进，包括Sling框架和操作
 * 通过修复若干有关访问、移动、搜索、上传和发布资源的问题，改进了资源管理
 * 通过修复内容片段、锚点插件、幻灯片以及 ContextHub 组件中的问题，改进了站点创作和管理
 * 修复了触屏 UI 中的若干问题，其中涉及文本编辑器、Omnisearch 和变量创建过程
@@ -1857,14 +1856,14 @@ CFP3 的主要功能亮点包括：
 
 * 如果编辑直接引用 Sling 框架的页面，则会触发 `SlingPostProcessor`。NPR-15754：适用于 CQ-104153 的修补程序
 
-* 导航到页面组件时，经典 UI 对话框中不会获取具有 `tagBasePath` 属性的标记的值。NPR-15543：适用于 CQ-4199950 的修补程序
+* 标记的值，带有 `tagBasePath` 导航到页面组件时，经典UI对话框中不会获取属性。 NPR-15543：适用于 CQ-4199950 的修补程序
 
 * 执行 Sling 操作时，如果有一个名为“chunk_n_n-1”的块，则 `SlingFileUpload handler.getLastChunk` 会陷入包含空块的无线循环。NPR-15455：适用于 SLING-5701 的修补程序
 
 * 当一个接口扩展另一个接口时，超级接口上的可注入方法无法正确注入。NPR-15202：适用于 SLING-5710 的修补程序
 * 使用 `com.adobe.granite.infocollector.impl.FilesTraversal` 函数调用时，无法阻止潜在的空指针异常。NPR-15169：适用于 CQ-4197640 的修补程序
 * 某些辅助节点的工作流状态不一致，并且在为该节点调度观察事件时显示错误。NPR-15701：适用于 GRANITE-13786 的修补程序
-* 当用户在 CRXDE 中选择节点（例如 /content/dam/），然后选择“访问控制”选项卡时（确保存在访问控制列表），拖放某些元素会移动其他元素，而不是选定元素。NPR-15696：适用于 GRANITE-16300 的修补程序
+* 用户在CRXDE中选择节点(例如， `/content/dam/`)。 然后单击“访问控制”选项卡，确保存在访问控制列表。 现在，拖放某些元素会移动这些元素，而不是选定的元素。 NPR-15696：适用于 GRANITE-16300 的修补程序
 * 在尝试模拟时从下拉列表中选择用户，会导致整个用户弹出窗口消失。NPR-15774：适用于 CQ-4201738/GRANITE-11895 的修补程序
 * 在 Omnisearch 中，无法按包含自动填充建议的标记进行搜索。NPR-15088：适用于 GRANITE-14426 的修补程序。注意：此修补程序需要 Oak CFP 1.4.11 或更高版本。
 
@@ -1874,12 +1873,12 @@ CFP3 的主要功能亮点包括：
 
 ### 站点 {#sites-17}
 
-* 如果用户在激活工作流后修改页面，则 WCM Core 中工作流收件箱的修改状态不会更改。NPR-15684：适用于 CQ-4196974 的修补程序
-* 在用户单击锚点图标并添加名称后，触屏 UI 富文本编辑器中的锚点插件会生成不合规的 HTML5。它应在锚点元素的 HTML5 标记中添加“id”属性，而不是“name”属性。NPR-15650：适用于 CQ-89782 的修补程序
-* 创建具有大量字段的元数据架构并将其应用于内容片段元数据后，内容片段元数据屏幕上不会创建滚动条，从而导致这些字段无法编辑。NPR-15478：适用于 CQ-4202622 的修补程序
+* 如果用户在激活工作流后修改页面，则WCM核心中工作流收件箱的修改状态不会更改。 NPR-15684：适用于 CQ-4196974 的修补程序
+* 当用户单击锚点图标并添加名称时，触屏UI富文本编辑器中的锚点插件会生成不合规的HTML5。 它应在锚点元素的 HTML5 标记中添加“id”属性，而不是“name”属性。NPR-15650：适用于 CQ-89782 的修补程序
+* 创建具有多个字段的元数据架构并将其应用于内容片段元数据后，内容片段元数据屏幕上不会创建滚动条，从而导致这些字段无法编辑。 NPR-15478：适用于 CQ-4202622 的修补程序
 * 编辑 `TagInput` 字段组件不会显示以前针对对话框字段配置的值。NPR-15464：适用于 CQ-4200360 的修补程序
 
-* 在内容片段编辑器 UI 中，如果创建了内容片段的多个变量，则侧面板不会显示用于导览所有变量的滚动条。NPR-15445：适用于 CQ-4199444 的修补程序
+* 在内容片段编辑器UI中，创建内容片段的变体时，侧面板不显示用于导航所有变体的滚动条。 NPR-15445：适用于 CQ-4199444 的修补程序
 * 从直接组中删除用户后，这些用户会添加到继承的组。NPR-15400：适用于 CQ-98758 的修补程序
 * WCM 创作：触屏 UI 创作不允许编辑名称中带有逗号的页面。NPR-15396：适用于 CQ-4199723 的修补程序
 * 使用触屏 UI 进行创作时，函数 `Granite.author.editableHelper.doSelectParent` 以错误的顺序传递参数，从而导致 JavaScript 错误。NPR-15349：适用于 CQ-4198594 的修补程序
@@ -1888,30 +1887,30 @@ CFP3 的主要功能亮点包括：
 * 在站点 Admin Console 中，无论权限如何，都会向用户显示各种“创建”选项，例如“创建页面”、“创建站点”、“创建 Live Copy”、“创建启动项”和“创建目录”菜单项。NPR-15278：适用于 CQ-94436 的修补程序
 * 安装 AEM 6.2 服务包 1 后，“包括子页面”滑块停止用于页面启动项。NPR-15230：适用于 CQ-4198449 的修补程序
 * 请求增强版本清除功能，以便以块形式获取和处理版本，并且能将指定的路径用于 XPath 查询。NPR-15186：适用于 CQ-109205 的修补程序
-* “站点”组件的“页面属性”缩略图选项卡上缺少“清除”按钮。NPR-15143：适用于 CQ-4196997 的修补程序
-* 对于使用 Live Copy 的站点，在站点管理控制台的“列”窗格中选中“Live Copy”复选框不会正确显示 Live Copy 状态，而只显示 HTML 标记。NPR-15108：适用于 CQ-97086 的修补程序
+* 站点组件的页面属性缩略图选项卡上缺少清除按钮。 NPR-15143：适用于 CQ-4196997 的修补程序
+* 对于使用Live Copy的站点，选中站点Admin Console中“列”窗格中的“Live Copy”复选框时无法正确显示Live Copy状态，而只显示HTML标记。 NPR-15108：适用于 CQ-97086 的修补程序
 * 编辑内容片段时，如果用户在收到 Post 响应之前单击“完成”（“√”）以完成编辑，则无法正确保存已编辑的内容。NPR-15014：适用于 CQ-4194095 的修补程序
-* 在“时间扭曲”模式下关闭“编辑”页面并尝试从 Siteadmin 重新打开该页面时，会导致出现状态为“500”的错误，而不是重新打开页面。NPR-14965：适用于 CQ-109647 的修补程序
+* 在“时间扭曲”模式下关闭“编辑”页面并尝试从站点管理员重新打开该页面时，会导致出现状态错误 `500`. NPR-14965：适用于 CQ-109647 的修补程序
 * 在 Digital Asset Manager (DAM) UI 中，“用户选取器查找可授权项”搜索会导致“内存不足”异常。NPR-15307：适用于 CQ-98542 的修补程序
 
 ### 资源 {#assets-17}
 
-* 在 Omnisearch 中搜索资源后，选择资源并尝试通过单击“查看属性”来编辑属性，然后单击“保存”按钮，会将用户重定向到空白页面。NPR-15900：适用于 CQ-4202372 的修补程序
+* 在Omnisearch中搜索资产后，选择资产并尝试通过单击 **查看属性**，然后 **保存** 按钮将用户重定向到空白页。 NPR-15900：适用于 CQ-4202372 的修补程序
 * 资源用户界面不响应事件。选择资源并单击“发布”或“呈现版本”不会执行任何活动。NPR-15828：适用于 CQ-4202247 的修补程序
-* 从卡片视图发布资源时，除非刷新页面，否则卡片不会更新以反映已发布状态。NPR-15826：适用于 CQ-102732 的修补程序
+* 从卡片视图发布资产时，卡片不会更新以反映已发布状态。 而是将刷新页面。 NPR-15826：适用于 CQ-102732 的修补程序
 * 包含资源修补程序的累积修补程序。NPR-15225
-* 如果资源文件夹的名称中包含与号（“&amp;”）字符，则在导航到资源时，文件夹名称无法正确显示。NPR-15775：适用于 CQ-4201735 的修补程序
+* 如果资产文件夹的名称中包含与号(“&amp;”)字符，则在导航到资产时，文件夹名称无法正确显示。 NPR-15775：适用于 CQ-4201735 的修补程序
 * 在资源文件的名称中使用与号（“&amp;”）字符，会导致在访问文件属性时出现问题。NPR-15770：适用于 CQ-4201737 的修补程序
-* 在导航资源和使用“列视图”显示模式时，如果用户在选择并单击资源后刷新页面，则会显示资源详细信息，而不是刷新的内容。NPR-15768：适用于 CQ-4201727 的修补程序
+* 在导航Assets并使用“列视图”显示模式时，如果用户在选择并单击资源后刷新页面，则会显示资源详细信息，而不是刷新的内容。 NPR-15768：适用于 CQ-4201727 的修补程序
 * PDS 摄取占用 100% 的 CPU 利用率，其中许多库用于 PDF 服务。NPR-15606：适用于 GRANITE-12929 的修补程序
-* 使用 Firefox 浏览器访问“我的链接共享”UI 时，不会显示共享项目或用户，并且屏幕不可用。NPR-15539：适用于 CQ-4200992 的修补程序
-* 使用 Digital Asset Manager 时，如果某个页面与一组图像相关联，则将这些图像移动到新文件夹会断开页面关联，并且关联的页面会缺少一些图像。NPR-15538：适用于 CQ-111479 的修补程序
+* 使用Firefox浏览器访问“我的链接共享”UI时，不会显示共享项目或用户，并且屏幕不可用。 NPR-15539：适用于 CQ-4200992 的修补程序
+* 使用Digital Asset Manager时，如果页面与一组图像相关联，则将这些图像移动到新文件夹会断开页面关联。 因此，关联的页面缺少某些图像。 NPR-15538：适用于 CQ-111479 的修补程序
 * 在 DAM 查看器组件中，使用“nosamplecontent”运行模式会导致 Dynamic Media 出错。NPR-15449：适用于 CQ-4195425 的修补程序
 * 创建视频配置文件时，如果同时选择了高质量和中等质量的视频编码预设，则不会保存所做的更改。NPR-15447：适用于 CQ-4195482 的修补程序
 * 即使由于服务器错误响应导致资源上传到 Brand Portal 失败，Brand Portal UI 中的状态仍会更新为“已发布”，这样便难以跟踪缺失的文件。NPR-15442：适用于 CQ-4197968 的修补程序
 * 将资源文件夹发布到 Brand Portal 时，如果发布时间超过一小时，则某些文件将无法发布。NPR-15441：适用于 CQ-4199493 的修补程序
-* 在列视图中使用资源查找器控制台时，尝试创建文件夹会失败一次，但再试一次会成功。NPR-15370：适用于 CQ-4199448 的修补程序
-* 如果在 DAM UI 中选定的资源或文件夹名称中带有逗号，则“引用”选项卡将不可用，并且会显示消息“引用列表不适用于多个选项”。NPR-15362：适用于 CQ-4199721 的修补程序
+* 在列视图中使用资产查找器控制台时，尝试创建文件夹会失败一次，但重试时会成功。 NPR-15370：适用于 CQ-4199448 的修补程序
+* 如果在DAM UI中选择的资产或文件夹名称中带有逗号，则“引用”选项卡将不可用，并且会显示消息“引用列表不适用于多个选项”。 NPR-15362：适用于 CQ-4199721 的修补程序
 * 将文件夹发布到 Brand Portal 不会更改文件夹的已发布状态，即使文件夹下的资源已成功发布也是如此。NPR-15292：适用于 CQ-4197667 的修补程序
 * 在触屏 UI 中导航到资源控制台后，激活某些资源时会显示异常。NPR-15217：适用于 CQ-108779 的修补程序
 * 通过代理服务器进行连接时，将视频发布到 YouTube。NPR-15109：适用于 CQ-110332 的修补程序
@@ -1920,16 +1919,16 @@ CFP3 的主要功能亮点包括：
 
 ### 用户界面 {#user-interface-5}
 
-* 在&#x200B;**[!UICONTROL 触屏 UI]** 中，使用 Internet Chrome 浏览器版本 56.0.2924.87 时，对于没有 type=&#39;datetime&#39; 的日期字段，不会显示保存的日期。NPR-15383：适用于 GRANITE-16481 的修补程序
+* 在 **[!UICONTROL 触控UI]**，则为现在具有type=&#39;datetime&#39;的日期字段显示保存的日期，同时使用Internet Chrome浏览器版本56.0.2924.87。NPR-15383：适用于GRANITE-16481的修补程序
 * 在&#x200B;**[!UICONTROL 触屏 UI]** 中，富文本编辑器在呈现线程和标题元素时，会从 HTML 表中删除它们。NPR-15267：适用于 CRTE-41 的修补程序
 * `FileUpload Validator` 不处理将 autostart 设置为 true 或手动调用 `uploadFile()` 时的情况，并且在这些情况下会生成无效的验证报告。NPR-15295：适用于 GRANITE-13499 的修补程序
 
-* Omnisearch 不允许使用 /apps 的客户添加列数据源，因为它假定位置配置列在 */libs/granite/omnisearch/content/metadata/* 下。NPR-13188：适用于 GRANITE-16479 的修补程序
+* Omnisearch不允许客户使用 `/apps` 添加列数据源，因为它假定位置配置列在 */libs/granite/omnisearch/content/metadata/*. NPR-13188：适用于 GRANITE-16479 的修补程序
 * 使用&#x200B;**[!UICONTROL 触屏 UI]** 时，产品变量的创建级别与产品不同。系统不会通知用户变量创建过程的状态。NPR-15345：适用于 CQ-4198948 的修补程序
 
 **Scene7**
 
-* 运行 Scene7 工作流导致打开的文件不会关闭。请求改进 AEM-S7 服务，以便通过共享池配置来维护和重用单个 HttpClient 实例。NPR-15357：适用于 CQ-109958 的修补程序
+* 运行Scene7工作流会导致打开的文件不会关闭。 请求改进AEM-S7服务，以便通过共享池配置来维护和重用单个HttpClient实例。 NPR-15357：适用于 CQ-109958 的修补程序
 
 ### 翻译 {#translation-9}
 
@@ -1943,7 +1942,7 @@ CFP3 的主要功能亮点包括：
 
 ### 营销活动 {#campaign-1}
 
-* 在使用“营销活动 - 定位”和“`MAC` - 测试”以及 Target 集成组件时，取消发布活动不会更新主版 UI 中的活动状态。NPR-15401：适用于 CQ-4199839 的修补程序
+* 使用Campaign时 — 定位和 `MAC`  — 测试和定位集成组件，取消发布活动不会更新主UI中的活动状态。 NPR-15401：适用于 CQ-4199839 的修补程序
 * 在 AEM Commerce 中移动产品时，“产品移动”向导缺少产品名称、标题、引用的页面、创建作者以及创建日期的预填充值。NPR-15228：适用于 CQ-98617 的修补程序
 
 ### 安全 {#security-4}
@@ -1957,7 +1956,7 @@ CFP3 的主要功能亮点包括：
 `**Adaptive Forms**`
 
 * 使用输入 XML 预填充自适应表单时，默认值会被 xml 中的空值覆盖。NPR-15721
-* 在基于 XML 架构的自适应表单中，提交的 XML 中存在 `afData/afBoundData` 包装器，即使预填充 XML 不包含 `afData/afBoundData` 包装器也是如此。NPR-15541
+* 此 `afData/afBoundData` 提交的XML中存在包装器，即使预填充XML没有 `afData/afBoundData` 基于XML架构的自适应表单中的包装器。 NPR-15541
 
 * 可折叠项栏中的标题应为可编辑的 HTML“h2”标题，而不是“a”标记。NPR-15475
 * 屏幕阅读器用户无法访问表单面板的可折叠项布局。使用屏幕阅读器软件（例如 JAWS 或 NVDA）时，用户无法仅通过键盘导航到可折叠项选项卡。NPR-15474
@@ -1970,8 +1969,8 @@ CFP3 的主要功能亮点包括：
 
 `**Forms Portal**`
 
-* 预填充服务不适用于 XDP 表单。NPR-15466
-* 在存储自适应表单草稿并将其提交到数据库时，如果因任何原因（例如，长时间不活动后）导致数据库连接失败，则自适应表单的状态将会损坏。NPR-15297
+* 预填充服务不适用于XDP Forms。 NPR-15466
+* 将自适应表单草稿和提交内容存储到数据库时，如果因任何原因（例如，长时间不活动后）导致数据库连接失败，则自适应表单的状态将损坏。 NPR-15297
 
 #### Forms JEE 安装程序 {#forms-jee-installer-18}
 
@@ -1981,13 +1980,13 @@ CFP3 的主要功能亮点包括：
 
 `**XTG**`
 
-* 使用输出服务将特定表单与数据 XML 合并时的响应时间，是使用 ES4 SP1 服务器执行相同操作所花费的时间的 20 倍。NPR-15283
+* 使用输出服务将特定表单与数据XML合并时，响应时间是ES4 SP1服务器所用时间的20倍。 NPR-15283
 
 #### AEM Forms 应用程序 {#aem-forms-app-1}
 
 * 恢复未保存的任务时，显示的关于恢复未保存任务的消息必须更加清晰明了，以减少用户错误。NPR-15377
 * AEM Forms 应用程序不呈现通过自定义模板创建的表单。NPR-15892
-* 用户无法登录 AEM Forms 应用程序。NPR-15891
+* 用户无法登录到AEM Forms应用程序。 NPR-15891
 
 AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 
@@ -2010,76 +2009,76 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 * 迁移到 AEM 6.2 后，在页面中使用 Sightly 组件会导致页面的“属性”对话框停止工作。NPR-14328：适用于 CQ-108355 的修补程序
 * 取消计划以前计划的作业不会删除 */var/eventing/scheduled-jobs* 下的相应节点。NPR-14253：适用于 SLING-5666 的修补程序
 * 当管理员尝试以已删除用户的身份模拟时，用户界面无法刷新。NPR-14247：适用于 CQ-107446 的修补程序
-* XSS 防护检查导致 Sightly 组件中的编码不正确。NPR-14004：适用于 CQ-93821 的修补程序
-* 请求将 Jackrabbit FileVault 升级到 3.1.30 以解决多个问题。NPR-13454
-* Sling Distribution 将分发包从创作环境同步到发布环境时出现缓存错误。NPR-13034：适用于 GRANITE-13970 的修补程序
+* XSS保护检查导致Sightly组件中的编码不正确。 NPR-14004：适用于 CQ-93821 的修补程序
+* 请求将Jackrabbit文件保险库升级到3.1.30以解决多个问题。 NPR-13454
+* Sling Distribution将分发包从创作环境同步到发布环境时出现缓存错误。 NPR-13034：适用于 GRANITE-13970 的修补程序
 
 ### 站点 {#sites-18}
 
 * VersionManagerImpl 从版本历史记录中清除不正确的版本时出现问题。NPR-14372
 * WCM Sightly Foundation Parsys 组件忽略组件声明标记名称 `cq:htmlTag / cq:tagName`。NPR-14225
 * 在触屏 UI 中，当使用 Sightly Parsys 呈现通过 JavaScript 插入的组件时，自定义修饰在页面刷新后会被忽略。NPR-14122
-* 如果创建了多个富文本字段（例如链接），“目标”下拉列表在触屏 UI 对话框中无法使用。NPR-13911
+* 创建多个富文本字段（例如链接）时，Target下拉列表在触屏UI对话框中不起作用。 NPR-13911
 * 在触屏 UI 对话框中编辑具有多个富文本编辑器 (RTE) 属性的文本字段时，焦点会随机转移到特定 RTE 属性。NPR-13703
-* 默认的现成可用视频组件不呈现视频缩略图。NPR-14976
-* 在模板编辑器的“实时使用情况”选项卡中，信息加载缓慢。NPR-14880：适用于 CQ-83417 的修补程序
-* 在 AEM 6.2 实例上安装修补程序 10936，会禁用 iparsys 组件。NPR-14330：适用于 CQ-106982 的修补程序
+* 默认的现成可用视频组件不呈现视频缩略图。 NPR-14976
+* 在模板编辑器的“实时使用情况”选项卡中，信息加载缓慢。 NPR-14880：适用于 CQ-83417 的修补程序
+* 在AEM 6.2实例上安装修补程序10936会禁用Iparsys组件。 NPR-14330：适用于 CQ-106982 的修补程序
 * 迁移到 AEM 6.1 SP1 后，出现多个转出组件问题和 Live Copy 问题。NPR-15256
 * 即使对于多个转出配置，页面转出操作也无法创建超出第一级的子项。NPR-15055
-* 从编辑器提交 PageProperties 对话框时，将会重写 Live Copy 选项卡中未更改的数据。NPR-14693
-* 从编辑器提交 PageProperties 对话框时，MSM Post 处理器会从请求（而不是 `msm:writeLiveCopyConfig` 参数）写入一些参数。NPR-14434
+* 从编辑器提交PageProperties对话框时，会重写LiveCopy选项卡中未更改的数据。 NPR-14693
+* 从编辑器提交PageProperties对话框时，MSM Post处理器会从请求(而不是 `msm:writeLiveCopyConfig` 参数。 NPR-14434
 * 与转出组件、Live Copy 以及 MSM 的其他方面相关的多个问题。NPR-12235
 
 ### 资源 {#assets-18}
 
-* “解包工作流”无法处理图像文件名中包含特殊字符的图像。NPR-15227：适用于 CQ-103887 的修补程序
-* 无法正常显示具有 Repeat with Condition 表达式的资源。当用户预览 `*CDN3835RLCEN*` 信件模板时，未显示位于“正文”目标区域中的资源。如果取消选择预先选定的资源 `*VIPReassement*`（可选资源），则信件中会显示预先选定的其他资源。NPR-14844
+* 解压缩工作流无法处理图像文件名中包含特殊字符的图像。 NPR-15227：适用于 CQ-103887 的修补程序
+* 无法正常显示具有 Repeat with Condition 表达式的资源。当用户预览 `*CDN3835RLCEN*` 信件模板时，未显示位于“正文”目标区域中的资源。对于允许多个附件的文件附件小组件，在已具有以前附件的小组件上提交带有附件的新表单实例会导致显示错误代码。 NPR-14844
 
 * 创建智能收藏集时，在保存智能收藏集后不保留样式标记。NPR-15081：适用于 CQ-4195494 的修补程序
-* 在多个用户进行并发搜索期间，资源搜索查询在触屏 UI 中运行缓慢。NPR-15019：适用于 CQ-4195405 的修补程序
+* 在多个用户进行并发搜索期间，资产搜索查询在触屏UI中运行缓慢。 NPR-15019：适用于 CQ-4195405 的修补程序
 * 将原始资源重新上传到其他位置后，为 `Long[]` 类型的属性提取的元数据将转换为 `String[]` 类型。NPR-15016：适用于 CQ-4195005 的修补程序
 
-* 用户无法删除保存的搜索或智能收藏集。NPR-14924：适用于 CQ-108494 的修补程序
+* 用户无法删除保存的搜索或智能收藏集。 NPR-14924：适用于 CQ-108494 的修补程序
 * 在基础元数据架构的下拉字段中为 TypeHint 使用布尔值时，批量编辑资源元数据（附加模式）会生成错误。NPR-14529：适用于 CQ-106876 的修补程序
-* 没有复制权限的用户无法删除资源文件夹。NPR-14321：适用于 CQ-88271 的修补程序
-* 尝试在渠道编辑器中编辑视频的视频配置文件时，设计对话框未打开，并且在错误日志中引发空指针异常。NPR-14144：适用于 CQ-81101 的修补程序
-* 资源的属性页面中显示的由系统生成的“创建日期”时间戳属性不正确。NPR-13992：适用于 CQ-95029 的修补程序
+* 具有复制权限的用户现在可以删除资产文件夹。 NPR-14321：适用于 CQ-88271 的修补程序
+* 尝试在渠道编辑器中编辑视频的视频配置文件时，“设计”对话框未打开，并且在错误日志中引发空指针异常。 NPR-14144：适用于 CQ-81101 的修补程序
+* 资产的属性页面中显示的系统生成的“Created”时间戳属性不正确。 NPR-13992：适用于 CQ-95029 的修补程序
 * 请求为在 AEM Assets 中没有“读取”权限的用户启用重复资源检测。NPR-13851：适用于 CQ-102281 的修补程序
-* 用户无法从属性页面批量编辑资源的元数据。NPR-13721：适用于 CQ-100703 的修补程序
+* 用户无法从属性页面批量编辑资源的元数据。 NPR-13721：适用于 CQ-100703 的修补程序
 * 上传重复资源时，经典 UI 中的错误消息不正确。错误消息未说明上传失败的原因。NPR-13691：适用于 CQ-99272 的修补程序
 * 当文件夹包含大量资源时，AEM Assets 在列表视图中无法按资源大小一次对超过 50 个资源进行排序。CQ-100588
-* 如果资源/文件夹 URI 过长，则选择多个资源会引发响应代码为 414（请求 URI 过长）的错误。NPR-13516：适用于 CQ-76076 的修补程序
+* 如果资源/文件夹URI太长，则选择多个资源会引发错误，响应代码为414（请求URI太长）。 NPR-13516：适用于 CQ-76076 的修补程序
 * 用户在 `Configure Columns` 对话框中选择所有选项时，“资源报告”页面会变得无响应。NPR-13187：适用于 CQ-95589 的修补程序
-* Safari 和 Internet Explorer 中的标记选取器出现意外行为。NPR-13134
+* Safari和Internet Explorer中的标记选取器出现意外行为。 NPR-13134
 * 编辑从资源管理员搜索边栏中保存的搜索，会将其保存为嵌套式智能选项，这将导致出现环境稳定性问题。NPR-13119：适用于 CQ-99460 的修补程序
 * 移动文件（或文件夹）并对其重命名后，`cq:name` 元数据不反映新的文件名（文件夹名称）。NPR-13036：适用于 CQ-99141 的修补程序
 * 无法从通过电子邮件共享的下载链接下载名称中包含特殊字符的资源。NPR-12872：适用于 CQ-95795 的修补程序
-* 当资源数量很大时，生成的现成可用的资源报告会导致大量遍历，其中搜索未找到任何索引，并且 CPU 使用率达到峰值。NPR-12811：适用于 CQ-84409 的修补程序
-* 从不同网络访问 AMS AEM Assets 创作实例的用户在没有文件夹删除权限的情况下无法使用块上传来上传资源。NPR-12768：适用于 CQ-82715 的修补程序
+* 当资产数量很大时，生成的现成可用的资产报告会导致大量遍历，其中搜索未找到任何索引，并且CPU使用率达到峰值。 NPR-12811：适用于 CQ-84409 的修补程序
+* AMS AEM Assets创作实例上的用户从不同的网络访问，如果没有文件夹的删除权限，则无法使用块上传来上传资源。 NPR-12768：适用于 CQ-82715 的修补程序
 * 在使用资源搜索边栏进行基于标记的资源搜索时，“提前键入”功能不会将其自身限制为根路径，而是显示所有命名空间的标记。NPR-12666
 * 静态呈现版本组件引发空指针异常。NPR-12665
 * 请求禁用 MissingMetadataNotificationJob，因为它会导致徽章通知 UI 损坏页面，且出现“无法扫描输入”的运行时异常。NPR-12500：适用于 CQ-93573 的修补程序
 * 标记字段的“禁用编辑”选项在触屏 UI 的资源属性页面中不起作用。NPR-12429：适用于 CQ-88835 的修补程序
 * 修复 AEM Assets 6.2 中的 API 问题，以便实施配套应用程序 SMB。NPR-11099
-* 自更新 `Jquery` 以来，用户无法选择资源收藏集并在内容片段的“关联内容”面板中确认选择。NPR-14847：适用于 CQ-4194209 的补丁包
+* 由于 `Jquery` 更新，用户无法选择资产收藏集并在内容片段的“关联内容”面板中确认选择。 NPR-14847：适用于 CQ-4194209 的补丁包
 * 尽管在客户端调用无限排序，但只对 UI 中当前显示的文章/横幅/收藏集进行排序。NPR-14493：适用于 CQ-109926 的修补程序
 * 请求为 AEM Mobile On-Demand 服务实施 Omnisearch 功能。对任何文章、收藏集或横幅的关键字搜索不返回任何匹配项。NPR-14093：适用于 CQ-101394 的修补程序
 * 在对话框中使用 Coral-select 组件 (*granite/ui/components/coral/foundation/form/select*) 时，如果选定的值包含单个项目，则无法在 Internet Explorer（IE11 或 Edge 浏览器）中正确初始化值。NPR-13395：适用于 CQ-101013 的修补程序
 
 ### 项目 {#projects-5}
 
-* 导出使用翻译方法“human”和翻译提供程序“none”创建的翻译项目时，没有生成 translation_export_summary.xml 文件，因为缺少 GUID 映射文件。NPR-13137：适用于 CQ-91976 的修补程序
+* 在导出使用翻译方法“human”和翻译提供程序“none”创建的翻译项目时，由于缺少GUID映射文件，因此不会生成translation_export_summary.xml文件。 NPR-13137：适用于 CQ-91976 的修补程序
 * 在 AEM 项目中，如果创建的项目设置了到期日期属性，则日期转换设置的时间不正确，因为服务器与客户端之间存在时区差异。NPR-13003：适用于 CQ-98288 的修补程序
 * 更新翻译项目后，翻译作业中缺少“在站点中展现”选项。NPR-12966：适用于 CQ-93740 的修补程序
 * 为导出的站点页面创建翻译项目后，该项目在预览中无法正确呈现。NPR-12964：适用于 CQ-84627 的修补程序
 
 ### 工作流 {#workflow-3}
 
-* 单击“工作流”控制台的“存档”选项卡中的有效负荷链接时，会返回响应代码为“404”的错误。NPR-14993：适用于 CQ-4194977 的修补程序
+* 单击工作流控制台的“存档”选项卡中的负载链接时，该负载链接会返回一个错误，响应代码为“404”。 NPR-14993：适用于 CQ-4194977 的修补程序
 * 使用 AEM 默认工作流时，CQ 邮件程序无法向缺少单个成员电子邮件地址的组发送电子邮件通知。NPR-14804：适用于 CQ-91499 的修补程序请求
 * 改进了触屏 UI 中收件箱和通知徽章的性能。NPR-14145：适用于 CQ-101125 的修补程序
-* 启动工作流时，用户无法从工作流“收件箱”控制台预览有效负荷。NPR-13226：适用于 CQ-100275 的修补程序
-* 使用 SAML 身份验证处理程序配置的“saml_request_path”Cookie 显示 Cookie 设置了一个额外的“?”字符。此外，当 SAML 响应回发到 AEM 时，AEM“saml_request_path”Cookie 会因字符已编码而返回无效值。NPR-13517：适用于 GRANITE-11722 和 GRANITE-14414 的主动修补程序
+* 启动工作流时，用户无法从工作流收件箱控制台预览负载。 NPR-13226：适用于 CQ-100275 的修补程序
+* 使用SAML身份验证处理程序配置的“saml_request_path”cookie显示带有额外的 `?` 字符。 此外，当 SAML 响应回发到 AEM 时，AEM“saml_request_path”Cookie 会因字符已编码而返回无效值。NPR-13517：适用于 GRANITE-11722 和 GRANITE-14414 的主动修补程序
 
 ### Dynamic Media {#dynamic-media}
 
@@ -2095,10 +2094,10 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 `Adaptive Forms`
 
 * 使用自适应表单创建可重复面板时，无法在运行时更新面板标题。NPR-15325
-* 如果在保存或提交时设置单选按钮的默认值，并且选择了除默认值以外的某个值，则该值不会显示在预填充中。NPR-15304
-* 使用选项事件动态填充下拉列表并提交选定项目的值时，Google Chrome 显示错误行为。NPR-15198
+* 如果为单选按钮设置了默认值，并在保存或提交期间选择了其他值，则预填充不会显示选定的值。 NPR-15304
+* 使用选项事件动态填充下拉列表并提交选定项目的值时，Google Chrome显示错误行为。 NPR-15198
 * 使用自适应表单创建可重复面板时，无法在运行时更新面板标题。NPR-15181
-* 使用自适应表单的编辑模式时，遇到 JavaScript 错误，例如“组件的处理程序无效”和“未定义 guidelib”。NPR-15112
+* 对自适应表单使用编辑模式时，遇到JavaScript错误，例如“组件的处理程序无效”和“guidelib未定义”。 NPR-15112
 * 重复面板中的延迟加载片段无法按预期使用。NPR-13916、NPR-14785
 
 `Correspondence Management`
@@ -2106,7 +2105,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 * 无法正确显示包含 `'Repeat with condition'` 表达式集的通信管理资源。NPR-14844
 * 搜索通信管理资源（例如信件、文档片段或任何其他类型）时，工具栏中缺少“下载队列”图标。NPR-14745
 * 创建列表模块时，无法切换特定于资源的属性（例如可编辑和必需属性）。NPR-14689
-* 如果创建条件模块而未选择数据词典，则表达式生成器实用程序中的“数据元素”面板会持续加载。NPR-14688
+* 如果创建条件模块时没有选择数据字典，则表达式生成器实用程序中的“数据元素”面板会持续加载。 NPR-14688
 * 在预览信件时，用户无法使用制表符空格以表格式对齐内容。NPR-14481
 * 从用户界面批量导出通信管理资源时，AEM Forms 服务器生成不必要的日志。NPR-15226
 * 预览信件时，两端对齐的文本以不同字体显示。NPR-15468
@@ -2117,18 +2116,18 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 
 `**Forms Manager**`
 
-* 在 *FormsandDocuments* 目录中导航时，如果用户复制任何资源并导航到其他文件夹，则不会显示“粘贴”按钮。CQ-111327
+* 在中导航时 *表单和文档* 目录)时，如果用户复制任何资产并导航到其他文件夹，则不会显示“粘贴”按钮。 CQ-111327
 
 #### Forms JEE 安装程序 {#forms-jee-installer-19}
 
 `Rights Management`
 
-* 与用户登录相关的审核事件记录的时间无效。无法跟踪审核事件的正确时间。NPR-13107
+* 与用户登录相关的审核事件记录的时间无效。无法跟踪审核事件的正确时间。 NPR-13107
 * Adobe Acrobat Reader 和 Microsoft® Office 无法打开受扩展身份验证保护的文档。NPR-14482
 
 `Process Management`
 
-* 将 HTML 工作区中转发的草稿任务返回给初始用户时，该任务不会显示在初始用户的队列中。NPR-15178
+* 将HTMLWorkspace中转发的草稿任务返回给初始用户后，该任务不会出现在初始用户的队列中。 NPR-15178
 
 `Assembler Service`
 
@@ -2140,14 +2139,14 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 
 #### Forms Designer {#forms-designer-2}
 
-* 当用户使用“法语（加拿大）”作为选定的表单区域设置来运行拼写检查实用程序时，Forms Designer 崩溃。NPR-13740
+* 当用户使用法语（加拿大）作为选定的表单区域设置来运行拼写检查实用程序时，Forms Designer崩溃。 NPR-13740
 * 当用户选择表单字段的计算事件或验证事件，然后将语言更改为 JavaScript 并在&#x200B;**[!UICONTROL 脚本编辑器]**&#x200B;窗口中输入 `this.` 时，Forms Designer 崩溃。NPR-12974
 
 ### CFP1 中包含的功能包 {#feature-packs-included-in-cfp-3}
 
 `Mobile Forms`（Forms 附加组件包）：
 
-* 从 XDP 文件创建自适应表单时，辅助功能的 Tab 键顺序不遵循设置的模式。NPR-12562
+* 从XDP文件创建自适应表单时，辅助功能的Tab键顺序不遵循设置的模式。 NPR-12562
 
 `Adaptive forms`（Forms 附加组件包）：
 
@@ -2161,7 +2160,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 
 >[!NOTE]
 >
->对于 AEM Forms 客户，请在安装任意 AEM 服务包、累积服务包或功能包之后，再安装 AEM Forms 附加组件包，这一点至关重要。
+>对于AEM Forms客户，必须在安装任何AEM Service Pack、Cumulative Service Pack或功能包之后安装AEM Forms加载项包。
 
 您可以直接从 Software Distribution 下载 CFP 包，或者执行以下步骤：
 
@@ -2187,9 +2186,9 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 * AEM 6.2 服务包 1 是安装 CFP 的先决条件。有关安装说明，请参阅 [AEM 6.2 服务包 1](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
 
 * 可在 [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) 中下载累积修订包，您可以直接从 AEM 实例访问 Software Distribution。
-* 对于使用 RDBMK 或 MongoDB 的群集部署，可以在使用包管理器的任何创作实例上安装 CFP 包。
+* 对于使用（RDBMK或MongoDB）的群集部署，可以在使用包管理器的任何创作实例上安装CFP包。
 
-* 在安装累积修订包之前，请确保拍摄快照或备份您的 AEM 实例。
+* 在安装累积修订包之前，请确保拍摄快照或备份AEM实例。
 * 不支持卸载 CFP。
 
 ### 通过 Software Distribution 安装 CFP  {#install-the-cfp-via-package-share}
@@ -2212,7 +2211,7 @@ AEM 6.2 SP2-CFP1 的主要功能亮点包括：
 ### 验证安装 {#validate-installation}
 
 1. “产品信息”页面 (/system/console/productinfo) 此时应在“已安装的产品”下显示更新的版本字符串“Adobe Experience Manager，版本 6.2.0.SP1-CFP20”。
-1. 所有 OSGi 包在 OSGi 控制台中均为“活动”或“片段”（使用 Web 控制台：/system/console/bundles）。
+1. 所有OSGi包在OSGi控制台中均为“活动”或“片段”（使用Web控制台：/system/console/bundles）。
 
 >[!NOTE]
 >
@@ -2265,7 +2264,7 @@ AEM Forms JEE 中的修复通过单独的安装程序来交付。有关在 AEM F
 
 如果您使用的是 CFP3 或更高版本，请按照以下说明在经典 UI 的标记控制台中禁用复制状态：
 
-* 在 */apps* 中叠加“*/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js*”
+* 叠加 *&quot;/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js&quot;* 英寸 *`/apps`*
 
 * 在第 416 行之后添加 `replicationStateRequired`: &quot;false&quot;。
 
@@ -2280,11 +2279,11 @@ AEM Forms JEE 中的修复通过单独的安装程序来交付。有关在 AEM F
 
 >[!NOTE]
 >
->这些配置设置专门针对使用文档安全的 AEM Forms 客户。
+>这些配置设置专门针对使用Document Security的AEM Forms客户。
 
-CFP12.1 中包含 NPR-21355。如果您安装的是 CFP12.1 或更高版本，请执行以下操作步骤，在 JBoss® 应用程序服务器上配置 NPR-21355。如果是在 Oracle WebLogic 或 IBM® WebSpehere 应用程序服务器上运行的 AEM Forms 服务器上安装 CFP12.1，则无需其他配置：
+CFP12.1中包括NPR-21355。如果要安装CFP12.1或更高版本，请执行以下过程以在JBoss®应用程序服务器上配置NPR-21355。 如果是在 Oracle WebLogic 或 IBM® WebSpehere 应用程序服务器上运行的 AEM Forms 服务器上安装 CFP12.1，则无需其他配置：
 
-1. 备份、删除和创建 module.xml 文件。该文件的默认位置为：[AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+1. 备份、删除和创建module.xml文件。 该文件的默认位置为：[AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. 打开新创建的 module.xml 文件进行编辑。将以下代码添加到该文件：
 
@@ -2305,7 +2304,7 @@ name="com.adobe.livecycle">
 </module>
 ```
 
-1. 创建位于 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ 的 `jsafeFIPS.jar`、`jsafeJCEFIPS.jar` 和 `certjFIPS.jar` 文件的备份，并从上述目录中删除这些文件。
+1. 创建备份 `jsafeFIPS.jar`， `jsafeJCEFIPS.jar`、和 `certjFIPS.jar` 文件位于 [AEM_Forms_Installation_directory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/` 并从上述目录中删除文件。
 
 联系 [Adobe 支持团队](https://experienceleague.adobe.com/?support-solution=General#support)获取新的 JAR 文件。将 [Adobe 支持团队](https://experienceleague.adobe.com/?support-solution=General#support)提供的 JAR 文件放在 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
@@ -2337,11 +2336,11 @@ name="com.adobe.livecycle">
 >
 >NPR-19778 是 CFP14 的一部分。
 
-默认情况下，当某个用户声明任务时，不会为其他用户刷新共享队列的计数。为此，Adobe 引入了一个新属性。请按照以下步骤在 AEM 实例上配置此属性：
+当用户声明任务时，不会为其他用户刷新共享队列的计数。 因此，Adobe引入了一种新属性。 请按照以下步骤在 AEM 实例上配置此属性：
 
 1. 转到“管理员 UI”>“服务”>“工作区”>“全局管理”。
 1. 导出全局设置。
-1. 在下载的 XML 文件中，添加标记 `<client_tasksPollingInterval>10</client_tasksPollingInterval>`。其中，10 是示例值（以秒为单位）。您可以相应地对其进行修改。
+1. 在下载的XML文件中，添加标记 `<client_tasksPollingInterval>10</client_tasksPollingInterval>`. 十是以秒为单位的示例值。 您可以相应地对其进行修改。
 1. 保存文件。
 1. 返回到“管理员 UI”>“服务”>“工作区”>“全局管理”。
 1. 在“导入全局设置”部分导入 xml 文件。
@@ -2366,8 +2365,8 @@ name="com.adobe.livecycle">
 
 不过，解决方法是：升级后重新启动 AEM 实例。
 
-* 打开 Web 控制台组件详细信息页面时，收到 HTTP 500 内部服务器错误。
-* 由于重新启动存储库，发生&#x200B;**创建组件实例**&#x200B;和&#x200B;**服务工厂返回 null** 错误：
+* 打开Web控制台组件详细信息页面时，收到HTTP 500内部服务器错误。
+* 错误，例如 **创建组件实例** 和 **服务工厂返回null** 由于存储库重新启动而发生：
 
 * com.day.cq.cq-personalization [com.day.cq.personalization.impl.DefaultProfileProvider(938)] 由于绑定引用 profileManager 失败，无法创建组件实例。
 * org.apache.sling.commons.scheduler FrameworkEvent 错误（org.osgi.framework.ServiceException：服务工厂返回 null。（组件：com.day.cq.tagging.impl.TagGarbageCollector (1687)））
@@ -2391,11 +2390,11 @@ name="com.adobe.livecycle">
 * `[OsgiInstallerImpl] com.day.cq.dam.dam-webdav-support [com.adobe.cq.dam.webdav.impl.io.DamWebdavVersionLinkingJob(1697)] The deactivate method has thrown an exception (java.util.NoSuchElementException: No job found with name com.adobe.cq.dam.webdav.impl.io.DamWebdavVersionLinkingJob){code}`
 * `[sling-default-5-discovery.connectors.common.runner.d6a26647-dd1c-4665-be2c-afdd19397e77096a1c19-18ce-4051-bbf1-166caed986f2] org.apache.sling.discovery.oak.pinger.OakViewChecker issueConnectorPings: connectorRegistry is null`
 * `[sling-default-5-discovery.connectors.common.runner.d6a26647-dd1c-4665-be2c-afdd19397e77096a1c19-18ce-4051-bbf1-166caed986f2] org.apache.sling.discovery.oak.pinger.OakViewChecker announcementRegistry is null`
-* 在包含智能标记功能包的 AEM 6.2 SP1 上安装 CFPx 时，将从 DAM 更新资源工作流中删除之前添加的智能标记资源工作流步骤。
+* 当您在包含智能标记功能包的AEM 6.2 SP1上安装CFPx时，以前添加的智能标记资源工作流程步骤将从DAM更新资源工作流程中删除。
 
 ## Uber Jar {#uber-jar}
 
-适用于 6.2 SP1-CFP20 的 Uber Jar 可在 Adobe 公共 Maven 存储库中获取。
+Uber Jar for 6.2 SP1-CFP20可在AdobePublic Maven存储库中找到。
 
 要在 Maven 项目中使用 Uber Jar，请在项目 POM 中包含以下依赖项：
 

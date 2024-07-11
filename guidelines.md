@@ -1,15 +1,15 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '712'
-ht-degree: 47%
+source-wordcount: '693'
+ht-degree: 54%
 
 ---
 # Adobe Experience Manager 文档内容贡献准则
 
 ## 文档理念
 
-Adobe Experience Manager用户在竞争激烈的环境中工作，努力创造数字体验，让他们从竞争对手中脱颖而出。 因此，当Adobe在AEM中提供高级新工具时，这些工具将辅以准确和清晰的文档，以让客户立即应用其AEM投资并最大限度地提高ROI。
+ Adobe Experience Manager 用户在竞争非常激烈的环境中工作，他们努力提供优质的数字体验，让自己在众多竞争对手中独树一帜。因此，当Adobe在AEM中引入高级新工具时，它们会提供准确且清晰的文档。 此方法使客户能够立即使用其AEM投资并最大限度地提高ROI。
 
 撰写 AEM 文档的目标是，尽快将相应的文档提供给 AEM 用户。因此，创建并持续更新和改进准确、可用的文档。
 
@@ -19,33 +19,33 @@ Adobe Experience Manager用户在竞争激烈的环境中工作，努力创造�
 
 ## 文档标准
 
-欢迎向文档投稿，对AEM文档的任何投稿，无论是以拉取请求或问题的形式，都应符合Adobe的投稿和文档标准。
+Adobe欢迎各方对文件做出贡献。 对AEM文档的任何投稿，无论是拉取请求还是问题，都必须符合Adobe的投稿和文档标准。
 
 我们会拒绝不符合这些标准的投稿。
 
-### Adobe文档标准用例。
+### Adobe将介绍标准用例。
 
 AEM 文档涵盖标准用例。超出产品标准安装和使用范围的用例不会包含在 AEM 文档中。
 
-### Adobe通常不会记录错误或其解决方法。
+### Adobe 通常不记录错误或其解决方法。
 
-AEM 文档涵盖标准用例。因此，未记录错误、错误产生的影响以及相应的解决方法。
+AEM 文档涵盖标准用例。因此，不会记录错误、错误产生的影响以及相应的解决方法。
 
-例外情况是，发行说明不适用这项规则。发行说明中会列出已知问题，以及已获 AEM 产品管理部门批准的可行解决方案。
+此规则的例外情况适用于发行说明，发行说明中会列出已知问题以及AEM产品管理部门批准的可能解决方案。
 
 ### 贡献的文档内容不用于回答技术问题。
 
 如果您有关于改进 AEM 文档的任何想法，欢迎向我们贡献内容。但是，评论、问题和拉取请求仅适用于 *投稿* 仅限。 它们不是为了回答您有关如何使用AEM、实施AEM项目或解决技术问题。
 
-如果您对 AEM 的使用或技术错误有任何疑问，应采用常规支持流程通过 [Experience Cloud 企业支持门户](https://experienceleague.adobe.com/?support-solution=General#support)报告，或在 [Experience Manager 社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中讨论。
+报告有关使用AEM的任何问题或技术错误 [Experience Cloud企业支持门户](https://experienceleague.adobe.com/?support-solution=General#support). 或者，使用 [Experience Manager社区](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
-***AEM文档贡献内容无法替代Adobe客户关怀团队*** 任何试图获取支持相关问题答案的此类投稿都将被拒绝。
+***AEM 文档贡献内容不是 Adobe 客户服务的替代品***，任何试图获取支持相关问题答案的此类贡献内容都将遭到拒绝。
 
 ### 贡献内容必须明确引用受影响的文档页面
 
-如果创建问题以建议对文档进行改进，则必须包含指向受影响页面的链接。如果您通过使用 **编辑此页面** 链接时，问题创建后会自动包含指向该页面的链接。
+如果创建问题以建议对文档进行改进，请包含指向受影响页面的链接。 如果您使用创建问题 **编辑此页面** 链接时，问题创建后会自动包含指向该页面的链接。
 
-这不适用于拉取请求，因为拉取请求本质上会引用受影响的一个或多个页面。
+此流程不适用于拉取请求，因为拉取请求本质上会引用受影响的一个或多个页面。
 
 ## 文档准则
 
@@ -61,11 +61,11 @@ AEM 文档涵盖标准用例。因此，未记录错误、错误产生的影响�
 * 尽可能保持语句简单。
 * 使用简洁明了的语言。
 
-请记住，AEM文档的读者遍布世界各地，不能期望以英语为母语或流利。 应避免口语，尽量使用清晰简单的语言。
+请记住，AEM 文档的读者遍布全球，他们可能不是以英语为母语或者英语并不流利。应避免口语，尽量使用清晰简单的语言。
 
-#### 遵循Microsoft®风格手册
+#### 遵循 Microsoft® 风格指南
 
-[Microsoft®风格手册](https://learn.microsoft.com/en-us/style-guide/welcome/) 是免费提供的文档风格指南，重点针对的是软件文档，AEM文档应尽量遵循该指南。
+[Microsoft® 写作风格指南](https://learn.microsoft.com/en-us/style-guide/welcome/)是免费提供的文档风格指南，重点针对的是软件文档和 AEM 文档，应尽量遵循该指南。
 
 ### 格式
 
@@ -77,16 +77,16 @@ AEM 文档涵盖标准用例。因此，未记录错误、错误产生的影响�
 
 ### 屏幕快照
 
-应谨慎使用屏幕截图，并且仅当文本描述不足以阐述问题时才使用屏幕截图。
+应谨慎使用屏幕截图，并且仅当文字描述不足以阐述问题时才使用屏幕截图。
 
-不应在屏幕截图中使用标记或其他批注（例如，红色框、箭头或文本）。这样一来，在文档的本地化版本中便可以更轻松地重用或复制屏幕截图。
+不应在屏幕截图中使用标记或其他批注（例如，红色框、箭头或文本）。这样一来，在文档的本地化版本中便可以更轻松地重复使用或复制屏幕截图。
 
 ### 特定于版本的引用
 
-尽量避免在整个文档内容中直接引用特定版本。这样可使未来版本的文档可以更加灵活和可扩展。
+理想情况下，应尽量避免在整个文档内容中直接引用特定版本。 此方法使文档对于未来版本更加灵活和可扩展。
 
 ### Day、AEM、CQ、CRX 的使用
 
-始终按全名引用产品 **Adobe Experience Manager** 在文章中第一次，此后可以称为 **AEM**.
+在文章中首次提及产品时，请始终使用其全名， **Adobe Experience Manager**. 之后，您可以将其称为 **AEM**.
 
 除类名或引用 AEM 历史记录等无法避免的情况外，不应使用 Day、Day Software、CQ 和 CRX。

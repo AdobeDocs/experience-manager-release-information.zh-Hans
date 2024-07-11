@@ -2,10 +2,10 @@
 title: 下载旧版本的 AEM、CQ 和 CRX 文档
 description: 下载旧版本的 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '570'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '571'
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 在下载包之前，请确定谁使用内容。此决定影响如何部署它：
 
 * 开发人员可在本地进行安装以便快速参考。
-* 为了满足更为广泛的组织文档需求，建议在一个可从内部访问的非生产 AEM 创作实例中部署该包。
+* 为了满足更广泛的组织文档需求，Adobe建议将资源包部署在内部可访问、非生产的AEM Author实例上。
 
 >[!NOTE]
 >
@@ -89,7 +89,7 @@ ht-degree: 100%
 
 1. 上传该包后安装它。
 
-1. 在包管理器 UI 中，找到该包，然后选择&#x200B;**[!UICONTROL 安装]**。
+1. 在包管理器用户界面中，找到该包，然后选择 **[!UICONTROL 安装]**.
 
 1. 在确认对话框上，再次选择&#x200B;**[!UICONTROL 安装]**。安装过程耗时数分钟。
 

@@ -3,10 +3,10 @@ title: 以前的文档更新
 description: 了解有关  [!DNL Adobe Experience Manager] 旧版重要文档更改和更新的更多信息。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: ht
-source-wordcount: '1228'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '1255'
+ht-degree: 87%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-3">AEM 6.5 服务包 3</a> 现已发布。</td> 
   </tr>
   <tr>
-   <td>2019 年 5 月 12 日</td> 
+   <td>2019 年 12 月 05 日</td> 
    <td>核心组件<br /> </td> 
    <td>现在提供了核心组件 2.8.0 版（其中包含许多修补程序），同时还提供了<a href="https://github.com/adobe/aem-core-wcm-components">可在 GitHub 上获取的开发人员详细信息和项目下载</a>。</td> 
   </tr>
@@ -44,39 +44,39 @@ ht-degree: 100%
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM 项目原型</a>是一个非常灵活的有用工具，可简化 AEM 项目的前端开发。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 18 日<br /> </td> 
+   <td>二零一九年十月十八日<br /> </td> 
    <td>AEM 项目原型<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM 项目原型</a>用于创建 Adobe Experience Manager 项目，此项目可作为您自己的 AEM 项目的起点。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 18 日<br /> </td> 
+   <td>二零一九年十月十八日<br /> </td> 
    <td>Headless 体验管理<br /> </td> 
    <td>记录了用于在服务器端呈现单页面应用程序的<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">远程内容渲染器</a>功能。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 11 月 10 日</td> 
+   <td>2019 年 10 月 11 日</td> 
    <td>Activity Map</td> 
-   <td><p>由于 Adobe Analytics API 中的安全性更改，无法再使用 AEM 中包含的 Activity Map 版本。现在，应使用 <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Adobe Analytics 提供的 ActivityMap 插件</a>。 </p> </td> 
+   <td><p>由于 Adobe Analytics API 中的安全性更改，无法再使用 AEM 中包含的 Activity Map 版本。请参阅 <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Adobe Analytics提供的Activity Map插件</a> 现在应使用。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日</td> 
    <td>Cloud Manager</td> 
-   <td><p>在 2019 年 10 月 10 日发布了 Cloud Manager 版本 2019.10.0。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0">2019.10.0 发行说明</a>，其中着重介绍了<i>新增功能</i>以及有关部署步骤和 maven 项目版本处理的更新。<br /> </p> </td> 
+   <td><p>Cloud Manager版本2019.10.0于2019年10月10日发布。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0">2019.10.0 发行说明</a>，其中着重介绍了<i>新增功能</i>以及有关部署步骤和 maven 项目版本处理的更新。<br /> </p> </td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 8 日</td> 
+   <td>2019 年 10 月 08 日</td> 
    <td>AEM Screens<br /> </td> 
    <td><p>AEM Screens 发布了 AEM 6.4.6 功能包 6 和 AEM 6.5.2 功能包 2。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909">功能包 201909 发行说明</a>，以获取更多详细信息。</p> </td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 1 日</td> 
+   <td>2019 年 10 月 01 日</td> 
    <td>JEE 安装中的 AEM Forms </td> 
-   <td><p>添加了对 Oracle 18c 数据库驱动程序的 AEM Forms 支持。 </p> <p>平台列表：<a href="https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>添加了对Oracle18c数据库驱动程序的AEM Forms支持。 </p> <p>平台列表：<a href="https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/cn/content/dam/help/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
-   <td>2019 年 10 月 1 日 </td> 
+   <td>2019 年 10 月 01 日 </td> 
    <td>AEM Screens 项目的“最佳实践指南”</td> 
-   <td><p>这份新指南提供了全面的见解和实用建议，可帮助您构想、设计并将有意的客户体验融入到您的数字标牌实施中。它还可以指导您使用在 AEM Screens 中部署数字标牌项目时遵循的一些最佳实践对您的业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 项目最佳实践指南</a>，以获取更多详细信息。</p> </td> 
+   <td><p>这份新指南提供了全面的见解和实用建议，可帮助您构想、设计并将有意的客户体验融入到您的数字标牌实施中。它还可以指导您使用在 AEM Screens 中部署数字标牌项目时遵循的一些最佳实践对您的业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens项目的“最佳实践指南”</a> 以了解更多详细信息。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -96,7 +96,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>将 Dynamic Media 查看器与 Adobe Analytics 和 Adobe Launch 集成</td> 
-   <td><p>用于 Adobe Launch 的 Dynamic Media 查看器扩展以及 Dynamic Media 查看器 5.13 版允许 Dynamic Media 客户、Adobe Analytics 客户和 Adobe Launch 客户在其 Adobe Launch 配置中使用特定于 Dynamic Media 查看器的事件和数据。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">将 Dynamic Media 查看器与 Adobe Analytics 和 Adobe Launch 集成</a>。 </p> </td> 
+   <td><p>适用于Adobe Launch 5.13的Dynamic Media Viewers扩展允许客户集成Dynamic Media、Adobe Analytics和Adobe Launch。 它在其AdobeLaunch配置中为Dynamic Media Viewers使用特定的事件和数据。</p> <p>请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">将 Dynamic Media 查看器与 Adobe Analytics 和 Adobe Launch 集成</a>。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 19 日</td> 
@@ -104,39 +104,39 @@ ht-degree: 100%
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-2">AEM 6.5 服务包 2 (6.5.2.0)</a> 现已发布。</td>
   </tr>
   <tr>
-   <td>2019 年 9 月 9 日</td> 
+   <td>2019 年 9 月 09 日</td> 
    <td>AEM 桌面应用程序</td> 
    <td>AEM 桌面应用程序 2.0 版对创意人员、营销人员和业务线用户公开可用，可用于处理 AEM Assets。请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/introduction" target="_blank">发行说明</a>。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 9 月 9 日</td> 
+   <td>2019 年 9 月 09 日</td> 
    <td>核心组件<br /> </td> 
    <td>了解核心组件的本地化功能，并通过<a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/get-started/localization">此示例</a><br />了解它们如何与 AEM 模板一起使用。 </td> 
   </tr>
   <tr>
-   <td>2019 年 9 月 6 日</td> 
+   <td>2019 年 9 月 06 日</td> 
    <td>核心组件</td> 
    <td>现在提供了核心组件 2.6.0 版（其中引入了“体验片段”组件），同时还提供了<a href="https://github.com/adobe/aem-core-wcm-components">可在 GitHub 上获取的开发人员详细信息和项目下载</a>。</td> 
   </tr>
   <tr>
-   <td>2019 年 8 月 21 日</td> 
+   <td>2019 年 21 月 8 日</td> 
    <td>AEM 6.5 Screens 用户指南</td> 
-   <td>现在发布了有关网络部署基础信息的新章节。请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/aem-screens-introduction">用户指南</a>，以获取更多详细信息。</td> 
+   <td>现在发布了有关网络部署基础信息的新章节。请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/aem-screens-introduction">用户指南</a> 以了解更多详细信息。</td> 
   </tr>
   <tr>
-   <td>2019 年 8 月 20 日</td> 
+   <td>2019 年 20 月 8 日</td> 
    <td>AEM Assets 智能标记<br /> </td> 
-   <td>了解在证书过期后如何<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">更新证书</a>。</td> 
+   <td>了解如何 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">更新证书</a> 到期后。</td> 
   </tr>
   <tr>
-   <td>2019 年 8 月 2 日</td> 
+   <td>2019 年 02 月 8 日</td> 
    <td>新 PDF 光栅化程序包<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-pdf-rasterizer" target="_blank">提供了一个新包</a>，它有助于 AEM Assets 处理繁琐的 AI/PDF 文件并生成预览和缩略图。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 7 月 25 日</td> 
    <td>不同许可证下的 AEM Assets 功能</td> 
-   <td>更新了 AEM 6.5 版的独立 DAM 许可证与 AEM MediaLibrary 中可用的 AEM Assets <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">功能列表</a>。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">权能列表</a> 更新了AEM 6.5版的独立DAM许可证与AEM MediaLibrary中可用的AEM Assets。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 7 月 12 日</td> 
@@ -144,7 +144,7 @@ ht-degree: 100%
    <td>重写并更新了 Dynamic Media Classic 中的<a href="https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/upload-publish/uploading-files">“上传作业选项”对话框</a>主题。</td> 
   </tr>
   <tr>
-   <td>2019 年 7 月 8 日</td> 
+   <td>2019 年 7 月 08 日</td> 
    <td>迁移到触屏 UI</td> 
    <td>登陆页面列出了<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/introduction/touch-ui-migration">迁移到触屏 UI</a> 的信息和资源。</td> 
   </tr>
@@ -164,12 +164,12 @@ ht-degree: 100%
    <td>除了<a href="https://github.com/adobe/aem-core-wcm-components">可在 GitHub 上找到的开发人员详细信息和项目下载</a>，现在还提供核心组件 2.5.0 版，其中包括新增的“折叠面板”、“按钮”、“容器”和“下载”组件。</td> 
   </tr>
   <tr>
-   <td>2019 年 6 月 17 日<br /> </td> 
+   <td>2019年6月17<br /> </td> 
    <td>AEM Assets 与 Creative Cloud 的集成</td> 
    <td>更新了最佳实践，并提供了业务需求、Adobe 解决方案产品和客户用例的清晰映射。新增了一张信息图，使内容更有视觉吸引力。请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 集成最佳实践</a>。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 6 月 3 日</td> 
+   <td>2019 年 6 月 03 日</td> 
    <td>富文本编辑器 (RTE)<br /> </td> 
    <td><p>在<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">创建多字段组件</a>中添加了一个包。<br /> </p> <p>基于客户反馈创建了<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">常见问题解答</a>。</p> </td> 
   </tr>
@@ -199,12 +199,12 @@ ht-degree: 100%
    <td>在<a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc">图像目录属性引用</a>部分中添加了新的 BFC（浏览器格式转换）值。</td> 
   </tr>
   <tr>
-   <td>2019 年 5 月 8 日</td> 
+   <td>2019 年 5 月 08 日</td> 
    <td>核心组件<br /> </td> 
    <td>现在提供了核心组件 2.4.0 版（其中包含新的“内容片段列表”组件），同时还提供了<a href="https://github.com/adobe/aem-core-wcm-components">可在 GitHub 上获取的开发人员详细信息和项目下载</a>。<br /> </td> 
   </tr>
   <tr>
-   <td>2019 年 5 月 1 日</td> 
+   <td>2019 年 5 月 01 日</td> 
    <td>查看器参考指南</td> 
    <td><p>新增了 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/360-video">360/VR 视频文档</a>。</p> </td> 
   </tr>
@@ -237,7 +237,7 @@ ht-degree: 100%
 
 ## 旧版内容 {#legacy-content}
 
-截至 2023 年 5 月 1 日，AEM 文档的旧版本已移至[旧版本的 Adobe Experience Manager、CQ 和 CRX ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)的新位置。
+截至2023年5月1日，AEM文档的旧版本已移至以下新位置： [旧版Adobe Experience Manager、CQ和CRX](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
 
 移动的版本包括：
 

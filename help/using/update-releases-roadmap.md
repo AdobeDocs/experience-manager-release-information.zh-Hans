@@ -2,17 +2,17 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0ccece7cd8146c9871c6143dc5f265128ec8220a
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 93%
 
 ---
 
 
 # [!DNL Experience Manager] 版本发行路线图 {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] 不断为使用 [!DNL Cloud Service]、Managed Services 和产品内部部署版的用户提供新功能、现有功能改进以及错误修复。本文列出了即将发行的 [!DNL Experience Manager] 版本。
+[!DNL Adobe Experience Manager] 始终提供新功能并对现有功能进行改进。 它修复了多个用户之间的错误 [!DNL Cloud Service]、Managed Services和内部部署版本。 本文列出了即将发行的 [!DNL Experience Manager] 版本。
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 产品更新通过季度服务包提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的服务包的详细信息，请参阅 [[!DNL Experience Manager]  6.5 服务包发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)。
+[!DNL Experience Manager] 6.5产品更新通过季度Service Pack提供。 这些更新包括新增功能、增强功能和错误修复。有关最新发布的服务包的详细信息，请参阅 [[!DNL Experience Manager]  6.5 服务包发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)。
 
 | 发行版本 | 版本号 | 类型 | 计划 | 状态 |
 |---|---|---|---|---|
