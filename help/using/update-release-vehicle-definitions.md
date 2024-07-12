@@ -69,7 +69,7 @@ ht-degree: 85%
 
 | 项目 | 详细信息 |
 |--------|-----|
-| 定义 | <ul> <li>功能包是附加功能，通过Service Pack提供。 如果 [!DNL Experience Manager] 该版本已发布其最后一版Service Pack，Adobe将来不会为该版本提供任何功能包。 </li> <li> 功能包中包含产品增强功能，这些功能计划在后续产品版本中推出，但由 [!DNL Adobe's] 产品管理部门决定提前发行。</li> <li>  这些功能始终会与下一个主要版本合并。 然后，它们将被移植到 [!DNL Experience Manager] 客户要求的版本 </li> <li>  Common Interest 和 GA 功能包将合并到下一版服务包中  </li> </ul> |
+| 定义 | <ul> <li>功能包是附加功能，通过Service Pack提供。 如果[!DNL Experience Manager]版本已发布其最后一版Service Pack，则Adobe将来不会为该版本提供任何功能包。 </li> <li> 功能包中包含产品增强功能，这些功能计划在后续产品版本中推出，但由 [!DNL Adobe's] 产品管理部门决定提前发行。</li> <li>  这些功能始终会与下一个主要版本合并。 然后移植到客户所需的[!DNL Experience Manager]版本 </li> <li>  Common Interest 和 GA 功能包将合并到下一版服务包中  </li> </ul> |
 | 命名 | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | 包含项 | <ul> <li> 新增功能 </li> <li> 改进功能 </li> <li> 错误修复（增量产品更新） </li> </ul> |
 | 文档 | 相关文档位于 adobe.com 上。 |

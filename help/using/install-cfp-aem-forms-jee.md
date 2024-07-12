@@ -27,12 +27,12 @@ AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）�
 
 ### CQ-4208044 的更多说明 {#additional-instructions-for-cq}
 
-如果使用AEM 6.3 [!DNL Forms JEE] 服务器和Oracle数据库，请在部署CFP1后（即，在运行配置管理器后）配置以下设置。 运行企业域同步时，需要此设置才能同步用户、组和组成员。
+如果将AEM 6.3 [!DNL Forms JEE]服务器与Oracle数据库一起使用，请在部署CFP1后（即，在运行配置管理器后）配置以下设置。 运行企业域同步时，需要此设置才能同步用户、组和组成员。
 
 1. 登录到&#x200B;**管理员** UI。
 1. 导航到 **[!UICONTROL Settings]** > **[!UICONTROL User Management]** > **[!UICONTROL Configuration]** > **[!UICONTROL Import and Export Configuration File]**。
 1. 导出 config.xml 文件。
-1. 修改&#39;&#39;条目`groupMemberDBQueryBatchSize`“（在您的域配置下），位于 *config.xml*. 示例条目：
+1. 在&#x200B;*config.xml*&#x200B;中修改域配置中的“`groupMemberDBQueryBatchSize`”条目。 示例条目：
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ DSC 部署需要的时间是可变的，因此，部署可能会失败。要更�
 
 1. 要将所有服务操作的超时值设置为 600 秒，请使用：
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   设置“`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`”
 
 1. 要将 `DesigntimeService` 操作的超时值设置为 500 秒，请使用：
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   设置“`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`”
 
 1. 要将 `DesigntimeService's previewLCA` 操作的超时值设置为 700 秒，请使用：
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   设置“`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`”
 
 1. 要将加载和安装等 `DSC operations` 设置为 600 秒，请使用：
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   设置“`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`”
 
 ## 安装和配置 AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 

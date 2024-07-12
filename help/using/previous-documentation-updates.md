@@ -44,19 +44,19 @@ ht-degree: 87%
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM 项目原型</a>是一个非常灵活的有用工具，可简化 AEM 项目的前端开发。<br /> </td> 
   </tr>
   <tr>
-   <td>二零一九年十月十八日<br /> </td> 
+   <td>2019年10月18日<br /> </td> 
    <td>AEM 项目原型<br /> </td> 
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM 项目原型</a>用于创建 Adobe Experience Manager 项目，此项目可作为您自己的 AEM 项目的起点。<br /> </td> 
   </tr>
   <tr>
-   <td>二零一九年十月十八日<br /> </td> 
+   <td>2019年10月18日<br /> </td> 
    <td>Headless 体验管理<br /> </td> 
    <td>记录了用于在服务器端呈现单页面应用程序的<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">远程内容渲染器</a>功能。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 11 日</td> 
    <td>Activity Map</td> 
-   <td><p>由于 Adobe Analytics API 中的安全性更改，无法再使用 AEM 中包含的 Activity Map 版本。请参阅 <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Adobe Analytics提供的Activity Map插件</a> 现在应使用。 </p> </td> 
+   <td><p>由于 Adobe Analytics API 中的安全性更改，无法再使用 AEM 中包含的 Activity Map 版本。现在应使用Adobe Analytics</a>提供的<a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Activity Map插件。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日</td> 
@@ -76,7 +76,7 @@ ht-degree: 87%
   <tr>
    <td>2019 年 10 月 01 日 </td> 
    <td>AEM Screens 项目的“最佳实践指南”</td> 
-   <td><p>这份新指南提供了全面的见解和实用建议，可帮助您构想、设计并将有意的客户体验融入到您的数字标牌实施中。它还可以指导您使用在 AEM Screens 中部署数字标牌项目时遵循的一些最佳实践对您的业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens项目的“最佳实践指南”</a> 以了解更多详细信息。</p> </td> 
+   <td><p>这份新指南提供了全面的见解和实用建议，可帮助您构想、设计并将有意的客户体验融入到您的数字标牌实施中。它还可以指导您使用在 AEM Screens 中部署数字标牌项目时遵循的一些最佳实践对您的业务产生积极影响。</p> <p>有关更多详细信息，请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens项目最佳实践指南</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -121,12 +121,12 @@ ht-degree: 87%
   <tr>
    <td>2019 年 21 月 8 日</td> 
    <td>AEM 6.5 Screens 用户指南</td> 
-   <td>现在发布了有关网络部署基础信息的新章节。请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/aem-screens-introduction">用户指南</a> 以了解更多详细信息。</td> 
+   <td>现在发布了有关网络部署基础信息的新章节。有关详细信息，请参阅<a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/aem-screens-introduction">用户指南</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 20 月 8 日</td> 
    <td>AEM Assets 智能标记<br /> </td> 
-   <td>了解如何 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">更新证书</a> 到期后。</td> 
+   <td>了解如何在证书</a>过期后<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">更新证书。</td> 
   </tr>
   <tr>
    <td>2019 年 02 月 8 日</td> 
@@ -136,7 +136,7 @@ ht-degree: 87%
   <tr>
    <td>2019 年 7 月 25 日</td> 
    <td>不同许可证下的 AEM Assets 功能</td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">权能列表</a> 更新了AEM 6.5版的独立DAM许可证与AEM MediaLibrary中可用的AEM Assets。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">AEM Assets在独立DAM许可证中可用的功能列表</a>与AEM MediaLibrary中可用的功能列表已针对AEM 6.5版本更新。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 7 月 12 日</td> 
@@ -164,7 +164,7 @@ ht-degree: 87%
    <td>除了<a href="https://github.com/adobe/aem-core-wcm-components">可在 GitHub 上找到的开发人员详细信息和项目下载</a>，现在还提供核心组件 2.5.0 版，其中包括新增的“折叠面板”、“按钮”、“容器”和“下载”组件。</td> 
   </tr>
   <tr>
-   <td>2019年6月17<br /> </td> 
+   <td>2019年6月17日<br /> </td> 
    <td>AEM Assets 与 Creative Cloud 的集成</td> 
    <td>更新了最佳实践，并提供了业务需求、Adobe 解决方案产品和客户用例的清晰映射。新增了一张信息图，使内容更有视觉吸引力。请参阅 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 集成最佳实践</a>。<br /> </td> 
   </tr>
@@ -237,7 +237,7 @@ ht-degree: 87%
 
 ## 旧版内容 {#legacy-content}
 
-截至2023年5月1日，AEM文档的旧版本已移至以下新位置： [旧版Adobe Experience Manager、CQ和CRX](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+截至2023年5月1日，AEM文档的旧版本已移至一个新位置，即[旧版本的Adobe Experience Manager、CQ和CRX](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。
 
 移动的版本包括：
 

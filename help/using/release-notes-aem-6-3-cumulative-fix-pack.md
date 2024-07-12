@@ -3,7 +3,7 @@ title: AEM 6.3 累积修订包
 description: AEM 6.3 累积修订包发行说明。
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e8c9b5343208458febe55d8c1a0b541b112d3911
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '17123'
 ht-degree: 100%
 
@@ -28,13 +28,13 @@ Adobe 引入了统一交付模式，用于发布修补程序。现在，Adobe �
 * 提高了质量保证
 * 简化了安装（用户将 CFP 安装为一个不含任何依赖关系的包，最新的服务包除外）
 
-有关 CFP 和其他发行版类型的更多信息，请参阅[维护版本发行方式定义](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。
+有关 CFP 和其他发行版类型的更多信息，请参阅[维护版本发行方式定义](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。
 
 ## 关于此发行版 {#about-the-release}
 
 AEM 累积修订包 6.3.3.8 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 服务包 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修订包 6.3.3.8 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
+AEM 累积修订包 6.3.3.8 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
 
 **AEM 累积修订包**&#x200B;的主要功能亮点包括：
 
@@ -88,7 +88,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 >[!NOTE]
 >
->AEM Forms 附加组件包有助于使表单功能与 AEM服务包和累积修订包保持一致。因此，请务必在安装任意 AEM 服务包、累积修订包或功能包之后安装 AEM Forms 附加组件包。
+>AEM Forms 附加组件包有助于使表单功能与 AEM 服务包和累积修订包保持一致。因此，请务必在安装任意 AEM 服务包、累积修订包或功能包之后安装 AEM Forms 附加组件包。
 
 * Designer：如果已启用标记选项，则生成的 PDF 输出文件中的子表单边框将消失（NPR-32324 和 NPR-32545）。
 * Designer：如果表中存在合并的单元格，则对使用输出服务从 XDP 表单转换而来的输出 PDF 文件进行的可访问性测试将失败 (NPR-32068)。
@@ -104,7 +104,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 AEM 累积修订包 6.3.3.7 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 服务包 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修订包 6.3.3.7 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
+AEM 累积修订包 6.3.3.7 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
 
 ### 资源 {#assets-1}
 
@@ -172,7 +172,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 AEM 累积修订包 6.3.3.6 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 服务包 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修订包 6.3.3.6 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
+AEM 累积修订包 6.3.3.6 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
 
 ### 资源 {#assets-2}
 
@@ -226,7 +226,7 @@ AEM Forms 修补程序通过随发行版一起提供的附加组件包和其他�
 
 AEM 累积修订包 6.3.3.5 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 服务包 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修订包 6.3.3.5 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
+AEM 累积修订包 6.3.3.5 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
 
 **AEM 累积修订包**&#x200B;的主要功能亮点包括：
 
@@ -294,7 +294,7 @@ AEM 6.3.3.5 中包含的内容包列表
 
 AEM 累积修订包 6.3.3.4 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 服务包 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修订包 6.3.3.4 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
+AEM 累积修订包 6.3.3.4 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
 
 **AEM 累积修订包**&#x200B;的主要功能亮点包括：
 
@@ -402,7 +402,7 @@ AEM 6.3.3.4 中包含的内容包列表
 
 AEM 累积修订包 6.3.3.3 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 服务包 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修订包 6.3.3.3 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
+AEM 累积修订包 6.3.3.3 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 的发行说明。
 
 **AEM 累积修订包**&#x200B;的主要功能亮点包括：
 
@@ -630,7 +630,7 @@ AEM 6.3.3.2 中包含的内容包列表
 
 AEM 累积修订包 6.3.3.1 是一个重要更新，它包括自 2018 年 9 月 AEM 6.3 服务包 3 (6.3.3.0) 正式发布以来的若干内部修补程序和客户修补程序。
 
-AEM 累积修订包 6.3.3.1 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 中的发行说明。
+AEM 累积修订包 6.3.3.1 依赖于 AEM 6.3 服务包 3。因此，您必须先安装 AEM 6.3 服务包 3，然后再安装 AEM 累积修订包 6.3.3.x。有关安装说明，请参阅 [AEM 6.3 服务包 3](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 中的发行说明。
 
 **AEM 累积修订包**&#x200B;的主要功能亮点包括：
 
@@ -1804,7 +1804,7 @@ AEM 累积修订包 6.3.0.1 是一个重要更新，它包括自 2017 年 4 月 
 
 1. 确保您已安装 AEM 6.3.3.x CFP 包。
 1. 下载适用于您的操作系统的 [AEM Forms 发行版](aem-forms-releases.md)中列出的相应 Forms 附加组件包。
-1. 按照[安装 AEM Forms 附加组件包](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)中的所述安装 Forms 附加组件包。
+1. 按照[安装 AEM Forms 附加组件包](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)中的所述安装 Forms 附加组件包。
 
 #### 安装 AEM Forms JEE 包 {#install-aem-forms-jee-bundles-package}
 
@@ -1954,7 +1954,7 @@ AEM Forms JEE 中的修复通过单独的安装程序来交付。有关在 AEM F
 
 | 区域 | 专题 | 替换 | 版本号 |
 |----|-----|-----|-----|
-| Assets 和 Adobe Creative Cloud 集成 | AEM 6.2 中引入了 [AEM 到 Creative Cloud 的文件夹共享](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)功能，以便创意用户可以从 AEM 访问资源。在 Creative Cloud 应用程序中发布的新功能“Adobe 资源链接”提供了更佳的用户体验，能够直接从 Photoshop、InDesign 和 Illustrator 中轻松访问 AEM Assets。</br></br>Adobe 不会再进一步增强文件夹共享功能。虽然该功能包含在 AEM 中，但建议客户使用替换解决方案。 | Adobe 资源链接或桌面应用程序。有关更多信息，请参阅 [AEM Creative Cloud 集成](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)一文。 | AEM 6.3.3.x |
+| Assets 和 Adobe Creative Cloud 集成 | AEM 6.2 中引入了 [AEM 到 Creative Cloud 的文件夹共享](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)功能，以便创意用户可以从 AEM 访问资源。在 Creative Cloud 应用程序中发布的新功能“Adobe 资源链接”提供了更佳的用户体验，能够直接从 Photoshop、InDesign 和 Illustrator 中轻松访问 AEM Assets。</br></br>Adobe 不会再进一步增强文件夹共享功能。虽然该功能包含在 AEM 中，但建议客户使用替换解决方案。 | Adobe 资源链接或桌面应用程序。有关更多信息，请参阅 [AEM Creative Cloud 集成](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)一文。 | AEM 6.3.3.x |
 
 ## 包含的 OSGi 包和内容包 {#osgi-bundles-and-content-packages-included-1}
 
