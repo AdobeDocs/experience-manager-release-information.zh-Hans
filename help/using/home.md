@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Manager 版本更新和路线图
-description: 详细了解Adobe Experience Manager版本更新和路线图。
+description: 了解有关 Adobe Experience Manager 版本更新和路线图的更多信息。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 

@@ -4,15 +4,15 @@ description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3030'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # AEM [!DNL Forms] 发行版 {#aem-forms-releases}
 
-Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序。它增强了企业表单和文档的Web和移动体验。 此功能允许组织完成复杂的数字交互，改善用户体验并扩展其业务范围。 AEM [!DNL Forms]，是开箱即用的，其包含在 AEM Quick Start 中，但功能有限。AEM [!DNL Forms] 附加组件包提供了高级功能，例如与 [!DNL Adobe Analytics]、[!DNL Adobe Sign]、文档服务、工作流引擎等的集成。
+Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序。它增强了企业表格和文档的网络和移动体验。此功能使组织能够完成复杂的数字交互，改善用户体验并扩展其业务范围。AEM [!DNL Forms]，是开箱即用的，其包含在 AEM Quick Start 中，但功能有限。AEM [!DNL Forms] 附加组件包提供了高级功能，例如与 [!DNL Adobe Analytics]、[!DNL Adobe Sign]、文档服务、工作流引擎等的集成。
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp21_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 补丁安装程序：6.5.0-0087 <br/><p>AEM Forms包加载项：6.0.1244 </p></td>
+    <td><p>AEM Forms JEE 补丁安装程序：6.5.0-0087 <br/><p>AEM Forms Packages 插件：6.0.1244 </p></td>
    </tr>
   <tr>
     <td>2024 年 3 月 8 日</td>
@@ -103,7 +103,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 补丁安装程序：6-5-0-0083 <br/><p>AEM Forms包加载项：6.0.1192 </p></td>
+    <td><p>AEM Forms JEE 补丁安装程序：6-5-0-0083 <br/><p>AEM Forms Packages 插件：6.0.1192 </p></td>
    </tr>
   <tr>
     <td>2023 年 12 月 15 日</td>
@@ -156,7 +156,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp19_x64/aemforms_designer_6_5_0_wws_win.zip">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 补丁安装程序：aemforms-6-5-0-0078 <br/><p>AEM Forms Packages加载项：6.0.1120 </p></td>
+    <td><p>AEM Forms JEE 补丁安装程序：aemforms-6-5-0-0078 <br/><p>AEM Forms Packages 插件：6.0.1120 </p></td>
    </tr>
    <tr>
     <td>2023 年 31 月 8 日</td>
@@ -196,7 +196,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       </ul> 
       </td>
     <td><p>AEM Forms JEE 完整安装程序： 
-    6-5-0-20230913-1-12345 <br/><p>AEM Forms JEE 补丁安装程序：aemforms-6-5-0-0069<br/><p>AEM Forms Packages加载项：6.5.18.0 </p></td>
+    6-5-0-20230913-1-12345 <br/><p>AEM Forms JEE 补丁安装程序：aemforms-6-5-0-0069<br/><p>AEM Forms Packages 插件：6.5.18.0 </p></td>
    </tr>
    <tr>
     <td>2023 年 6 月 1 日</td>
@@ -228,7 +228,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp17/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6-5-0-0065<br/><p>AEM Forms Packages加载项：6.0.968</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6-5-0-0065<br/><p>AEM Forms Packages 插件：6.0.968</p></td>
    </tr>
    <tr>
     <td>2023 年 3 月 2 日</td>
@@ -260,7 +260,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16_650_038/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0062<br/><p>AEM Forms Packages加载项：6.0.914</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0062<br/><p>AEM Forms Packages 插件：6.0.914</p></td>
    </tr>
    <tr>
     <td>2022 年 12 月 1 日</td>
@@ -292,7 +292,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/spanish/aemforms_designer_6_5_0_wws_win.zip">西班牙语安装程序</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0057<br /> <p>AEM Forms Packages加载项：6.0.856</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0057<br /> <p>AEM Forms Packages 插件：6.0.856</p></td>
    </tr>
    <tr>
     <td>2022 年 9 月 5 日</td>
@@ -320,7 +320,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_German_Cumulative_QF.msp">德语安装程序</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_Japanese_Cumulative_QF.msp">日语安装程序</a> </li>
       </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0053<br /> <p>AEM Forms Packages加载项：6.0.772</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0053<br /> <p>AEM Forms Packages 插件：6.0.772</p></td>
    </tr>
    <tr>
     <td>2022 年 6 月 2 日</td>
@@ -348,7 +348,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-029/Designer6.5.0_German_Cumulative_QF.msp">德语安装程序</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-029/Designer6.5.0_Japanese_Cumulative_QF.msp">日语安装程序</a> </li>
       </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0044<br /> <p>AEM Forms Packages加载项：6.0.718</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0044<br /> <p>AEM Forms Packages 插件：6.0.718</p></td>
    </tr>
    <tr>
     <td>2022 年 3 月 3 日</td>
@@ -384,7 +384,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <br><b>Forms Workbench</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20220303-3-12345/Workbench_DVD.zip">英语安装程序</a> </li>
       </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0040<br /> <p>AEM Forms Packages加载项：6.0.640</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0040<br /> <p>AEM Forms Packages 插件：6.0.640</p></td>
    </tr>
    <tr>
     <td>2021 年 12 月 20 日</td>
@@ -405,7 +405,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms 客户端 SDK</a>
       </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0038<br /> <p>AEM Forms Packages加载项：6.0.566-NPR-37836-B0001</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0038<br /> <p>AEM Forms Packages 插件：6.0.566-NPR-37836-B0001</p></td>
    </tr>
    <tr>
     <td>2021 年 12 月 3 日</td>
@@ -430,7 +430,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms 客户端 SDK</a></li>
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0037<br /> </p> AEM Forms Packages加载项：6.0.566</p> <p>客户端 SDK：6.0.566<br /></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0037<br /> </p> AEM Forms Packages 插件：6.0.566</p> <p>客户端 SDK：6.0.566<br /></td>
    </tr>
    <tr>
    <tr>
@@ -458,7 +458,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms 客户端 SDK</a></li>
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0032<br /> </p> AEM Forms包加载项：6.0.490</p> <p>客户端 SDK：6.0.490<br /> </p><p>AEM Forms 兼容包：2.0.40</p><p>AEM Forms Designer 补丁：650.017</p><p>AEM Forms on JEE 嵌入包：5.0.18</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0032<br /> </p> AEM Forms Packages 插件：6.0.490</p> <p>客户端 SDK：6.0.490<br /> </p><p>AEM Forms 兼容包：2.0.40</p><p>AEM Forms Designer 补丁：650.017</p><p>AEM Forms on JEE 嵌入包：5.0.18</p></td>
    </tr>
    <tr>
     <td>2021 年 6 月 3 日</td>
@@ -484,7 +484,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere® AIX®</a></li>
       <li>AEM Forms 客户端 SDK [1]</li>  
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0028<br /> </p> AEM Forms Packages加载项：6.0.434</p> <p>客户端 SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE 嵌入包：5.0.14</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0028<br /> </p> AEM Forms Packages 插件：6.0.434</p> <p>客户端 SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>AEM Forms on JEE 嵌入包：5.0.14</p></td>
    </tr>
    <tr>
     <td>2021 年 3 月 18 日</td>
@@ -510,7 +510,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/AIX/AEMForms-6.5.0-0025_websphere_aix.tar.gz">WebSphere® AIX®</a></li>
       <li>AEM Forms 客户端 SDK [1]</li>  
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0025<br /> </p> AEM Forms Packages加载项：6.0.334</p> <p>AEM Forms 兼容包：2.0.36</p><p>客户端 SDK：6.0.334<br /> </p><p>AEM Forms Designer 补丁：650.014</p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0025<br /> </p> AEM Forms Packages 插件：6.0.334</p> <p>AEM Forms 兼容包：2.0.36</p><p>客户端 SDK：6.0.334<br /> </p><p>AEM Forms Designer 补丁：650.014</p></td>
    </tr>
    <tr>
    <tr>
@@ -537,7 +537,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere® AIX®</a></li>
       <li>AEM Forms 客户端 SDK [1]</li>  
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0020<br /> </p> AEM Forms Packages加载项：6.0.234</p> <p>AEM Forms 兼容包：2.0.32</p><p>客户端 SDK：6.0.234<br /> </p></td>
+    <td><p>AEM Forms JEE 安装程序：AEMForms-6.5.0-0020<br /> </p> AEM Forms Packages 插件：6.0.234</p> <p>AEM Forms 兼容包：2.0.32</p><p>客户端 SDK：6.0.234<br /> </p></td>
    </tr>
    <tr>
     <td>2020 年 9 月 03 日</td>
@@ -551,7 +551,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms 客户端 SDK [1]</li>
       <li>AEM Forms JEE 安装程序 [1]</li>
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：6.5.0-0018<br /> </p> AEM Forms包加载项：6.0.192</p> <p>客户端 SDK：6.0.192<br /> </p> <p>AEM Forms Designer 补丁：650.012<br /> </p> </td>
+    <td><p>AEM Forms JEE 安装程序：6.5.0-0018<br /> </p> AEM Forms Packages 插件：6.0.192</p> <p>客户端 SDK：6.0.192<br /> </p> <p>AEM Forms Designer 补丁：650.012<br /> </p> </td>
    </tr>
    <tr>
     <td>2020 年 6 月 4 日</td>
@@ -565,7 +565,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms 客户端 SDK [1]</li>
       <li>AEM Forms JEE 安装程序 [1]</li>
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：6.5.0-0014<br /> </p> <p>AEM Forms Packages加载项：6.0.160</p> <p>客户端 SDK：6.0.160<br /> </p> <p>AEM Forms Designer 补丁：650.008<br /> </p> </td>
+    <td><p>AEM Forms JEE 安装程序：6.5.0-0014<br /> </p> <p>AEM Forms Packages 插件：6.0.169</p> <p>客户端 SDK：6.0.160<br /> </p> <p>AEM Forms Designer 补丁：650.008<br /> </p> </td>
    </tr>
    <tr>
     <td>2020 年 3 月 05 日</td>
@@ -581,7 +581,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms 客户端 SDK [1]</li>
       <li>AEM Forms JEE 安装程序 [1]</li>
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：6.5.0-0011<br /> </p> <p>AEM Forms兼容包：2.0.26<br /> AEM Forms包加载项：6.0.138</p> <p>客户端 SDK：6.0.136<br /> </p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956<br /> </p> </td>
+    <td><p>AEM Forms JEE 安装程序：6.5.0-0011<br /> </p> <p>AEM Forms 兼容包：2.0.26<br /> AEM Forms Packages 插件：6.0.138</p> <p>客户端 SDK：6.0.136<br /> </p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956<br /> </p> </td>
    </tr>
    <tr>
     <td>2019 年 12 月 12 日</td>
@@ -597,7 +597,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms 客户端 SDK [1]</li>
       <li>AEM Forms JEE 安装程序 [1]</li>
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：6.5.0-0007</p> <p>AEM Forms 兼容包：2.0.26</p> <p>AEM Forms包加载项和客户端SDK：6.0.122</p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956</p> </td>
+    <td><p>AEM Forms JEE 安装程序：6.5.0-0007</p> <p>AEM Forms 兼容包：2.0.26</p> <p>AEM Forms Packages 插件与客户端 SDK：6.0.122</p> <p>AEM Forms Workbench：6.5.0.20191119.1.935956</p> </td>
    </tr>
    <tr>
     <td>2019 年 9 月 19 日</td>
@@ -613,7 +613,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms 客户端 SDK [1]</li>
       <li>AEM Forms JEE 安装程序<sup> [1]</sup></li>
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：6.5.0-0004_3</p> <p>AEM Forms 兼容包：2.0.22</p> <p>AEM Forms包加载项和客户端SDK：6.0.106</p> <p>AEM Forms Workbench：6.5.0.20190917.1.337048</p> </td>
+    <td><p>AEM Forms JEE 安装程序：6.5.0-0004_3</p> <p>AEM Forms 兼容包：2.0.22</p> <p>AEM Forms Packages 插件与客户端 SDK：6.0.106</p> <p>AEM Forms Workbench：6.5.0.20190917.1.337048</p> </td>
    </tr>
    <tr>
     <td>2019 年 7 月 3 日</td>
@@ -628,7 +628,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://licensing.adobe.com/">AEM Designer 安装程序</a> <sup>[1]</sup></li>
       <li>AEM Forms JEE 安装程序<sup> [1]</sup><br /> </li>
      </ul> </td>
-    <td><p>AEM Forms JEE 安装程序：6.5.0-0004</p> <p>AEM Forms Designer 补丁：6.5.0-005</p> <p>AEM Forms 兼容包：<strong></strong>1.1.16</p> <p>AEM Forms Packages加载项：6.0.88</p> </td>
+    <td><p>AEM Forms JEE 安装程序：6.5.0-0004</p> <p>AEM Forms Designer 补丁：6.5.0-005</p> <p>AEM Forms 兼容包：<strong></strong>1.1.16</p> <p>AEM Forms Packages 插件：6.0.88</p> </td>
    </tr>
    <tr>
     <td>2019 年 4 月 8 日</td>
@@ -647,14 +647,14 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 引用站点包</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov 引用站点包</a></li>
      </ul> </td>
-    <td><p>AEM Forms包加载项和客户端SDK：6.0.80</p> <p>AEM WebSphere® 全局安全配置包：6.5.0.20190329.1.935745</p> <p>AEM Forms 应用程序源：5.0.16</p> <p> </p> </td>
+    <td><p>AEM Forms Packages 插件与客户端 SDK：6.0.80</p> <p>AEM WebSphere® 全局安全配置包：6.5.0.20190329.1.935745</p> <p>AEM Forms 应用程序源：5.0.16</p> <p> </p> </td>
    </tr>
   </tbody>
  </table>
 
 `[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support)以获取 Workbench、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
 
-`[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。PDF Generator功能不适用于macOS X包。
+`[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。macOS X 包没有 PDF Generator 功能可用。
 
 `[3]` 6.5.4.0 版与 6.5.3.0 版的 AEM [!DNL Forms] 兼容包保持相同。
 

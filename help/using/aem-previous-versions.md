@@ -3,9 +3,9 @@ title: 下载旧版本的 AEM、CQ 和 CRX 文档
 description: 下载旧版本的 Adobe Experience Manager、CQ 和 CRX 的文档包。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '571'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 ## 旧版本的 [!DNL Experience Manager] 文档 {#older-version-aem-documentation}
 
-本页面上列出的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已结束其产品周期，Adobe 官方将不再销售这些版本。您可自助获得 Adobe 为这些旧版本发布的最后一版官方文档。Adobe 建议您升级至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service)。
+本页面上列出的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已结束其产品周期，Adobe 官方将不再销售这些版本。您可自助获得 Adobe 为这些旧版本发布的最后一版官方文档。Adobe 建议您升级至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service)。
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ ht-degree: 94%
 在下载包之前，请确定谁使用内容。此决定影响如何部署它：
 
 * 开发人员可在本地进行安装以便快速参考。
-* 为了满足更广泛的组织文档需求，Adobe建议将资源包部署在内部可访问、非生产的AEM Author实例上。
+* 为了满足更为广泛的组织文档需求，Adobe 建议在一个可从内部访问的非生产 AEM 创作实例中部署该包。
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ ht-degree: 94%
 
 | [!DNL Experience Manager] 版本 | Software Distribution 链接 |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 文档](https://experienceleague.adobe.com/en/docs/experience-manager-64) |
+| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 文档](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-64) |
 | [!DNL Experience Manager] 6.3 | [从 Software Distribution 下载 AEM-DOCS-6.3](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [从 Software Distribution 下载 AEM-DOCS-6.2](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [从 Software Distribution 下载 AEM-DOCS-6.1](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
@@ -89,7 +89,7 @@ ht-degree: 94%
 
 1. 上传该包后安装它。
 
-1. 在包管理器用户界面中，找到该包并选择&#x200B;**[!UICONTROL 安装]**。
+1. 在Package Manager UI 中，找到该包，然后选择&#x200B;**[!UICONTROL 安装]**。
 
 1. 在确认对话框上，再次选择&#x200B;**[!UICONTROL 安装]**。安装过程耗时数分钟。
 
