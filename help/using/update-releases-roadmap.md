@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c53f3d28c02939b953a1b817314399ba399b8041
+source-git-commit: ef01ba25b04e890eb58c59dff08e677ecbce6cf1
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 99%
+source-wordcount: '421'
+ht-degree: 86%
 
 ---
 
@@ -41,12 +41,13 @@ ht-degree: 99%
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 | 自动更新 | 2024 年 8 月 5-7 日 | 目标 |
-| 维护版本 | 自动更新 | 2024 年 8 月 19-21 日 | 目标 |
-| 功能版本 2024.8.0 | 功能激活 | 2024 年 8 月 29 日 | 目标 |
-| 维护版本 | 自动更新 | 2024 年 9 月 2-4 日 | 目标 |
-| 维护版本 | 自动更新 | 2024 年 9 月 16-18 日 | 目标 |
-| 功能版本 2024.9.0 | 功能激活 | 2024 年 9 月 26 日 | 目标 |
+
+| 维护版本[17258](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest#release-17258)|自动更新|2024年8月5日至7日|目标|
+| 维护版本|自动更新|2024年8月19-21日|目标|
+| 功能版本2024.8.0 |功能激活|2024年8月29日 |Target|
+| 维护版本|自动更新|2024年9月2日至4日|Target|
+| 维护版本|自动更新|2024年9月16-18日|目标|
+| 功能版本2024.9.0 |功能激活|2024年9月26日 |Target|
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
