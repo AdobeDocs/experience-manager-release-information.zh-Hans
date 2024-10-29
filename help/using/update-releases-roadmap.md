@@ -3,9 +3,9 @@ title: "[!DNL Adobe Experience Manager] 版本发行路线图"
 description: "[!DNL Adobe Experience Manager] 版本发行路线图"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 449a49c2a13c7657d606aa7c0745f995cc09beb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '493'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
 [!DNL Experience Manager] as a [!DNL Cloud Service]新功能是通过[每月功能激活](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)提供的，同时还会通过[维护版本](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)每月两次提供增强功能和错误修复。
 即将发行的 [!DNL Experience Manager] as a [!DNL Cloud Service] 版本规划如下所示：
 
-### 过去[!DNL Cloud Service]个版本 {#past}
+### 过去 [!DNL Cloud Service] 的版本 {#past}
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
@@ -36,7 +36,7 @@ ht-degree: 97%
 | 维护版本 [17964](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | 自动更新 | 2024 年 9 月 30 日 - 2024 年 10 月 2 日 | 已更新 |
 | 维护版本 [18175](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 自动更新 | 2024 年 10 月 14-16 日 | 已更新 |
 
-### 即将发行的[!DNL Cloud Service]版本 {#upcoming}
+### 即将发布的 [!DNL Cloud Service] 的版本 {#upcoming}
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
@@ -44,13 +44,13 @@ ht-degree: 97%
 | 功能版本 2024.10.0 | 功能激活 | 2024 年 10 月 31 日 | 目标 |
 | 维护版本 | 自动更新 | 2024 年 11 月 11-13 日 | 目标 |
 | 功能版本 2024.11.0 | 功能激活 | 2024 年 11 月 21 日 | 目标 |
-| 维护版本 | 自动更新 | 2024年12月9至11日 | 目标 |
+| 维护版本 | 自动更新 | 2024 年 12 月 9 - 11 日 | 目标 |
 | 功能版本 2024.12.0 | 功能激活 | 2024 年 12 月 12 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 1 月 20-22 日 | 目标 |
-| 功能版本 2025.1.0 | 功能激活 | 2025年1月30日 | 目标 |
+| 功能版本 2025.1.0 | 功能激活 | 2025 年 1 月 30 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 2 月 3-5 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 2 月 17-19 日 | 目标 |
-| 功能版本 2025.2.0 | 功能激活 | 2025年2月27日 | 目标 |
+| 功能版本 2025.2.0 | 功能激活 | 2025 年 2 月 27 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 3 月 3-5 日 | 目标 |
 
 >[!CAUTION]
