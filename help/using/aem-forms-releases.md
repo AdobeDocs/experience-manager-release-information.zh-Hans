@@ -2,7 +2,8 @@
 title: AEM Forms 发行版
 description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
-source-git-commit: 55e864d7cbed138167652c54e1dec58e7c07f19a
+exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
+source-git-commit: b6e94ed3826e6f6750d980a5622d600664cf2f2c
 workflow-type: tm+mt
 source-wordcount: '3156'
 ht-degree: 99%
@@ -14,7 +15,6 @@ ht-degree: 99%
 Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序。它增强了企业表格和文档的网络和移动体验。此功能使组织能够完成复杂的数字交互，改善用户体验并扩展其业务范围。AEM [!DNL Forms]，是开箱即用的，其包含在 AEM Quick Start 中，但功能有限。AEM [!DNL Forms] 附加组件包提供了高级功能，例如与 [!DNL Adobe Analytics]、[!DNL Adobe Sign]、文档服务、工作流引擎等的集成。
 
 >[!NOTE]
->
 >
 >在 [AEM 6.5 快速入门](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/deploying/deploying/deploy)中谈及的自适应表单功能旨在仅作探索和评估用途。由于自适应表单功能需要适当的许可，因此必须获得 AEM Forms 的有效许可证才能作生产用途。
 
