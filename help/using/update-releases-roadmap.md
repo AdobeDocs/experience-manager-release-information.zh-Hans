@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 657fecf2d8df9bdf5f50daa63aadc42a828218ef
+source-git-commit: db8324576d462426bddec6a90cb67d03805ac478
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 98%
+source-wordcount: '482'
+ht-degree: 94%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 98%
 | 功能版本 2025.2.0 | 功能激活 | 2025 年 2 月 27 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 10 月 3-12 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 24 月 3-26 日 | 目标 |
-| 功能版本 2025.3.0 | 功能激活 | 2025年3月27日 | 目标 |
+| 功能版本 2025.3.0 | 功能激活 | 2025 年 3 月 27 日 | 目标 |
 
 >[!CAUTION]
 >
@@ -62,19 +62,19 @@ ht-degree: 98%
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
-通过季度服务包和累积修订包 (CFP) 提供支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版在新增功能、增强功能和错误修复方面的产品更新。这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
+受支持的[!DNL Experience Manager]内部部署版和Managed Services版的产品更新（包括新增功能、增强功能和错误修复）通过Service Pack和累积修补程序包(CFP)提供。 这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 产品更新通过季度服务包提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的服务包的详细信息，请参阅 [[!DNL Experience Manager]  6.5 服务包发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)。
+[!DNL Experience Manager] 6.5 产品更新通过服务包提供。这些更新包括新增功能、增强功能和错误修复。有关最新发布的服务包的详细信息，请参阅 [[!DNL Experience Manager]  6.5 服务包发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)。
 
 | 发行版本 | 版本号 | 类型 | 计划 | 状态 |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [服务包 20](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | 服务包 | 2024 年 2 月 22 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 [服务包 21](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | 服务包 | 2024 年 6 月 6 日 | 已激活 |
+| [!DNL Experience Manager] 6.5 [服务包 21](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | 服务包 | 2024 年 6 月 6 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 [服务包 22](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | 服务包 | 2024 年 11 月 21 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 服务包 23 | 6.5.23.0 | 服务包 | 2025年5月22日 | 目标 |
-| [!DNL Experience Manager] 6.5 服务包 24 | 6.5.24.0 | 服务包 | 2025年11月20日 | 目标 |
+| [!DNL Experience Manager] 6.5 服务包 23 | 6.5.23.0 | 服务包 | 2025 年 5 月 22 日 | 目标 |
+| [!DNL Experience Manager] 6.5 服务包 24 | 6.5.24.0 | 服务包 | 2025 年 11 月 20 日 | 目标 |
 
 >[!NOTE]
 >
