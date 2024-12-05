@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: db8324576d462426bddec6a90cb67d03805ac478
+source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '451'
 ht-degree: 94%
 
 ---
@@ -27,9 +27,6 @@ ht-degree: 94%
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 维护版本 [17569](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | 自动更新 | 2024 年 9 月 2-4 日 | 已更新 |
-| 维护版本 [17689](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | 自动更新 | 2024 年 9 月 16-18 日 | 已更新 |
-| 功能版本 [2024.9.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-9-0) | 功能激活 | 2024 年 9 月 26 日 | 已激活 |
 | 维护版本 [17964](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-17964) | 自动更新 | 2024 年 9 月 30 日 - 2024 年 10 月 2 日 | 已更新 |
 | 维护版本 [18175](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 自动更新 | 2024 年 10 月 14-16 日 | 已更新 |
 | 维护版本 [18311](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 自动更新 | 2024 年 10 月 28-30 日 | 已更新 |
@@ -47,8 +44,8 @@ ht-degree: 94%
 | 维护版本 | 自动更新 | 2025 年 2 月 10-12 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 2 月 24-26 日 | 目标 |
 | 功能版本 2025.2.0 | 功能激活 | 2025 年 2 月 27 日 | 目标 |
-| 维护版本 | 自动更新 | 2025 年 10 月 3-12 日 | 目标 |
-| 维护版本 | 自动更新 | 2025 年 24 月 3-26 日 | 目标 |
+| 维护版本 | 自动更新 | 2025 年 3 月 10-12 日 | 目标 |
+| 维护版本 | 自动更新 | 2025 年 3 月 24-26 日 | 目标 |
 | 功能版本 2025.3.0 | 功能激活 | 2025 年 3 月 27 日 | 目标 |
 
 >[!CAUTION]
