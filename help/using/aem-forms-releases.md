@@ -4,9 +4,9 @@ description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: eb67b512739390912f148199be2f082bdcaef6d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3159'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.50.zip">AEM Forms 兼容包</a></li>
       <br><b>AEM Forms on JEE 补丁安装程序</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/jboss/win/adobe-aem-forms-jee-service-pack-6.5.22.0-windows-jboss.zip">JBoss® Windows</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[...]obe-aem-forms-jee-service-pack-6.5.22.0-linux-jboss.tar.gz">JBoss®Linux®</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]obe-aem-forms-jee-service-pack-6.5.22.0-linux-jboss.tar.gz">JBoss®Linux®</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/weblogic/win/adobe-aem-forms-jee-service-pack-6.5.22.0-windows-weblogic.zip">WebLogic Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/weblogic/linux/adobe-aem-forms-jee-service-pack-6.5.22.0-linux-weblogic.tar.gz">WebLogic Linux®</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-00891/websphere/win/adobe-aem-forms-jee-service-pack-6.5.22.0-windows-websphere.zip">WebSphere® Windows</a></li>
