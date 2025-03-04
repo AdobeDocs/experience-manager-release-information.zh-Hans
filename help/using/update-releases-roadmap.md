@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: cfb5c2e7dfb7e47055ab37b51a298a4a416b3eef
 workflow-type: tm+mt
 source-wordcount: '439'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 99%
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
 | 维护版本 [19687](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2025 年 2 月 24-26 日 | 目标 |
-| 功能版本 2025.2.0 | 功能激活 | 2025年3月4日 | 目标 |
+| 功能版本 2025.2.0 | 功能激活 | 2025 年 3 月 4 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 3 月 10-12 日 | 目标 |
 | 功能版本 2025.3.0 | 功能激活 | 2025 年 3 月 27 日 | 目标 |
 | 维护版本 | 自动更新 | 2025 年 3 月 31 日 - 4 月 2 日 | 目标 |
