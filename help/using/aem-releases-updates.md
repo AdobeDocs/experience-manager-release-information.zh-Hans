@@ -4,9 +4,9 @@ description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 6a1200fcc366ec68118c1016a7321d8d16f354f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '231'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -30,13 +30,13 @@ ht-degree: 77%
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-[!DNL Experience Manager] 6.5产品更新通过半年Service Pack提供，其中包括新增功能、增强功能和错误修复。
+[!DNL Experience Manager] 6.5 产品更新通过每半年一次的服务包提供，包括新增功能、增强功能和错误修复。
 
 查看 [[!DNL Experience Manager] 6.5 最新功能包](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes)以了解有关当前/最新版本的详细信息。从这里还可导航到以前版本的详细信息（按时间顺序排列）。
 
-### [!DNL Experience Manager] 6.5磅 {#aem-65-lts}
+### [!DNL Experience Manager] 6.5 LTS {#aem-65-lts}
 
-[!DNL Experience Manager] 6.5 LTS产品更新通过季度Service Pack提供，包括新增功能、增强功能和错误修复。
+[!DNL Experience Manager] 6.5 LTS 产品更新通过每季度一次的服务包提供，包括新增功能、增强功能和错误修复。
 
-有关当前/最新版本的详细信息，请参阅[[!DNL Experience Manager] 6.5 LTS最新功能包](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en)。
+请参阅 [[!DNL Experience Manager] 6.5 LTS 最新功能包](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65-lts/content/release-notes/release-notes?lang=en)以了解有关当前/最新版本的详细信息。
 
