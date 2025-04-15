@@ -3,10 +3,10 @@ title: AEM Forms 发行版
 description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 1c00252ff9c14591369cbddf0c24ef2134990c7e
-workflow-type: ht
-source-wordcount: '3159'
-ht-degree: 100%
+source-git-commit: 3f1ad6029dd048cb3baabc15cb85c514386ad740
+workflow-type: tm+mt
+source-wordcount: '3224'
+ht-degree: 97%
 
 ---
 
@@ -39,6 +39,21 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><strong>内部版本</strong></td>
    </tr>
   </tr>
+   <tr>
+    <td>2025 年 7 月 3 日</td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
+    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
+    <td>
+     <ul>
+     <br><b>OSGi完整安装程序上的AEM Forms</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">适用于Linux®的AEM Forms 6.5 LTS附加组件</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">适用于Windows的AEM Forms 6.5 LTS加载项</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">适用于mac OS X的AEM Forms 6.5 LTS附加组件</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms 6.5 LTS兼容包</a></li>
+      </ul> 
+      </td>
+    <td><p>AEM Forms 6.5 LTS包附加组件：6.1.152 <br/></p><p>AEM Forms 6.5 LTS兼容包：2.1.2 </td>
+   </tr>
   <tr>
     <td>2024 年 11 月 29 日</td>
     <td><a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes">适用于 AEM 6.5.22.0 的 AEM 6.5 Forms 服务包 22 Forms 附加组件包</a></td>
@@ -686,7 +701,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
 
 `[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。macOS X 包没有 PDF Generator 功能可用。
 
-`[3]` 6.5.4.0 版与 6.5.3.0 版的 AEM [!DNL Forms] 兼容包保持相同。
+6.5.4.0的`[3]` AEM [!DNL Forms]兼容包与6.5.3.0版本的兼容包相同。
 
 ## 切记事项 {#things-to-remember}
 
