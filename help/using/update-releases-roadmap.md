@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9062751317033be48bf9b6247ec4984abe589bda
+source-git-commit: ed9f891e2a8a353ab73e33fdfe5835e3b639c7f6
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 100%
+source-wordcount: '476'
+ht-degree: 93%
 
 ---
 
@@ -53,6 +53,14 @@ ht-degree: 100%
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
 通过服务包和累积修订包 (CFP) 提供支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版在新增功能、增强功能和错误修复方面的产品更新。这种方式可通过频繁发行版本加快采用产品更新。即将推出的产品更新版本的发行计划如下。
+
+### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
+
+[!DNL Experience Manager] 6.5 LTS产品更新通过Service Pack提供。 这些更新包括新增功能、增强功能和错误修复。有关最新发布的Service Pack的详细信息，请参阅[[!DNL Experience Manager] 6.5 LTS发行说明](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65-lts/content/release-notes/release-notes)。
+
+| 发行版本 | 版本号 | 类型 | 计划 | 状态 |
+|---|---|---|---|---|
+| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | 服务包 | 2025年8月21日 | Target |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
