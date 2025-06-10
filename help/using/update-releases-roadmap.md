@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 81dde5ba3ee4bb56947b4de2ac5e7635a2688c4f
-workflow-type: ht
-source-wordcount: '478'
-ht-degree: 100%
+source-git-commit: 19dbfab6bae449acf1755e78638aab1e30e1458c
+workflow-type: tm+mt
+source-wordcount: '481'
+ht-degree: 99%
 
 ---
 
@@ -34,16 +34,16 @@ ht-degree: 100%
 | 功能版本 [2025.3.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-3-0) | 功能激活 | 2025 年 3 月 27 日 | 已激活 |
 | 维护版本 [20133](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | 自动更新 | 2025 年 4 月 7-9 日 | 已更新 |
 | 维护版本 [20476](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | 自动更新 | 2025 年 4 月 22-24 日 | 已更新 |
-| 功能版本 [2025.4.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能激活 | 2025 年 4 月 24 日 | 已激活 |
-| 维护版本 [20626](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | 自动更新 | 2025 年 5 月 5-7 日 | 已激活 |
-| 维护版本 [21005](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2025 年 6 月 2-4 日 | 已激活 |
+| 功能版本 [2025.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-4-0) | 功能激活 | 2025 年 4 月 24 日 | 已激活 |
+| 维护版本 [20626](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | 自动更新 | 2025 年 5 月 5-7 日 | 已更新 |
+| 维护版本 [21005](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#21005) | 自动更新 | 2025 年 6 月 2-4 日 | 已更新 |
+| 功能版本 [2025.5.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能激活 | 2025 年 6 月 5 日 | 已激活 |
 
 ### 即将发布的 [!DNL Cloud Service] 的版本 {#upcoming}
 
 | 发行版本 | 事件 | 计划 | 状态 |
 |---|---|---|---|
-| 功能版本 2025.5.0 | 功能激活 | 2025 年 6 月 5 日 | Target |
-| 维护版本 | 自动更新 | 2025 年 6 月 16-18 日 | Target |
+| 维护版本 [21193](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2025 年 6 月 16-18 日 | Target |
 | 功能版本 2025.6.0 | 功能激活 | 2025 年 6 月 26 日 | Target |
 | 维护版本 | 自动更新 | 2025 年 6 月 30 日 - 7 月 2 日 | Target |
 | 维护版本 | 自动更新 | 2025 年 7 月 14-16 日 | Target |
