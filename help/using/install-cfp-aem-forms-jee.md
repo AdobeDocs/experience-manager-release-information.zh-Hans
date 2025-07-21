@@ -10,7 +10,7 @@ ht-degree: 97%
 
 ---
 
-# 在 AEM [!DNL  Forms] JEE 上安装累积修订包{#installing-cumulative-fix-packs-on-aem-forms-jee}
+# 在 AEM [!DNL &#x200B; Forms] JEE 上安装累积修订包{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## 在 AEM 6.3 [!DNL Forms JEE] 上安装 CFP {#install-cfp-forms-6-3}
 
@@ -23,7 +23,7 @@ ht-degree: 97%
 
 ### 安装 AEM [!DNL Forms JEE] 包 {#install-aem-forms-jee-bundles-package}
 
-AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）为 AEM [!DNL Forms JEE] 上的 [!DNL Forms] 用户提供与 AEM [!DNL Forms OSGi] 上相同的权限和功能。检查包管理器中已安装的包，如果尚未安装，请安装包。
+AEM [!DNL &#x200B; Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）为 AEM [!DNL Forms JEE] 上的 [!DNL Forms] 用户提供与 AEM [!DNL Forms OSGi] 上相同的权限和功能。检查包管理器中已安装的包，如果尚未安装，请安装包。
 
 ### CQ-4208044 的更多说明 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）�
 
 1. 再次导入修改后的文件，然后重新运行同步。
 
-## 在 AEM 6.2 [!DNL  Forms JEE] 上安装 CFP {#install-cfp-on-aem-62-forms-jee}
+## 在 AEM 6.2 [!DNL &#x200B; Forms JEE] 上安装 CFP {#install-cfp-on-aem-62-forms-jee}
 
 要在 AEM 6.2 [!DNL Forms JEE] 上安装累积修订包，请按顺序执行以下步骤。
 
