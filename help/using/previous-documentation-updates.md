@@ -3,10 +3,10 @@ title: 以前的文档更新
 description: 了解有关  [!DNL Adobe Experience Manager] 旧版重要文档更改和更新的更多信息。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
-workflow-type: ht
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>Headless 体验管理<br /> </td> 
-   <td>记录了用于在服务器端呈现单页面应用程序的<a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">远程内容渲染器</a>功能。<br /> </td> 
+   <td>记录了用于在服务器端呈现单页面应用程序的<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">远程内容渲染器</a>功能。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 11 月 10 日</td> 
@@ -81,7 +81,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>核心组件</td> 
-   <td>现在提供了核心组件 2.7.0 版（其中引入了“嵌入”组件），同时还提供了<a href="https://github.com/adobe/aem-core-wcm-components">可在 GitHub 上获取的开发人员详细信息和项目下载</a>。</td> 
+   <td>现在提供了核心组件2.7.0版（其中引入了“嵌入组件”），同时还提供了<a href="https://github.com/adobe/aem-core-wcm-components">可在GitHub</a>上获取的开发人员详细信息和项目下载。</td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -171,7 +171,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 6 月 3 日</td> 
    <td>富文本编辑器 (RTE)<br /> </td> 
-   <td><p>在<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">创建多字段组件</a>中添加了一个包。<br /> </p> <p>基于客户反馈创建了<a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">常见问题解答</a>。</p> </td> 
+   <td><p>在<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">创建的多字段组件</a>.<br />中添加了一个包 </p> <p>基于客户反馈创建了<a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">常见问题解答</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 5 月 31 日</td> 
@@ -216,7 +216,7 @@ ht-degree: 100%
      <li>Adobe AEM 6.5.0 API</li> 
      <li>Granite UI（触屏 UI）API 文档</li> 
      <li>Coral UI 指南</li> 
-     <li>Widget API（经典 UI）文档</li> 
+     <li>小组件 API（经典 UI）文档</li> 
      <li>UI 测试框架</li> 
      <li>JavaScript API 参考</li> 
      <li>单页面应用程序 JavaScript API 参考</li> 

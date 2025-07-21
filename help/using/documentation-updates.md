@@ -3,10 +3,10 @@ title: Experience Manager 最近的文档更新
 description: 了解 Experience Manager 文档中的新增内容、更新内容或更改内容。
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '1941'
-ht-degree: 100%
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
+source-wordcount: '1934'
+ht-degree: 99%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 | 2021 年 11 月 25 日 | 带 Dynamic Media 的 AEM 配置 | 您现在可以直接从 AEM 上的 Dynamic Media 中配置常规设置和发布设置，而不必使用 Dynamic Media 桌面应用程序。<br>请参阅[配置 Dynamic Media 常规设置](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/dynamic/dm-general-settings)和[为图像服务器配置 Dynamic Media 发布设置](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/dynamic/dm-publish-settings)。<br>另请参阅[配置 Dynamic Media - Scene7 模式](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/dynamic/config-dms7) |
 | 2021 年 11 月 4 日 | 带 Dynamic Media 的 AEM - 智能裁切 | 使用最新的 Adobe Sensei 服务改进了图像资源的智能裁切和智能色板功能。文档更新包括以下内容：<br>• 在图像配置文件的“裁切选项”对话框中新增了&#x200B;**[!UICONTROL 跨目标分辨率保留裁切内容]**&#x200B;选项。<br>• 它增强了企业表格和文档的网络和移动体验。此功能使组织能够完成复杂的数字交互，改善用户体验并扩展其业务范围。不过，如果您在图像配置文件的&#x200B;**[!UICONTROL 响应式图像裁切]**&#x200B;区域中编辑宽度和/或高度，则这些资源需要重新处理。<br>• 新的智能裁切和色板支持的图像文件格式表。<br>有关这些更新，请参阅[图像配置文件](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)。 |
 | 2021 年 11 月 3 日 | 智能裁切视频查看器 API | Dynamic Media 查看器参考指南中现在提供了新的[智能裁切视频查看器 API 文档](https://experienceleague.adobe.com/zh-hans/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference)。 |
-| 2020 年 12 月 2 日 | 批次集预设 | 了解如何使用 Dynamic Media 中的批次集预设自动创建图像集和旋转集。请参阅[批次集预设](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/batch-set-presets-dm)。 |
+| 2020 年 12 月 2 日 | `Batch Set Presets` | 了解如何使用 Dynamic Media 中的批次集预设自动创建图像集和旋转集。请参阅[批次集预设](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/batch-set-presets-dm)。 |
 | 2020 年 12 月 2 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/accessibility-dm)。 |
 | 2020 年 10 月 29 日 | 核心组件 | 核心组件版本 2.12.0 中引入了新的 POST 表单处理程序；通过上下文感知配置包含自定义 CSS、JavaScript 和元数据标记的功能；以及可简化自定义组件中的数据层集成的 **DataLayerBuilderutility**。该版本与[创作文档](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-core-components/using/introduction)以及[可在 GitHub 上获取的开发人员详细信息和项目下载](https://github.com/adobe/aem-core-wcm-components)一起提供。 |
 | 2020 年 9 月 24 日 | 完成新的 Dynamic Media 配置后发送收件箱通知 | 当设置完新的 Dynamic Media 配置时，您将在 Experience Manager 收件箱中收到相应状态通知。此通知会告知您配置是否成功。如果配置失败，此通知将提供错误代码。请在联系 Adobe 客户关怀部门时提供此错误代码。<br>请参阅[对新的 Dynamic Media 配置进行故障排除](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。 |
@@ -45,7 +45,7 @@ ht-degree: 100%
 | 2020 年 8 月 27 日 | Dynamic Media 中的 CDN 失效功能 | 您现在可以从 Dynamic Media 发送请求，以使 CDN 缓存在几分钟内过期。当您更新资源并希望这些更改立即在您的网站上生效时，此功能非常有用。<br>请参阅[通过 Dynamic Media 使 CDN 缓存失效](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/invalidate-cdn-cache-dynamic-media)。 |
 | 2020 年 8 月 11 日 | 用于发布页面的打开和关闭时间属性 | 使用[打开和关闭时间属性](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/sites/authoring/sites-console/page-properties)发布页面时，请查看“页面属性”中的“基本”选项卡，您现在可以[预配置自动复制](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/operations/replication)。 |
 | 2020 年 7 月 23 日 | 核心组件 | 核心组件版本 2.11.0 中引入了对 AMP 的支持，该版本现在与[创作文档](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-core-components/using/introduction)以及[可在 GitHub 上获取的开发人员详细信息和项目下载](https://github.com/adobe/aem-core-wcm-components)一起提供。 |
-| 2020 年 7 月 15 日 | Sling 备忘单 | 已将 [Sling 备忘单](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/sling-cheatsheet)更新为引用 [HTL。](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-htl/content/overview) |
+| 2020 年 7 月 15 日 | Sling 备忘单 | [`Sling Cheatsheet`](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/sling-cheatsheet)已更新为引用[HTL.](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-htl/content/overview) |
 | 2020 年 6 月 24 日 | 内容片段 | [已对文档进行了更新，因为模型现在为标准模型。](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/content-fragments/content-fragments) |
 | 2020 年 6 月 19 日 | Experience Manager | Adobe 旨在从其代码、文档和体验中使用公平的术语。<br>为此，已更新该文档集。 |
 | 2020 年 6 月 19 日 | 核心组件 | 核心组件版本 2.10.0 中引入了 PDF 查看器组件，该版本现在与[创作文档](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-core-components/using/introduction)以及[可在 GitHub 上获取的开发人员详细信息和项目下载](https://github.com/adobe/aem-core-wcm-components)一起提供。 |
@@ -77,7 +77,7 @@ ht-degree: 100%
 | 2020 年 9 月 3 日 | 使用 Dynamic Media 中的“选择性发布”功能 | 您可以选择在文件夹级别向 Experience Manager 或 Dynamic Media 发布资源或从中取消发布资源。您可以用&#x200B;**[!UICONTROL “管理出版物”]**&#x200B;或&#x200B;**[!UICONTROL “快速发布”]**&#x200B;来完成此任务。此方法避免仅仅依赖 **Dynamic Media Configuration**，它将设置全局应用于 Dynamic Media 实例中的所有文件夹。<br>请参阅[使用 Dynamic Media 中的“选择性发布”功能](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/dynamic/selective-publishing)。 |
 | 2020 年 9 月 3 日 | Experience Manager 6.5 服务包 6 | 现已推出 [Experience Manager 6.5 服务包 6](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-6)。 |
 | 2020 年 7 月 29 日 | 多站点管理器 | 已对[创建同步操作](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/developing/extending-aem/extending-msm)和[创建转出配置](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/developing/extending-aem/extending-msm)过程进行了更新。 |
-| 2020 年 7 月 15 日 | Sling 备忘单 | 已将 [Sling 备忘单](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/developing/platform/sling-cheatsheet)更新为引用 [HTL。](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-htl/content/overview) |
+| 2020 年 7 月 15 日 | Sling 备忘单 | [`Sling Cheatsheet`](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/developing/platform/sling-cheatsheet)已更新为引用[HTL.](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-htl/content/overview) |
 | 2020 年 6 月 19 日 | Adobe Experience Manager | Adobe 旨在从其代码、文档和体验中使用公平的术语。<br>因此对此文档集作出了更新以反映此公平性。 |
 | 2020 年 6 月 4 日 | 使用 Brand Portal 配置 Experience Manager Assets | Adobe Developer Console 台具有新的用户界面和工作流程以及新的品牌化内容。已基于最新的 Adobe Developer Console 工作流更新文档，以使用 Brand Portal 配置 Experience Manager Assets：<br>- [使用 Brand Portal 配置 Experience Manager Assets ](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/brandportal/configure-aem-assets-with-brand-portal)<br>- [将旧配置升级到 Adobe Developer Console](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/brandportal/configure-aem-assets-with-brand-portal) |
 | 2020 年 6 月 4 日 | Experience Manager 6.5 服务包 5 | 现已推出 [Experience Manager 6.5 服务包 5](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-5)。 |
