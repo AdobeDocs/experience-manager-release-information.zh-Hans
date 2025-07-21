@@ -51,7 +51,7 @@ ht-degree: 97%
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>Headless 体验管理<br /> </td> 
-   <td>记录了用于在服务器端呈现单页面应用程序的<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">远程内容渲染器</a>功能。<br /> </td> 
+   <td>记录了用于在服务器端呈现单页面应用程序的<a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">远程内容渲染器</a>功能。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 11 月 10 日</td> 
