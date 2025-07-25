@@ -4,9 +4,9 @@ description: 了解有关  [!DNL Adobe Experience Manager] 旧版重要文档更
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1172'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 97%
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>核心组件</td> 
-   <td>现在提供了核心组件2.7.0版（其中引入了“嵌入组件”），同时还提供了<a href="https://github.com/adobe/aem-core-wcm-components">可在GitHub</a>上获取的开发人员详细信息和项目下载。</td> 
+   <td>核心组件版本 2.7.0 现已发布，该版本引入了`Embed 组件`，相关<a href="https://github.com/adobe/aem-core-wcm-components">开发者详情和项目下载可在 GitHub 上获取</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -171,7 +171,7 @@ ht-degree: 97%
   <tr>
    <td>2019 年 6 月 3 日</td> 
    <td>富文本编辑器 (RTE)<br /> </td> 
-   <td><p>在<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">创建的多字段组件</a>.<br />中添加了一个包 </p> <p>基于客户反馈创建了<a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">常见问题解答</a>。</p> </td> 
+   <td><p>在<a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">已创建的多字段组件</a>中添加了一个包。<br /> </p> <p>基于客户反馈创建了<a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">常见问题解答</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 5 月 31 日</td> 
