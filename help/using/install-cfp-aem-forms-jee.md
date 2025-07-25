@@ -16,7 +16,7 @@ ht-degree: 100%
 
 要在 AEM 6.3 [!DNL Forms JEE] 上安装累积修订包，请按顺序执行以下步骤。
 
-1. 要获取 CFP 的 AEM 6.3 [!DNL Forms JEE] 安装程序，请联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)。
+1. 要获取 CFP 的 AEM 6.3 [!DNL Forms JEE] 安装程序，请联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)。
 1. 运行 CFP 安装程序，并按照[安装和配置 AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) 中所述配置 AEM [!DNL Forms JEE]。
 1. 安装最新的 AEM CFP 6.3.3.x
 1. 安装[!DNL Forms]适用于 AEM CFP [6.3.3.x](aem-forms-releases.md) 的附加组件包
@@ -42,7 +42,7 @@ AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）�
 
 要在 AEM 6.2 [!DNL Forms JEE] 上安装累积修订包，请按顺序执行以下步骤。
 
-1. 要获取 CFP 的 AEM 6.2 [!DNL Forms JEE] 安装程序，请联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)。
+1. 要获取 CFP 的 AEM 6.2 [!DNL Forms JEE] 安装程序，请联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)。
 1. 运行 CFP 安装程序，并按照[安装和配置 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中所述配置 AEM [!DNL Forms JEE]。
 1. 安装 AEM 修补程序 12785 版本 7.0。
 1. 安装 AEM 6.2 服务包 1。
