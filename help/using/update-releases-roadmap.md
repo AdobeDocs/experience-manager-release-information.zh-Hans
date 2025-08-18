@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b1d6332f485665eb693f6f8277168d477f231209
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '515'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 96%
 >
 >**计划内的维护排除期**
 >
-> 在欧洲中部时间午夜(00:00)开始和结束的以下时间范围内，不会执行自动AEMaaCS维护：
+> 在欧洲中部时间午夜 (00:00) 开始和结束的以下时间范围内，不执行自动 AEMaaCS 维护：
 >
 >* 2025 年 11 月 24 日星期一至 2025 年 12 月 2 日星期二。
 >* 2025 年 12 月 8 日星期一至 2026 年 1 月 2 日星期五。
