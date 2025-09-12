@@ -933,7 +933,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)以获取 Workbench、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
+`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)以获取 Workbench、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
 
 `[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。macOS X 包没有 PDF Generator 功能可用。
 
