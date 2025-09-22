@@ -33,7 +33,7 @@ ht-degree: 99%
 | 维护版本 [21772](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | 自动更新 | 2025 年 8 月 11-13 日 | 已更新 |
 | 维护版本 [21994](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | 自动更新 | 2025 年 8 月 25-27 日 | 已更新 |
 | 功能版本 [2025.8.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能激活 | 2025 年 8 月 28 日 | 已激活 |
-| 维护版本 [22171](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | 自动更新 | 2025 年 9 月 8-10 日 | 已更新 |
+| 维护版本 [22171](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | 自动更新 | 2025 年 9 月 8-10 日 | 已更新 |
 
 ### 即将发布的 [!DNL Cloud Service] 的版本 {#upcoming}
 
