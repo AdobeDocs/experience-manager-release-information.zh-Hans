@@ -29,9 +29,9 @@ ht-degree: 96%
 |---|---|---|---|
 | 维护版本 [22171](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | 自动更新 | 2025 年 9 月 8-10 日 | 已更新 |
 | 维护版本 [22450](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22450) | 自动更新 | 2025 年 9 月 22-24 日 | 已更新 |
-| 功能版本 [2025.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-9-0) | 功能激活 | 2025 年 9 月 25 日 | 已激活 |
-| 维护版本 [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | 自动更新 | 2025 年 10 月 6-8 日 | 已更新 |
-| 维护版本 [22943](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | 自动更新 | 2025 年 10 月 20 - 22 日 | 已更新 |
+| 功能版本 [2025.9.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-9-0) | 功能激活 | 2025 年 9 月 25 日 | 已激活 |
+| 维护版本 [22758](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | 自动更新 | 2025 年 10 月 6-8 日 | 已更新 |
+| 维护版本 [22943](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | 自动更新 | 2025 年 10 月 20 - 22 日 | 已更新 |
 | 功能版本 [2025.10.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能激活 | 2025 年 10 月 30 日 | 已激活 |
 
 ### 即将发布的 [!DNL Cloud Service] 的版本 {#upcoming}
