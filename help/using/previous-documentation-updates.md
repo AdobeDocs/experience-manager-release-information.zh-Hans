@@ -237,7 +237,7 @@ ht-degree: 99%
 
 ## 旧版内容 {#legacy-content}
 
-截至 2023 年 5 月 1 日，AEM 文档的旧版本已移至[旧版本的 Adobe Experience Manager、CQ 和 CRX ](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)的新位置。
+截至 2023 年 5 月 1 日，AEM 文档的旧版本已移至[旧版本的 Adobe Experience Manager、CQ 和 CRX &#x200B;](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)的新位置。
 
 移动的版本包括：
 
