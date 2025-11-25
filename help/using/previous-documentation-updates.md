@@ -3,10 +3,10 @@ title: 以前的文档更新
 description: 了解有关  [!DNL Adobe Experience Manager] 旧版重要文档更改和更新的更多信息。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 4789d586a9222d7f94283c56b7b71680f68726fe
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -76,7 +76,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 10 月 1 日 </td> 
    <td>AEM Screens 项目的“最佳实践指南”</td> 
-   <td><p>这份新指南提供了全面的见解和实用建议，可帮助您构想、设计并将有意的客户体验融入到您的数字标牌实施中。它还可以指导您使用在 AEM Screens 中部署数字标牌项目时遵循的一些最佳实践对您的业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-screens/using/about-guide">AEM Screens 项目最佳实践指南</a>，获取更多详细信息。</p> </td> 
+   <td><p>这份新指南提供了全面的洞察和实用建议，可帮助您构想、设计并将有意的客户体验融入到您的数字标牌实施中。它还可以指导您使用在 AEM Screens 中部署数字标牌项目时遵循的一些最佳实践对您的业务产生积极影响。</p> <p>请参阅 <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-screens/using/about-guide">AEM Screens 项目最佳实践指南</a>，获取更多详细信息。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -176,7 +176,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 5 月 31 日</td> 
    <td>AEM 和 Adobe Commerce 集成 </td> 
-   <td><a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Commerce 集成框架</a>。</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">Commerce 集成框架</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 24 日</td> 
