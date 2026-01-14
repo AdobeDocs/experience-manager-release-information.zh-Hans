@@ -3,10 +3,10 @@ title: Experience Manager 最近的文档更新
 description: 了解 Experience Manager 文档中的新增内容、更新内容或更改内容。
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 19c14469de7ac389ca49bd321550ecafce5ef618
+workflow-type: tm+mt
 source-wordcount: '1934'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -33,8 +33,8 @@ ht-degree: 100%
 | 日期 | 主题 | 更改 |
 | --- | --- | --- |
 | 2021 年 11 月 25 日 | 带 Dynamic Media 的 AEM 配置 | 您现在可以直接从 AEM 上的 Dynamic Media 中配置常规设置和发布设置，而不必使用 Dynamic Media 桌面应用程序。<br>请参阅[配置 Dynamic Media 常规设置](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/dynamic/dm-general-settings)和[为图像服务器配置 Dynamic Media 发布设置](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/dynamic/dm-publish-settings)。<br>另请参阅[配置 Dynamic Media - Scene7 模式](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/assets/dynamic/config-dms7) |
-| 2021 年 11 月 4 日 | 带 Dynamic Media 的 AEM - 智能裁切 | 使用最新的 Adobe Sensei 服务改进了图像资源的智能裁切和智能色板功能。文档更新包括以下内容：<br>• 在图像配置文件的“裁切选项”对话框中新增了&#x200B;**[!UICONTROL 跨目标分辨率保留裁切内容]**&#x200B;选项。<br>• 它增强了企业表格和文档的网络和移动体验。此功能使组织能够完成复杂的数字交互，改善用户体验并扩展其业务范围。不过，如果您在图像配置文件的&#x200B;**[!UICONTROL 响应式图像裁切]**&#x200B;区域中编辑宽度和/或高度，则这些资源需要重新处理。<br>• 新的智能裁切和色板支持的图像文件格式表。<br>有关这些更新，请参阅[图像配置文件](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)。 |
-| 2021 年 11 月 3 日 | 智能裁切视频查看器 API | Dynamic Media 查看器参考指南中现在提供了新的[智能裁切视频查看器 API 文档](https://experienceleague.adobe.com/zh-hans/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference)。 |
+| 2021 年 11 月 4 日 | 带 Dynamic Media 的 AEM - 智能裁剪 | 使用最新的Adobe AI服务改进了图像资源的智能裁切和智能色板功能。 文档更新包括以下内容：<br>• 在图像配置文件的“裁切选项”对话框中新增了&#x200B;**[!UICONTROL 跨目标分辨率保留裁切内容]**&#x200B;选项。<br>• 它增强了企业表格和文档的网络和移动体验。此功能使组织能够完成复杂的数字交互，改善用户体验并扩展其业务范围。不过，如果您在图像配置文件的&#x200B;**[!UICONTROL 响应式图像裁切]**&#x200B;区域中编辑宽度和/或高度，则这些资源需要重新处理。<br>• 新的智能裁剪和色板支持的图像文件格式表。<br>有关这些更新，请参阅[图像配置文件](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)。 |
+| 2021 年 11 月 3 日 | 智能裁剪视频查看器 API | Dynamic Media 查看器参考指南中现在提供了新的[智能裁剪视频查看器 API 文档](https://experienceleague.adobe.com/zh-hans/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference)。 |
 | 2020 年 12 月 2 日 | `Batch Set Presets` | 了解如何使用 Dynamic Media 中的批次集预设自动创建图像集和旋转集。请参阅[批次集预设](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/batch-set-presets-dm)。 |
 | 2020 年 12 月 2 日 | Dynamic Media 中的辅助功能 | Dynamic Media 和 Dynamic Media 查看器在整个创作用户界面中都支持键盘控件和各类辅助技术，如 JAWS 和 NVDA 屏幕阅读器。请参阅 [Dynamic Media 中的辅助功能](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/accessibility-dm)。 |
 | 2020 年 10 月 29 日 | 核心组件 | 核心组件版本 2.12.0 中引入了新的 POST 表单处理程序；通过上下文感知配置包含自定义 CSS、JavaScript 和元数据标记的功能；以及可简化自定义组件中的数据层集成的 **DataLayerBuilderutility**。该版本与[创作文档](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-core-components/using/introduction)以及[可在 GitHub 上获取的开发人员详细信息和项目下载](https://github.com/adobe/aem-core-wcm-components)一起提供。 |
@@ -58,7 +58,7 @@ ht-degree: 100%
 | 2020 年 4 月 9 日 | 使用 Brand Portal 配置 Experience Manager Assets as a Cloud Service | Experience Manager Assets as a Cloud Service 现在支持 Brand Portal。 您可以在 Adobe Developer 上使用 Experience Manager Assets as a Cloud Service 配置 Brand Portal 租户：<br>- [使用 Brand Portal 配置 Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/brand-portal/configure-aem-assets-with-brand-portal)<br>- [将资源发布到 Brand Portal](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/brand-portal/publish-to-brand-portal) |
 | 2020 年 4 月 9 日 | Adobe Asset Link v2.0 版本 | Adobe Asset Link 2.0 支持使用多个 Adobe Experience Manager 环境，并支持 Experience Manager as a Cloud Service。 在使用 AAL 将资源上传到文件夹后，营销人员可使用 Experience Manager 配置自动执行资源处理工作流。<br>请参阅 [Adobe Asset Link](https://helpx.adobe.com/cn/enterprise/using/adobe-asset-link.html)。 |
 | 2020 年 3 月 24 日 | 请参阅 Configuration of Dynamic Media Cloud Service。 | 在配置 Dynamic Media 云服务时有新选项可用：<br>**选择性发布** - 当选择此选项时，即意味着自动发布资源仅供安全预览。可显式地将资源发布到 Experience Manager，而不发布到 DMS7 以供投放在公共域中。<br>请参阅[配置 Dynamic Media 云服务](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm)。 |
-| 2020 年 3 月 2 日 | Dynamic Media — 智能裁剪 | 在 Dynamic Media 组件中使用智能裁切时有一个新选项可用：<br>**启用宽高比匹配** - 选择此选项可让 Dynamic Media 选取一个最符合原始图像宽高比的智能裁切演绎版。<br>请参阅[使用智能裁剪时](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/adding-dynamic-media-assets-to-pages)。 |
+| 2020 年 3 月 2 日 | Dynamic Media — 智能裁剪 | 在 Dynamic Media 组件中使用智能裁剪时有一个新选项可用：<br>**启用宽高比匹配** - 选择此选项可让 Dynamic Media 选取一个最符合原始图像宽高比的智能裁剪演绎版。<br>请参阅[使用智能裁剪时](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/assets/dynamicmedia/adding-dynamic-media-assets-to-pages)。 |
 | 2020 年 2 月 25 日 | 基于角色的权限 | Cloud Manager 预配置了一些具有适当权限的角色。每个角色均具有特定权限、预配置任务或与之关联的权限。[“基于角色的权限”页面](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/onboarding/journey/cloud-manager)列出了可用功能以及能够执行各项功能的角色。 |
 | 2020 年 2 月 15 日 | 云中的调度程序 | 为阐明可用选项以及各个选项的使用方式，已对[调度程序和 CDN](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-dispatcher/using/dispatcher) 以及[明确使调度程序缓存失效](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-dispatcher/using/configuring/page-invalidate)部分进行了更新。 |
 
@@ -67,7 +67,7 @@ ht-degree: 100%
 | 日期 | 主题 | 更改 |
 | --- | --- | --- |
 | 2021 年 11 月 25 日 | [!DNL Experience Manager] 6.5 服务包 11 | 现已推出 [[!DNL Experience Manager] 6.5 服务包 11](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-11)。 |
-| 2021 年 11 月 3 日 | 智能裁切视频查看器 API | Dynamic Media 查看器参考指南中现在提供了新的[智能裁切视频查看器 API 文档](https://experienceleague.adobe.com/zh-hans/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference)。 |
+| 2021 年 11 月 3 日 | 智能裁剪视频查看器 API | Dynamic Media 查看器参考指南中现在提供了新的[智能裁剪视频查看器 API 文档](https://experienceleague.adobe.com/zh-hans/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference)。 |
 | 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 服务包 10 | 现已推出 [[!DNL Experience Manager] 6.5 服务包 10](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-10)。 |
 | 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 服务包 9 | 现已推出 [[!DNL Experience Manager] 6.5 服务包 9](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-9)。 |
 | 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 服务包 8 | 现已推出 [[!DNL Experience Manager] 6.5 服务包 8](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-8)。 |
