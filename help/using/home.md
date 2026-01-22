@@ -2,9 +2,9 @@
 title: Adobe Experience Manager 版本更新和路线图
 description: 了解有关 Adobe Experience Manager 版本更新和路线图的更多信息。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '66'
+source-git-commit: 4390791c7698fb476af4d7f74e6e919875031608
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 * [[!DNL Experience Manager] Forms 版本](aem-forms-releases.md)
 * [在  [!DNL Experience Manager]  Forms JEE 上安装累积修订包](install-cfp-aem-forms-jee.md)
 
-## 文档更新
-
-* [[!DNL Experience Manager] 文档：最近文档更新](documentation-updates.md)
-* [以前的文档更新](previous-documentation-updates.md)

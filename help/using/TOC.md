@@ -10,10 +10,10 @@ feature-set: Experience Manager
 feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
+source-git-commit: 1ecab683c9f72e1077b1ca2ace9c0bcd54d5bdcc
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 94%
+source-wordcount: '63'
+ht-degree: 93%
 
 ---
 
@@ -29,6 +29,3 @@ ht-degree: 94%
 + AEM Forms版本更新 {#forms-updates}
    + [AEM Forms 版本](aem-forms-releases.md)
    + [在 AEM Forms JEE 上安装累积修补程序包](install-cfp-aem-forms-jee.md)
-+ 文档更新 {#doc-updates}
-   + [近期文档更新](documentation-updates.md)
-   + [以前的文档更新](previous-documentation-updates.md)
