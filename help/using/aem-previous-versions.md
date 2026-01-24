@@ -98,4 +98,4 @@ ht-degree: 96%
 
 ## 从 [!DNL Experience Manager] 社区获取帮助 {#get-help-from-aem-community}
 
-如果您对于使用 Experience Manager 有任何疑问，Adobe 建议您[在  [!DNL Experience Manager]  论坛中与我们经验丰富的社区专家联系](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)。
+如果您对于使用 Experience Manager 有任何疑问，Adobe 建议您[在  [!DNL Experience Manager]  论坛中与我们经验丰富的社区专家联系](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hans)。
