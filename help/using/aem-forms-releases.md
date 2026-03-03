@@ -3,20 +3,20 @@ title: AEM Forms 发行版
 description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 41b9970bbde35a85f6de1e558eb9531f7f1b4816
+source-git-commit: b377e40acf38c2b056e4e2061a498f5950d9655b
 workflow-type: tm+mt
-source-wordcount: '3577'
-ht-degree: 97%
+source-wordcount: '15125'
+ht-degree: 96%
 
 ---
 
 # AEM [!DNL Forms] 发行版 {#aem-forms-releases}
 
-Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序。它增强了企业表格和文档的网络和移动体验。此功能使组织能够完成复杂的数字交互，改善用户体验并扩展其业务范围。AEM [!DNL Forms]，是开箱即用的，其包含在 AEM Quick Start 中，但功能有限。AEM [!DNL Forms] 附加组件包提供了高级功能，例如与 [!DNL Adobe Analytics]、[!DNL Adobe Sign]、文档服务、工作流引擎等的集成。
+Adobe Experience Manager [!DNL Forms] 是一款部署在 AEM 上的应用程序。 它增强了企业表格和文档的网络和移动体验。 此功能使组织能够完成复杂的数字交互，改善用户体验并扩展其业务范围。 AEM [!DNL Forms]，是开箱即用的，其包含在 AEM Quick Start 中，但功能有限。 AEM [!DNL Forms] 附加组件包提供了高级功能，例如与 [!DNL Adobe Analytics]、[!DNL Adobe Sign]、文档服务、工作流引擎等的集成。
 
 >[!NOTE]
 >
->在 [AEM 6.5 快速入门](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/deploying/deploying/deploy)中谈及的自适应表单功能旨在仅作探索和评估用途。由于自适应表单功能需要适当的许可，因此必须获得 AEM Forms 的有效许可证才能作生产用途。
+>在 [AEM 6.5 快速入门](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/implementing/deploying/deploying/deploy)中谈及的自适应表单功能旨在仅作探索和评估用途。 由于自适应表单功能需要适当的许可，因此必须获得 AEM Forms 的有效许可证才能作生产用途。
 
 <!--
 >[!NOTE]
@@ -111,6 +111,10 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">适用于 macOS X 的 AEM Forms 6.5 LTS 附加组件</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms 6.5 LTS 兼容包</a></li>
         </ul>
+                  <b style="display:block; margin:10px 0;">SDK</b>
+         <ul>
+           <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.152/">AEM Forms 客户端 SDK</a>    </li>
+         </ul>
       </td>
       <td>
         <p>AEM Forms 6.5 LTS 包附加组件：6.1.152</p>
@@ -174,7 +178,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </ul>
       </td>
       <td>
-        <p>AEM Forms OSGI修补程序安装程序：6.0.1452<br/><p>AEM Forms JEE 补丁安装程序：6-5-0-0115 <br/><p>AEM Forms 兼容包：6.0.1448 <br/></p></td>
+        <p>AEM Forms OSGI修补程序安装程序：6.0.1452<br/><p>AEM Forms JEE修补程序安装程序：6-5-0-0115 <br/><p>AEM Forms 兼容包：6.0.1448 <br/></p></td>
     </tr>
     <tr>
       <td>2025 年 6 月 6 日</td>
@@ -1001,21 +1005,21 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
+`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
 
-`[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。macOS X 包没有 PDF Generator 功能可用。
+`[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。 macOS X 包没有 PDF Generator 功能可用。
 
 6.5.4.0 的`[3]` AEM [!DNL Forms] 兼容包与 6.5.3.0 版本的兼容包相同。
 
 ## 切记事项 {#things-to-remember}
 
 * 上面列出的 AEM Forms 包适用于 OSGi 上的 AEM [!DNL Forms] 和 JEE 上的 AEM [!DNL Forms]。
-* 所有 AEM [!DNL Forms] 包和快速修补程序都是累积的；也就是说，该包和快速修补程序中包含相应版本组件的所有之前的附加组件包和快速修补程序。例如，如果您正在安装快速修补程序 2.4.50，则它已经包含 AEM [!DNL Forms] 附加组件包 2.4.26。
+* 所有 AEM [!DNL Forms] 包和快速修补程序都是累积的；也就是说，该包和快速修补程序中包含相应版本组件的所有之前的附加组件包和快速修补程序。 例如，如果您正在安装快速修补程序 2.4.50，则它已经包含 AEM [!DNL Forms] 附加组件包 2.4.26。
 
   >[!NOTE]
   >
   >累积附加组件包和快速修补程序意味着版本号的前两个数字相同。
 
-* 应始终安装可用的最新版服务包/功能包附加组件包。之所以强烈建议您这么做，是因为最新版中包含安全性、性能、稳定性优化，以及自基础版本正式发布以来推出的关键客户修补程序和增强功能。
-* 当您安装服务包或从以前版本的 AEM 升级到新版本时，请始终安装相应的 AEM [!DNL Forms] 附加组件包。例如，如果从 AEM 6.1 [!DNL Forms] 附加组件包版本 2.2.4 升级到 AEM 6.1 服务包 1，请在安装 AEM 6.1 服务包 1 之后，安装 AEM [!DNL Forms] 附加组件包版本 2.4.50。
+* 应始终安装可用的最新版服务包/功能包附加组件包。 之所以强烈建议您这么做，是因为最新版中包含安全性、性能、稳定性优化，以及自基础版本正式发布以来推出的关键客户修补程序和增强功能。
+* 当您安装服务包或从以前版本的 AEM 升级到新版本时，请始终安装相应的 AEM [!DNL Forms] 附加组件包。 例如，如果从 AEM 6.1 [!DNL Forms] 附加组件包版本 2.2.4 升级到 AEM 6.1 服务包 1，请在安装 AEM 6.1 服务包 1 之后，安装 AEM [!DNL Forms] 附加组件包版本 2.4.50。
 * 不支持卸载 AEM [!DNL Forms] 附加组件包。
