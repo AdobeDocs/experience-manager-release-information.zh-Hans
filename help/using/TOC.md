@@ -4,6 +4,7 @@ product: experience manager
 solution: Experience Manager
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+usetq: true
 audience: end-user
 user-guide-title: Adobe Experience Manager 版本更新和路线图
 breadcrumb-title: AEM 版本信息
@@ -12,7 +13,7 @@ feature-set: Experience Manager
 feature: Release Information
 role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: e4acffb44dc17f6651139d6561c5aec39e4a576f
+source-git-commit: f64130f85d9a259c30ed679d067f43944c07c790
 workflow-type: tm+mt
 source-wordcount: 63
 ht-degree: 100%
