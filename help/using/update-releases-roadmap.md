@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 版本发行路线图'
 description: '[!DNL Adobe Experience Manager] 版本发行路线图'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7257f70fb56aa4848bcf3239ad9a96204ee7d79e
+source-git-commit: c3c283bccc7c4569fa7143a8f08b3592c4940ff5
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 85%
+source-wordcount: '1235'
+ht-degree: 72%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 85%
 
 >[!IMPORTANT]
 >
->对于使用过时版本的客户：为了帮助确保您的 AEM 环境和相关实例的安全性和稳定性，您的程序需要更新到最新的 [!DNL Experience Manager] as a [!DNL Cloud Service] 发行版本。
+>对于版本过时的客户：为了帮助确保AEM环境和相关实例的安全性和稳定性，您的程序必须更新为最新的[!DNL Experience Manager]即[!DNL Cloud Service]版本。
 >
->请联系您的 Adobe 技术代表（CSME，TAM）来协调计划，将您的环境更新到当前版本。 版本号落后当前版本 **6 个月**&#x200B;以上的旧版本需要在 Adobe 的帮助下进行分步计划的更新。
+>要协调计划将您的环境添加到当前版本，请联系您的Adobe技术代表(CSME， TAM)。 比当前版本晚&#x200B;**6个月**&#x200B;以上的版本需要通过Adobe帮助进行分步计划的更新。
 >
->请注意，如果 **2026 年 4 月 30 日**&#x200B;之前未执行任何操作，部署管道可能会停用，其他 AEMaaCS 功能将受到影响。 在不受支持的版本上继续运行可能会对应用程序的稳定性和正常运行时间产生负面影响，进一步增加安全风险。
+>请注意，如果&#x200B;**2026年4月30日**&#x200B;之前未执行任何操作，则部署管道可能会停用，并且其他AEMaaCS功能可能会受到影响。 在不支持的版本上继续运行可能会对应用程序稳定性和正常运行时间产生负面影响，并进一步增加安全风险。
 
 ### 过去 [!DNL Cloud Service] 的版本 {#past}
 
@@ -66,7 +66,7 @@ ht-degree: 85%
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
-通过服务包和累积修订包 (CFP) 提供支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版在新增功能、增强功能和错误修复方面的产品更新。 这种方式可通过频繁发行版本加快采用产品更新。 即将推出的产品更新版本的发行计划如下。
+通过服务包和累积修订包 (CFP) 提供支持的 [!DNL Experience Manager] 内部部署版和 Managed Services 版在新增功能、增强功能和错误修复方面的产品更新。 这种方法可通过频繁发行版本加快采用产品更新。 即将发布的产品更新版本的计划如下。
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
@@ -85,10 +85,10 @@ ht-degree: 85%
 | 发行版本 | 版本号 | 类型 | 计划 | 状态 |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [服务包 21](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | 服务包 | 2024 年 6 月 6 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 [服务包 22](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | 服务包 | 2024 年 11 月 21 日 | 已激活 |
+| [!DNL Experience Manager] 6.5 [服务包 22](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | 服务包 | 2024 年 11 月 21 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 [服务包 23](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | 服务包 | 2025 年 5 月 22 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 [服务包 24](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.24.0 | 服务包 | 2025 年 11 月 26 日 | 已激活 |
-| [!DNL Experience Manager] 6.5 服务包 25 | 6.5.25.0 | 服务包 | 2026 年 5 月 21 日 | Target |
+| [!DNL Experience Manager] 6.5 [服务包 24](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6.5.24) | 6.5.24.0 | 服务包 | 2025 年 11 月 26 日 | 已激活 |
+| [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | 服务包 | 2026 年 5 月 21 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 服务包 26 | 6.5.26.0 | 服务包 | 2026 年 11 月 19 日 | Target |
 
 >[!NOTE]
@@ -99,7 +99,7 @@ ht-degree: 85%
 >  每个Service Pack自发布之日起最多支持18个月 — 到2027年2月28日为止。
 >* 为 **Adobe Managed Service** 客户的 AEM 6.5 支持将于 2026 年 8 月 31 日终止。
 >* 对&#x200B;**内部部署**&#x200B;客户的 AEM 6.5 核心支持目前计划于 2027 年 2 月结束。
->* AEM 6.5将继续通过AEM 6.5 LTS提供支持。 请查看[AEM 6.5 LTS常见问题解答](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65-lts/content/release-notes/faq)。
+>* AEM 6.5将继续通过AEM 6.5 LTS提供支持。 请参阅[AEM 6.5 LTS常见问题解答](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65-lts/content/release-notes/faq)。
 
 >[!NOTE]
 >
