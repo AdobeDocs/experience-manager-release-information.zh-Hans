@@ -3,9 +3,9 @@ title: AEM Forms 发行版
 description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: e0c3c3a739f65d74afd688fdca80e71c2251d22a
+source-git-commit: 43454d87fad7b5e709aec50cc0ac2275f4ed5923
 workflow-type: tm+mt
-source-wordcount: '15820'
+source-wordcount: '15948'
 ht-degree: 96%
 
 ---
@@ -39,10 +39,39 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   <tbody>
     <tr>
       <td><strong>日期</strong></td>
-      <td><strong>AEM 6.5 LTS Forms 版本</strong></td>
+      <td><strong>AEM 6.5 LTS Forms版本</strong></td>
       <td><strong>先决条件</strong></td>
       <td><strong>可用包</strong></td>
       <td><strong>内部版本</strong></td>
+    </tr>
+    <tr>
+      <td>2026年6月18日</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2
+        </a>
+      </td>
+      <td>
+        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 2 WLP （IBM WebSphere Liberty配置文件）安装程序</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_win.zip">
+              WLP （IBM WebSphere Liberty配置文件）适用于Microsoft Windows的AEM Forms 6.5 LTS Service Pack 2安装程序
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260429-1-12345/websphere-sp2-6-6-0-20260604-1-12345/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
+              WLP （IBM WebSphere Liberty配置文件）适用于Linux的AEM Forms 6.5 LTS Service Pack 2安装程序
+            </a>
+          </li>
+        </ul>
+      </td>
+      <td>6-6-0-20260429-1-12345</td>
     </tr>
     <tr>
       <td>2026 年 2 月 19 日</td>
@@ -1076,7 +1105,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
+`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
 
 `[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。 macOS X 包没有 PDF Generator 功能可用。
 
