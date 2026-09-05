@@ -106,7 +106,7 @@ ht-degree: 53%
 >
 > 6.5.26.0 是支持 AEM 6.5 的最新服务包版本。
 >
-> 每个Service Pack自发布之日起都受支持长达18个月，到2027年2月28日为止。 请参阅[产品和技术支持时段](https://helpx.adobe.com/support/programs/eol-matrix.html#cq)。
+> 每个Service Pack自发布之日起都受支持长达18个月，到2027年2月28日为止。 请参阅[产品和技术支持时段](https://helpx.adobe.com/cn/support/programs/eol-matrix.html#cq)。
 
 >[!NOTE]
 >
