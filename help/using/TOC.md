@@ -2,8 +2,7 @@
 cloud: Experience Cloud
 product: experience manager
 solution: Experience Manager
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 usetq: true
 audience: end-user
 user-guide-title: Adobe Experience Manager 版本更新和路线图
@@ -14,7 +13,7 @@ feature: Release Information
 role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: f64130f85d9a259c30ed679d067f43944c07c790
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 63
 ht-degree: 100%
 
@@ -28,7 +27,7 @@ ht-degree: 100%
 + [AEM 版本路线图](update-releases-roadmap.md)
 + [AEM 更新版本发行方式定义](update-release-vehicle-definitions.md)
 + 以前的版本更新 {#previous-updates}
-   + [旧版 AEM、CQ 和 CRX](aem-previous-versions.md)
+  + [旧版 AEM、CQ 和 CRX](aem-previous-versions.md)
 + AEM Forms 版本更新 {#forms-updates}
-   + [AEM Forms 版本](aem-forms-releases.md)
-   + [在 AEM Forms JEE 上安装累积修补程序包](install-cfp-aem-forms-jee.md)
+  + [AEM Forms 版本](aem-forms-releases.md)
+  + [在 AEM Forms JEE 上安装累积修补程序包](install-cfp-aem-forms-jee.md)
