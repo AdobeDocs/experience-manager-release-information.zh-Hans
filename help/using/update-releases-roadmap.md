@@ -5,10 +5,8 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
 workflow-type: tm+mt
 source-wordcount: '1134'
-ht-degree: 94%
-
+ht-degree: 100%
 ---
-
 # [!DNL Experience Manager] 版本发行路线图 {#aem-releases-roadmap}
 
 [!DNL Adobe Experience Manager] 不断提供新特性并对现有功能进行改进。 它为 [!DNL Cloud Service]、Managed Services 和内部部署版本的用户提供错误修复。 本文列出了即将发行的 [!DNL Experience Manager] 版本。
@@ -20,7 +18,7 @@ ht-degree: 94%
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
 [!DNL Experience Manager] as a [!DNL Cloud Service]新功能是通过[每月功能激活](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)提供的，同时还会通过[维护版本](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)每月两次提供增强功能和错误修复。
-即将发行的 [!DNL Experience Manager] as a [!DNL Cloud Service] 版本规划如下所示：
+即将推出的 [!DNL Experience Manager] as a [!DNL Cloud Service] 版本计划如下：
 
 >[!IMPORTANT]
 >
@@ -51,19 +49,19 @@ ht-degree: 94%
 |---|---|---|---|
 | 功能版本 2026.9.0 | 功能激活 | 2026 年 9 月 24 日 | Target |
 | 维护版本 | 自动更新 | 2026 年 9 月 28-30 日 | Target |
-| 维护版本 | 自动更新 | 2026年10月12至14日 | Target |
-| 维护版本 | 自动更新 | 2026年10月26日至28日 | 目标 |
-| 功能版本2026.10.0 | 功能激活 | 2026年10月29日 | Target |
-| 维护版本 | 自动更新 | 2026年11月9-11日 | 目标 |
+| 维护版本 | 自动更新 | 2026 年 10 月 12 日至 14 日 | Target |
+| 维护版本 | 自动更新 | 2026 年 10 月 26 日至 28 日 | Target |
+| 功能版本 2026.10.0 | 功能激活 | 2026 年 10 月 29 日 | Target |
+| 维护版本 | 自动更新 | 2026 年 11 月 9 日至 11 日 | Target |
 
 >[!CAUTION]
 >
->**计划的维护排除期**
+>**计划内的维护排除期**
 >
-> 在欧洲中部时间午夜(00:00)开始和结束的以下时间范围内，不会执行自动AEMaaCS维护：
+> 在欧洲中部时间午夜 (00:00) 开始和结束的以下时间范围内，不会执行自动 AEMaaCS 维护：
 >
->* 2026年11月23日星期一至2026年12月1日星期二。
->* 2026年12月14日星期一至2027年1月3日星期日。
+>* 2026 年 11 月 23 日（星期一）至 2026 年 12 月 1 日（星期二）。
+>* 2026 年 12 月 14 日（星期一）至 2027 年 1 月 3 日（星期日）。
 
 ## [!DNL Experience Manager] 内部部署版和 Managed Services 版 {#aem-on-prem-managed-services}
 
@@ -89,7 +87,7 @@ ht-degree: 94%
 | [!DNL Experience Manager] 6.5 [服务包 22](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | 服务包 | 2024 年 11 月 21 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 [服务包 23](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | 服务包 | 2025 年 5 月 22 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 [服务包 24](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) | 6.5.24.0 | 服务包 | 2025 年 11 月 26 日 | 已激活 |
-| [!DNL Experience Manager]&#x200B;[&#x200B; 6.5 服务包 25](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | 服务包 | 2026 年 5 月 21 日 | 已激活 |
+| [!DNL Experience Manager][ 6.5 服务包 25](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | 服务包 | 2026 年 5 月 21 日 | 已激活 |
 | [!DNL Experience Manager] 6.5 服务包 26 | 6.5.26.0 | 服务包 | 2026 年 11 月 19 日 | Target |
 
 >[!AVAILABILITY]
