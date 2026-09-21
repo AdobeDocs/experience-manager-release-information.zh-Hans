@@ -3,10 +3,10 @@ title: AEM Forms 发行版
 description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: c78532eaa6c54e4a6472467f0ea9f079ee784188
+source-git-commit: ab26b8a8240bc8547f5becb68d180e78b9bc68b5
 workflow-type: tm+mt
-source-wordcount: '16479'
-ht-degree: 99%
+source-wordcount: '16662'
+ht-degree: 98%
 ---
 # AEM [!DNL Forms] 发行版 {#aem-forms-releases}
 
@@ -73,7 +73,29 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
             </a>
           </li>
         </ul>
-        <p>AEM Forms 6.5 LTS 服务包 3 的 JEE 安装程序将于稍后提供。</p>
+        JEE安装程序上的<strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">
+              适用于JBoss®和Microsoft Windows的AEM Forms 6.5 LTS Service Pack 3安装程序
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">
+              适用于JBoss®和Linux®的AEM Forms 6.5 LTS Service Pack 3安装程序
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_win.zip">
+              适用于WebSphere®和Microsoft Windows的AEM Forms 6.5 LTS Service Pack 3安装程序
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
+              适用于WebSphere®和Linux®的AEM Forms 6.5 LTS Service Pack 3安装程序
+            </a>
+          </li>
+        </ul>
       </td>
       <td>6.1.238</td>
     </tr>
@@ -1142,7 +1164,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
+`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
 
 `[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。 macOS X 包没有 PDF Generator 功能可用。
 
