@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: c78532eaa6c54e4a6472467f0ea9f079ee784188
 workflow-type: tm+mt
 source-wordcount: '16479'
-ht-degree: 98%
+ht-degree: 99%
 ---
 # AEM [!DNL Forms] 发行版 {#aem-forms-releases}
 
@@ -43,37 +43,37 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>内部版本</strong></td>
     </tr>
     <tr>
-      <td>2026年9月8日</td>
+      <td>2026 年 9 月 8 日</td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms Service Pack 3
+          AEM 6.5 LTS Forms 服务包 3
         </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hans/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms Service Pack 3
+          AEM 6.5 LTS Forms 服务包 3
         </a>
       </td>
       <td>
-        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3 OSGi附加组件</strong>
+        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS 服务包 3 OSGi 附加组件</strong>
         <ul>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.238.zip">
-              适用于Microsoft Windows的AEM Forms 6.5 LTS Service Pack 3附加组件
+              适用于 Microsoft Windows 的 AEM Forms 6.5 LTS 服务包 3 附加组件
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.238.zip">
-              适用于Linux®的AEM Forms 6.5 LTS Service Pack 3附加组件
+              适用于 Linux® 的 AEM Forms 6.5 LTS 服务包 3 附加组件
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.238.zip">
-              适用于macOS的AEM Forms 6.5 LTS Service Pack 3附加组件
+              适用于 macOS 的 AEM Forms 6.5 LTS 服务包 3 附加组件
             </a>
           </li>
         </ul>
-        <p>AEM Forms 6.5 LTS Service Pack 3 JEE安装程序将在以后提供。</p>
+        <p>AEM Forms 6.5 LTS 服务包 3 的 JEE 安装程序将于稍后提供。</p>
       </td>
       <td>6.1.238</td>
     </tr>
@@ -1142,7 +1142,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
+`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
 
 `[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。 macOS X 包没有 PDF Generator 功能可用。
 
