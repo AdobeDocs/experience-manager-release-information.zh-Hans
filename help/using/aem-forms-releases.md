@@ -3,9 +3,9 @@ title: AEM Forms 发行版
 description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: ab26b8a8240bc8547f5becb68d180e78b9bc68b5
+source-git-commit: 9c5c24d80196ce94e791338bc09e3751edba6997
 workflow-type: tm+mt
-source-wordcount: '16662'
+source-wordcount: '16723'
 ht-degree: 98%
 ---
 # AEM [!DNL Forms] 发行版 {#aem-forms-releases}
@@ -93,6 +93,22 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               适用于WebSphere®和Linux®的AEM Forms 6.5 LTS Service Pack 3安装程序
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">工作台安装程序</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
+              AEM Forms Workbench安装程序
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">SDK</strong>
+        <ul>
+          <li>
+            <a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.238/aemfd-client-sdk-6.1.238.jar">
+              AEM Forms客户端SDK
             </a>
           </li>
         </ul>
