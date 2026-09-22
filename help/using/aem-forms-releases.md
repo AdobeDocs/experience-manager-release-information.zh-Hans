@@ -3,9 +3,9 @@ title: AEM Forms 发行版
 description: 了解有关所有 AEM Forms 发行版本和相应包的信息。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: b52bcd4a3340a127cbd68657a0bbac64ca0d5548
+source-git-commit: 9c5c24d80196ce94e791338bc09e3751edba6997
 workflow-type: tm+mt
-source-wordcount: '16700'
+source-wordcount: '16723'
 ht-degree: 98%
 ---
 # AEM [!DNL Forms] 发行版 {#aem-forms-releases}
@@ -101,6 +101,14 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
               AEM Forms Workbench安装程序
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">SDK</strong>
+        <ul>
+          <li>
+            <a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.238/aemfd-client-sdk-6.1.238.jar">
+              AEM Forms客户端SDK
             </a>
           </li>
         </ul>
@@ -1172,7 +1180,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
+`[1]` 联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)以获取工作台、Rights Management SDK、可移植保护库 (PPL) 以及增强型 PPL 的安装程序。
 
 `[2]` 生产环境中不支持适用于 macOS X 的 AEM [!DNL Forms] 附加组件包，应仅用于演示用途。 macOS X 包没有 PDF Generator 功能可用。
 
