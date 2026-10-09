@@ -3,20 +3,37 @@ title: 在 AEM Forms JEE 上安装累积修订包
 description: 在 AEM Forms JEE 上安装和配置累积修订包 (CFP) 的步骤概述。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
-source-wordcount: '932'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '946'
 ht-degree: 100%
-
 ---
-
 # 在 AEM [!DNL  Forms] JEE 上安装累积修订包{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## 在 AEM 6.3 [!DNL Forms JEE] 上安装 CFP {#install-cfp-forms-6-3}
 
 要在 AEM 6.3 [!DNL Forms JEE] 上安装累积修订包，请按顺序执行以下步骤。
 
-1. 要获取 CFP 的 AEM 6.3 [!DNL Forms JEE] 安装程序，请联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)。
+1. 要获取 CFP 的 AEM 6.3 [!DNL Forms JEE] 安装程序，请联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)。
 1. 运行 CFP 安装程序，并按照[安装和配置 AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) 中所述配置 AEM [!DNL Forms JEE]。
 1. 安装最新的 AEM CFP 6.3.3.x
 1. 安装[!DNL Forms]适用于 AEM CFP [6.3.3.x](aem-forms-releases.md) 的附加组件包
@@ -42,7 +59,7 @@ AEM [!DNL  Forms JEE] 包（aemfd-jee-bundles-package-6.3CFP1；版本 1.0.2）�
 
 要在 AEM 6.2 [!DNL Forms JEE] 上安装累积修订包，请按顺序执行以下步骤。
 
-1. 要获取 CFP 的 AEM 6.2 [!DNL Forms JEE] 安装程序，请联系 [Adobe 支持部门](https://experienceleague.adobe.com/zh-hans?support-solution=General&support-tab=home#support)。
+1. 要获取 CFP 的 AEM 6.2 [!DNL Forms JEE] 安装程序，请联系 [Adobe 支持部门](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)。
 1. 运行 CFP 安装程序，并按照[安装和配置 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中所述配置 AEM [!DNL Forms JEE]。
 1. 安装 AEM 修补程序 12785 版本 7.0。
 1. 安装 AEM 6.2 服务包 1。
@@ -67,7 +84,7 @@ DSC 部署需要的时间是可变的，因此，部署可能会失败。 若要
 
 1. `adobe.all-component.timeout`：覆盖产品所有服务的超时。
 1. `adobe.<serviceName>.timeout`：只覆盖键中所述服务 (&lt;serviceName>) 的超时。 如果在服务级别设置了该值，则使用此命令只会覆盖指定服务的超时值（如果在应用程序级别设置）。
-1. `adobe.<serviceName>.<operationName>.timeout`：它只覆盖键中所述特定服务的操作 (&lt;serviceName>.&lt;operationName>) 的超时。如果在操作级别设置了该值，则使用此命令只会覆盖指定服务的超时值（如果在应用程序级别或服务级别设置）。
+1. `adobe.<serviceName>.<operationName>.timeout`：它只覆盖键中所述特定服务的操作 (&lt;serviceName>.&lt;operationName>) 的超时。 如果在操作级别设置了该值，则使用此命令只会覆盖指定服务的超时值（如果在应用程序级别或服务级别设置）。
 
 **示例：**
 
@@ -93,7 +110,7 @@ DSC 部署需要的时间是可变的，因此，部署可能会失败。 若要
 
 1. 备份 /deploy 文件夹。 如果您决定卸载快速修补程序，则必须执行此操作。
 1. 停止应用程序服务器。
-1. 将补丁安装程序存档文件提取到硬盘驱动器。
+1. 将补丁安装程序存档文件提取到硬盘。
 1. 在根据您所使用的操作系统命名的目录中：
 
    **Windows**

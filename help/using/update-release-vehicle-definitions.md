@@ -1,15 +1,32 @@
 ---
 title: 更新版本发行方式定义
-description: 本文详细介绍了各种类型的  [!DNL Experience Manager]  发行版本，包括完整版本、功能包和服务包。
+description: 本文详细介绍了各种类型的[!DNL Experience Manager]版本，包括完整版本、功能包和Service Pack。
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
 workflow-type: tm+mt
-source-wordcount: '743'
-ht-degree: 100%
-
+source-wordcount: '744'
+ht-degree: 97%
 ---
-
 # [!DNL Experience Manager] 更新版本发行方式定义 {#update-release-vehicle-definitions}
 
 本文档详细介绍了 [!DNL Adobe] 为其客户提供的各种类型的 [!DNL Adobe Experience Manager] 发行版本，包括完整版本、功能包和服务包。
@@ -69,7 +86,7 @@ ht-degree: 100%
 
 | 项目 | 详细信息 |
 |--------|-----|
-| 定义 | <ul> <li>功能包是附加功能，通过服务包提供。 如果某个 [!DNL Experience Manager] 版本已发布其最后一个服务包，则 Adobe 将来不会为该版本提供任何功能包。 </li> <li> 功能包中包含产品增强功能，这些功能计划在后续产品版本中推出，但由 [!DNL Adobe's] 产品管理部门决定提前发行。</li> <li>  功能总是与下一个主要版本合并。 然后将它们移植到客户所需的 [!DNL Experience Manager] 版本 </li> <li>  Common Interest 和 GA 功能包将合并到下一版服务包中  </li> </ul> |
+| 定义 | <ul> <li>功能包是附加功能，通过服务包提供。 如果某个 [!DNL Experience Manager] 版本已发布其最后一个服务包，则 Adobe 将来不会为该版本提供任何功能包。 </li> <li> 功能包中包含产品增强功能，这些功能计划在后续产品版本中推出，但由 [!DNL Adobe's] 产品管理部门决定提前发行。</li> <li>  功能总是与下一个主要版本合并。 然后将它们移植到客户所需的 [!DNL Experience Manager] 版本 </li> <li>  Common Interest 和 GA 功能包将合并到下一个服务包中  </li> </ul> |
 | 命名 | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | 包含项 | <ul> <li> 新增功能 </li> <li> 改进功能 </li> <li> 错误修复（增量产品更新） </li> </ul> |
 | 文档 | 相关文档位于 adobe.com 上。 |
