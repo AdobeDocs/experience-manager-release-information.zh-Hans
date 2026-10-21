@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '965'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # 旧版本的 [!DNL Adobe Experience Manager]、CQ 和 CRX 文档 {#older-versions-aem-cq-crx}
 
@@ -112,8 +112,8 @@ ht-degree: 97%
 
 1. 在确认对话框上，再次选择&#x200B;**[!UICONTROL 安装]**。 安装过程耗时数分钟。
 
-1. 在 Web 浏览器中，启动文档页面。 以AEM 5.6.1为例，URL应为：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
+1. 在 Web 浏览器中，启动文档页面。 以 AEM 5.6.1 为例，URL 应为：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
 
 ## 从 [!DNL Experience Manager] 社区获取帮助 {#get-help-from-aem-community}
 
-如果您对于使用 Experience Manager 有任何疑问，Adobe 建议您[在  [!DNL Experience Manager]  论坛中与我们经验丰富的社区专家联系](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hans)。
+如果您对于使用 Experience Manager 有任何疑问，Adobe 建议您[在  [!DNL Experience Manager]  论坛中与我们经验丰富的社区专家联系](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)。
