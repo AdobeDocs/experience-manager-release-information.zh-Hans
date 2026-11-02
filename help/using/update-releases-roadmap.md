@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
 source-wordcount: '1329'
-ht-degree: 96%
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] 版本发行路线图 {#aem-releases-roadmap}
 
@@ -130,7 +130,7 @@ ht-degree: 96%
 >
 > 6.5.26.0 是适用于 AEM 6.5 的最后一个受支持的服务包版本。
 >
-> 每个服务包在发布后最多支持 18 个月，直到 2027 年 2 月 28 日。 请参考[产品和技术支持期](https://helpx.adobe.com/cn/support/programs/eol-matrix.html#cq)。 如果您已批准将6.5的支持延长到2028年2月，则关键安全修复程序将仅在上次发布的Service Pack 26中可用。
+> 每个服务包在发布后最多支持 18 个月，直到 2027 年 2 月 28 日。 请参考[产品和技术支持期](https://helpx.adobe.com/cn/support/programs/eol-matrix.html#cq)。 如果您已批准将 6.5 的支持延长到 2028 年 2 月，则重要安全修复程序将仅在上次发布的服务包 26 中可用。
 
 >[!NOTE]
 >
