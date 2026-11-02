@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
 source-wordcount: '1329'
-ht-degree: 96%
+ht-degree: 98%
 ---
 # [!DNL Experience Manager] 版本发行路线图 {#aem-releases-roadmap}
 
@@ -61,7 +61,7 @@ ht-degree: 96%
 | 维护版本 [27673](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | 自动更新 | 2026 年 8 月 17-19 日 | 已更新 |
 | 功能版本 [2026.8.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | 功能激活 | 2026 年 8 月 27 日 | 已激活 |
 | 维护版本 [27830](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | 自动更新 | 2026 年 8 月 31 日至 9 月 2 日 | 已更新 |
-| 功能版本 [2026.9.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | 功能激活 | 2026 年 9 月 24 日 | 已激活 |
+| 功能版本 [2026.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-9-0) | 功能激活 | 2026 年 9 月 24 日 | 已激活 |
 | 维护版本 [28386](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 自动更新 | 2026 年 9 月 28-30 日 | 已更新 |
 | 维护版本 [28871](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 自动更新 | 2026 年 10 月 12 日至 14 日 | 已更新 |
 | 维护版本 [29023](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自动更新 | 2026 年 10 月 26 日至 28 日 | 已更新 |
@@ -130,7 +130,7 @@ ht-degree: 96%
 >
 > 6.5.26.0 是适用于 AEM 6.5 的最后一个受支持的服务包版本。
 >
-> 每个服务包在发布后最多支持 18 个月，直到 2027 年 2 月 28 日。 请参考[产品和技术支持期](https://helpx.adobe.com/cn/support/programs/eol-matrix.html#cq)。 如果您已批准将6.5的支持延长到2028年2月，则关键安全修复程序将仅在上次发布的Service Pack 26中可用。
+> 每个服务包在发布后最多支持 18 个月，直到 2027 年 2 月 28 日。 请参考[产品和技术支持期](https://helpx.adobe.com/cn/support/programs/eol-matrix.html#cq)。 如果您已批准将 6.5 的支持延长到 2028 年 2 月，则重要安全修复程序将仅在上次发布的服务包 26 中可用。
 
 >[!NOTE]
 >
