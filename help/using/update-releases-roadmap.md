@@ -59,7 +59,7 @@ ht-degree: 88%
 | 维护版本 [28386](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 自动更新 | 2026 年 9 月 28-30 日 | 已更新 |
 | 维护版本 [28871](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28871) | 自动更新 | 2026 年 10 月 12 日至 14 日 | 已更新 |
 | 维护版本 [29023](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-29023) | 自动更新 | 2026 年 10 月 26 日至 28 日 | 已更新 |
-| 功能版本 [2026.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | 功能激活 | 2026 年 10 月 29 日 | 已激活 |
+| 功能版本 [2026.10.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-10-0) | 功能激活 | 2026 年 10 月 29 日 | 已激活 |
 | 维护版本[29251](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-11-0#release-29251) | 自动更新 | 2026 年 11 月 9 日至 11 日 | 已更新 |
 | 功能版本[2026.11.0](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能激活 | 2026 年 11 月 19 日 | 已激活 |
 
